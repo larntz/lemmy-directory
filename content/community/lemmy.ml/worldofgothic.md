@@ -3,12 +3,12 @@ title: "worldofgothic - the community for everything that is Gothic..."
 name: "worldofgothic"
 description: "The community for anything Gothic or Risen or Elex -related (PiranhaBytes games)! Rules - a respectful way of dealing with each other is the be-all and end-all in an online community. The [chatiquette](https://en.wikipedia.org/wiki/Etiquette_in_technology) also applies here.[Gothic Wiki](https://gothic.fandom.com/wiki/Gothic_Wiki)- find out more about the game on the wiki."
 type: community
-date: "2023-06-21 14:56:18"
+date: "2023-06-28 14:04:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/worldofgothic"
 host: lemmy.ml
-lastmod: "2022-09-28 20:24:26"
+lastmod: "2023-06-28 14:04:47"
 published: "2022-09-28 20:04:02"
 subscribers: 6
 posts: 2

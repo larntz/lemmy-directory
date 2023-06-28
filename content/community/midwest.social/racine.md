@@ -3,12 +3,12 @@ title: "Racine"
 name: "racine"
 description: "A place to gather and discuss everything about Racine, Wisconsin!"
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/racine"
 host: midwest.social
-lastmod: "2023-06-14 04:53:30"
+lastmod: "2023-06-28 15:17:49"
 published: "2023-06-14 04:51:44"
 subscribers: 2
 posts: 2

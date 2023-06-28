@@ -3,14 +3,14 @@ title: "Xbox"
 name: "xbox"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/xbox"
 host: feddit.de
 lastmod: "2023-06-12 18:43:09"
 published: "2023-06-12 18:21:28"
-subscribers: 17
+subscribers: 22
 posts: 2
 comments: 1
 weight: 2

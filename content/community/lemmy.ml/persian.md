@@ -3,14 +3,14 @@ title: "Persian"
 name: "persian"
 description: "All about Persian language, literature, history, and culture."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/persian"
 host: lemmy.ml
 lastmod: "2022-05-19 00:42:37"
 published: "2020-05-03 23:54:48"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 0
 weight: 3

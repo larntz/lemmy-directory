@@ -3,7 +3,7 @@ title: "leanfire"
 name: "leanfire"
 description: "This is a community for people who want to retire early (before 60) with less than ~$50-60k in planned household expenses ($25-30k individual). I am not affiliated with the leanfire community on Reddit, but it was one of my favorite sub-reddits. If a mod from that sub-reddit wants to take this over please just let me know.**Links:**https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp**Related Communities:**[/c/PersonalFinance@lemmy.ml](https://lemmy.ml/c/personalfinance)[/c/fire@lemmy.ml](https://lemmy.ml/c/fire)[/c/finance@beehaw.org](https://beehaw.org/c/finance)"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/leanfire"

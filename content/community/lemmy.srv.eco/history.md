@@ -3,7 +3,7 @@ title: "📜 History"
 name: "history"
 description: "A place to discuss the history of events, places, people and more"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/history"

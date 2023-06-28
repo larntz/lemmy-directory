@@ -1,14 +1,14 @@
 ---
-title: "HumanRights" 
+title: "Human Rights" 
 name: "humanrights"
 description: "**Equality and Dignity for All.**1. Be respectful and inclusive.2. No harassment, hate speech, or trolling.3. Engage in constructive discussions.4. Share relevant content.5. Follow guidelines and moderators' instructions.6. Use appropriate language and tone.7. Report violations.8. Foster a continuous learning environment."
 type: community
-date: "2023-06-24 01:15:48"
+date: "2023-06-28 15:20:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/humanrights"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-25 11:46:50"
 published: "2023-06-17 22:07:04"
 subscribers: 2
 posts: 0

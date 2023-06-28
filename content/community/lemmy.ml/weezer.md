@@ -3,14 +3,14 @@ title: "Weezer"
 name: "weezer"
 description: "A community for the American alt-rock band Weezer."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weezer"
 host: lemmy.ml
 lastmod: "2023-06-07 01:58:14"
 published: "2021-01-31 18:21:48"
-subscribers: 18
+subscribers: 21
 posts: 3
 comments: 4
 weight: 3

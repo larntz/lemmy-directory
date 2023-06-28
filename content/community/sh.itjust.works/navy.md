@@ -3,14 +3,14 @@ title: "navy"
 name: "navy"
 description: "New community for discussion around the US Navy.  Foreign services are welcome as well, but I suspect most content will relate to the US Navy."
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/navy"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 18:53:44"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2

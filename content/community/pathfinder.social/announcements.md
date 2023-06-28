@@ -3,20 +3,20 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:53"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/announcements"
 host: pathfinder.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-04 06:58:58"
-subscribers: 77
-posts: 3
-comments: 26
-weight: 3
+subscribers: 86
+posts: 4
+comments: 33
+weight: 4
 dau: 1
-wau: 3
-mau: 11
+wau: 6
+mau: 14
 instances:
 - "pathfinder_social"
 tags: 

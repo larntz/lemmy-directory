@@ -3,14 +3,14 @@ title: "Chat"
 name: "general"
 description: "General chat about anything at all"
 type: community
-date: "2023-06-24 01:13:11"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.today/c/general"
 host: lemmy.today
 lastmod: "2023-06-13 16:17:16"
 published: "2023-06-11 13:12:58"
-subscribers: 3
+subscribers: 4
 posts: 4
 comments: 9
 weight: 4

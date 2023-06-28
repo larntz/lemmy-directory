@@ -3,20 +3,20 @@ title: "Programmer Humor"
 name: "programmerhumor"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-28 15:20:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/programmerhumor"
 host: lemmy.world
 lastmod: "2023-06-19 16:49:08"
 published: "2023-06-19 08:48:45"
-subscribers: 93
-posts: 13
-comments: 2
-weight: 13
-dau: 2
-wau: 5
-mau: 5
+subscribers: 194
+posts: 14
+comments: 7
+weight: 14
+dau: 1
+wau: 8
+mau: 11
 instances:
 - "lemmy_world"
 tags: 

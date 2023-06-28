@@ -3,7 +3,7 @@ title: "Titanic"
 name: "titanic"
 description: "Community to discuss Titanic history and news."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/titanic"
@@ -15,7 +15,7 @@ posts: 2
 comments: 0
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

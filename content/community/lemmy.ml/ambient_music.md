@@ -3,14 +3,14 @@ title: "Ambient Music"
 name: "ambient_music"
 description: "A community for any kind of ambient or ambient-related music."
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ambient_music"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-10-24 09:08:37"
-subscribers: 45
+subscribers: 46
 posts: 7
 comments: 4
 weight: 7

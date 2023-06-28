@@ -1,22 +1,22 @@
 ---
 title: "Pipe Smoking" 
 name: "pipesmoking"
-description: "**Pipe, Tobacco, Smoking***Welcome lovers of tobacco and pipes*If you want to start smoking a pipe and have questions, start by reading the  [FAQ](https://lemmy.world/post/417061)"
+description: "#### Pipe, Tobacco, Smoking*Welcome lovers of tobacco and pipes*If you want to start smoking a pipe and have questions, start by reading the  [FAQ](https://lemmy.world/post/417061)#### Rules- Follow server’s rules"
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:21:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pipesmoking"
 host: lemmy.world
-lastmod: "2023-06-23 10:18:06"
+lastmod: "2023-06-25 16:35:16"
 published: "2023-06-18 15:01:16"
-subscribers: 6
-posts: 4
-comments: 11
-weight: 4
-dau: 5
-wau: 5
-mau: 5
+subscribers: 11
+posts: 7
+comments: 20
+weight: 7
+dau: 1
+wau: 7
+mau: 7
 instances:
 - "lemmy_world"
 tags: 

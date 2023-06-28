@@ -3,12 +3,12 @@ title: "juan"
 name: "juan"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:33"
+date: "2023-06-27 16:19:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/juan"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:46"
 published: "2023-06-12 01:30:03"
 subscribers: 1
 posts: 0

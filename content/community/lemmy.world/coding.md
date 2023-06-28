@@ -3,7 +3,7 @@ title: "coding"
 name: "coding"
 description: "coding"
 type: community
-date: "2023-06-24 01:15:52"
+date: "2023-06-28 15:20:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/coding"

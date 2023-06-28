@@ -3,20 +3,20 @@ title: "Cyberpunk"
 name: "cyberpunk"
 description: "A place for discussion of all things cyberpunk (not primarily Cyberpunk 2077)"
 type: community
-date: "2023-06-24 01:13:01"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/cyberpunk"
 host: lemmy.villa-straylight.social
 lastmod: "2023-06-06 05:03:03"
 published: "2023-06-06 02:21:57"
-subscribers: 138
-posts: 17
-comments: 64
-weight: 17
-dau: 4
-wau: 19
-mau: 32
+subscribers: 160
+posts: 18
+comments: 71
+weight: 18
+dau: 1
+wau: 10
+mau: 35
 instances:
 - "lemmy_villa-straylight_social"
 tags: 

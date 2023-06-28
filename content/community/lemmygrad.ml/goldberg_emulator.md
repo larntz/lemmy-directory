@@ -3,7 +3,7 @@ title: "Goldberg Emulator"
 name: "goldberg_emulator"
 description: "Imagine what Steam is open source and libre.Take it!https://mr_goldberg.gitlab.io/goldberg_emulator/"
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/goldberg_emulator"

@@ -3,7 +3,7 @@ title: "YouTube deep cuts"
 name: "therabbithole"
 description: "This is the best of obscure and surreal content on YouTube. Go down the rabbit hole. Rules: 1. Don't be a dick. 2. Link the content creator if you have to use a mirror link. 3. Original content is king. 4. Tag NSFW content in the post title. 5. Don't be a dick. "
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/therabbithole"

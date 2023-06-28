@@ -3,14 +3,14 @@ title: "locust.io"
 name: "lio"
 description: "A community for people to talk about locust.io, the performance testing tool."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lio"
 host: lemmy.ml
 lastmod: "2023-06-10 17:45:49"
 published: "2023-06-10 17:16:57"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

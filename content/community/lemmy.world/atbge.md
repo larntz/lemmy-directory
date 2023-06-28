@@ -3,14 +3,14 @@ title: "Awful Taste But Great Execution"
 name: "atbge"
 description: "For when their taste is awful but execution is great"
 type: community
-date: "2023-06-24 01:15:47"
+date: "2023-06-28 15:20:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/atbge"
 host: lemmy.world
 lastmod: "2023-06-12 16:57:12"
 published: "2023-06-12 16:45:08"
-subscribers: 85
+subscribers: 108
 posts: 1
 comments: 4
 weight: 1

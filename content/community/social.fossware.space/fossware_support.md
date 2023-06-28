@@ -3,14 +3,14 @@ title: "Support"
 name: "fossware_support"
 description: "Any help and support request regarding FOSSware go here!"
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://social.fossware.space/c/fossware_support"
 host: social.fossware.space
-lastmod: "2023-06-16 05:43:20"
+lastmod: "2023-06-25 11:40:15"
 published: "2023-06-12 16:58:41"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

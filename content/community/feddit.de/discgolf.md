@@ -3,7 +3,7 @@ title: "Disc Golf"
 name: "discgolf"
 description: "Hier geht es um **Disc Golf**, der Sport mit den Scheiben und Körben!Fühlt euch frei alle Themen die mit Disc Golf zusammen hängen hier zu diskutieren!"
 type: community
-date: "2023-06-21 14:54:36"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/discgolf"

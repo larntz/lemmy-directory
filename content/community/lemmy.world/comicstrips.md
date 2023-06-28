@@ -1,22 +1,22 @@
 ---
 title: "Comic Strips" 
 name: "comicstrips"
-description: "**Comic Strips** is a community for those who love comics (short stories). The rules are simple:- You may post comics from others or your own.- The post can be a single image, a image gallery, or a link to a specific comic hosted on another site (the author's website, for instance).- If it is a link, it must be to a specific story, not to the root of the site.- The comic must be a complete story.- If you are posting a comic of your own, a maximum of one per week (I know, your comics are great, but this rule helps avoid spam).- Politeness comes first.- The comic can be in any language, but if it's not in English, OP must include a translation into English as a comment.- Adult content is not allowed. This community aims to be fun for people of all ages."
+description: "**Comic Strips** is a community for those who love comic stories. The rules are simple:- You may post comics from others or your own.- The post can be a single image, an image gallery, or a link to a specific comic hosted on another site (the author's website, for instance).- If it is an external link, it must be to a specific story, not to the root of the site.- The comic must be a complete story.- If you are posting a comic of your own, a maximum of one per week is allowed (I know, your comics are great, but this rule helps avoid spam).- The comic can be in any language, but if it's not in English, the OP must include a english translation into the post's body field.- Politeness.- Adult content is not allowed. This community aims to be fun for people of all ages."
 type: community
-date: "2023-06-24 01:15:40"
+date: "2023-06-28 15:20:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/comicstrips"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-26 18:54:43"
 published: "2023-06-23 19:55:08"
-subscribers: 52
-posts: 8
-comments: 12
-weight: 8
-dau: 11
-wau: 11
-mau: 11
+subscribers: 164
+posts: 17
+comments: 24
+weight: 17
+dau: 3
+wau: 16
+mau: 16
 instances:
 - "lemmy_world"
 tags: 

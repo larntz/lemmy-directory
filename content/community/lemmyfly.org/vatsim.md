@@ -3,16 +3,16 @@ title: "Vatsim"
 name: "vatsim"
 description: "anything related to flying online using Vatsim"
 type: community
-date: "2023-06-24 01:13:12"
+date: "2023-06-28 15:18:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfly.org/c/vatsim"
 host: lemmyfly.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 11:27:52"
-subscribers: 15
+subscribers: 16
 posts: 3
-comments: 1
+comments: 2
 weight: 3
 dau: 1
 wau: 2

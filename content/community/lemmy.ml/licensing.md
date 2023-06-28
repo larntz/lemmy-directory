@@ -3,14 +3,14 @@ title: "Licensing"
 name: "licensing"
 description: "Information on licensing *your* projects."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/licensing"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-08-15 01:27:10"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

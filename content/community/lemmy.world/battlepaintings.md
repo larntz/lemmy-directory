@@ -3,12 +3,12 @@ title: "Battlepaintings"
 name: "battlepaintings"
 description: "This is dedicated to paintings of battle, either historical or fiction. "
 type: community
-date: "2023-06-24 01:15:46"
+date: "2023-06-27 16:19:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/battlepaintings"
 host: lemmy.world
-lastmod: "2023-06-19 05:32:22"
+lastmod: "2023-06-27 16:19:40"
 published: "2023-06-19 05:27:59"
 subscribers: 6
 posts: 1

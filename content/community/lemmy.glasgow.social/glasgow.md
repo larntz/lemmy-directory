@@ -1,22 +1,22 @@
 ---
 title: "Glasgow" 
 name: "glasgow"
-description: "Description not available."
+description: ""
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/glasgow"
 host: lemmy.glasgow.social
-lastmod: "1969-12-31 19:00:00"
-published: "2020-12-01 14:00:37"
-subscribers: 2
-posts: 0
+lastmod: "0001-01-01 00:00:00"
+published: "2023-06-20 12:36:35"
+subscribers: 1
+posts: 3
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 3
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_glasgow_social"
 tags: 

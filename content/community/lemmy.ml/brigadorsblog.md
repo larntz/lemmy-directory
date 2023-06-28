@@ -3,14 +3,14 @@ title: "Brigador Space"
 name: "brigadorsblog"
 description: "Hi!"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brigadorsblog"
 host: lemmy.ml
 lastmod: "2020-07-22 19:18:11"
 published: "2020-07-22 19:12:01"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 1
 weight: 1

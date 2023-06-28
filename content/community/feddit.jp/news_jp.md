@@ -3,7 +3,7 @@ title: "日本のニュース"
 name: "news_jp"
 description: "日本の最新ニュース  政治・宗教関連は論争のもとになるので控えてください"
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/news_jp"

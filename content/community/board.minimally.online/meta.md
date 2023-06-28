@@ -3,14 +3,14 @@ title: "Meta"
 name: "meta"
 description: "Local instance news and announcements, community recommendations, moderation updates, etc."
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/meta"
 host: board.minimally.online
 lastmod: "2023-06-11 04:55:52"
 published: "2023-06-11 04:50:24"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

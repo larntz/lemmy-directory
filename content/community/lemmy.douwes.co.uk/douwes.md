@@ -3,14 +3,14 @@ title: "Douwes.co.uk"
 name: "douwes"
 description: "Lemmy community for douwes.co.uk"
 type: community
-date: "2023-06-24 01:12:57"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/douwes"
 host: lemmy.douwes.co.uk
 lastmod: "2023-06-08 21:53:36"
 published: "2023-06-07 09:23:11"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

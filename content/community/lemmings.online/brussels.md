@@ -3,14 +3,14 @@ title: "Belgium - Brussels"
 name: "brussels"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:26"
+date: "2023-06-28 15:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/brussels"
 host: lemmings.online
 lastmod: "2023-06-14 08:46:47"
 published: "2023-06-14 08:34:58"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

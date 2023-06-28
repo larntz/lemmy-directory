@@ -3,12 +3,12 @@ title: "Meta"
 name: "meta"
 description: "Alt om skillissue.dk"
 type: community
-date: "2023-06-23 01:19:20"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.skillissue.dk/c/meta"
 host: lemmy.skillissue.dk
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 21:32:39"
 subscribers: 1
 posts: 1

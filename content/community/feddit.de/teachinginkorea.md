@@ -3,14 +3,14 @@ title: "Teaching in Korea"
 name: "teachinginkorea"
 description: "To discuss teaching English in Korea."
 type: community
-date: "2023-06-24 01:13:42"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/teachinginkorea"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 03:44:52"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

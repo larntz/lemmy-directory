@@ -3,14 +3,14 @@ title: "Madeira"
 name: "madeira"
 description: "Comunidade madeirense."
 type: community
-date: "2023-06-24 01:13:25"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/madeira"
 host: lemmy.pt
 lastmod: "2023-06-07 19:17:18"
 published: "2021-09-25 21:24:25"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

@@ -3,20 +3,20 @@ title: "Running"
 name: "running"
 description: "A place for runners."
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-28 15:21:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/running"
 host: lemmy.world
 lastmod: "2023-06-11 18:33:39"
 published: "2023-06-08 21:39:02"
-subscribers: 656
-posts: 20
-comments: 105
-weight: 20
-dau: 11
-wau: 42
-mau: 61
+subscribers: 768
+posts: 24
+comments: 138
+weight: 24
+dau: 4
+wau: 37
+mau: 76
 instances:
 - "lemmy_world"
 tags: 

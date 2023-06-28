@@ -3,14 +3,14 @@ title: "Ambassadeurs ODD MA "
 name: "ambassadeursoddma"
 description: "**Une communauté de citoyens engagés pour les objectifs de développement durable chez MA. **"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ambassadeursoddma"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-03-28 16:19:21"
-subscribers: 2
+subscribers: 3
 posts: 6
 comments: 0
 weight: 6

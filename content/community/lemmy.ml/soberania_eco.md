@@ -3,14 +3,14 @@ title: "Soberanía ecológica"
 name: "soberania_eco"
 description: "#Soberanía ecológicaPor un mundo que ponga **la vida en el centro**."
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/soberania_eco"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-05-10 22:08:56"
-subscribers: 7
+subscribers: 8
 posts: 5
 comments: 0
 weight: 5

@@ -3,14 +3,14 @@ title: "ffxiv"
 name: "ffxiv"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-28 15:20:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ffxiv"
 host: lemmy.world
 lastmod: "2023-06-16 19:22:09"
 published: "2023-06-14 16:27:40"
-subscribers: 12
+subscribers: 15
 posts: 1
 comments: 0
 weight: 1

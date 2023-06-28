@@ -1,22 +1,22 @@
 ---
 title: "FoundryVTT" 
 name: "foundryvtt"
-description: "This is a community for the popular Virtual Table Top called Foundry VTT."
+description: "# WelcomeThis is a fan-operated community for the popular Virtual Table Top called Foundry VTT.___# LinksFor all release notes visit: [Release Notes](https://foundryvtt.com/releases/)"
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:18:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/foundryvtt"
 host: lemmy.dbzer0.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:45:47"
 published: "2023-06-23 23:30:58"
-subscribers: 6
-posts: 1
+subscribers: 57
+posts: 4
 comments: 0
-weight: 1
-dau: 0
-wau: 0
-mau: 0
+weight: 4
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_dbzer0_com"
 tags: 

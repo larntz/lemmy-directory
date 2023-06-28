@@ -3,7 +3,7 @@ title: "Blind"
 name: "teamblind"
 description: "TC or GTFO"
 type: community
-date: "2023-06-22 02:21:51"
+date: "2023-06-28 15:20:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/teamblind"

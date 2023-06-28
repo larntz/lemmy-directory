@@ -3,14 +3,14 @@ title: "Azeon's Test Place"
 name: "azeontest"
 description: "Just a place for me to test things."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/azeontest"
 host: lemmy.ml
 lastmod: "2023-06-09 12:31:30"
 published: "2023-06-09 12:23:56"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 1
 weight: 1

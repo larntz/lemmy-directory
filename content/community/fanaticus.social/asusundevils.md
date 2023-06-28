@@ -3,14 +3,14 @@ title: "Arizona State Sun Devils"
 name: "asusundevils"
 description: "A community to discuss Arizona State Sun Devils athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/asusundevils"
 host: fanaticus.social
 lastmod: "2023-06-15 00:06:26"
 published: "2023-06-14 23:31:31"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0

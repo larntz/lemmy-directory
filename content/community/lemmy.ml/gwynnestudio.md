@@ -3,14 +3,14 @@ title: "Gwynne"
 name: "gwynnestudio"
 description: ""
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gwynnestudio"
 host: lemmy.ml
 lastmod: "2021-08-15 14:45:41"
 published: "2021-07-18 02:23:40"
-subscribers: 12
+subscribers: 13
 posts: 5
 comments: 34
 weight: 5

@@ -3,20 +3,20 @@ title: "Deep Rock Galactic"
 name: "drg"
 description: "Rock and stone!"
 type: community
-date: "2023-06-24 01:15:46"
+date: "2023-06-28 15:21:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drg"
 host: lemmy.world
-lastmod: "2023-06-12 12:04:29"
+lastmod: "2023-06-24 23:22:29"
 published: "2023-06-12 11:47:22"
-subscribers: 555
-posts: 27
-comments: 144
-weight: 27
-dau: 19
-wau: 59
-mau: 88
+subscribers: 697
+posts: 34
+comments: 191
+weight: 34
+dau: 5
+wau: 63
+mau: 105
 instances:
 - "lemmy_world"
 tags: 

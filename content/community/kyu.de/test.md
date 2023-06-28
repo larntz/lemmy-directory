@@ -3,14 +3,14 @@ title: "test group"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://kyu.de/c/test"
 host: kyu.de
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 19:05:15"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 2
 weight: 1

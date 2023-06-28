@@ -3,14 +3,14 @@ title: "OMORI "
 name: "omori"
 description: "The Unofficial Omori Community for Lemmy "
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/omori"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 14:46:52"
-subscribers: 3
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2

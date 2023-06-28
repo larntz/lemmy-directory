@@ -3,12 +3,12 @@ title: "metamoot"
 name: "metamoot"
 description: "A place for meta conversations and announcements about moot.place"
 type: community
-date: "2023-06-23 01:19:19"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://moot.place/c/metamoot"
 host: moot.place
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-25 14:13:51"
 published: "2023-06-13 15:12:57"
 subscribers: 3
 posts: 1

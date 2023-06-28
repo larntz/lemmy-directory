@@ -3,7 +3,7 @@ title: "Ask London"
 name: "asklondon"
 description: "Affiliated with r/AskLondon - We're the official community for helping Londoners, London visitors, and aspiring Londonites."
 type: community
-date: "2023-06-24 01:15:50"
+date: "2023-06-28 15:20:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/asklondon"

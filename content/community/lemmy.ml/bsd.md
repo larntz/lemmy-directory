@@ -3,14 +3,14 @@ title: "A community for all the BSD's"
 name: "bsd"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bsd"
 host: lemmy.ml
 lastmod: "2020-11-17 16:30:38"
 published: "2019-07-25 02:04:22"
-subscribers: 230
+subscribers: 237
 posts: 76
 comments: 5
 weight: 76

@@ -3,7 +3,7 @@ title: "stupidpol"
 name: "stupidpol"
 description: "a backup. dont panic"
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/stupidpol"

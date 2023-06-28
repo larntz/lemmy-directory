@@ -3,14 +3,14 @@ title: "Gaming en GNU/Linux"
 name: "gaming_en_gnulinux"
 description: "Un sitio para hablar, consultar y colgar experiencias, streams y demás relacionado con el gaming en gnu/linux"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gaming_en_gnulinux"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 13:15:00"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

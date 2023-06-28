@@ -3,14 +3,14 @@ title: "Meta"
 name: "meta"
 description: "News, updates, warnings, etc."
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dcrich.net/c/meta"
 host: lemmy.dcrich.net
 lastmod: "2023-06-06 18:21:22"
 published: "2023-06-06 18:19:20"
-subscribers: 9
+subscribers: 11
 posts: 2
 comments: 22
 weight: 2

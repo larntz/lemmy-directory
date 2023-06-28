@@ -3,18 +3,18 @@ title: "Star Wars: The Old Republic"
 name: "swtor"
 description: "Community for Star Wars: The Old Republic"
 type: community
-date: "2023-06-24 01:15:55"
+date: "2023-06-28 15:21:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swtor"
 host: lemmy.world
 lastmod: "2023-06-14 08:37:30"
 published: "2023-06-12 19:02:07"
-subscribers: 47
+subscribers: 50
 posts: 3
 comments: 3
 weight: 3
-dau: 2
+dau: 1
 wau: 2
 mau: 5
 instances:

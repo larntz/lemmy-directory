@@ -3,12 +3,12 @@ title: "Neoplatonism"
 name: "neoplatonism"
 description: "A community for discussing the Neoplatonic philosophical tradition, which traditionally begins with Plotinus and his school."
 type: community
-date: "2023-06-24 01:15:50"
+date: "2023-06-27 16:19:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/neoplatonism"
 host: lemmy.world
-lastmod: "2023-06-12 12:06:09"
+lastmod: "2023-06-27 16:19:42"
 published: "2023-06-12 08:12:14"
 subscribers: 12
 posts: 2

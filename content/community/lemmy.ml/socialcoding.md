@@ -3,14 +3,14 @@ title: "Social Coding"
 name: "socialcoding"
 description: "Have patience. This community has not yet been formally launched."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/socialcoding"
 host: lemmy.ml
 lastmod: "2022-01-04 09:24:16"
 published: "2022-01-04 09:15:33"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

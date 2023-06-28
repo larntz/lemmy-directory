@@ -3,14 +3,14 @@ title: "Modular Synth"
 name: "modularsynth"
 description: "A place to discuss and share all things modular synthesis. Rules:1. No porn.2. No bigotry, hate speech.3. No ads / spamming.4. No conspiracies Be kind to each other. -"
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-28 15:20:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/modularsynth"
 host: lemmy.world
 lastmod: "2023-06-12 18:47:34"
 published: "2023-06-12 18:02:12"
-subscribers: 13
+subscribers: 21
 posts: 0
 comments: 0
 weight: 0

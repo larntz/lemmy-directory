@@ -3,14 +3,14 @@ title: "BlockBros"
 name: "blockbros"
 description: "BlockBros on lemmy!"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/blockbros"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-02-24 11:20:01"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

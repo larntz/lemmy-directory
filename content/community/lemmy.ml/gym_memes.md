@@ -3,14 +3,14 @@ title: "Gym Memes"
 name: "gym_memes"
 description: "It doesn't get easier, you just get stronger"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gym_memes"
 host: lemmy.ml
 lastmod: "2023-06-10 19:03:38"
 published: "2023-06-10 19:03:14"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

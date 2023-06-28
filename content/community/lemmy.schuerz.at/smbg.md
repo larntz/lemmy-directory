@@ -3,14 +3,14 @@ title: "Schmalspur Modulbaugruppe"
 name: "smbg"
 description: "Schmalspur Modulbaugruppe Diskussionen"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/smbg"
 host: lemmy.schuerz.at
 lastmod: "2021-03-23 11:07:02"
 published: "2021-03-23 11:06:39"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 1
 weight: 2

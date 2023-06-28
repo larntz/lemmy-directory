@@ -3,14 +3,14 @@ title: "Atlanta Falcons"
 name: "falcons"
 description: "A community dedicated to the Atlanta Falcons.**Looking for Mods!**"
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/falcons"
 host: fanaticus.social
 lastmod: "2023-06-17 21:06:51"
 published: "2023-06-14 01:23:59"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

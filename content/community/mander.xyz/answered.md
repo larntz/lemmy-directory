@@ -3,20 +3,20 @@ title: "Answered"
 name: "answered"
 description: "A community to post questions that have already been answered somewhere else.To make a post, you should:(1) Post the question as the main body.(2) Post the best answer or answers as comments, one comment per answer."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/answered"
 host: mander.xyz
 lastmod: "2023-01-20 20:32:11"
 published: "2023-01-20 15:54:29"
-subscribers: 86
-posts: 6
+subscribers: 89
+posts: 7
 comments: 12
-weight: 6
+weight: 7
 dau: 1
 wau: 1
-mau: 3
+mau: 4
 instances:
 - "mander_xyz"
 tags: 

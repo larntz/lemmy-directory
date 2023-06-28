@@ -3,7 +3,7 @@ title: "Conlangs, or Constructed Languages"
 name: "conlang"
 description: "# *Fiat lingua!*Welcome to **/c/conlang**, a community for discussion of **conlangs**, or constructed languages."
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/conlang"

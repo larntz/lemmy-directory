@@ -3,14 +3,14 @@ title: "Liverpool"
 name: "liverpool"
 description: "A community for the people of Liverpool.Photos by Conor Samuel / Neil Martin on Unsplash"
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:20:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/liverpool"
 host: lemmy.world
 lastmod: "2023-06-18 21:09:47"
 published: "2023-06-18 20:53:52"
-subscribers: 4
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

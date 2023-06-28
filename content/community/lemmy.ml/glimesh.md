@@ -3,14 +3,14 @@ title: "Glimesh"
 name: "glimesh"
 description: "Community first live streaming platform, with discoverability as a primary feature. Let's build the next generation of streaming."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/glimesh"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-03-03 00:46:44"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

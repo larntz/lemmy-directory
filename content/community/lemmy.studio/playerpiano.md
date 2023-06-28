@@ -3,14 +3,14 @@ title: "Player Pianos"
 name: "playerpiano"
 description: "A community for player piano enthusiasts."
 type: community
-date: "2023-06-24 01:13:00"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/playerpiano"
 host: lemmy.studio
 lastmod: "2023-06-14 13:09:26"
 published: "2023-06-14 13:09:00"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

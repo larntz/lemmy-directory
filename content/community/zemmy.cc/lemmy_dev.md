@@ -3,7 +3,7 @@ title: "Lemmy Development"
 name: "lemmy_dev"
 description: "This is a community where I will document and collect information as I experiment with developing for Lemmy[Testing community links](/c/technology@beehaw.org)"
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://zemmy.cc/c/lemmy_dev"
@@ -15,7 +15,7 @@ posts: 6
 comments: 1
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "zemmy_cc"

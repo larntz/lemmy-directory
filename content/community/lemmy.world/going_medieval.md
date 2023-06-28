@@ -3,7 +3,7 @@ title: "Going Medieval"
 name: "going_medieval"
 description: "Community for the computer game Going Medieval by The Irregular Corporation.Website: https://theirregularcorporation.com/promo/going-medieval/"
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/going_medieval"

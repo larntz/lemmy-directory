@@ -3,12 +3,12 @@ title: "Dogs!"
 name: "dog"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-27 16:19:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dog"
 host: lemmy.world
-lastmod: "2023-06-18 21:21:13"
+lastmod: "2023-06-27 16:19:35"
 published: "2023-06-18 05:17:58"
 subscribers: 11
 posts: 1

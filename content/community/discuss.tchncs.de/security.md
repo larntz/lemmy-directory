@@ -3,14 +3,14 @@ title: "Sicherheit in der Informationstechnik"
 name: "security"
 description: "Sicher ist sicher."
 type: community
-date: "2023-06-24 01:12:58"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/security"
 host: discuss.tchncs.de
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-08 10:49:25"
-subscribers: 86
+subscribers: 87
 posts: 2
 comments: 0
 weight: 2

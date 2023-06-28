@@ -3,14 +3,14 @@ title: "Ted Lasso"
 name: "tedlasso"
 description: "Community for discussing the Ted Lasso series"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tedlasso"
 host: lemmy.world
 lastmod: "2023-06-21 16:42:29"
 published: "2023-06-21 16:29:06"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

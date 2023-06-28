@@ -3,7 +3,7 @@ title: "nope.ly"
 name: "nopely"
 description: "Just a test community"
 type: community
-date: "2023-06-24 01:13:28"
+date: "2023-06-28 15:17:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nope.ly/c/nopely"

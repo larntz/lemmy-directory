@@ -3,17 +3,17 @@ title: "Oi nomas ese cumbion"
 name: "purocumbion"
 description: "Lugar para los refinados gustos musicales Aqui escuchamos de todo, menos banda."
 type: community
-date: "2023-06-24 01:12:43"
+date: "2023-06-28 15:18:16"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/purocumbion"
 host: mujico.org
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-09-07 15:59:35"
 subscribers: 134
-posts: 100
-comments: 132
-weight: 100
+posts: 101
+comments: 133
+weight: 101
 dau: 1
 wau: 1
 mau: 1

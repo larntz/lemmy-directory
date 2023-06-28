@@ -1,22 +1,22 @@
 ---
 title: "DRS Your GME" 
 name: "drs_your_gme"
-description: "ΔΡΣ Central"
+description: "ΔΡΣ CentralCommunity to discuss the DRSGME.org project and resources, and how to spread DRS advocacy and information to GameStop investors around the world.Have a great idea to spread the word? There are some resources here to get started!https://www.drsgme.org/free-resources"
 type: community
-date: "2023-06-24 01:13:25"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/drs_your_gme"
 host: lemmy.whynotdrs.org
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:51:47"
 published: "2023-06-14 18:46:39"
-subscribers: 57
-posts: 18
-comments: 67
-weight: 18
-dau: 8
-wau: 19
-mau: 21
+subscribers: 95
+posts: 37
+comments: 130
+weight: 37
+dau: 14
+wau: 35
+mau: 39
 instances:
 - "lemmy_whynotdrs_org"
 tags: 

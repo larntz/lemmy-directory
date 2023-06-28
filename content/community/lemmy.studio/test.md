@@ -3,14 +3,14 @@ title: "Test"
 name: "test"
 description: "A community to test Lemmy and federation."
 type: community
-date: "2023-06-24 01:13:00"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/test"
 host: lemmy.studio
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-05 19:21:58"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 1
 weight: 2

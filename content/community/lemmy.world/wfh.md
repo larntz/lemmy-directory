@@ -3,14 +3,14 @@ title: "wfh"
 name: "wfh"
 description: "comm for Work From Home enthusiasts, because it's 2023you can only post slop from the wall street journal derogatorily "
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-27 16:19:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wfh"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:43"
 published: "2023-06-14 16:22:20"
-subscribers: 101
+subscribers: 109
 posts: 1
 comments: 3
 weight: 1

@@ -3,20 +3,20 @@ title: "motorcycles"
 name: "motorcycles"
 description: "Anything on two wheels. And some on three!"
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/motorcycles"
 host: lemmy.ca
-lastmod: "2023-06-16 17:03:13"
+lastmod: "2023-06-27 16:57:31"
 published: "2023-06-12 21:00:57"
-subscribers: 12
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 19
+posts: 2
+comments: 12
+weight: 2
+dau: 4
+wau: 3
+mau: 3
 instances:
 - "lemmy_ca"
 tags: 

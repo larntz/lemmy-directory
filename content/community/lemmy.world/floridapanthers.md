@@ -3,7 +3,7 @@ title: "Florida Panthers"
 name: "floridapanthers"
 description: "News and friendly discussion of the Florida Panthers and related hockey news. For other Hockey communities, [click here](https://lemmy.world/post/169850)."
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-28 15:20:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/floridapanthers"
@@ -15,7 +15,7 @@ posts: 4
 comments: 4
 weight: 4
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

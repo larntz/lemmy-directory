@@ -3,20 +3,20 @@ title: "Calculator Community"
 name: "calculators"
 description: "A community centered around handheld calculators.  Show off your collections, ask questions, or trade benchmarks and torture tests.Icon snagged from [here](https://www.flaticon.com/free-icons/calculator)."
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/calculators"
 host: midwest.social
-lastmod: "2023-06-08 13:58:00"
+lastmod: "2023-06-27 14:40:51"
 published: "2023-06-04 11:50:47"
-subscribers: 36
-posts: 12
+subscribers: 42
+posts: 13
 comments: 33
-weight: 12
+weight: 13
 dau: 1
-wau: 8
-mau: 17
+wau: 2
+mau: 18
 instances:
 - "midwest_social"
 tags: 

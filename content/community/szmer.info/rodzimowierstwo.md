@@ -3,14 +3,14 @@ title: "Radykalne rodzimowierstwo"
 name: "rodzimowierstwo"
 description: "Społeczność dla lewicowych i wolnościowych wyznawców i wyznawczyń rodzimowierstwa słowiańskiego, a także osób sympatyzujących ze słowiańską kulturą i wierzeniami."
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/rodzimowierstwo"
 host: szmer.info
 lastmod: "2021-07-07 11:40:40"
 published: "2021-02-16 17:05:28"
-subscribers: 34
+subscribers: 33
 posts: 22
 comments: 24
 weight: 22

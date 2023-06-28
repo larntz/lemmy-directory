@@ -3,14 +3,14 @@ title: "NAS"
 name: "nas"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:18:00"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/nas"
 host: feddit.tech
 lastmod: "2023-06-14 23:25:11"
 published: "2023-06-14 22:24:14"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

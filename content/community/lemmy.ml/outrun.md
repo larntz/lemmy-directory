@@ -3,14 +3,14 @@ title: "Outrun"
 name: "outrun"
 description: "outrun is the retrofuturistic style from the 80s  feel free to post any kind of art [music, pictures, movies, games, etc.] related to outrun"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/outrun"
 host: lemmy.ml
 lastmod: "2023-06-02 15:24:08"
 published: "2021-12-21 18:55:34"
-subscribers: 73
+subscribers: 75
 posts: 7
 comments: 3
 weight: 7

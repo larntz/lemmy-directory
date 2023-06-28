@@ -3,19 +3,19 @@ title: "uBlockOrigin"
 name: "ublockorigin"
 description: "uBlock Origin - Free, open-source ad content blocker.Easy on CPU and memory.Related communities: c/linux, c/opensource, c/privacy, c/firefox, c/security, c/librewolf, c/iceraven"
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ublockorigin"
 host: lemmy.ml
 lastmod: "2022-01-23 03:30:19"
 published: "2022-01-23 02:25:35"
-subscribers: 129
+subscribers: 137
 posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"

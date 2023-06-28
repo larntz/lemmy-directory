@@ -3,7 +3,7 @@ title: "North Carolina FC"
 name: "north_carolina_fc"
 description: "Representing the team from the triangle. Let's go!Rules:- Be excellent to each other- Don’t be the reason we need to make more rules"
 type: community
-date: "2023-06-23 01:21:33"
+date: "2023-06-28 15:20:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/north_carolina_fc"

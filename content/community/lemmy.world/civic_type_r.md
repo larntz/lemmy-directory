@@ -3,7 +3,7 @@ title: "Civic Type R"
 name: "civic_type_r"
 description: "Community to share pics, mods, and discussion about all year models of Honda Civic Type R."
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:20:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/civic_type_r"

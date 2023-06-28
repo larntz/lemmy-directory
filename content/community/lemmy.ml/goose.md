@@ -3,14 +3,14 @@ title: "Goose The Band"
 name: "goose"
 description: "For discussion of Goose the Band. Come be kind and have some Hot Tea. "
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/goose"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-04 14:04:16"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

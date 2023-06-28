@@ -3,14 +3,14 @@ title: "Eco"
 name: "eco"
 description: "Ecological"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eco"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-06-25 12:08:45"
-subscribers: 70
+subscribers: 72
 posts: 5
 comments: 0
 weight: 5

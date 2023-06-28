@@ -3,7 +3,7 @@ title: "Lysergic acid diethylamide (LSD), also known colloquially as acid."
 name: "lsd"
 description: "Community dedicated to discusse, and share experiences about the use, pros and cons of LSD."
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lsd"

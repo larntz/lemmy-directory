@@ -1,14 +1,14 @@
 ---
 title: "Admincraft" 
 name: "admincraft"
-description: "Description not available."
+description: "**Admincraft**- Welcome to the Admincraft Lemmy Community, dedicated to Minecraft server administration!- Share and discuss topics like server setup, optimization, plugins, and more.- Be respectful and helpful to fellow members.- Stay on-topic and avoid self-promotion.- Report any inappropriate content to the moderators."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-27 16:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/admincraft"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:29"
 published: "2023-06-21 22:10:24"
 subscribers: 2
 posts: 0

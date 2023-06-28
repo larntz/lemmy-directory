@@ -3,7 +3,7 @@ title: "VANMOOF "
 name: "vanmoof"
 description: "There must be a Vanmoof community in Lemmy too!"
 type: community
-date: "2023-06-24 01:13:41"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/vanmoof"

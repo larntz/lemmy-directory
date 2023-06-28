@@ -3,14 +3,14 @@ title: "Murdered By Words"
 name: "murderedbywords"
 description: "Next time, remember the golden rule: Do unto others as you would have others do unto you. I bet you wouldn't feel very good if a screenshot of you being insulted were posted somewhere called murdered by words"
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-28 15:21:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/murderedbywords"
 host: lemmy.world
 lastmod: "2023-06-12 09:48:40"
 published: "2023-06-12 09:37:52"
-subscribers: 40
+subscribers: 49
 posts: 0
 comments: 0
 weight: 0

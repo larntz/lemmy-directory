@@ -3,12 +3,12 @@ title: "Powerwolf"
 name: "powerwolf"
 description: "We drink your blood**Other Communities:**[Metal](https://lemmy.world/c/metal@lemmy.world)"
 type: community
-date: "2023-06-24 01:15:54"
+date: "2023-06-28 15:21:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/powerwolf"
 host: lemmy.world
-lastmod: "2023-06-12 21:49:03"
+lastmod: "2023-06-24 23:32:29"
 published: "2023-06-12 16:05:11"
 subscribers: 3
 posts: 0

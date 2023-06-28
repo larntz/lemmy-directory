@@ -1,22 +1,22 @@
 ---
 title: "Toronto Blue Jays" 
 name: "torontobluejays"
-description: "# Community for Blue Jays fans to discuss the Jays![](https://lemmy.ca/pictrs/image/8734d087-0094-4c28-b4cf-1053e614c654.jpeg)## Division Standings| **AL East**    | **W** | **L** | **PCT** | **GB** ||----------------|-------|-------|---------|--------|| **Tampa Bay**  | 52    | 26    | .667    | -      || **Baltimore**  | 45    | 28    | .616    | 4.5    || **NY Yankees** | 41    | 34    | .547    | 9.5    || **Toronto**    | 41    | 35    | .539    | 10.0   || **Boston**     | 39    | 37    | .513    | 12.0   |## Wildcard Standings| **AL Division Leaders** | **W** | **L** | **PCT** | **WCGB** ||-------------------------|-------|-------|---------|----------|| **E - Tampa Bay**       | 52    | 26    | .667    | -        || **W - Texas**           | 46    | 28    | .622    | -        || **C - Minnesota**       | 38    | 38    | .500    | -        || **AL Wilcard Teams** | **W** | **L** | **PCT** | **WCGB** ||----------------------|-------|-------|---------|----------|| **Baltimore**        | 45    | 28    | .616    | +5.0     || **Houston**          | 41    | 34    | .547    | -        || **NY Yankees**       | 41    | 34    | .547    | -        || LA Angels            | 41    | 35    | .539    | 0.5      || Toronto              | 41    | 35    | .539    | 0.5      || Boston               | 39    | 37    | .513    | 2.5      |*As of 6/23/2023 9:30am EST*## Rules:1. Be respectful of everyone2. More to come as more people join the community..."
+description: "# Community for Blue Jays fans to discuss the Jays![](https://lemmy.ca/pictrs/image/8734d087-0094-4c28-b4cf-1053e614c654.jpeg)## Division Standings| **AL East**    | **W** | **L** | **PCT** | **GB** ||----------------|-------|-------|---------|--------|| **Tampa Bay**  | 54    | 28    | .659    | -      || **Baltimore**  | 48    | 30    | .615    | 4.0    || **NY Yankees** | 43    | 36    | .544    | 9.5    || **Toronto**    | 43    | 37    | .538    | 10.0   || **Boston**     | 40    | 40    | .500    | 13.0   |## Wildcard Standings| **AL Division Leaders** | **W** | **L** | **PCT** | **WCGB** ||-------------------------|-------|-------|---------|----------|| **E - Tampa Bay**       | 54    | 28    | .659    | -        || **W - Texas**           | 48    | 31    | .608    | -        || **C - Minnesota**       | 40    | 41    | .494    | -        || **AL Wilcard Teams** | **W** | **L** | **PCT** | **WCGB** ||----------------------|-------|-------|---------|----------|| **Baltimore**        | 48    | 30    | .615    | +5.5     || **NY Yankees**       | 43    | 36    | .544    | -      || **LA Angels**            | 44    | 37    | .543    | -      || Toronto              | 43    | 37    | .538    | 0.5      || Houston          | 42    | 37    | .532    | 1.0        || Boston               | 40    | 40    | .500    | 3.5      |*As of 6/28/2023 10:00am EST*## Rules:1. Be respectful of everyone2. More to come as more people join the community..."
 type: community
-date: "2023-06-24 01:13:39"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/torontobluejays"
 host: lemmy.ca
-lastmod: "2023-06-23 13:33:29"
+lastmod: "2023-06-28 13:59:44"
 published: "2023-06-09 18:26:28"
-subscribers: 124
-posts: 28
-comments: 121
-weight: 28
-dau: 6
-wau: 20
-mau: 33
+subscribers: 136
+posts: 36
+comments: 149
+weight: 36
+dau: 3
+wau: 16
+mau: 35
 instances:
 - "lemmy_ca"
 tags: 

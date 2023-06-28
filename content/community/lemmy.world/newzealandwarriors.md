@@ -3,12 +3,12 @@ title: "NZ Warriors"
 name: "newzealandwarriors"
 description: "One NZ Warriors - established 1995#LetsGoneWarriors"
 type: community
-date: "2023-06-24 01:15:41"
+date: "2023-06-27 16:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/newzealandwarriors"
 host: lemmy.world
-lastmod: "2023-06-23 03:28:13"
+lastmod: "2023-06-27 16:19:20"
 published: "2023-06-23 03:27:29"
 subscribers: 1
 posts: 0

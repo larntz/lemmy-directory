@@ -3,14 +3,14 @@ title: "Project Axilus"
 name: "projectaxilus"
 description: "https://projectaxil.us"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/projectaxilus"
 host: lemmy.ml
 lastmod: "2020-03-13 12:08:25"
 published: "2020-03-03 14:41:07"
-subscribers: 4
+subscribers: 5
 posts: 58
 comments: 18
 weight: 58

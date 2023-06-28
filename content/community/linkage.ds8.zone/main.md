@@ -3,14 +3,14 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://linkage.ds8.zone/c/main"
 host: linkage.ds8.zone
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-03-27 08:58:30"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

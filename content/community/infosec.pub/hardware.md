@@ -3,20 +3,20 @@ title: "Hardware"
 name: "hardware"
 description: "##### **Description:**Just a community for all the hardware porn. Just post whatever your heart desires as long as it is hardware related.##### **Rules:**No harassment. No spamming. Stay friendly. Follow the rules of infosec.pub instance."
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/hardware"
 host: infosec.pub
 lastmod: "2023-06-17 23:08:24"
 published: "2023-06-17 21:35:02"
-subscribers: 17
-posts: 5
-comments: 0
-weight: 5
+subscribers: 32
+posts: 6
+comments: 8
+weight: 6
 dau: 1
-wau: 1
-mau: 1
+wau: 5
+mau: 5
 instances:
 - "infosec_pub"
 tags: 

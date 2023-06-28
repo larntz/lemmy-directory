@@ -3,14 +3,14 @@ title: "Bad News"
 name: "badnews"
 description: "most lemmy communities have *some* bad news, but this one is all bad all the time.see also: [!goodnews](https://lemmy.ml/c/goodnews) "
 type: community
-date: "2023-06-23 01:20:20"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/badnews"
 host: lemmy.ml
 lastmod: "2022-10-02 14:52:53"
 published: "2022-08-28 13:46:23"
-subscribers: 11
+subscribers: 13
 posts: 6
 comments: 2
 weight: 6

@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Anything related to lemmy.notdead.net and it's moderation."
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.notdead.net/c/meta"

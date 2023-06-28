@@ -3,7 +3,7 @@ title: "Mitsubishi Eclipse"
 name: "mitsubishieclipse"
 description: "Due to the lack of eclipse's in r/mitsubishi , and the DSM specific DSM communities , this subreddit was formed to band together all generation of eclipse enthusiasts for a subreddit dedicated to helping others, showing off, spreading news or rumors, and most of all, loving the Mitsubishi Eclipse!"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:21:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mitsubishieclipse"

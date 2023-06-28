@@ -3,14 +3,14 @@ title: "OMSCS"
 name: "omscs"
 description: "Online Masters of Science in Computer Science @ GATechThis is the subreddit for the Georgia Institute of Technology Online Master's in Computer Science program."
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/omscs"
 host: lemmy.ca
 lastmod: "2023-06-14 16:51:26"
 published: "2023-06-13 23:04:52"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

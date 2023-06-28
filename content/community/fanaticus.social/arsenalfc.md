@@ -3,14 +3,14 @@ title: "Arsenal FC"
 name: "arsenalfc"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/arsenalfc"
 host: fanaticus.social
 lastmod: "2023-06-13 07:15:44"
 published: "2023-06-13 07:03:13"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

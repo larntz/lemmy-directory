@@ -3,14 +3,14 @@ title: "New"
 name: "new"
 description: "What's new?"
 type: community
-date: "2023-06-24 01:15:50"
+date: "2023-06-28 15:21:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/new"
 host: lemmy.world
 lastmod: "2023-06-16 11:26:40"
 published: "2023-06-12 12:37:14"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

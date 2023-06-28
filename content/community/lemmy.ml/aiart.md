@@ -3,19 +3,19 @@ title: "AIArt"
 name: "aiart"
 description: "Community for sharing AI generated art. "
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aiart"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 04:04:28"
-subscribers: 5
+subscribers: 8
 posts: 6
 comments: 2
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"

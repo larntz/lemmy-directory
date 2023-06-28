@@ -3,7 +3,7 @@ title: "Firewater"
 name: "firewater"
 description: "The home to all things home distilling!"
 type: community
-date: "2023-06-24 01:15:48"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/firewater"
@@ -12,10 +12,10 @@ lastmod: "2023-06-15 06:39:11"
 published: "2023-06-15 06:17:47"
 subscribers: 24
 posts: 1
-comments: 3
+comments: 4
 weight: 1
 dau: 1
-wau: 1
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"

@@ -3,7 +3,7 @@ title: "NationStates"
 name: "nationstates"
 description: "![](https://lemmygrad.ml/pictrs/image/a062d7e0-05f8-4b0d-bbe7-c4681604fb30.png)[The People's Republic of Lemmygrad](https://www.nationstates.net/nation=lemmygrad)For the political nation simulator web browser game NationStates."
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 14:57:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/nationstates"

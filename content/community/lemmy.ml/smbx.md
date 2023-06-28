@@ -3,7 +3,7 @@ title: "Super Mario Bros. X"
 name: "smbx"
 description: "Super Mario Bros. X 1.3.0.1 is a massive Mario fangame that blends elements from Super Mario 1, 2, 3 and World. It has many power ups, such as the Ice Flower, Hammer Suit, Tanooki Suit, Kuribo’s shoe, The Billy Gun, and Yoshi. You can also play the game with a friend in the 2 player co-op mode, where the screen seamlessly splits and combines as the players separate and rejoin.This fangame is most notable for its extensive level editor that allows you to create almost any kind of level that you can imagine. The real time editor lets you edit the level while playing it! You can also create your own episode using either the SMB3 or SMW styled world map, or you can create a Mario 64 style hub level and have the players collect stars to advance.SMBX was proprietary for years, until the source code was leaked in early 2020. A community member, Wohlstand, had spent years rewriting SMBX in C++, and when he was finished, he licensed the rewrite under the permissive MIT license, so SMBX is now free/libre/open source and has a native GNU+Linux port.https://github.com/Wohlstand/TheXTech"
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/smbx"

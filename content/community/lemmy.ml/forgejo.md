@@ -1,22 +1,22 @@
 ---
 title: "Forgejo" 
 name: "forgejo"
-description: "https://forgejo.org/"
+description: "https://forgejo.org/[Mastodon](https://floss.social/@forgejo)[Matrix space](https://matrix.to/#/#forgejo:matrix.org)"
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forgejo"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-24 12:18:48"
 published: "2023-06-16 16:34:30"
 subscribers: 2
-posts: 0
+posts: 2
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 

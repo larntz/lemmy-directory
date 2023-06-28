@@ -3,7 +3,7 @@ title: "Biden 2024"
 name: "biden2024"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:21:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/biden2024"

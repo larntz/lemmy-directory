@@ -3,14 +3,14 @@ title: "Starcitizen"
 name: "starcitizen"
 description: "All Star Citizen discussions are welcomed here ! "
 type: community
-date: "2023-06-22 16:47:14"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/starcitizen"
 host: lemmy.ca
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 18:58:01"
-subscribers: 9
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0

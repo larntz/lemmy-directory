@@ -3,14 +3,14 @@ title: "ESP Home"
 name: "esphome"
 description: "[ESPHome](https://esphome.io/) is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems."
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://libreauto.app/c/esphome"
 host: libreauto.app
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 23:00:23"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 3
 weight: 1

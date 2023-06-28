@@ -3,18 +3,18 @@ title: "Hello, N.A.V.I."
 name: "lain"
 description: "A Lemmy Community for Everything related to Serial Experiments: Lain."
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/lain"
 host: sh.itjust.works
 lastmod: "2023-06-16 18:31:36"
 published: "2023-06-16 18:30:37"
-subscribers: 8
+subscribers: 9
 posts: 7
 comments: 2
 weight: 7
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

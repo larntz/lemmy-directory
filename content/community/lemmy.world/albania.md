@@ -3,7 +3,7 @@ title: "Albania"
 name: "albania"
 description: "Ask, find & simply explore things about Albania & Albanians in this community. "
 type: community
-date: "2023-06-24 01:15:54"
+date: "2023-06-28 15:20:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/albania"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

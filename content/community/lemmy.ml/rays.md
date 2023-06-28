@@ -3,14 +3,14 @@ title: "Tampa Bay Rays - RAYS UP!"
 name: "rays"
 description: "Placeholder for /r/TampaBayRays subreddit :)News and discussion about your Tampa Bay Rays!"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rays"
 host: lemmy.ml
 lastmod: "2023-06-09 21:25:40"
 published: "2023-06-09 18:30:55"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "Wicca"
 name: "wicca"
 description: "Sub for Wiccans and Witchy things."
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wicca"
 host: lemmy.ml
 lastmod: "2023-06-09 14:53:03"
 published: "2023-06-09 14:30:21"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

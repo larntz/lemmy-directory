@@ -3,14 +3,14 @@ title: "dark jazz"
 name: "darkjazz"
 description: "also known as doom jazz/funeral jazzadjacent stuff is welcome too"
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/darkjazz"
 host: lemmy.ml
 lastmod: "2023-06-14 01:47:50"
 published: "2023-06-14 01:25:32"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

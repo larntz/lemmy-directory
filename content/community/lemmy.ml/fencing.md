@@ -3,7 +3,7 @@ title: "Fencing"
 name: "fencing"
 description: "Fencing community"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fencing"

@@ -3,12 +3,12 @@ title: "Test"
 name: "test"
 description: "Test things here"
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vanoverloop.xyz/c/test"
 host: lemmy.vanoverloop.xyz
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-08 15:11:55"
 subscribers: 1
 posts: 2

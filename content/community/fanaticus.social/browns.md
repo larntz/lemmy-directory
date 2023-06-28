@@ -3,14 +3,14 @@ title: "Cleveland Browns"
 name: "browns"
 description: "A community dedicated to the Cleveland Browns.**Looking for Mods!**"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/browns"
 host: fanaticus.social
 lastmod: "2023-06-17 20:27:31"
 published: "2023-06-14 01:34:51"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0

@@ -3,19 +3,19 @@ title: "Mostly rfc1436 compliant"
 name: "gopher"
 description: "de facto web forum for your gopher (yes yours)gopher://gopher.clubgopher://tildeverse.orgEach thread has:1. One (toplevel) gopher directory2. One Lemmy discussion parent thread here3. Web proxy link(s)Web proxies:https://gopher.floodgap.com/gopher/gw.lite?=sdf.org+70+31https://gopher.tildeverse.org/tildeverse.org"
 type: community
-date: "2023-06-24 01:13:06"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/gopher"
 host: lemmy.sdf.org
 lastmod: "2023-06-18 07:31:34"
 published: "2023-06-18 06:48:36"
-subscribers: 19
+subscribers: 23
 posts: 3
 comments: 14
 weight: 3
 dau: 4
-wau: 7
+wau: 4
 mau: 7
 instances:
 - "lemmy_sdf_org"

@@ -3,19 +3,19 @@ title: "Music"
 name: "music"
 description: "A place to discuss anything Music.Rules- **On-Topic:** Make sure your topic is related to music.- **Please use the appropriate title:** This means something like [Music Genre] Artist - Song.- **NSFW rule:** Mark your post as NSFW if it contains explicit or gratuitous nudity. When in doubt, NSFW it for the browsing safety of our fellow members."
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/music"
 host: lemmy.burger.rodeo
 lastmod: "2023-06-16 03:49:04"
 published: "2023-06-12 09:18:24"
-subscribers: 15
-posts: 9
+subscribers: 18
+posts: 13
 comments: 1
-weight: 9
+weight: 13
 dau: 1
-wau: 4
+wau: 2
 mau: 9
 instances:
 - "lemmy_burger_rodeo"

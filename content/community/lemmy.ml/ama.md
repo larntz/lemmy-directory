@@ -3,14 +3,14 @@ title: "AMA"
 name: "ama"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ama"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-04-16 08:30:11"
-subscribers: 41
+subscribers: 43
 posts: 0
 comments: 0
 weight: 0

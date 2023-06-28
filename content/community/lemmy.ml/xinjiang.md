@@ -3,7 +3,7 @@ title: "Xinjiang"
 name: "xinjiang"
 description: "# AboutXinjiang, an autonomous territory in northwest China, is a vast region of deserts and mountains. It's home to many ethnic minority groups, including the Turkic Uyghur people. The ancient Silk Road trade route linking China and the Middle East passed through Xinjiang, a legacy that can be seen in the traditional open-air bazaars of its oasis cities, Hotan and Kashgar."
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xinjiang"

@@ -3,7 +3,7 @@ title: "Rhinoceros"
 name: "rhinoceros"
 description: "Community regarding the Cad software that nerd friend of yours talks about"
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rhinoceros"

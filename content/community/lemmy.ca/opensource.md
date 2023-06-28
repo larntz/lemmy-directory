@@ -3,14 +3,14 @@ title: "Sub moved"
 name: "opensource"
 description: "Use https://beehaw.org/c/foss instead"
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/opensource"
 host: lemmy.ca
 lastmod: "2022-10-22 03:13:23"
 published: "2022-08-20 18:39:00"
-subscribers: 11
+subscribers: 12
 posts: 3
 comments: 0
 weight: 3

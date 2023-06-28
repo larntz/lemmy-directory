@@ -3,7 +3,7 @@ title: "Laos"
 name: "laos"
 description: "Laos is a socialist country in Southeast Asia, this is a community to share photos, news, articles, etc about Laos and the Lao people.Rules here are the same as the rest of Lemmygrad."
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/laos"

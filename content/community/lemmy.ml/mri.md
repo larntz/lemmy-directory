@@ -3,14 +3,14 @@ title: "MRI"
 name: "mri"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mri"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 15:47:54"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

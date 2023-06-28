@@ -3,14 +3,14 @@ title: "Disc golf"
 name: "disc_golf"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/disc_golf"
 host: vlemmy.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 09:27:05"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

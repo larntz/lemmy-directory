@@ -3,7 +3,7 @@ title: "Flash - Adobe Flash Discussions"
 name: "flash"
 description: "All about Adobe Flash, Adobe AIR, Adobe Animate, Open Source Flash, Haxe and other uses of Flash for game development, web development + interactive action! Flash Design and Development questions/answers or posts."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/flash"

@@ -1,0 +1,25 @@
+---
+title: "Sports" 
+name: "news_sports"
+description: "#### Feeds- [ESPN](https://www.espn.com/espn/rss/news)- [Fox Sports](https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&aggregateId=7f83e8ca-6701-5ea0-96ee-072636b67336)"
+type: community
+date: "2023-06-28 15:17:59"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.link/c/news_sports"
+host: lemmy.link
+lastmod: "2023-06-28 00:57:19"
+published: "2023-06-25 07:29:16"
+subscribers: 7
+posts: 271
+comments: 0
+weight: 271
+dau: 1
+wau: 1
+mau: 1
+instances:
+- "lemmy_link"
+tags: 
+- "lemmy_link"
+
+---

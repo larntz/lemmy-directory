@@ -3,7 +3,7 @@ title: "Ocala"
 name: "ocala"
 description: "Ocala, FL community"
 type: community
-date: "2023-06-24 01:13:22"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cmstactical.net/c/ocala"

@@ -3,14 +3,14 @@ title: "AC/DC"
 name: "acdc"
 description: "Rock 'n Roll ain't noise pollution!"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/acdc"
 host: lemmy.ml
 lastmod: "2021-01-26 08:07:45"
 published: "2021-01-26 08:07:31"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

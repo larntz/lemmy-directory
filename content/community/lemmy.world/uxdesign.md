@@ -3,18 +3,18 @@ title: "UXDesign "
 name: "uxdesign"
 description: "Everything about UX design"
 type: community
-date: "2023-06-24 01:15:41"
+date: "2023-06-28 15:20:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/uxdesign"
 host: lemmy.world
 lastmod: "2023-06-22 07:25:32"
 published: "2023-06-22 07:23:36"
-subscribers: 18
-posts: 6
+subscribers: 32
+posts: 8
 comments: 16
-weight: 6
-dau: 3
+weight: 8
+dau: 1
 wau: 9
 mau: 9
 instances:

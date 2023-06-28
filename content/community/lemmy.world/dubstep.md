@@ -3,14 +3,14 @@ title: "Dubstep"
 name: "dubstep"
 description: "A place for lovers of bass music."
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 15:21:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dubstep"
 host: lemmy.world
 lastmod: "2023-06-16 19:25:02"
 published: "2023-06-16 19:21:42"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

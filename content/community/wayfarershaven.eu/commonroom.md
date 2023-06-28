@@ -3,7 +3,7 @@ title: "Common Room "
 name: "commonroom"
 description: "Pull up a chair and have a chat!"
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/commonroom"
@@ -15,8 +15,8 @@ posts: 3
 comments: 13
 weight: 3
 dau: 2
-wau: 2
-mau: 2
+wau: 1
+mau: 4
 instances:
 - "wayfarershaven_eu"
 tags: 

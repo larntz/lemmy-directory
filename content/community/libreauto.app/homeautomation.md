@@ -3,14 +3,14 @@ title: "Home Automation"
 name: "homeautomation"
 description: "Discussion about general home automation ideas and projects."
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://libreauto.app/c/homeautomation"
 host: libreauto.app
 lastmod: "2023-06-12 23:08:44"
 published: "2023-06-12 23:02:35"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

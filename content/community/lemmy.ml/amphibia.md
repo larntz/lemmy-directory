@@ -3,14 +3,14 @@ title: "Amphibia"
 name: "amphibia"
 description: "Welcome to Amphibia sublemmy! The place for discussions, memes and f-Anne art for Amphibia the wondeful Disney cartoon.Rules: - Stay on topic- Don't be a jerk- Follow the rules of this Lemmy instance"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amphibia"
 host: lemmy.ml
 lastmod: "2021-03-11 13:23:08"
 published: "2021-03-11 12:12:48"
-subscribers: 8
+subscribers: 9
 posts: 56
 comments: 5
 weight: 56

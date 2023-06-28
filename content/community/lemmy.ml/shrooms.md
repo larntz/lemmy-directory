@@ -3,14 +3,14 @@ title: "Everything about shrooms"
 name: "shrooms"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shrooms"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-01 09:01:58"
-subscribers: 49
+subscribers: 50
 posts: 1
 comments: 5
 weight: 1

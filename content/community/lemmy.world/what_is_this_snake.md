@@ -3,7 +3,7 @@ title: "What is this Snake?"
 name: "what_is_this_snake"
 description: "Don't kill snakes! Also, be careful when taking photos of them and don't put yourself in danger when doing so.Rules:1. Include location in posts.2. Don't be a jerk."
 type: community
-date: "2023-06-24 01:15:52"
+date: "2023-06-28 15:20:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/what_is_this_snake"
@@ -15,7 +15,7 @@ posts: 1
 comments: 7
 weight: 1
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

@@ -3,14 +3,14 @@ title: "k6 Load Test Tool"
 name: "k6io"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/k6io"
 host: lemmy.ml
 lastmod: "2023-06-10 18:09:02"
 published: "2023-06-10 16:50:40"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

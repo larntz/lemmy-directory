@@ -3,20 +3,20 @@ title: "Hyperhidrosis"
 name: "hyperhidrosis"
 description: "Hyperhidrosis is a common condition in which a person sweats excessively, usually in the palms, feet, armpits, neck and back. For discussions about treatments, surgeries, tips, tricks, social awareness and other topics related to it. #Rules: - Respect all users, always.- Do not post affiliate links to products.- While homemade tips, tricks and treatments are valid, pseudo-science will not be accepted.- Posts containing images of your body need to be marked NSFW. "
 type: community
-date: "2023-06-24 01:15:57"
+date: "2023-06-28 15:20:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hyperhidrosis"
 host: lemmy.world
 lastmod: "2023-06-22 03:03:02"
 published: "2023-06-12 16:35:54"
-subscribers: 7
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 9
+posts: 1
+comments: 2
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

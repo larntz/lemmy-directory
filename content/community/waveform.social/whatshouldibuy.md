@@ -3,14 +3,14 @@ title: "What Should I Buy"
 name: "whatshouldibuy"
 description: "Community for asking advice on purchases."
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:18:16"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/whatshouldibuy"
 host: waveform.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 13:03:30"
-subscribers: 41
+subscribers: 43
 posts: 1
 comments: 3
 weight: 1

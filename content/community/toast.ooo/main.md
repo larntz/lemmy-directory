@@ -3,20 +3,20 @@ title: "toast.ooo lounge"
 name: "main"
 description: "The lounge for toast.ooo"
 type: community
-date: "2023-06-24 01:13:15"
+date: "2023-06-28 15:17:43"
 draft: false
 nsfw: false
 actor_id: "https://toast.ooo/c/main"
 host: toast.ooo
 lastmod: "2023-06-12 01:58:44"
 published: "2023-06-11 09:14:54"
-subscribers: 9
+subscribers: 10
 posts: 3
-comments: 19
+comments: 20
 weight: 3
 dau: 1
-wau: 4
-mau: 13
+wau: 1
+mau: 14
 instances:
 - "toast_ooo"
 tags: 

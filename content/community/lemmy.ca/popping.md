@@ -3,14 +3,14 @@ title: "Popping"
 name: "popping"
 description: "we all love it."
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/popping"
 host: lemmy.ca
 lastmod: "2023-06-14 19:48:49"
 published: "2023-06-14 13:05:09"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

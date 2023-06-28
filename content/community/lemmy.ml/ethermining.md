@@ -3,14 +3,14 @@ title: "Ethereum Mining"
 name: "ethermining"
 description: "Discussion of mining the cryptocurrency **Ethereum**."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ethermining"
 host: lemmy.ml
 lastmod: "2021-04-22 06:15:01"
 published: "2021-04-22 06:14:45"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Kazakhstan"
 name: "kazakhstan"
 description: ""
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kazakhstan"

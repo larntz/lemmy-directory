@@ -3,7 +3,7 @@ title: "Fuse Beads"
 name: "fusebeads"
 description: "A community from crafts made out of fuse beads!"
 type: community
-date: "2023-06-19 18:00:48"
+date: "2023-06-28 15:21:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fusebeads"

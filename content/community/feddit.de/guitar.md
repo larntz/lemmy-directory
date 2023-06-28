@@ -3,14 +3,14 @@ title: "Guitar"
 name: "guitar"
 description: "Everything guitar related. Playing, gear, whatever."
 type: community
-date: "2023-06-24 01:13:42"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/guitar"
 host: feddit.de
 lastmod: "2022-09-15 09:58:26"
 published: "2022-09-15 09:41:22"
-subscribers: 29
+subscribers: 30
 posts: 3
 comments: 1
 weight: 3

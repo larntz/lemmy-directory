@@ -3,14 +3,14 @@ title: "AniméFR"
 name: "anime_fr"
 description: "Communauté francophone autour de l'animation japonaise."
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/anime_fr"
 host: sh.itjust.works
 lastmod: "2023-06-15 20:30:48"
 published: "2023-06-15 20:23:40"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

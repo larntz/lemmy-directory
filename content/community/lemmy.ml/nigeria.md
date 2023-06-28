@@ -3,14 +3,14 @@ title: "Nigeria 🇳🇬"
 name: "nigeria"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nigeria"
 host: lemmy.ml
 lastmod: "2022-05-11 17:22:20"
 published: "2022-05-11 17:22:00"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "StarWars"
 name: "starwars"
 description: "Welcome to Star Wars, Lemmy. Everything Star Wars related is welcomed. Memes are allowed, discussions, arguments. Please keep everything sithvil. May The Force Be With you"
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/starwars"
 host: latte.isnot.coffee
 lastmod: "2023-06-16 01:21:34"
 published: "2023-06-16 01:16:06"
-subscribers: 19
+subscribers: 22
 posts: 1
 comments: 1
 weight: 1

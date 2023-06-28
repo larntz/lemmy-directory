@@ -3,7 +3,7 @@ title: "Somerville, MA"
 name: "somerville"
 description: ""
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:21:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/somerville"
@@ -15,7 +15,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

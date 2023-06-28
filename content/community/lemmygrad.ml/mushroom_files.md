@@ -3,7 +3,7 @@ title: "The Mushroom Files"
 name: "mushroom_files"
 description: "Through independent investigation, we have reason to believe Mario is a mercenary hired by the Mushroom Kingdom's royal family to help retain them in power.Their dealings and backings with the CIA are posted here, known as the **Mushroom Files**.If you have any additional information that could help, please submit it here."
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/mushroom_files"

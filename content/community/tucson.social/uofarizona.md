@@ -3,12 +3,12 @@ title: "University of Arizona"
 name: "uofarizona"
 description: "Welcome Wildcats!"
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:18:15"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/uofarizona"
 host: tucson.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 05:09:44"
 subscribers: 3
 posts: 0

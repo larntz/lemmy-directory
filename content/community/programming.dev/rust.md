@@ -3,20 +3,20 @@ title: "Rust"
 name: "rust"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/rust"
 host: programming.dev
 lastmod: "2023-06-23 04:10:34"
 published: "2023-06-12 01:25:09"
-subscribers: 809
-posts: 40
-comments: 83
-weight: 40
-dau: 2
-wau: 36
-mau: 53
+subscribers: 979
+posts: 55
+comments: 95
+weight: 55
+dau: 4
+wau: 14
+mau: 59
 instances:
 - "programming_dev"
 tags: 

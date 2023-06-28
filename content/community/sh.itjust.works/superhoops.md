@@ -3,14 +3,14 @@ title: "QPR FC"
 name: "superhoops"
 description: "Now with added hoops!"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/superhoops"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 18:01:29"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

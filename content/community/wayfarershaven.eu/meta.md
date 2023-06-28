@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "This community is for talking about the Wayfarers Haven instance - updates, new communities, changes that you might like to see, etc. We can also use it to talk about Lemmy and the Fediverse. "
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/meta"
@@ -15,7 +15,7 @@ posts: 5
 comments: 7
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "wayfarershaven_eu"

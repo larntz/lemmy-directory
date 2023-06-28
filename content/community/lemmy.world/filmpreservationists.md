@@ -3,12 +3,12 @@ title: "Film Preservationists"
 name: "filmpreservationists"
 description: "A Hub for Film History and Preservation"
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-27 16:19:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/filmpreservationists"
 host: lemmy.world
-lastmod: "2023-06-09 23:10:49"
+lastmod: "2023-06-27 16:19:41"
 published: "2023-06-09 23:10:13"
 subscribers: 18
 posts: 0

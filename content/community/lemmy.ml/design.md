@@ -3,14 +3,14 @@ title: "Design"
 name: "design"
 description: "Artistic and industrial design"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/design"
 host: lemmy.ml
 lastmod: "2021-01-29 13:29:44"
 published: "2020-06-28 06:33:07"
-subscribers: 105
+subscribers: 113
 posts: 8
 comments: 10
 weight: 8

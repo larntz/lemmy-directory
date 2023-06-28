@@ -3,7 +3,7 @@ title: "Folk Metal"
 name: "folkmetal"
 description: "Also check out other metal music communities:- [!metal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/metal) - [!symphonicmetal@lemmy.helvetet.eu](https://lemmy.helvetet.eu/c/symphonicmetal) - [!deathcore@lemmy.ml](https://lemmy.ml/c/deathcore)- [!deathmetal@lemmy.ml](https://lemmy.ml/c/deathmetal)"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:18:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/folkmetal"

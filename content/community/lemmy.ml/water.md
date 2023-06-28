@@ -3,14 +3,14 @@ title: "water"
 name: "water"
 description: "If you like water, this is the spot."
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-28 15:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/water"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-04-13 18:08:28"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

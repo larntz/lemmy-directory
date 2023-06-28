@@ -3,14 +3,14 @@ title: "volkswagen"
 name: "volkswagen"
 description: "Discussion of all things Volkswagen. "
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/volkswagen"
 host: lemm.ee
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 22:18:51"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

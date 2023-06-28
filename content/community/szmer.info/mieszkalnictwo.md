@@ -3,20 +3,20 @@ title: "[pato]mieszkalnictwo"
 name: "mieszkalnictwo"
 description: "absurdy życia w p*lsce – patodeweloperka, dobre zmiany i współmieszkalnictwo, alternatywy dla kredytożycia "
 type: community
-date: "2023-06-24 01:13:35"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/mieszkalnictwo"
 host: szmer.info
 lastmod: "2021-03-20 13:37:14"
 published: "2021-03-20 13:32:27"
-subscribers: 97
-posts: 241
-comments: 142
-weight: 241
+subscribers: 100
+posts: 242
+comments: 144
+weight: 242
 dau: 1
-wau: 1
-mau: 2
+wau: 3
+mau: 4
 instances:
 - "szmer_info"
 tags: 

@@ -3,7 +3,7 @@ title: "Stalowe Rumaki"
 name: "utututu"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:35"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/utututu"
@@ -16,7 +16,7 @@ comments: 3
 weight: 1
 dau: 1
 wau: 3
-mau: 3
+mau: 4
 instances:
 - "szmer_info"
 tags: 

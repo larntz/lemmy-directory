@@ -3,14 +3,14 @@ title: "Local Music Dump"
 name: "music"
 description: "What're you listening to?"
 type: community
-date: "2023-06-22 16:46:58"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://skein.city/c/music"
 host: skein.city
 lastmod: "2023-06-13 21:59:47"
 published: "2023-06-13 21:56:35"
-subscribers: 2
+subscribers: 3
 posts: 4
 comments: 1
 weight: 4

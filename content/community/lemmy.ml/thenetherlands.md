@@ -3,14 +3,14 @@ title: "The Netherlands"
 name: "thenetherlands"
 description: "Everything about the netherlands"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thenetherlands"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 11:43:58"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

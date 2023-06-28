@@ -3,14 +3,14 @@ title: "World Politics"
 name: "worldpolitics"
 description: "A community for discussion of world politics (including the U.S.)Rules:1) No hate speech or bigotry of any kind.2) No spam or deliberate misinformation.3) Links to news articles should use the headline as the title whenever appropriate."
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-27 16:16:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/worldpolitics"
 host: lemmy.ca
-lastmod: "2023-06-11 15:19:43"
+lastmod: "2023-06-27 16:16:05"
 published: "2023-06-11 14:42:09"
-subscribers: 113
+subscribers: 117
 posts: 10
 comments: 3
 weight: 10

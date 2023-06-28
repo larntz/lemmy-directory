@@ -3,7 +3,7 @@ title: "Character AI"
 name: "characterai"
 description: "Unofficial Community for character.ai"
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/characterai"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "2023-06-02 21:09:20"
 published: "2023-06-02 08:58:10"
 subscribers: 4
-posts: 2
+posts: 1
 comments: 1
-weight: 2
+weight: 1
 dau: 1
 wau: 1
 mau: 1

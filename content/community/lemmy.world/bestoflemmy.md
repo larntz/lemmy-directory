@@ -3,20 +3,20 @@ title: "BestOfLemmy"
 name: "bestoflemmy"
 description: "Manual curation of great Lemmy discussions and threads"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bestoflemmy"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-26 01:51:25"
 published: "2023-06-18 19:06:41"
-subscribers: 1133
-posts: 11
-comments: 77
-weight: 11
+subscribers: 1593
+posts: 12
+comments: 81
+weight: 12
 dau: 1
-wau: 53
-mau: 53
+wau: 3
+mau: 55
 instances:
 - "lemmy_world"
 tags: 

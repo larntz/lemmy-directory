@@ -3,7 +3,7 @@ title: "Socialist Emblems"
 name: "socialistemblems"
 description: "**Discussion on the art of socialist emblems. Past, current, and fictional!**'Heraldry' and 'coat of arms' are not preferred terms - they are a relic of feudal and aristocratic social relations, something revolutionaries specifically wanted to distance when creating their emblems."
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/socialistemblems"

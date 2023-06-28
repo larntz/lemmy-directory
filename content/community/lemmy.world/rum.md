@@ -3,20 +3,20 @@ title: "Rum"
 name: "rum"
 description: "Rum appreciation and discussion."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rum"
 host: lemmy.world
 lastmod: "2023-06-17 02:37:06"
 published: "2023-06-17 02:35:40"
-subscribers: 15
+subscribers: 18
 posts: 2
-comments: 7
+comments: 9
 weight: 2
 dau: 1
-wau: 3
-mau: 3
+wau: 2
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

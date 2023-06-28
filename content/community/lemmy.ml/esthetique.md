@@ -3,14 +3,14 @@ title: "Webbeauty : chirurgie et médecine esthétique"
 name: "esthetique"
 description: "Webbeauty : chirurgie et médecine esthétique"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/esthetique"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-05-01 08:31:12"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

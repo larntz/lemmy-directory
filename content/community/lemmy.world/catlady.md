@@ -3,14 +3,14 @@ title: "cat lady "
 name: "catlady"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:46"
+date: "2023-06-28 15:21:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/catlady"
 host: lemmy.world
-lastmod: "2023-06-19 02:35:06"
+lastmod: "2023-06-28 15:21:06"
 published: "2023-06-18 05:18:24"
-subscribers: 6
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

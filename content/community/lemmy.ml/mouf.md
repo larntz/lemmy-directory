@@ -3,14 +3,14 @@ title: "mouf"
 name: "mouf"
 description: "A place to look at cute, wholesome moufs. Animals only, no humans."
 type: community
-date: "2023-06-22 16:47:50"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mouf"
 host: lemmy.ml
 lastmod: "2023-06-08 17:55:30"
 published: "2023-06-08 17:54:10"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

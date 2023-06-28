@@ -3,14 +3,14 @@ title: "Be the men's issues conversation you want to see in the world."
 name: "menslib"
 description: "The men's issues discussion has been sorely held back by counterproductive tribalism. We're building a new dialogue on the real issues facing men..."
 type: community
-date: "2023-06-24 01:13:23"
+date: "2023-06-28 15:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/menslib"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 00:47:40"
-subscribers: 1
+subscribers: 2
 posts: 28
 comments: 0
 weight: 28

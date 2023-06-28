@@ -3,7 +3,7 @@ title: "Computer Viruses"
 name: "computerviruses"
 description: "Community for computer virus enthusiasts.RULES1. **No creating malware or asking users to test malware.**2. **No personal insults, trolling, or harassing.**3. **Don't delete posts once your issue is solved.**4. **Do not post links without spaces.** (examples: lemmy dot ml, lemmy . ml)5. **Be professional when helping other users.**"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/computerviruses"

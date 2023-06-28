@@ -3,19 +3,19 @@ title: "Zurich"
 name: "zurich"
 description: "Community all around the city and canton of Zurich, Switzerland!"
 type: community
-date: "2023-06-24 01:15:56"
+date: "2023-06-28 15:21:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/zurich"
 host: lemmy.world
 lastmod: "2023-06-15 04:54:16"
 published: "2023-06-15 04:04:23"
-subscribers: 19
+subscribers: 23
 posts: 10
 comments: 2
 weight: 10
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "lemmy_world"

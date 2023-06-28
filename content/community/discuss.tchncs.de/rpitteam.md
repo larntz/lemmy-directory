@@ -3,14 +3,14 @@ title: "rpi-virtuell"
 name: "rpitteam"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:12:58"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/rpitteam"
 host: discuss.tchncs.de
 lastmod: "2023-06-10 15:20:43"
 published: "2023-06-10 15:14:56"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

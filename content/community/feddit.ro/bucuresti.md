@@ -1,22 +1,22 @@
 ---
 title: "Bucuresti" 
 name: "bucuresti"
-description: "Description not available."
+description: "Despre Bucuresti si imprejurimi."
 type: community
-date: "2023-06-24 01:13:27"
+date: "2023-06-28 15:17:58"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/bucuresti"
 host: feddit.ro
-lastmod: "2023-06-19 10:33:21"
+lastmod: "2023-06-28 12:52:56"
 published: "2023-06-14 11:23:15"
-subscribers: 2
-posts: 3
+subscribers: 3
+posts: 9
 comments: 3
-weight: 3
-dau: 1
-wau: 2
-mau: 2
+weight: 9
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "feddit_ro"
 tags: 

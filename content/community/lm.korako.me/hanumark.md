@@ -3,14 +3,14 @@ title: "はぬマーク&メモ"
 name: "hanumark"
 description: "適当に投稿していきます"
 type: community
-date: "2023-06-24 01:12:44"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/hanumark"
 host: lm.korako.me
 lastmod: "2023-01-28 18:52:59"
 published: "2022-12-03 10:52:53"
-subscribers: 4
+subscribers: 5
 posts: 45
 comments: 22
 weight: 45

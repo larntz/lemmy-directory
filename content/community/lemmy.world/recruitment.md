@@ -3,12 +3,12 @@ title: "Recruitment"
 name: "recruitment"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-27 16:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/recruitment"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:23"
 published: "2023-06-21 04:17:21"
 subscribers: 1
 posts: 0

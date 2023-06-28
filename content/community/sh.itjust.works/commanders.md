@@ -3,14 +3,14 @@ title: "Commanders"
 name: "commanders"
 description: "A community to talk about all things related to the Washington Commanders NFL team."
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/commanders"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 20:24:31"
-subscribers: 8
+subscribers: 12
 posts: 3
 comments: 1
 weight: 3

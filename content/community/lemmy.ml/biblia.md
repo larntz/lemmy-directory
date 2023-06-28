@@ -3,14 +3,14 @@ title: "Bíblia no leme"
 name: "biblia"
 description: "A Bíblia dá a direção. A Bíblia está no Lemmy."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/biblia"
 host: lemmy.ml
 lastmod: "2022-02-16 12:23:06"
 published: "2022-02-14 23:19:09"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3

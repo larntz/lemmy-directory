@@ -3,19 +3,19 @@ title: "WordPress"
 name: "wordpress"
 description: "A place to talk about WordPress the open source content management system. Also a place to ask for help with WordPress. Don't be rude, don't spam."
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 15:20:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wordpress"
 host: lemmy.world
 lastmod: "2023-06-10 17:50:55"
 published: "2023-06-10 16:13:20"
-subscribers: 126
-posts: 12
-comments: 16
-weight: 12
-dau: 1
-wau: 3
+subscribers: 138
+posts: 13
+comments: 18
+weight: 13
+dau: 2
+wau: 2
 mau: 7
 instances:
 - "lemmy_world"

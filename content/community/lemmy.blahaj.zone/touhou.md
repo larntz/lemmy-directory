@@ -3,20 +3,20 @@ title: "Touhou Project"
 name: "touhou"
 description: "Lemmy community for discussing the Touhou Project."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/touhou"
 host: lemmy.blahaj.zone
 lastmod: "2023-06-21 19:01:08"
 published: "2023-06-21 09:02:29"
-subscribers: 5
-posts: 0
+subscribers: 13
+posts: 3
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 3
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_blahaj_zone"
 tags: 

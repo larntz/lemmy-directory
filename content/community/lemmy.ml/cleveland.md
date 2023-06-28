@@ -3,14 +3,14 @@ title: "Cleveland"
 name: "cleveland"
 description: "Cleveland, Ohio"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cleveland"
 host: lemmy.ml
 lastmod: "2021-02-26 18:54:22"
 published: "2021-02-26 18:50:07"
-subscribers: 22
+subscribers: 23
 posts: 6
 comments: 8
 weight: 6

@@ -3,7 +3,7 @@ title: "Cronulla-Sutherland Sharks"
 name: "cronullasharks"
 description: "Cronulla-Sutherland Sharks - entered the premiership in 1967, turned the porchlight off in 2016, joined NRLW in 2023"
 type: community
-date: "2023-06-24 01:15:41"
+date: "2023-06-28 15:20:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cronullasharks"

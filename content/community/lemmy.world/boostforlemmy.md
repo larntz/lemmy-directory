@@ -3,14 +3,14 @@ title: "Boost For Lemmy"
 name: "boostforlemmy"
 description: "Reserved to avoid impersonation"
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:20:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/boostforlemmy"
 host: lemmy.world
 lastmod: "2023-06-20 17:52:49"
 published: "2023-06-20 17:30:48"
-subscribers: 86
+subscribers: 95
 posts: 0
 comments: 0
 weight: 0

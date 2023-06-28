@@ -3,7 +3,7 @@ title: "Wetlander Humor"
 name: "wetlanderhumor"
 description: "Held. I intend to offer to hand this off to the WetlanderHumor team if they migrate away from Reddit."
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-28 15:21:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wetlanderhumor"

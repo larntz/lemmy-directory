@@ -3,12 +3,12 @@ title: "DGG"
 name: "dgg"
 description: "Dest"
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 14:06:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dgg"
 host: lemmy.world
-lastmod: "2023-06-13 01:06:17"
+lastmod: "2023-06-28 14:06:14"
 published: "2023-06-11 08:10:23"
 subscribers: 4
 posts: 2

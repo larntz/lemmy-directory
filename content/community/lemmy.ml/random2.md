@@ -3,14 +3,14 @@ title: "random 2"
 name: "random2"
 description: "Random things, I suppose..."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/random2"
 host: lemmy.ml
 lastmod: "2020-12-16 07:47:09"
 published: "2020-12-16 07:20:30"
-subscribers: 5
+subscribers: 6
 posts: 4
 comments: 0
 weight: 4

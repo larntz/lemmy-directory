@@ -3,7 +3,7 @@ title: "Italia"
 name: "italia"
 description: "**Benvenuti su !Italia**Welcome to !Italia"
 type: community
-date: "2023-06-24 01:15:57"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/italia"

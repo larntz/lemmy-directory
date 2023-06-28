@@ -3,7 +3,7 @@ title: "Parramatta Eels"
 name: "parramattaeels"
 description: "PARRAdise - Parramatta Eels NRL and NRLW "
 type: community
-date: "2023-06-24 01:15:41"
+date: "2023-06-28 15:21:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/parramattaeels"

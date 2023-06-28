@@ -3,14 +3,14 @@ title: "Chemnitz"
 name: "chemnitz"
 description: "Eine Community für die Stadt Chemnitz.Regeln:- Posts müssen Bezug zur Stadt Chemnitz haben.- Allgemeine Netiquette ist einzuhalten.---QuellenLogo: ausgeschnitten aus eigenem Foto"
 type: community
-date: "2023-06-24 01:13:41"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/chemnitz"
 host: feddit.de
 lastmod: "2023-06-20 18:38:24"
 published: "2023-06-20 14:53:12"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 2
 weight: 1

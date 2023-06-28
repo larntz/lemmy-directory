@@ -3,14 +3,14 @@ title: "Disc golf"
 name: "discgolf"
 description: "A place to discuss anything disc golf related"
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:18:03"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/discgolf"
 host: lemm.ee
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 07:50:26"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

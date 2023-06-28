@@ -3,14 +3,14 @@ title: "General"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jpaulus.io/c/main"
 host: lemmy.jpaulus.io
 lastmod: "2023-06-18 19:32:08"
 published: "2023-06-07 20:48:51"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2

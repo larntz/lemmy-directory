@@ -3,7 +3,7 @@ title: "XMRvsBeast"
 name: "xmrvsbeast"
 description: "https://xmrvsbeast.com/http://5x5em46gw4znzll57zjmtgziz7pny7tqcrcxyhifrx7icmsq67qa.b32.i2p/"
 type: community
-date: "2023-06-24 01:13:21"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/xmrvsbeast"

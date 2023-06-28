@@ -3,12 +3,12 @@ title: "Jazz Fusion"
 name: "fusionjazz"
 description: "Talk about Jazz Fusion bands!"
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:20:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fusionjazz"
 host: lemmy.world
-lastmod: "2023-06-19 05:50:02"
+lastmod: "2023-06-28 15:20:59"
 published: "2023-06-19 05:13:03"
 subscribers: 5
 posts: 2

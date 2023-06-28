@@ -3,7 +3,7 @@ title: "Errezeta orokorrak"
 name: "errezeta_orokorrak"
 description: "Edozein motatako errezetak partekatzeko komunitatea (errezeta begetalak partekatu nahi badituzu, [Errezeta Begetalak](https://lemmy.eus/c/errezeta_begetalak) komunitatean egin dezakezu)."
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/errezeta_orokorrak"

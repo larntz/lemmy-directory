@@ -3,7 +3,7 @@ title: "Autism Adults"
 name: "autismadults"
 description: "Autism in adulthood, age 23 and older - once a person has moved past structured school and military lifestyle into adulthood. Autism spectrum disorder (ASD)"
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/autismadults"

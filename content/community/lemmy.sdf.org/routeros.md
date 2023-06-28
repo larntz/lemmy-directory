@@ -3,20 +3,20 @@ title: "MikroTik and RouterOs"
 name: "routeros"
 description: "A place to discuss MikroTik devices and RouterOs"
 type: community
-date: "2023-06-24 01:13:06"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/routeros"
 host: lemmy.sdf.org
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 09:58:46"
-subscribers: 9
-posts: 1
+subscribers: 12
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 0
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_sdf_org"
 tags: 

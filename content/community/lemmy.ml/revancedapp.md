@@ -3,14 +3,14 @@ title: "ReVanced"
 name: "revancedapp"
 description: "Continuing the legacy of Vanced"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/revancedapp"
 host: lemmy.ml
 lastmod: "2023-06-14 20:59:28"
 published: "2023-06-14 20:56:48"
-subscribers: 12
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

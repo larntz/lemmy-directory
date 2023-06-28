@@ -3,14 +3,14 @@ title: "Green Parties Around the World"
 name: "greenparty"
 description: "News and serious discussion about Green Parties, Green candidates, and Green politics from around the world. **Rules**- Must include two letter ISO country code prefix in brackets- No memes or off-topic posts"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/greenparty"
 host: lemmy.ml
 lastmod: "2020-07-31 22:21:00"
 published: "2020-07-31 03:52:19"
-subscribers: 43
+subscribers: 44
 posts: 82
 comments: 3
 weight: 82

@@ -3,14 +3,14 @@ title: "destiny"
 name: "destiny"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/destiny"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 09:36:18"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "MediumReadings"
 name: "mediumreadings"
 description: "A community designed for the mediums of Lemmy, and the people who require a connection with the departed.Sister communities:[/c/Mediums](https://lemmy.world/c/mediums)[/c/Psychic](https://lemmy.world/c/psychic)[/c/PsychicReaders](https://lemmy.world/c/psychicreaders)[/c/ClairvoyantReadings](https://lemmy.world/c/clairvoyantreadings)[/c/Tarot](https://lemmy.world/c/tarot)"
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-28 15:21:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mediumreadings"
@@ -15,7 +15,7 @@ posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

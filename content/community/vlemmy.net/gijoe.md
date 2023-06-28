@@ -3,14 +3,14 @@ title: "GI Joe"
 name: "gijoe"
 description: "A place to talk GIJoe in all forms!"
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/gijoe"
 host: vlemmy.net
 lastmod: "2023-06-14 01:56:30"
 published: "2023-06-14 01:14:00"
-subscribers: 3
+subscribers: 4
 posts: 4
 comments: 3
 weight: 4

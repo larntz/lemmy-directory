@@ -3,7 +3,7 @@ title: "Discussions and Articles on Religion and Religious History and Thought"
 name: "religion"
 description: "Discuss religion here and share articles on religion."
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/religion"

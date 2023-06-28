@@ -3,14 +3,14 @@ title: "Language Learning"
 name: "languagelearning"
 description: "#Welcome to Language Learning!Language Learning is a community dedicated to exploring new languages and sharing resources!Here, you can discuss:- Language learning resources- Your journey in language learning- Advice about language learning*Icon and banner are both designed by freepik*"
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/languagelearning"
 host: lemm.ee
 lastmod: "2023-06-17 07:31:46"
 published: "2023-06-15 07:21:46"
-subscribers: 19
+subscribers: 23
 posts: 3
 comments: 1
 weight: 3

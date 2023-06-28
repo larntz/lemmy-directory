@@ -1,16 +1,16 @@
 ---
 title: "Meta" 
 name: "meta"
-description: "Local Community for discussion related to this instance."
+description: "Community for discussing TheOneCurly.page."
 type: community
-date: "2023-06-20 11:37:37"
+date: "2023-06-28 15:18:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.theonecurly.page/c/meta"
 host: lemmy.theonecurly.page
-lastmod: "2023-06-15 13:30:30"
-published: "2023-06-15 13:20:46"
-subscribers: 2
+lastmod: "0001-01-01 00:00:00"
+published: "2023-06-26 14:03:43"
+subscribers: 1
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "Papercraft"
 name: "papercraft"
 description: "A community dedicated to the creation of tabletop terrain, accessories, and even miniatures, using just paper (and lots of glue)!"
 type: community
-date: "2023-06-24 01:13:33"
+date: "2023-06-28 15:18:02"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/papercraft"
 host: tabletop.place
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 00:52:39"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

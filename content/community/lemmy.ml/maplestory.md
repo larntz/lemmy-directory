@@ -1,22 +1,22 @@
 ---
 title: "Maplestory" 
 name: "maplestory"
-description: "The old 2D maple game we all love to hate [GMS](https://maplestory.nexon.net) |[KMS](https://orangemushroom.net/)"
+description: "The old 2D maple game we all love to hate [GMS](https://maplestory.nexon.net) |[KMS](https://orangemushroom.net/)[Weekly Tracker](https://lemmy.ml/post/1482439)"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/maplestory"
 host: lemmy.ml
-lastmod: "2023-06-11 02:53:14"
+lastmod: "2023-06-25 22:45:50"
 published: "2023-06-10 22:51:52"
-subscribers: 3
-posts: 5
+subscribers: 5
+posts: 6
 comments: 0
-weight: 5
+weight: 6
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 

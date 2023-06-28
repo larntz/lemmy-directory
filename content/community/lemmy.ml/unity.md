@@ -3,14 +3,14 @@ title: "Unity Engine"
 name: "unity"
 description: "Welcome to the Unity3D/2D community on Lemmy! Talk about development, share tutorials, and post your projects here!"
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unity"
 host: lemmy.ml
 lastmod: "2021-01-25 06:49:04"
 published: "2021-01-25 06:41:04"
-subscribers: 20
+subscribers: 21
 posts: 4
 comments: 0
 weight: 4

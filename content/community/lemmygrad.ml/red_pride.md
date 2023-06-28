@@ -3,7 +3,7 @@ title: "Red Pride"
 name: "red_pride"
 description: "the communist version of r/LGBTplease put the corresponding tag in square [brackets] so we have some sort of sorting system if it is a post specific to a topic    "
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/red_pride"

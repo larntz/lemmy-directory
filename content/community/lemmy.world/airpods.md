@@ -3,12 +3,12 @@ title: "Airpods"
 name: "airpods"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:47"
+date: "2023-06-28 14:06:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/airpods"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:06:14"
 published: "2023-06-16 05:18:02"
 subscribers: 5
 posts: 0

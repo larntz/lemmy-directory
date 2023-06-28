@@ -3,14 +3,14 @@ title: "Shit LLMS Say"
 name: "shitllmssay"
 description: "A place to post nonsense or questionable content produced by Large Language Models (LLMs) "
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shitllmssay"
 host: lemmy.ml
 lastmod: "2023-06-22 04:27:50"
 published: "2023-06-22 04:27:06"
-subscribers: 1
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

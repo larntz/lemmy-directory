@@ -3,14 +3,14 @@ title: "ASCII"
 name: "ascii"
 description: "this is the side bar, tbd."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ascii"
 host: lemmy.ml
 lastmod: "2023-06-08 06:57:39"
 published: "2020-04-15 10:44:59"
-subscribers: 66
+subscribers: 67
 posts: 7
 comments: 0
 weight: 7

@@ -3,14 +3,14 @@ title: "forsen"
 name: "forsen"
 description: "forsen."
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forsen"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 12:12:43"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 3
 weight: 2

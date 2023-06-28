@@ -3,14 +3,14 @@ title: "Julia programming language"
 name: "julia"
 description: "Community for Julia programming language."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/julia"
 host: lemmy.ml
 lastmod: "2021-12-13 20:25:24"
 published: "2020-04-25 08:12:47"
-subscribers: 45
+subscribers: 49
 posts: 18
 comments: 7
 weight: 18

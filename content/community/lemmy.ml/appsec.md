@@ -3,14 +3,14 @@ title: "AppSec"
 name: "appsec"
 description: "A general discussion board for  Application Security topics"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/appsec"
 host: lemmy.ml
 lastmod: "2021-01-09 01:31:57"
 published: "2021-01-09 01:26:50"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

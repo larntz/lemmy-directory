@@ -3,7 +3,7 @@ title: "Bennington Show"
 name: "benningtonshow"
 description: "A place to discuss the only father/daughter radio show in the history of radio. Mon-Thur, noon-2 EDT. on SiriusXM, channel 103 (Faction Talk). Also, talk about other shows that Ron Bennington has been a part of *The Ron & Ron Show*, *Ron & Fez*, *Unmasked*, etc..."
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:21:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/benningtonshow"

@@ -3,20 +3,20 @@ title: "Airsoft"
 name: "airsoft"
 description: "Place to post gear and discuss Airsoft"
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:20:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/airsoft"
 host: lemmy.world
 lastmod: "2023-06-21 19:02:51"
 published: "2023-06-21 18:44:55"
-subscribers: 6
-posts: 4
+subscribers: 10
+posts: 5
 comments: 1
-weight: 4
-dau: 2
-wau: 3
-mau: 3
+weight: 5
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "DebateAVegan"
 name: "debate_a_vegan"
 description: "A place for open discussion about veganism and vegan issues, focusing on intellectual debate about animal rights and welfare, health, the environment, nutrition, philosophy or any topic related to veganism.Please be warned that while we forbid hate speech as well as rude and toxic behavior, DebateAVegan cannot be considered a safe space and regardless of perspective you may run into ideas that you find offensive or appalling. Please take care of your mental well being."
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-28 15:20:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/debate_a_vegan"

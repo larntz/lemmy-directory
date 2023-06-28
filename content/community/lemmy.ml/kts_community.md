@@ -3,7 +3,7 @@ title: "kt's community"
 name: "kts_community"
 description: "My personal community I am solo hobbyist video game developer and I have a blog on [my website](http://www.elisanet.fi/kt/en/) too.I created this community so that I do not spam other communities.Everyone is welcome.Rules: No porn, bullying or third party adverts."
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kts_community"

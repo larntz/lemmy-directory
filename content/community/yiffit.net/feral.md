@@ -3,14 +3,14 @@ title: "Feral Furry"
 name: "feral"
 description: "Under construction."
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:18:21"
 draft: false
 nsfw: false
 actor_id: "https://yiffit.net/c/feral"
 host: yiffit.net
 lastmod: "2023-06-15 14:18:47"
 published: "2023-06-09 13:36:51"
-subscribers: 38
+subscribers: 42
 posts: 0
 comments: 0
 weight: 0

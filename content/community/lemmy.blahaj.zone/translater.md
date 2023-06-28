@@ -3,19 +3,19 @@ title: "TransLater"
 name: "translater"
 description: "A community for trans folk who transitioned or are transitioning later in life.Bigotry is not welcome. Please report any occurrences of homophobia, transphobia or other exclusionary content, and it will be removed! Users posting bigoted material will be perma banned/suspended."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/translater"
 host: lemmy.blahaj.zone
 lastmod: "2023-06-14 06:05:07"
 published: "2023-06-13 05:50:01"
-subscribers: 76
-posts: 1
-comments: 8
-weight: 1
+subscribers: 89
+posts: 2
+comments: 17
+weight: 2
 dau: 1
-wau: 10
+wau: 1
 mau: 10
 instances:
 - "lemmy_blahaj_zone"

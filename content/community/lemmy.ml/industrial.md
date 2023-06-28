@@ -3,14 +3,14 @@ title: "Industrial"
 name: "industrial"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/industrial"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-10-28 08:33:15"
-subscribers: 15
+subscribers: 16
 posts: 10
 comments: 0
 weight: 10

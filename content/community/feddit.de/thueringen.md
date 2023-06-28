@@ -3,14 +3,14 @@ title: "Thüringen"
 name: "thueringen"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:42"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/thueringen"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2021-09-14 13:02:33"
-subscribers: 16
+subscribers: 18
 posts: 1
 comments: 0
 weight: 1

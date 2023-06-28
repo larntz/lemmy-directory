@@ -3,14 +3,14 @@ title: "Productivity"
 name: "productivity"
 description: "Working with purpose."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/productivity"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-05-02 16:17:45"
-subscribers: 725
+subscribers: 730
 posts: 54
 comments: 17
 weight: 54

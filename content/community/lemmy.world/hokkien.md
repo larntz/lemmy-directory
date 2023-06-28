@@ -3,12 +3,12 @@ title: "Hokkien 福建話"
 name: "hokkien"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:47"
+date: "2023-06-27 16:19:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hokkien"
 host: lemmy.world
-lastmod: "2023-06-18 02:54:11"
+lastmod: "2023-06-27 16:19:36"
 published: "2023-06-17 03:13:32"
 subscribers: 1
 posts: 1

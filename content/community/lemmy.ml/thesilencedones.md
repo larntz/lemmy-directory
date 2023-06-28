@@ -3,14 +3,14 @@ title: "(Deleted)"
 name: "thesilencedones"
 description: "This community is no longer maintained sorry!"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thesilencedones"
 host: lemmy.ml
 lastmod: "2021-04-19 16:34:45"
 published: "2021-02-15 23:00:31"
-subscribers: 10
+subscribers: 11
 posts: 3
 comments: 0
 weight: 3

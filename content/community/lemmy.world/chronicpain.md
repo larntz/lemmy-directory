@@ -3,20 +3,20 @@ title: "chronicpain"
 name: "chronicpain"
 description: "For the broken, malfunctioning, pained people of the world and their friends/family. Got pain? This is the place to be. Bitching, complaining, whining, and otherwise venting about your condition is encouraged. Stop by the chat and say hi!"
 type: community
-date: "2023-06-22 02:21:53"
+date: "2023-06-28 14:06:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chronicpain"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:06:14"
 published: "2023-06-11 05:30:10"
-subscribers: 41
-posts: 5
-comments: 11
-weight: 5
-dau: 2
+subscribers: 50
+posts: 7
+comments: 12
+weight: 7
+dau: 1
 wau: 2
-mau: 4
+mau: 5
 instances:
 - "lemmy_world"
 tags: 

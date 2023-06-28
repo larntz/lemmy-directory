@@ -3,14 +3,14 @@ title: "Delft University of Technology"
 name: "tudelft"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:12:58"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/tudelft"
 host: feddit.nl
 lastmod: "2023-06-19 12:04:07"
 published: "2023-06-19 11:58:28"
-subscribers: 5
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

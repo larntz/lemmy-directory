@@ -3,14 +3,14 @@ title: "Operating System Development "
 name: "osdev"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osdev"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-03-21 20:54:04"
-subscribers: 88
+subscribers: 89
 posts: 1
 comments: 0
 weight: 1

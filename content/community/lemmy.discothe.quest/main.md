@@ -3,14 +3,14 @@ title: "Discotheque(st)"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-24 01:13:33"
+date: "2023-06-28 15:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.discothe.quest/c/main"
 host: lemmy.discothe.quest
 lastmod: "2023-06-16 20:00:46"
 published: "2023-06-15 10:27:18"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 0
 weight: 3

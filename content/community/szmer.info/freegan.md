@@ -3,14 +3,14 @@ title: "freeganizm"
 name: "freegan"
 description: "freeganizm - żarcie ze śmietników i nie tylko"
 type: community
-date: "2023-06-24 01:13:35"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/freegan"
 host: szmer.info
 lastmod: "2023-01-22 10:25:40"
 published: "2020-09-02 11:57:53"
-subscribers: 56
+subscribers: 57
 posts: 11
 comments: 11
 weight: 11

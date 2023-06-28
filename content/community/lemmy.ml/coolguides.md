@@ -3,14 +3,14 @@ title: "Cool Guides"
 name: "coolguides"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coolguides"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-11-24 16:01:34"
-subscribers: 87
+subscribers: 88
 posts: 7
 comments: 13
 weight: 7

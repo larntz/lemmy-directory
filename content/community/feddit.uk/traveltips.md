@@ -3,14 +3,14 @@ title: "Travel Tips"
 name: "traveltips"
 description: "It's The Journey.Let's have :-cheap travel-destination recommendations-local knowledgeFocus on Europe, I think.ok ?"
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/traveltips"
 host: feddit.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 20:06:38"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Memes"
 name: "memes"
 description: "Memes!"
 type: community
-date: "2023-06-24 01:13:42"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/memes"
 host: feddit.de
 lastmod: "2023-06-14 12:18:20"
 published: "2023-06-14 12:18:04"
-subscribers: 10
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0

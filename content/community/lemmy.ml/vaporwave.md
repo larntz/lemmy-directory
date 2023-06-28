@@ -3,14 +3,14 @@ title: "Vaporwave A E S T H E T I C"
 name: "vaporwave"
 description: "Description not available."
 type: community
-date: "2023-06-21 14:56:16"
+date: "2023-06-28 14:04:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vaporwave"
 host: lemmy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:04:47"
 published: "2019-06-29 01:08:39"
-subscribers: 521
+subscribers: 533
 posts: 44
 comments: 52
 weight: 44

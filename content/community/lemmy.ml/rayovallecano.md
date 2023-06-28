@@ -3,14 +3,14 @@ title: "Rayo Vallecano"
 name: "rayovallecano"
 description: "**The Largest Community of Rayo Vallecano Fans on Lemmy!**"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rayovallecano"
 host: lemmy.ml
 lastmod: "2023-06-12 21:57:27"
 published: "2023-06-12 21:51:41"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "gaming"
 name: "gaming"
 description: "Video games only."
 type: community
-date: "2023-06-23 01:19:25"
+date: "2023-06-28 15:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/gaming"
 host: lemm.ee
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 17:12:58"
-subscribers: 2
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

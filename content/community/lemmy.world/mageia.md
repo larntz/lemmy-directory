@@ -3,14 +3,14 @@ title: "Mageia"
 name: "mageia"
 description: "**Mageia Linux**"
 type: community
-date: "2023-06-24 01:15:40"
+date: "2023-06-28 15:20:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mageia"
 host: lemmy.world
 lastmod: "2023-06-23 23:02:28"
 published: "2023-06-23 23:01:41"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

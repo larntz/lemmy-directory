@@ -1,0 +1,25 @@
+---
+title: "announce" 
+name: "announce"
+description: "Description not available."
+type: community
+date: "2023-06-28 15:17:54"
+draft: false
+nsfw: false
+actor_id: "https://yall.theatl.social/c/announce"
+host: yall.theatl.social
+lastmod: "2023-06-20 16:04:44"
+published: "2023-06-20 16:04:04"
+subscribers: 7
+posts: 5
+comments: 12
+weight: 5
+dau: 1
+wau: 4
+mau: 5
+instances:
+- "yall_theatl_social"
+tags: 
+- "yall_theatl_social"
+
+---

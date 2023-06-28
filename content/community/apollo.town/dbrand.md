@@ -3,12 +3,12 @@ title: "dbrand"
 name: "dbrand"
 description: "Fuck humans, give us your money. *-a robot, probably*"
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:18:20"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/dbrand"
 host: apollo.town
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 01:59:43"
 subscribers: 2
 posts: 0

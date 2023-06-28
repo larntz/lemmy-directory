@@ -3,7 +3,7 @@ title: "Minnesota United"
 name: "mnufc"
 description: "Community for fans of Minnesota United Football Club"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mnufc"

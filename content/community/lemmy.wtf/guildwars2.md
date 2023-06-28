@@ -1,22 +1,22 @@
 ---
 title: "Guild Wars 2" 
 name: "guildwars2"
-description: "Welcome to c/guildwars2 on Lemmy.*More violets, I say! Less violence!*# Links**Official**- [guildwars2.com](https://guildwars2.com)- [Wiki](https://wiki.guildwars2.com/wiki/Main_Page)- [Patch notes](https://en-forum.guildwars2.com/forum/6-game-update-notes/)- [Upcoming changes](https://wiki.guildwars2.com/wiki/Upcoming_changes_and_features)- [Bug tracker](https://help.guildwars2.com/hc/en-us/articles/360047216173-Known-Issues-List)- [Twitter](https://twitter.com/GuildWars2)**Builds**- [Snow Crows](https://snowcrows.com/builds) (raids)- [Discretize](https://discretize.eu/builds/) (fractals)- [Gw2Mists](https://gw2mists.com/builds) (WvW)- [Metabattle](https://metabattle.com/wiki/MetaBattle_Wiki)- [Hardstuck](https://hardstuck.gg/gw2/builds/)- [GuildJen](https://guildjen.com/builds/)**Tools**- [GW2Efficiency](https://gw2efficiency.com/)- [GW2Crafts](https://gw2crafts.net/)- [GW2Skills](http://en.gw2skills.net/editor/)- [Discretize Gear Optimizer](https://optimizer.discretize.eu/)**Addons**- [Blish HUD](https://blishhud.com/)- [GW2-UOAOM](https://github.com/gw2-addon-loader/GW2-Addon-Manager)- [ArcDPS](https://www.deltaconnected.com/arcdps/)- [GW2Radial](https://github.com/Friendly0Fire/GW2Radial)- [TacO](http://www.gw2taco.com/)**Related Communities**- [m/guildwars2](https://lemmy.wtf/c/guildwars2@kbin.social) (Kbin)-  [r/guildwars2](https://www.reddit.com/r/Guildwars2/)-  [c/mmorpg](https://lemmy.wtf/c/mmorpg@lemmy.ml)[![](https://lemmy.wtf/pictrs/image/dad28492-7737-423a-af62-4527c335377d.png)](https://discord.gg/guildwars2)_______________________________________ "
+description: "Welcome to c/guildwars2 on Lemmy.*More violets, I say! Less violence!*# Links**Official**- [guildwars2.com](https://guildwars2.com)- [Wiki](https://wiki.guildwars2.com/wiki/Main_Page)- [Patch notes](https://en-forum.guildwars2.com/forum/6-game-update-notes/)- [Upcoming changes](https://wiki.guildwars2.com/wiki/Upcoming_changes_and_features)- [Bug tracker](https://help.guildwars2.com/hc/en-us/articles/360047216173-Known-Issues-List)- [Twitter](https://twitter.com/GuildWars2)**Builds**- [Snow Crows](https://snowcrows.com/builds) (raids)- [Discretize](https://discretize.eu/builds/) (fractals)- [Gw2Mists](https://gw2mists.com/builds) (WvW)- [Metabattle](https://metabattle.com/wiki/MetaBattle_Wiki)- [Hardstuck](https://hardstuck.gg/gw2/builds/)- [GuildJen](https://guildjen.com/builds/)**Tools**- [GW2Efficiency](https://gw2efficiency.com/)- [GW2Crafts](https://gw2crafts.net/)- [GW2Skills](http://en.gw2skills.net/editor/)- [Discretize Gear Optimizer](https://optimizer.discretize.eu/)**Addons**- [Blish HUD](https://blishhud.com/)- [GW2-UOAOM](https://github.com/gw2-addon-loader/GW2-Addon-Manager)- [ArcDPS](https://www.deltaconnected.com/arcdps/)- [GW2Radial](https://github.com/Friendly0Fire/GW2Radial)- [TacO](http://www.gw2taco.com/)**Related Communities**- [m/guildwars2](/c/guildwars2@kbin.social) (Kbin)-  [r/guildwars2](https://safereddit.com/r/guildwars2) (Reddit)-  [c/mmorpg](/c/mmorpg@lemmy.ml)[![](https://lemmy.wtf/pictrs/image/dad28492-7737-423a-af62-4527c335377d.png)](https://discord.gg/guildwars2)_______________________________________ "
 type: community
-date: "2023-06-24 01:13:21"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wtf/c/guildwars2"
 host: lemmy.wtf
-lastmod: "2023-06-23 21:17:44"
+lastmod: "2023-06-27 21:18:17"
 published: "2023-06-11 21:37:27"
-subscribers: 270
-posts: 32
-comments: 286
-weight: 32
-dau: 6
-wau: 44
-mau: 62
+subscribers: 316
+posts: 52
+comments: 369
+weight: 52
+dau: 18
+wau: 35
+mau: 70
 instances:
 - "lemmy_wtf"
 tags: 

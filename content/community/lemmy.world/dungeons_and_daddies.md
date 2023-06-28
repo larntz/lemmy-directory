@@ -3,14 +3,14 @@ title: "Dungeons and Daddies"
 name: "dungeons_and_daddies"
 description: "(Un)Official Dungeons and Daddies Community"
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-28 15:20:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dungeons_and_daddies"
 host: lemmy.world
 lastmod: "2023-06-16 16:53:12"
 published: "2023-06-16 16:51:05"
-subscribers: 5
+subscribers: 11
 posts: 2
 comments: 3
 weight: 2

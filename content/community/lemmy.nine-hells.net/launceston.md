@@ -3,7 +3,7 @@ title: "Launceston"
 name: "launceston"
 description: "Launceston community"
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nine-hells.net/c/launceston"

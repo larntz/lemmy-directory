@@ -3,7 +3,7 @@ title: "Object Shows"
 name: "objectshows"
 description: "Secondary replacement to r/ObjectShows (primary - https://forum.objectshows.net)"
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:20:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/objectshows"

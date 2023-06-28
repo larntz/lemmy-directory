@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:18:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.kya.moe/c/meta"
@@ -16,7 +16,7 @@ comments: 1
 weight: 1
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_kya_moe"
 tags: 

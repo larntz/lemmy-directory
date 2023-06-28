@@ -3,7 +3,7 @@ title: "Fediversul Românesc"
 name: "main"
 description: "The Default Community> Fediversul Românesc"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/main"

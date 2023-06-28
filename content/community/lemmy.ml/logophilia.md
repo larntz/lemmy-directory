@@ -3,14 +3,14 @@ title: "logophilia"
 name: "logophilia"
 description: "A subreddit for interesting words and those (nerds) who deal in them.Please only posts words with an accompanying URL from a respectable dictionary source. Examples include Oxford Dictionary, Merriam Webster, Wiktionary (if sourced), and Collins Dictionary."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/logophilia"
 host: lemmy.ml
 lastmod: "2023-06-09 20:12:54"
 published: "2023-06-09 19:45:58"
-subscribers: 5
+subscribers: 6
 posts: 3
 comments: 0
 weight: 3

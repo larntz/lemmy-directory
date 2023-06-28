@@ -3,17 +3,17 @@ title: "Cubase"
 name: "cubase"
 description: "This is an unofficial Cubase Lemmy forum"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cubase"
 host: lemmy.ml
 lastmod: "2023-06-21 13:55:52"
 published: "2023-06-21 13:55:25"
-subscribers: 1
-posts: 2
+subscribers: 2
+posts: 5
 comments: 1
-weight: 2
+weight: 5
 dau: 1
 wau: 1
 mau: 1

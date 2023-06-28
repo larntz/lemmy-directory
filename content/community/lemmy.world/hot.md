@@ -3,7 +3,7 @@ title: "Hot"
 name: "hot"
 description: "Hottest threads around Lemmy!"
 type: community
-date: "2023-06-24 01:15:50"
+date: "2023-06-28 15:21:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hot"

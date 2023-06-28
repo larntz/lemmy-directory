@@ -3,19 +3,19 @@ title: "xkcd"
 name: "xkcd"
 description: "Community to talk about XKCD comics"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xkcd"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-12-12 10:04:07"
-subscribers: 93
-posts: 7
+subscribers: 104
+posts: 9
 comments: 6
-weight: 7
+weight: 9
 dau: 1
-wau: 3
+wau: 1
 mau: 5
 instances:
 - "lemmy_ml"

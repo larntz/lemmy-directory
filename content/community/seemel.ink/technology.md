@@ -3,7 +3,7 @@ title: "Technology"
 name: "technology"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:15"
+date: "2023-06-28 15:18:09"
 draft: false
 nsfw: false
 actor_id: "https://seemel.ink/c/technology"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "seemel_ink"

@@ -3,7 +3,7 @@ title: "haritulab"
 name: "haritulab"
 description: "haritualb.eus"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/haritulab"

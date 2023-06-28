@@ -3,7 +3,7 @@ title: "Printers"
 name: "printers"
 description: "A community for troubleshooting printers, as well as share tips and tricks."
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/printers"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 2
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "sh_itjust_works"

@@ -3,14 +3,14 @@ title: "Dolls"
 name: "dolls"
 description: "A community for all dolls and dolls enthusiasts!"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dolls"
 host: lemmy.ml
 lastmod: "2023-06-21 19:38:28"
 published: "2023-06-21 19:30:48"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

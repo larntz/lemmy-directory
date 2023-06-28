@@ -3,20 +3,20 @@ title: "Linux Admin : Resources for Linux SysAdmin"
 name: "linuxadmin"
 description: "General Discussion for topics for Linux SysAdmin"
 type: community
-date: "2023-06-24 01:13:26"
+date: "2023-06-28 15:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/linuxadmin"
 host: social.doudp.com
 lastmod: "2023-06-20 16:57:12"
 published: "2023-06-14 05:41:35"
-subscribers: 54
-posts: 10
-comments: 3
-weight: 10
-dau: 1
-wau: 3
-mau: 3
+subscribers: 92
+posts: 11
+comments: 5
+weight: 11
+dau: 2
+wau: 2
+mau: 4
 instances:
 - "social_doudp_com"
 tags: 

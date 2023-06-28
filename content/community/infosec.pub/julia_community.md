@@ -3,14 +3,14 @@ title: "Julia Community"
 name: "julia_community"
 description: "Julia community is a community on Lemmy to discuss Julia programming and articles, tips, etc"
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/julia_community"
 host: infosec.pub
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 01:22:16"
-subscribers: 8
+subscribers: 9
 posts: 7
 comments: 2
 weight: 7

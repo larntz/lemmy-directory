@@ -3,17 +3,17 @@ title: "Willkommen zur Lemmy Community rund um die Ketzerkirche "
 name: "ketzerkirche"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ketzerkirche"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 07:13:01"
-subscribers: 4
-posts: 9
+subscribers: 5
+posts: 10
 comments: 0
-weight: 9
+weight: 10
 dau: 1
 wau: 1
 mau: 1

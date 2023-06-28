@@ -3,14 +3,14 @@ title: "Republican discussion"
 name: "republicans"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/republicans"
 host: lemmy.ml
 lastmod: "2020-11-09 15:06:30"
 published: "2019-07-26 03:10:05"
-subscribers: 18
+subscribers: 19
 posts: 2
 comments: 2
 weight: 2

@@ -3,7 +3,7 @@ title: "Translating for comrades"
 name: "translation"
 description: "A community so comrades can ask for translations from other comrades. Please format your title to begin with [SOURCE -> TARGET]. For example [Chinese -> English]."
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/translation"

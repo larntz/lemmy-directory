@@ -1,22 +1,22 @@
 ---
-title: "Lemmyfi Info" 
+title: "Lemmyfi.com" 
 name: "lemmyfi"
-description: "Discussion and info posts regarding lemmyfi.com"
+description: "Information regarding this instance will be posted here. This is just for those interested to see what is happening to this server."
 type: community
-date: "2023-06-23 01:19:22"
+date: "2023-06-28 15:17:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfi.com/c/lemmyfi"
 host: lemmyfi.com
-lastmod: "2023-06-21 12:21:06"
-published: "2023-06-15 05:10:12"
+lastmod: "2023-06-25 16:27:45"
+published: "2023-06-25 15:38:35"
 subscribers: 1
-posts: 3
+posts: 0
 comments: 0
-weight: 3
-dau: 1
-wau: 1
-mau: 1
+weight: 0
+dau: 0
+wau: 0
+mau: 0
 instances:
 - "lemmyfi_com"
 tags: 

@@ -3,14 +3,14 @@ title: "Talk about the great state of Maine"
 name: "maine"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/maine"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-07-25 02:04:47"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 0
 weight: 2

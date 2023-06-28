@@ -3,20 +3,20 @@ title: "Judo"
 name: "judo"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-27 16:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/judo"
 host: lemmy.world
-lastmod: "2023-06-15 01:08:39"
+lastmod: "2023-06-27 16:19:27"
 published: "2023-06-14 23:47:25"
-subscribers: 27
-posts: 8
-comments: 26
-weight: 8
-dau: 3
-wau: 9
-mau: 9
+subscribers: 33
+posts: 10
+comments: 29
+weight: 10
+dau: 2
+wau: 6
+mau: 10
 instances:
 - "lemmy_world"
 tags: 

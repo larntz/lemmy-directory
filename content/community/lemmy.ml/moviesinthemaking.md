@@ -3,14 +3,14 @@ title: "Movies in the Making"
 name: "moviesinthemaking"
 description: "**A behind-the-scenes look at the world of movies**.A celebration of movie making, showcasing behind-the-scenes photos, videos, and articles from movies.If you’ve discovered an amazing behind-the-scenes photo, video, or article, we’d love to see it.Please don’t post trailers for movies here. They will be removed."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/moviesinthemaking"
 host: lemmy.ml
 lastmod: "2023-06-02 17:20:09"
 published: "2023-06-02 17:13:21"
-subscribers: 33
+subscribers: 35
 posts: 3
 comments: 1
 weight: 3

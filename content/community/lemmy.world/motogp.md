@@ -3,20 +3,20 @@ title: "MotoGP"
 name: "motogp"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-28 14:06:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/motogp"
 host: lemmy.world
-lastmod: "2023-06-12 17:15:42"
+lastmod: "2023-06-28 14:06:18"
 published: "2023-06-10 00:57:34"
-subscribers: 96
-posts: 14
-comments: 22
-weight: 14
-dau: 4
+subscribers: 121
+posts: 18
+comments: 36
+weight: 18
+dau: 3
 wau: 11
-mau: 16
+mau: 20
 instances:
 - "lemmy_world"
 tags: 

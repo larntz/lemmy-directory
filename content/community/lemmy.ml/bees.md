@@ -3,14 +3,14 @@ title: "bees"
 name: "bees"
 description: "To bee or not to bee...This is a sublemmy about anything related to bees"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bees"
 host: lemmy.ml
 lastmod: "2023-06-07 23:55:29"
 published: "2023-06-07 23:51:16"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

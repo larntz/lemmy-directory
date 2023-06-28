@@ -3,14 +3,14 @@ title: "Happy"
 name: "happy"
 description: "Diese Community soll ein kleines soziales Experiment werden. Sie ist als Ablenkung zu all den negativen Nachrichten gedacht und sollte deshalb nur Beiträge beinhalten, die euch und andere glücklich machen."
 type: community
-date: "2023-06-24 01:13:42"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/happy"
 host: feddit.de
 lastmod: "2022-02-27 17:17:56"
 published: "2022-02-27 17:11:15"
-subscribers: 70
+subscribers: 73
 posts: 15
 comments: 3
 weight: 15

@@ -3,17 +3,17 @@ title: "B Movie Bonanza"
 name: "bmoviebonanza"
 description: "A place for lovers of B movies to come together and talk about them. "
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-28 15:21:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bmoviebonanza"
 host: lemmy.world
 lastmod: "2023-06-13 17:49:04"
 published: "2023-06-10 19:43:20"
-subscribers: 30
-posts: 3
+subscribers: 31
+posts: 4
 comments: 4
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 3

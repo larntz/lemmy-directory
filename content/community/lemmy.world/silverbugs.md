@@ -3,14 +3,14 @@ title: "silverbugs"
 name: "silverbugs"
 description: "Collectors of Physical Silver, Bullion, and Coins."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:21:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/silverbugs"
 host: lemmy.world
 lastmod: "2023-06-21 14:38:23"
 published: "2023-06-21 14:23:08"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

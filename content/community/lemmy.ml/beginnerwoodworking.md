@@ -3,14 +3,14 @@ title: "Beginner Woodworking"
 name: "beginnerwoodworking"
 description: "The go-to place for those who are new to woodworking."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beginnerwoodworking"
 host: lemmy.ml
 lastmod: "2023-06-12 15:49:12"
 published: "2023-06-12 15:48:19"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0

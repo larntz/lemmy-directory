@@ -3,20 +3,20 @@ title: "COVID-19 Pandemic"
 name: "coronavirus"
 description: "Any news or discussion around the pandemic. Anti-vaccination posts and comments will be removed, as well as personal attacks.Relevant:- [mander.xyz/c/covid19](https://mander.xyz/c/covid19)- [monkeypox](https://mander.xyz/c/monkeypox)- [diseases](https://mander.xyz/c/diseases)"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coronavirus"
 host: lemmy.ml
 lastmod: "2022-08-12 03:15:36"
 published: "2021-06-29 18:49:29"
-subscribers: 452
+subscribers: 455
 posts: 284
 comments: 683
 weight: 284
 dau: 1
 wau: 1
-mau: 6
+mau: 5
 instances:
 - "lemmy_ml"
 tags: 

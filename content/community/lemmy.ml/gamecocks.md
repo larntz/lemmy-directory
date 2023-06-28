@@ -3,14 +3,14 @@ title: "University of South Carolina"
 name: "gamecocks"
 description: "The subreddit for discussing all things related to the University of South Carolina"
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamecocks"
 host: lemmy.ml
 lastmod: "2023-06-03 14:34:53"
 published: "2023-06-03 13:50:13"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

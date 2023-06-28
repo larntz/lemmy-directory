@@ -3,14 +3,14 @@ title: "cubing"
 name: "cubing"
 description: "Community revolving around cubing - the activity of solving Rubik's-cube like puzzles on time or just for fun"
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cubing"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-04-19 07:22:18"
-subscribers: 17
+subscribers: 18
 posts: 3
 comments: 8
 weight: 3

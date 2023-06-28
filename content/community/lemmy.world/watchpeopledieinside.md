@@ -3,14 +3,14 @@ title: "watch people die inside"
 name: "watchpeopledieinside"
 description: "Welcome to watch people die inside! -This community is subject to the rules defined for this instance of Lemmy, [which you can check out here. ](https://mastodon.world/about)"
 type: community
-date: "2023-06-24 01:15:54"
+date: "2023-06-28 15:21:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/watchpeopledieinside"
 host: lemmy.world
 lastmod: "2023-06-12 07:05:48"
 published: "2023-06-12 05:11:25"
-subscribers: 36
+subscribers: 45
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "New Players"
 name: "newplayers"
 description: "**Community for new Magic players!**All questions and topics welcome! This community is here to welcome and encourage new players to the game so that they share in our addiction for a long time!Links to new player guides forthcoming."
 type: community
-date: "2023-06-24 01:13:15"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/beginner"

@@ -3,7 +3,7 @@ title: "Baofeng"
 name: "baofeng"
 description: "Forum for Baofeng Radio's**___**"
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/baofeng"

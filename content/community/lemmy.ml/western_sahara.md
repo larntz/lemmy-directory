@@ -3,14 +3,14 @@ title: "Western Sahara"
 name: "western_sahara"
 description: "Africa's last colony"
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/western_sahara"
 host: lemmy.ml
 lastmod: "2021-01-29 13:30:13"
 published: "2020-06-28 07:03:44"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

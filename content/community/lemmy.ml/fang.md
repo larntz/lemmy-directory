@@ -3,14 +3,14 @@ title: "Fang"
 name: "fang"
 description: "Only Fangs Allowed"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fang"
 host: lemmy.ml
 lastmod: "2023-06-09 10:58:34"
 published: "2023-06-09 10:17:14"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

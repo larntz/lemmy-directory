@@ -3,7 +3,7 @@ title: "Umwelt, Klima und Co"
 name: "umwelt"
 description: "Deutschsprachiges Sub zu den Themen Umwelt, Natur, sowie Umweltschutz und -technik"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/umwelt"

@@ -3,14 +3,14 @@ title: "Ariana Grande"
 name: "arianagrande"
 description: "official Ariana Grande!"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/arianagrande"
 host: goddess.name
 lastmod: "2023-06-12 16:05:26"
 published: "2023-06-12 15:14:46"
-subscribers: 3
+subscribers: 4
 posts: 4
 comments: 1
 weight: 4

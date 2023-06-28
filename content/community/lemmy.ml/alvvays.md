@@ -3,7 +3,7 @@ title: "alvvays"
 name: "alvvays"
 description: "canadian indie rock / dream pop / shoegaze band alvvays "
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/alvvays"

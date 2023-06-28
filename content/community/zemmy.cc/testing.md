@@ -3,7 +3,7 @@ title: "Testing"
 name: "testing"
 description: "Used for test posts"
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://zemmy.cc/c/testing"
@@ -15,7 +15,7 @@ posts: 5
 comments: 36
 weight: 5
 dau: 1
-wau: 3
+wau: 1
 mau: 9
 instances:
 - "zemmy_cc"

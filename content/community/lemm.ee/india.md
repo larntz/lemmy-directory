@@ -3,20 +3,20 @@ title: "India"
 name: "india"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/india"
 host: lemm.ee
 lastmod: "2023-06-19 10:13:56"
 published: "2023-06-19 10:06:44"
-subscribers: 4
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 8
+posts: 1
+comments: 3
+weight: 1
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemm_ee"
 tags: 

@@ -3,14 +3,14 @@ title: "TrainSimWorld"
 name: "trainsimworld"
 description: "A community to discuss Train Sim World "
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/trainsimworld"
 host: lemmy.zip
 lastmod: "2023-06-14 22:00:45"
 published: "2023-06-14 21:57:47"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

@@ -3,20 +3,20 @@ title: "radar wydarzeń"
 name: "radar"
 description: "miejsce, żeby wrzucać informacje o wydarzeniach. a najlepiej jakby były to linki nie do fejsa, tylko na radar, czyli wolnościowy serwis z wydarzeniami - https://radar.squat.net/pl"
 type: community
-date: "2023-06-24 01:13:35"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/radar"
 host: szmer.info
 lastmod: "2021-11-01 22:34:10"
 published: "2020-07-28 14:36:15"
-subscribers: 170
-posts: 340
+subscribers: 173
+posts: 342
 comments: 202
-weight: 340
+weight: 342
 dau: 1
-wau: 7
-mau: 15
+wau: 3
+mau: 16
 instances:
 - "szmer_info"
 tags: 

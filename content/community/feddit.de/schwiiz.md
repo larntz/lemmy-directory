@@ -3,14 +3,14 @@ title: "Schwiiz"
 name: "schwiiz"
 description: "Über d Schwiiz uf schwiizer Mundart"
 type: community
-date: "2023-06-24 01:13:42"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/schwiiz"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 10:54:57"
-subscribers: 5
+subscribers: 6
 posts: 3
 comments: 1
 weight: 3

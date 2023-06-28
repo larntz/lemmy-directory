@@ -3,7 +3,7 @@ title: "Saint Charles County, Missouri"
 name: "stcharlesmo"
 description: "A community for the city and county of Saint Charles, Missouri. Welcome, and be kind"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/stcharlesmo"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "midwest_social"

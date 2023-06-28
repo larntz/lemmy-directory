@@ -3,18 +3,18 @@ title: "Abrupt Chaos"
 name: "abrupt_chaos"
 description: "Videos featuring abrupt chaos."
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/abrupt_chaos"
 host: sh.itjust.works
 lastmod: "2023-06-22 07:30:54"
 published: "2023-06-22 07:28:36"
-subscribers: 39
-posts: 5
+subscribers: 51
+posts: 6
 comments: 2
-weight: 5
-dau: 3
+weight: 6
+dau: 1
 wau: 3
 mau: 3
 instances:

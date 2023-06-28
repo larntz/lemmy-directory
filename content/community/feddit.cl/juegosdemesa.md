@@ -3,14 +3,14 @@ title: "Juegos de Mesa"
 name: "juegosdemesa"
 description: ""
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:18:15"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/juegosdemesa"
 host: feddit.cl
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 15:34:40"
-subscribers: 1
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

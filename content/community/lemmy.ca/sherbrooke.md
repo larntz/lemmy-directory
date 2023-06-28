@@ -3,14 +3,14 @@ title: "Sherbrooke"
 name: "sherbrooke"
 description: "Communauté de la ville de Sherbrooke"
 type: community
-date: "2023-06-22 16:47:14"
+date: "2023-06-27 16:16:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/sherbrooke"
 host: lemmy.ca
-lastmod: "2023-06-12 00:37:18"
+lastmod: "2023-06-27 16:16:04"
 published: "2023-06-12 00:25:16"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

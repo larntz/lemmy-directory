@@ -3,14 +3,14 @@ title: "headphones"
 name: "headphones"
 description: "Pro, Audiophile and consumer headphone reviews, pics, news, suggestions, etc."
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-28 15:20:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/headphones"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 17:05:24"
-subscribers: 6
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

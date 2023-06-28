@@ -3,7 +3,7 @@ title: "cardinals"
 name: "cardinals"
 description: "For discussion of the St Louis Cardinals"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cardinals"
@@ -15,7 +15,7 @@ posts: 11
 comments: 21
 weight: 11
 dau: 1
-wau: 2
+wau: 1
 mau: 11
 instances:
 - "midwest_social"

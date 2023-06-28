@@ -3,14 +3,14 @@ title: "Intellectual dark web"
 name: "intellectualdarkweb"
 description: ""
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/intellectualdarkweb"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 06:26:12"
-subscribers: 40
+subscribers: 41
 posts: 0
 comments: 0
 weight: 0

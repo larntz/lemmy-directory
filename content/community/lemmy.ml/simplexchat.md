@@ -3,7 +3,7 @@ title: "SimpleX Chat"
 name: "simplexchat"
 description: "Just a reserved name, please join this: https://lemmy.ml/c/simplex"
 type: community
-date: "2023-06-23 01:20:12"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/simplexchat"

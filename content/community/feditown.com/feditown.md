@@ -3,14 +3,14 @@ title: "FediTown"
 name: "feditown"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:25"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://feditown.com/c/feditown"
 host: feditown.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 15:17:20"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 1
 weight: 1

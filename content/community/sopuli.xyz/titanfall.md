@@ -3,20 +3,20 @@ title: "Titanfall"
 name: "titanfall"
 description: "Main sub: [!titanfall@lemmy.world](/c/titanfall@lemmy.world)*Just a simple man, and his love for a true best friend, a three story 40 ton advanced AI robot war-machine. They must stick together to survive, out on the frontier.*Discuss, meme about, and show off content related to Titanfall and Titanfall 2, though as the first is no longer available for purchase, inevitably the latter will be more prevalent. Welcome! Please join and fire away in your Kraber montages!Mentioning the [Northstar](https://northstar.tf/) client is also absolutely ok!"
 type: community
-date: "2023-06-24 01:13:34"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/titanfall"
 host: sopuli.xyz
 lastmod: "2023-06-21 14:19:38"
 published: "2023-06-13 17:54:31"
-subscribers: 27
+subscribers: 31
 posts: 13
-comments: 14
+comments: 15
 weight: 13
 dau: 1
 wau: 3
-mau: 8
+mau: 9
 instances:
 - "sopuli_xyz"
 tags: 

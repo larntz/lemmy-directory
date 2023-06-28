@@ -3,20 +3,20 @@ title: "NCL Meta"
 name: "nclmeta"
 description: "A community for discussing this instance, Lemmy as a whole, and expressing concerns.NCL Meta is also the home of Foundations of Lemmy, a series where I do my best to write detailed, freely-licensed guides that address points of contention for new users.### Rules:This community follows the [instance-wide rules](https://normalcity.life/post/972)."
 type: community
-date: "2023-06-24 01:13:27"
+date: "2023-06-28 15:17:58"
 draft: false
 nsfw: false
 actor_id: "https://normalcity.life/c/nclmeta"
 host: normalcity.life
-lastmod: "2023-06-18 23:40:02"
+lastmod: "2023-06-25 19:37:02"
 published: "2023-06-15 01:33:14"
 subscribers: 19
-posts: 13
-comments: 37
-weight: 13
-dau: 3
+posts: 14
+comments: 46
+weight: 14
+dau: 1
 wau: 6
-mau: 6
+mau: 7
 instances:
 - "normalcity_life"
 tags: 

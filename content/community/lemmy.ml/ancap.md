@@ -3,14 +3,14 @@ title: "anarcho capitalism"
 name: "ancap"
 description: "legalize recreational plutonium"
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ancap"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-29 10:53:56"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 2
 weight: 3

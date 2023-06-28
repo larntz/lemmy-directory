@@ -3,12 +3,12 @@ title: "Fly Tying"
 name: "flytying"
 description: "The art of tying flies"
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 15:21:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/flytying"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:22:11"
 published: "2023-06-13 15:00:35"
 subscribers: 4
 posts: 3

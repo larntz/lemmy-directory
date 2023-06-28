@@ -3,14 +3,14 @@ title: "Relationships"
 name: "relationships"
 description: "Discuss any manner of relationship. Friends, roommates, dating, marriage, spouses, kids, etc."
 type: community
-date: "2023-06-23 01:19:33"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/relationships"
 host: lemmy.ca
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-06-15 23:00:22"
-subscribers: 58
+subscribers: 61
 posts: 12
 comments: 7
 weight: 12

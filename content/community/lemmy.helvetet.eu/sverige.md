@@ -3,17 +3,17 @@ title: "Sverige"
 name: "sverige"
 description: "En svensk gemenskap"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:18:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/sverige"
 host: lemmy.helvetet.eu
 lastmod: "2023-04-01 17:23:23"
 published: "2023-04-01 17:22:20"
-subscribers: 111
-posts: 19
-comments: 29
-weight: 19
+subscribers: 115
+posts: 20
+comments: 32
+weight: 20
 dau: 1
 wau: 10
 mau: 11

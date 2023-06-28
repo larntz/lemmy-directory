@@ -3,14 +3,14 @@ title: "Jailbreak Piracy"
 name: "jailbreak_piracy"
 description: "Description not available."
 type: community
-date: "2023-06-22 16:47:50"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jailbreak_piracy"
 host: lemmy.ml
 lastmod: "2023-06-11 20:24:12"
 published: "2023-06-11 19:37:27"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

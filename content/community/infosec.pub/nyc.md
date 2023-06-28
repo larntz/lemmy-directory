@@ -3,14 +3,14 @@ title: "New York City"
 name: "nyc"
 description: "Why not?"
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/nyc"
 host: infosec.pub
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 20:13:25"
-subscribers: 5
+subscribers: 8
 posts: 2
 comments: 0
 weight: 2

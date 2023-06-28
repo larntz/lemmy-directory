@@ -3,7 +3,7 @@ title: "Memes"
 name: "memes"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:34"
+date: "2023-06-28 15:18:04"
 draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/memes"
@@ -11,11 +11,11 @@ host: sowhois.gay
 lastmod: "2023-06-16 04:07:54"
 published: "2023-06-16 04:04:20"
 subscribers: 6
-posts: 19
-comments: 51
-weight: 19
+posts: 21
+comments: 52
+weight: 21
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "sowhois_gay"

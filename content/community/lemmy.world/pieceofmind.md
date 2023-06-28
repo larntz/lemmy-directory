@@ -3,7 +3,7 @@ title: "I've got an idea! "
 name: "pieceofmind"
 description: "Write down whatever simple idea you have here- For stories, games, drawings and whatnot- if you feel like you can make something out of it, even if simple, just leave some words down and let many and you use it in their work! Adminship can be transferred, community still getting developed -Nanachi "
 type: community
-date: "2023-06-24 01:15:58"
+date: "2023-06-28 15:20:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pieceofmind"

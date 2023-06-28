@@ -3,7 +3,7 @@ title: "My Life as a Teenage Robot "
 name: "mlaatr"
 description: "This is a place for all Leftist Fans of the classic cartoon My Life as a Teenage Robot. Feel free to discuss about the show or how we can establish Socialism with Robotic Characteristics here too! Rules:1. Follow the Rules of Lemmygrad 2. No Porn, **Especially referencing the Parody unironically**"
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/mlaatr"

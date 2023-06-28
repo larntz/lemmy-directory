@@ -3,14 +3,14 @@ title: "Antidigitalisten"
 name: "antidigitalisten"
 description: "Für die Zerschlagung des Zwischennetzes, der digitalen Welt und für Freibier für alle!"
 type: community
-date: "2023-06-23 01:19:36"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/antidigitalisten"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 13:48:27"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

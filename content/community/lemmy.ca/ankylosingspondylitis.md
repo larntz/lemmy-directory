@@ -3,14 +3,14 @@ title: "Ankylosing spondylitis"
 name: "ankylosingspondylitis"
 description: "This community is for the scientific discussion of the form of Rheumatoid Arthritis called Ankylosing Spondylitis"
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/ankylosingspondylitis"
 host: lemmy.ca
 lastmod: "2023-06-21 20:17:11"
 published: "2023-06-21 20:16:00"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

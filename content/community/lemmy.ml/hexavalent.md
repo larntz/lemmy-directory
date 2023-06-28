@@ -3,14 +3,14 @@ title: "Hexavalent"
 name: "hexavalent"
 description: ""
 type: community
-date: "2023-06-23 01:20:17"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hexavalent"
 host: lemmy.ml
 lastmod: "2021-12-09 00:51:02"
 published: "2021-11-17 18:40:51"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Papers and blogs for discussion"
 name: "papers_blogs"
 description: "We discuss research papers and blogs from all disciplines. Follow us on your instance by searching and adding the link below:`@papers_blogs@lemmy.ml`Or bookmark this site:[https://lemmy.ml/c/papers_blogs](https://lemmy.ml/c/papers_blogs)"
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/papers_blogs"

@@ -3,14 +3,14 @@ title: "Moçambique - Geral"
 name: "mocambique"
 description: "Comunidade para Moçambique."
 type: community
-date: "2023-06-24 01:13:25"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/mocambique"
 host: lemmy.pt
 lastmod: "2021-09-13 10:56:05"
 published: "2021-09-11 15:19:29"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

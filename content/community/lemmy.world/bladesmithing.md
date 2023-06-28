@@ -3,7 +3,7 @@ title: "Bladesmithing Community"
 name: "bladesmithing"
 description: "This is the bladesmithing community.  This is the knifemaking sister community to [!blacksmithing@lemmy.world](https://lemmy.world/c/blacksmithing).  "
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bladesmithing"

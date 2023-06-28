@@ -3,20 +3,20 @@ title: "Pauper – Playing MtG with commons"
 name: "mtg_pauper"
 description: "# /c/mtg_pauper  A place to talk about the [Pauper constructed format](https://magic.wizards.com/en/banned-restricted-list), a popular way to play the trading card game Magic: the Gathering!# Rules  - Please be nice  - Please keep posts related to the Pauper format"
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/mtg_pauper"
 host: discuss.tchncs.de
 lastmod: "2023-06-13 17:13:05"
 published: "2023-06-13 14:05:54"
-subscribers: 4
-posts: 2
+subscribers: 6
+posts: 3
 comments: 5
-weight: 2
+weight: 3
 dau: 1
-wau: 3
-mau: 3
+wau: 1
+mau: 4
 instances:
 - "discuss_tchncs_de"
 tags: 

@@ -3,7 +3,7 @@ title: "Budget Brews"
 name: "budgetbrews"
 description: "A place to discuss MTG EDH decks on a Budget."
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-28 15:21:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/budgetbrews"

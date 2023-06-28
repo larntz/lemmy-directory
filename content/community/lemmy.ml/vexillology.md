@@ -3,7 +3,7 @@ title: "Vexillology"
 name: "vexillology"
 description: "A community for [Vexillology](https://wikipedia.org/wiki/Vexillology).**Feel free to message me for moderator if you want to.**## Rules1. Posts should be relevant to vexillology."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vexillology"

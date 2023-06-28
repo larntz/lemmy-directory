@@ -3,17 +3,17 @@ title: "Philosophy"
 name: "philosophy"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/philosophy"
 host: mander.xyz
 lastmod: "0001-01-01 00:00:00"
 published: "2022-08-26 13:17:56"
-subscribers: 131
-posts: 9
+subscribers: 148
+posts: 10
 comments: 4
-weight: 9
+weight: 10
 dau: 1
 wau: 1
 mau: 1

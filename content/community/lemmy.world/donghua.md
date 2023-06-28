@@ -3,7 +3,7 @@ title: "Donghua (Chinese Anime)"
 name: "donghua"
 description: "Community for sharing and discussing donghua (Chinese anime)."
 type: community
-date: "2023-06-23 01:21:37"
+date: "2023-06-28 15:21:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/donghua"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

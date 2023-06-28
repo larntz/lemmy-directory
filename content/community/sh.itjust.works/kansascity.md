@@ -3,20 +3,20 @@ title: "Kansas City"
 name: "kansascity"
 description: "Place for Kansas City locals to chat about anything that's on their mind."
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/kansascity"
 host: sh.itjust.works
 lastmod: "2023-06-20 01:53:55"
 published: "2023-06-20 01:52:05"
-subscribers: 1
-posts: 0
+subscribers: 2
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "sh_itjust_works"
 tags: 

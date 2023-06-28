@@ -3,7 +3,7 @@ title: "Path of Exile Builds"
 name: "pathofexilebuilds"
 description: "Talk about PoE Builds!"
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://pathofexile-discuss.com/c/pathofexilebuilds"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 4
 instances:
 - "pathofexile-discuss_com"

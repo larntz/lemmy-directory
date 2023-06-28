@@ -3,20 +3,20 @@ title: "Sbubby - logos with edited text"
 name: "sbubby"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sbubby"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-05-01 18:48:44"
-subscribers: 34
-posts: 4
+subscribers: 40
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 1
-mau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 

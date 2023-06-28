@@ -3,14 +3,14 @@ title: "Ohio State Buckeyes"
 name: "osubuckeyes"
 description: "A community to discuss Ohio State Buckeyes athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/osubuckeyes"
 host: fanaticus.social
 lastmod: "2023-06-16 01:36:06"
 published: "2023-06-16 01:33:33"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0

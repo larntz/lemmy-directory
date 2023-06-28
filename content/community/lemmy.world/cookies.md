@@ -3,12 +3,12 @@ title: "cookies"
 name: "cookies"
 description: "you can post cookies you baked, cookie recipes, anything cookie related."
 type: community
-date: "2023-06-21 14:56:00"
+date: "2023-06-27 16:19:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cookies"
 host: lemmy.world
-lastmod: "2023-06-14 02:07:57"
+lastmod: "2023-06-27 16:19:34"
 published: "2023-06-14 02:06:44"
 subscribers: 3
 posts: 0

@@ -3,14 +3,14 @@ title: "planetside"
 name: "planetside"
 description: "tbd"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/planetside"
 host: sh.itjust.works
 lastmod: "2023-06-12 08:45:41"
 published: "2023-06-12 08:45:04"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "D Programming"
 name: "d_programming"
 description: "D:- https://dlang.org/D Language Reference:- https://dlang.org/spec/spec.htmlD(sub) package index:- https://code.dlang.org/"
 type: community
-date: "2023-06-24 01:12:59"
+date: "2023-06-28 15:18:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/d_programming"
 host: lemmy.einval.net
 lastmod: "2023-06-06 13:56:23"
 published: "2023-06-05 23:32:07"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

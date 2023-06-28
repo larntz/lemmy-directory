@@ -3,14 +3,14 @@ title: "unions"
 name: "unions"
 description: "a community focused on union news, info, discussion, etc"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unions"
 host: lemmy.ml
 lastmod: "2022-01-27 23:09:37"
 published: "2022-01-22 20:38:41"
-subscribers: 69
+subscribers: 70
 posts: 78
 comments: 42
 weight: 78

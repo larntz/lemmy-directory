@@ -3,14 +3,14 @@ title: "Spatial Computing"
 name: "spatialcomputing"
 description: "All things AR, VR, XR."
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/spatialcomputing"
 host: infosec.pub
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 00:20:41"
-subscribers: 20
+subscribers: 23
 posts: 1
 comments: 2
 weight: 1

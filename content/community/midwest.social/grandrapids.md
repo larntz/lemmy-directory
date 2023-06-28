@@ -3,14 +3,14 @@ title: "Grand Rapids"
 name: "grandrapids"
 description: "Beer City USA"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/grandrapids"
 host: midwest.social
 lastmod: "2023-06-18 01:05:48"
 published: "2023-06-18 00:31:16"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

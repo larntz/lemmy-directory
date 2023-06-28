@@ -3,17 +3,17 @@ title: "Zzzz"
 name: "sleepmusic"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:53"
+date: "2023-06-27 16:19:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sleepmusic"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:36"
 published: "2023-06-14 15:59:43"
-subscribers: 8
-posts: 5
+subscribers: 10
+posts: 8
 comments: 0
-weight: 5
+weight: 8
 dau: 1
 wau: 1
 mau: 1

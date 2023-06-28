@@ -3,14 +3,14 @@ title: "MovieSetMemes"
 name: "moviesetmemes"
 description: "Movie sets. In meme form."
 type: community
-date: "2023-06-24 01:13:06"
+date: "2023-06-28 15:17:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/moviesetmemes"
 host: lemmy.film
 lastmod: "2023-06-10 18:17:40"
 published: "2023-06-10 18:00:04"
-subscribers: 29
+subscribers: 31
 posts: 4
 comments: 4
 weight: 4

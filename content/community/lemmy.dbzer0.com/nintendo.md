@@ -3,14 +3,14 @@ title: "Nintendo"
 name: "nintendo"
 description: "Nintendo community"
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:18:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/nintendo"
 host: lemmy.dbzer0.com
 lastmod: "2023-06-22 12:56:00"
 published: "2023-06-22 12:53:17"
-subscribers: 12
+subscribers: 16
 posts: 1
 comments: 0
 weight: 1

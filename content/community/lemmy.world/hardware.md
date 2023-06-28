@@ -3,12 +3,12 @@ title: "Hardware"
 name: "hardware"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-28 15:21:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hardware"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 15:21:00"
 published: "2023-06-11 22:13:28"
 subscribers: 13
 posts: 0

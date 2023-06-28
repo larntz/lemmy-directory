@@ -3,14 +3,14 @@ title: "Hu Tao Mains"
 name: "hu_tao_mains"
 description: "Coming Soon"
 type: community
-date: "2023-06-24 01:15:40"
+date: "2023-06-28 15:20:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hu_tao_mains"
 host: lemmy.world
 lastmod: "2023-06-23 10:26:33"
 published: "2023-06-23 10:25:53"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

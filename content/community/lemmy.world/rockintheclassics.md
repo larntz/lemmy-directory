@@ -3,7 +3,7 @@ title: "Rockin' The Classics"
 name: "rockintheclassics"
 description: "A place to talk about retro consoles, retro gaming, and hacking mini consoles like the MD/NES/NES/PCE Classic, Playstation Classic, and so on. Keep on Rockin' The Classics!"
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-28 15:20:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rockintheclassics"

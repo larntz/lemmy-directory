@@ -1,22 +1,22 @@
 ---
 title: "CasualRO" 
 name: "casualro"
-description: "Description not available."
+description: "Comunitate pentru conversații ocazionale. Împărtășește o anecdotă, o poveste sau o experiență!1. Fără politică2. Nu atacați alți utilizatori3. Nu tolerăm discriminarea, intoleranța sau promovarea violenței4. Doar conținut românesc5. Discuții captivante"
 type: community
-date: "2023-06-24 01:13:27"
+date: "2023-06-28 15:17:58"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/casualro"
 host: feddit.ro
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-26 10:32:20"
 published: "2023-06-14 15:49:27"
-subscribers: 3
-posts: 4
-comments: 0
-weight: 4
+subscribers: 6
+posts: 8
+comments: 5
+weight: 8
 dau: 1
-wau: 1
-mau: 1
+wau: 4
+mau: 4
 instances:
 - "feddit_ro"
 tags: 

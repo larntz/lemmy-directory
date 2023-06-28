@@ -3,7 +3,7 @@ title: "技術系"
 name: "tech"
 description: "技術関連"
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.jp/c/tech"

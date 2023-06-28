@@ -3,7 +3,7 @@ title: "Shork Online Meta"
 name: "meta"
 description: "sub for information and discussion related to the shork.online instance itself"
 type: community
-date: "2023-06-24 01:13:26"
+date: "2023-06-28 15:17:56"
 draft: false
 nsfw: false
 actor_id: "https://shork.online/c/meta"
@@ -12,11 +12,11 @@ lastmod: "2023-06-13 23:14:45"
 published: "2023-06-13 17:39:19"
 subscribers: 2
 posts: 1
-comments: 2
+comments: 3
 weight: 1
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 1
+mau: 3
 instances:
 - "shork_online"
 tags: 

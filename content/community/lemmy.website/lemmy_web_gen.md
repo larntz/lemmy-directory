@@ -3,17 +3,17 @@ title: "Lemmy.Website General"
 name: "lemmy_web_gen"
 description: "**Welcome!**"
 type: community
-date: "2023-06-24 01:13:23"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.website/c/lemmy_web_gen"
 host: lemmy.website
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 01:41:56"
 subscribers: 4
-posts: 3
+posts: 4
 comments: 2
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 2

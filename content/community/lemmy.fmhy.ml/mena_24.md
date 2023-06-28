@@ -3,7 +3,7 @@ title: "askMENA"
 name: "mena_24"
 description: "**RULES**:1. No insults or uncivil behavior2. No hate speech3. Homophobia is not allowed4. No Preaching5. No Fake News6. No Trolling7. No Extremism8. Memes allowed9. Follow instance rules10. English Only11. Posts and Polls must be genuine12. Posts must be related to MENA13. No Low Effort Posts"
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/mena_24"

@@ -3,14 +3,14 @@ title: "E-commerce "
 name: "ecommerce"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ecommerce"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-27 23:46:01"
-subscribers: 28
+subscribers: 29
 posts: 6
 comments: 1
 weight: 6

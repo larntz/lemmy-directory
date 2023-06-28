@@ -3,14 +3,14 @@ title: "decentralized"
 name: "decentralized"
 description: "This is a community for the discussion and news about the decentralized web, software, privacy, and related topics. Rules: be a good human being"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/decentralized"
 host: lemmy.ml
 lastmod: "2021-01-28 16:37:53"
 published: "2020-06-29 04:34:00"
-subscribers: 1569
+subscribers: 1592
 posts: 59
 comments: 134
 weight: 59

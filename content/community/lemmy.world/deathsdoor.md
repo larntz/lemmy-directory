@@ -3,14 +3,14 @@ title: "Death's Door"
 name: "deathsdoor"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:40"
+date: "2023-06-28 15:20:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/deathsdoor"
 host: lemmy.world
 lastmod: "2023-06-23 14:39:17"
 published: "2023-06-23 14:33:12"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

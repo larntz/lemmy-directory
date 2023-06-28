@@ -3,7 +3,7 @@ title: "Vagabond"
 name: "vagabond"
 description: "A place for travelers to congregate, share their tales, and offer wisdom!"
 type: community
-date: "2023-06-24 01:15:46"
+date: "2023-06-28 15:21:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vagabond"

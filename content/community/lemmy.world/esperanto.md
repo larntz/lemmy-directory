@@ -3,14 +3,14 @@ title: "Esperanto, la internacia lingvo!"
 name: "esperanto"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 14:06:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/esperanto"
 host: lemmy.world
-lastmod: "2023-06-12 05:39:20"
+lastmod: "2023-06-28 14:06:13"
 published: "2023-06-12 05:36:39"
-subscribers: 10
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1

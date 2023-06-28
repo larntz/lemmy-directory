@@ -3,14 +3,14 @@ title: "lemmy.gregw.us Support"
 name: "support"
 description: "Support Q&A for lemmy.gregw.us"
 type: community
-date: "2023-06-24 01:13:33"
+date: "2023-06-28 15:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.gregw.us/c/support"
 host: lemmy.gregw.us
 lastmod: "2023-06-16 19:06:25"
 published: "2023-06-16 01:03:28"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

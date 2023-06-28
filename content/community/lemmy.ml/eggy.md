@@ -3,7 +3,7 @@ title: "Eggy"
 name: "eggy"
 description: "Enjoy a Burritos el Chavo with the band Eggy. Home for friendly discussion of the band on Lemmy!"
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eggy"

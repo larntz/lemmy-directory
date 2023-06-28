@@ -3,14 +3,14 @@ title: "Gunz The Duel"
 name: "gunz"
 description: "GunZ: The Duel (Korean: 건즈 온라인), or simply GunZ, is an online third-person shooting game  The game allow players to perform exaggerated, gravity-defying action moves, including wall running, stunning, tumbling, and blocking bullets with swords, in the style of action films and anime."
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gunz"
 host: lemmy.ml
 lastmod: "2021-02-01 19:19:05"
 published: "2021-02-01 17:38:56"
-subscribers: 11
+subscribers: 12
 posts: 5
 comments: 5
 weight: 5

@@ -3,7 +3,7 @@ title: "Virginia Tech"
 name: "virginiatech"
 description: "A community for Hokies: On campus, around town, and around the New River Valley. "
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:20:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/virginiatech"

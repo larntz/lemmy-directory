@@ -3,14 +3,14 @@ title: "Rats"
 name: "rats"
 description: "Holding page for a future fedi alternative to the /r/RATS subreddit"
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/rats"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-17 00:14:21"
 published: "2023-06-17 00:11:50"
-subscribers: 4
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

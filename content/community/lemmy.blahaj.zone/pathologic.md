@@ -3,17 +3,17 @@ title: "Pathologic"
 name: "pathologic"
 description: "Community for the game Pathologic developed by Ice-Pick Lodge[Official Site](https://pathologic-game.com/en/)[Official Pathologic Wiki](https://pathologic.fandom.com/wiki/Pathologic_Wiki) [Dialogue browser](https://pathologicdialogue.github.io/) "
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/pathologic"
 host: lemmy.blahaj.zone
 lastmod: "2023-06-15 18:12:47"
 published: "2023-06-15 18:06:19"
-subscribers: 2
-posts: 0
+subscribers: 3
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0

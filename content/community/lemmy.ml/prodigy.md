@@ -3,19 +3,19 @@ title: "The Prodigy"
 name: "prodigy"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/prodigy"
 host: lemmy.ml
 lastmod: "2023-06-16 12:56:41"
 published: "2023-06-16 10:13:09"
-subscribers: 5
+subscribers: 6
 posts: 16
 comments: 1
 weight: 16
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"

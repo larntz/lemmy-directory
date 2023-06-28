@@ -3,14 +3,14 @@ title: "SwitchPiracy"
 name: "switchpiracy"
 description: "All things related to Switch Piracy."
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-27 16:15:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/switchpiracy"
 host: lemmy.dbzer0.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:15:58"
 published: "2023-06-12 09:36:09"
-subscribers: 117
+subscribers: 124
 posts: 0
 comments: 0
 weight: 0

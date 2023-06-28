@@ -3,14 +3,14 @@ title: "Wholesome"
 name: "wholesome"
 description: "The community for everything wholesome."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wholesome"
 host: lemmy.ml
 lastmod: "2021-12-05 07:18:05"
 published: "2021-12-05 07:15:20"
-subscribers: 15
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

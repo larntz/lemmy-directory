@@ -3,12 +3,12 @@ title: "Skuntank"
 name: "skuntank"
 description: "For fans of the Pokémon, Skuntank."
 type: community
-date: "2023-06-24 01:15:56"
+date: "2023-06-28 14:06:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skuntank"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:06:18"
 published: "2023-06-17 15:22:37"
 subscribers: 4
 posts: 1

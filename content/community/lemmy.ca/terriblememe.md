@@ -3,19 +3,19 @@ title: "Terrible Facebook meme"
 name: "terriblememe"
 description: "share cringe boomer meme.anti comedy c/"
 type: community
-date: "2023-06-24 01:13:39"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/terriblememe"
 host: lemmy.ca
 lastmod: "2023-06-16 00:40:43"
 published: "2023-06-15 12:32:03"
-subscribers: 9
-posts: 4
+subscribers: 12
+posts: 5
 comments: 9
-weight: 4
-dau: 0
-wau: 4
+weight: 5
+dau: 1
+wau: 1
 mau: 7
 instances:
 - "lemmy_ca"

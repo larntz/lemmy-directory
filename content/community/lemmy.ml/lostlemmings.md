@@ -3,14 +3,14 @@ title: "Lost Lemmings"
 name: "lostlemmings"
 description: "Wait, wrong sub."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lostlemmings"
 host: lemmy.ml
 lastmod: "2023-06-12 16:04:01"
 published: "2023-06-12 16:02:39"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

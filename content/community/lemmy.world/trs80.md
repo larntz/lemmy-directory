@@ -3,14 +3,14 @@ title: "TRS-80 Computers"
 name: "trs80"
 description: "Discussion of all things related to TRS-80 Computers!"
 type: community
-date: "2023-06-24 01:15:40"
+date: "2023-06-28 15:20:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trs80"
 host: lemmy.world
 lastmod: "2023-06-23 18:37:09"
 published: "2023-06-23 18:30:40"
-subscribers: 5
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

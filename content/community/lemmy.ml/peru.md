@@ -3,14 +3,14 @@ title: "Peru 🇵🇪"
 name: "peru"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/peru"
 host: lemmy.ml
 lastmod: "2022-06-27 13:07:52"
 published: "2022-05-11 17:23:02"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

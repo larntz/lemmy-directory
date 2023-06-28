@@ -3,7 +3,7 @@ title: "Griefge"
 name: "vidyatrolling"
 description: "Clips, Vids or Vods of griefing, exploiting, trolling, baiting or general Toomfoolery for reactions and lulz in Interactive Computer Games or related mediums."
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:43"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/vidyatrolling"

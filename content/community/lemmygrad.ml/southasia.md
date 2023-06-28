@@ -3,7 +3,7 @@ title: "South Asia"
 name: "southasia"
 description: "A community for all things related to South Asian countries.**Rules:**1: Be Comradely and Behave Well   2: No Racism, Sexism or Bigotry   3: Western propaganda is prohibited**South Asian Countries :**- Afghanistan- Bangladesh- Bhutan- India- Maldives- Nepal- Pakistan- Sri Lanka"
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/southasia"

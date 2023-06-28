@@ -3,14 +3,14 @@ title: "Game Updates"
 name: "gameupdates"
 description: "A community for keeping up with game updates. Please keep posts to update announcements and remember to link a source and write a short TLDR of it. Feel free to discuss them in the comments, though!"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gameupdates"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 05:49:39"
-subscribers: 29
+subscribers: 31
 posts: 8
 comments: 1
 weight: 8

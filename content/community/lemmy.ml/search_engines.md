@@ -3,14 +3,14 @@ title: "search-engines"
 name: "search_engines"
 description: "search engine software and sharing new alternative search sites."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/search_engines"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-02-18 05:41:23"
-subscribers: 70
+subscribers: 71
 posts: 18
 comments: 23
 weight: 18

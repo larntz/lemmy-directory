@@ -3,7 +3,7 @@ title: "World Economy"
 name: "worldeconomy"
 description: "Community for discussion for the discussion of the world economy (Not including the US economy which has it's own community at lemmy.world/c/useconomy)"
 type: community
-date: "2023-06-24 01:15:53"
+date: "2023-06-28 15:20:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/worldeconomy"

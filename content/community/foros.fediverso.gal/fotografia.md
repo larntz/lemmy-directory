@@ -3,14 +3,14 @@ title: "Fotografía"
 name: "fotografia"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:12:51"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/fotografia"
 host: foros.fediverso.gal
 lastmod: "1969-12-31 19:00:00"
 published: "2022-12-17 12:39:39"
-subscribers: 21
+subscribers: 22
 posts: 9
 comments: 29
 weight: 9

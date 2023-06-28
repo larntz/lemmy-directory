@@ -3,17 +3,17 @@ title: "Nicky Whelan"
 name: "nickywhelan"
 description: "Nicky Whelan's pictures, gifs, and videos"
 type: community
-date: "2023-06-24 01:13:54"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/nickywhelan"
 host: lemmynsfw.com
 lastmod: "2023-06-21 12:36:14"
 published: "2023-06-21 12:35:12"
-subscribers: 11
-posts: 1
+subscribers: 12
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1

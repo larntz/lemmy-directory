@@ -3,14 +3,14 @@ title: "Devine (Texas)"
 name: "devine"
 description: "For things happening in Devine, TX"
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 14:06:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/devine"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:06:18"
 published: "2023-06-18 12:22:08"
-subscribers: 3
+subscribers: 2
 posts: 1
 comments: 3
 weight: 1

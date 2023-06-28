@@ -3,14 +3,14 @@ title: "ArchLinux"
 name: "arch"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arch"
 host: lemmy.ml
 lastmod: "2020-06-29 06:40:18"
 published: "2020-06-29 06:39:22"
-subscribers: 46
+subscribers: 48
 posts: 0
 comments: 0
 weight: 0

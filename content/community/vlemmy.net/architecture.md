@@ -3,19 +3,19 @@ title: "Architecture"
 name: "architecture"
 description: "A place to share interesting projects, texts, discussions, podcasts... around architecture."
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/architecture"
 host: vlemmy.net
 lastmod: "2023-06-13 05:46:59"
 published: "2023-06-13 05:25:08"
-subscribers: 57
+subscribers: 70
 posts: 7
 comments: 6
 weight: 7
 dau: 1
-wau: 2
+wau: 1
 mau: 7
 instances:
 - "vlemmy_net"

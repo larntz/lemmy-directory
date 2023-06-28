@@ -1,22 +1,22 @@
 ---
 title: "Termux" 
 name: "termux"
-description: "Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.Discord: https://discord.gg/HXpF69X"
+description: "Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. A minimal base system is installed automatically - additional packages are available using the APT package manager.* [Website](https://termux.dev)* [F-Droid](https://f-droid.org/en/packages/com.termux)* [GitHub](https://github.com/termux)* [Discord](https://discord.gg/HXpF69X)"
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-27 16:15:54"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/termux"
 host: reddthat.com
-lastmod: "2023-06-21 03:26:27"
+lastmod: "2023-06-27 16:15:54"
 published: "2023-06-20 04:01:17"
-subscribers: 9
-posts: 1
+subscribers: 21
+posts: 3
 comments: 2
-weight: 1
-dau: 3
+weight: 3
+dau: 1
 wau: 3
-mau: 3
+mau: 5
 instances:
 - "reddthat_com"
 tags: 

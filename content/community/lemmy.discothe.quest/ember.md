@@ -3,7 +3,7 @@ title: "Ember JS"
 name: "ember"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:33"
+date: "2023-06-28 15:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.discothe.quest/c/ember"

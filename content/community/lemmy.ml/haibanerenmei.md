@@ -3,14 +3,14 @@ title: "Haibane Renmei"
 name: "haibanerenmei"
 description: "This is a page for people who enjoyed the series Haibane Renmei (灰羽連盟) Feel free to discuss anything about Haibane Renmei or even things related to Haibane Renmei. Post your links and other things to help build this community."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/haibanerenmei"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-01-13 10:54:17"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Milton Keynes"
 name: "milton_keynes"
 description: "Community for the City of Milton Keynes"
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/milton_keynes"
 host: feddit.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 08:33:39"
-subscribers: 22
+subscribers: 24
 posts: 3
 comments: 16
 weight: 3

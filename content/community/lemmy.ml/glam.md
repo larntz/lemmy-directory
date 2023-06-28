@@ -3,14 +3,14 @@ title: "Galleries, Libraries, Archives, & Museums"
 name: "glam"
 description: "a community for folks within GLAMs!"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-28 15:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/glam"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-06-29 22:30:03"
-subscribers: 11
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0

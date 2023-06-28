@@ -3,7 +3,7 @@ title: "Rain World"
 name: "rainworld"
 description: "Unofficial community for the popular indie game Rain World.Rules:- Don't post bigoted content- Keep things Safe for Work- Posts should relate to the game- Don't post about major spoilers- No piracy"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/rainworld"
@@ -16,7 +16,7 @@ comments: 0
 weight: 2
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_blahaj_zone"
 tags: 

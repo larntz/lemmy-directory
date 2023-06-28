@@ -3,14 +3,14 @@ title: "Undertale"
 name: "undertale"
 description: "sh.itjust.works's Undertale and (sometimes) Deltarune Community!"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/undertale"
 host: sh.itjust.works
 lastmod: "2023-06-14 16:50:43"
 published: "2023-06-14 16:40:06"
-subscribers: 6
+subscribers: 9
 posts: 1
 comments: 2
 weight: 1

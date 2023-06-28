@@ -3,7 +3,7 @@ title: "Mid Century Modern"
 name: "mcm"
 description: "A community for enthusiasts of mid century modern design. From Charles and Ray Eames to Paul McCobb and Adrian Pearsall. "
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:20:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mcm"

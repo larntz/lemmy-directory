@@ -3,14 +3,14 @@ title: "PiracyGuides"
 name: "piracyguides"
 description: "A place to discuss your knowledge about piracy."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/piracyguides"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-03-01 16:06:22"
-subscribers: 17
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0

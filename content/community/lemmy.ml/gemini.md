@@ -3,14 +3,14 @@ title: "gemini"
 name: "gemini"
 description: "https://gemini.circumlunar.space/Gemini is a new internet protocol which:    Is heavier than gopher    Is lighter than the web    Will not replace either    Strives for maximum power to weight ratio    Takes user privacy very seriously"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gemini"
 host: lemmy.ml
 lastmod: "2021-04-18 11:31:48"
 published: "2020-07-05 10:43:48"
-subscribers: 259
+subscribers: 261
 posts: 56
 comments: 65
 weight: 56

@@ -3,14 +3,14 @@ title: "Anime Art"
 name: "animeart"
 description: "Yes, this is a place (sublemmy?) for anime art. Anything is allowed, but please credit references and if it isn’t your own credit the original artist. Please keep it SFW :’)"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/animeart"
 host: lemmy.ml
 lastmod: "2020-05-26 08:49:36"
 published: "2020-05-24 18:31:27"
-subscribers: 34
+subscribers: 36
 posts: 6
 comments: 1
 weight: 6

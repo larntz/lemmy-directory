@@ -3,7 +3,7 @@ title: "IWantOut"
 name: "iwantout"
 description: "The lemmy version of the old reddit IWantOut subreddit. This is a place to get advice for moving from one place to another"
 type: community
-date: "2023-06-23 01:21:30"
+date: "2023-06-28 15:20:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iwantout"

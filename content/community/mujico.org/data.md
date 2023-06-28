@@ -3,14 +3,14 @@ title: "Data"
 name: "data"
 description: "Estadísticas, análisis y visualización de datos."
 type: community
-date: "2023-06-24 01:12:43"
+date: "2023-06-28 15:18:16"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/data"
 host: mujico.org
 lastmod: "2022-09-04 17:51:04"
 published: "2022-09-04 17:42:20"
-subscribers: 180
+subscribers: 182
 posts: 45
 comments: 305
 weight: 45

@@ -3,20 +3,20 @@ title: "cats"
 name: "cats"
 description: "cats"
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/cats"
 host: lemmy.sdf.org
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 22:21:22"
-subscribers: 153
-posts: 13
-comments: 11
-weight: 13
+subscribers: 173
+posts: 16
+comments: 13
+weight: 16
 dau: 1
-wau: 2
-mau: 16
+wau: 3
+mau: 19
 instances:
 - "lemmy_sdf_org"
 tags: 

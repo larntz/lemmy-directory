@@ -3,12 +3,12 @@ title: "Bünzli"
 name: "buenzli"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:47"
+date: "2023-06-27 16:19:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buenzli"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:38"
 published: "2023-06-11 07:34:28"
 subscribers: 1
 posts: 0

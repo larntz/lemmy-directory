@@ -3,12 +3,12 @@ title: "ryujinx"
 name: "ryujinx"
 description: "Ryujinx Nintendo Switch emulator https://ryujinx.org/"
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-27 16:16:31"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ryujinx"
 host: sh.itjust.works
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-27 16:16:31"
 published: "2023-06-17 12:05:19"
 subscribers: 8
 posts: 1

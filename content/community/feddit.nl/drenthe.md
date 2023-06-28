@@ -3,14 +3,14 @@ title: "Drenthe"
 name: "drenthe"
 description: "Welkom in Drenthe!"
 type: community
-date: "2023-06-24 01:12:58"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/drenthe"
 host: feddit.nl
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 07:54:58"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 2
 weight: 2

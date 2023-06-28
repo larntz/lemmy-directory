@@ -3,14 +3,14 @@ title: "GPU Mining"
 name: "gpumining"
 description: "The community of **GPU** mining enthusiasts, both professionals and hobbyists."
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gpumining"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-04-22 06:18:35"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "For the city of Chicago"
 name: "chicago"
 description: "I'll make this later"
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/chicago"

@@ -3,7 +3,7 @@ title: "UNIVAC"
 name: "univac"
 description: "A place to talk about all things UNIVAC related, the mainframe series by Sperry Corporation."
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-28 15:20:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/univac"

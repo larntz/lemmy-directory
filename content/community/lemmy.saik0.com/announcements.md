@@ -3,14 +3,14 @@ title: "Announcements"
 name: "announcements"
 description: "Subscribe to this community to get updates about the instance itself."
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.saik0.com/c/announcements"
 host: lemmy.saik0.com
 lastmod: "2023-06-18 06:35:28"
 published: "2023-06-12 00:53:42"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 0
 weight: 3

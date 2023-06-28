@@ -3,7 +3,7 @@ title: "Megaf"
 name: "megaf"
 description: "Welcome to my profile page on Lemmy!"
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/megaf"

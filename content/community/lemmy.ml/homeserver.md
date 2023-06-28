@@ -3,14 +3,14 @@ title: "Home Server"
 name: "homeserver"
 description: "A community based around the building, set up, and use of home servers for a variety of purposes. All discussion is welcome!"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homeserver"
 host: lemmy.ml
 lastmod: "2022-01-13 11:44:06"
 published: "2022-01-13 11:03:58"
-subscribers: 137
+subscribers: 141
 posts: 1
 comments: 1
 weight: 1

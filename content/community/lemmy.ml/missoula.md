@@ -3,7 +3,7 @@ title: "Missoula"
 name: "missoula"
 description: "Missoula Montana"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/missoula"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 16:21:59"
 subscribers: 2
-posts: 8
+posts: 11
 comments: 2
-weight: 8
+weight: 11
 dau: 1
 wau: 1
 mau: 1

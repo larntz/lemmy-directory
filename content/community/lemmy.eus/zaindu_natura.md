@@ -3,7 +3,7 @@ title: "Lurraren, landareen eta naturaren zaintza eta ezagutza"
 name: "zaindu_natura"
 description: "Lurraren, landareen eta naturaren zaintzaz eta ezagutzaz idazteko txokoa.+ Nola zaindu?+ Nola erabili sendabelarrak eta beste landareak gure bizitzetan? + Nola ezberdindu espezieak?Beste izakiekiko errespetuz jokatu."
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/zaindu_natura"

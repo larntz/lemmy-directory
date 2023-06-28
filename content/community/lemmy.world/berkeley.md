@@ -3,12 +3,12 @@ title: "berkeley"
 name: "berkeley"
 description: "go bears"
 type: community
-date: "2023-06-24 01:15:48"
+date: "2023-06-27 16:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/berkeley"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:31"
 published: "2023-06-13 01:20:31"
 subscribers: 9
 posts: 1

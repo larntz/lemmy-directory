@@ -3,14 +3,14 @@ title: "Long Furbies"
 name: "longfurbies"
 description: "A community for posting fanart, crafts, and weird creations based on the (in)famous electronic toy of the late 90's."
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/longfurbies"
 host: possumpat.io
 lastmod: "2023-06-09 23:19:32"
 published: "2023-06-07 18:12:27"
-subscribers: 24
+subscribers: 29
 posts: 2
 comments: 4
 weight: 2

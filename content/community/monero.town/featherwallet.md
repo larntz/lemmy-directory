@@ -3,7 +3,7 @@ title: "Feather Wallet"
 name: "featherwallet"
 description: "Site: [featherwallet.org](https://featherwallet.org)  Docs: [docs.featherwallet.org](https://docs.featherwallet.org)  Matrix: `#feather:monero.social`  Git: https://github.com/feather-wallet/featherRelease signing key:```8185 E158 A333 30C7 FD61BC0D 1F76 E155 CEFB A71C```"
 type: community
-date: "2023-06-24 01:13:21"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/featherwallet"

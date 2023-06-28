@@ -3,14 +3,14 @@ title: "Game Development"
 name: "gamedev"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamedev"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-08-19 09:47:08"
-subscribers: 1011
+subscribers: 1039
 posts: 62
 comments: 53
 weight: 62

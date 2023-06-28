@@ -3,20 +3,20 @@ title: "Buddhism"
 name: "buddhism"
 description: "A community for Buddhism.Other subs-    c/buddhism-    c/zen-    c/alcoholicbuddhists-    c/buddhistaddicts-    c/zen-    c/theravada-    c/pureland-    c/tibetanbuddhism-    c/buddhiststudies-    c/vajrayana>"
 type: community
-date: "2023-06-24 01:15:53"
+date: "2023-06-28 15:21:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buddhism"
 host: lemmy.world
 lastmod: "2023-06-17 20:16:48"
 published: "2023-06-11 01:51:13"
-subscribers: 124
-posts: 8
-comments: 8
-weight: 8
-dau: 2
-wau: 6
-mau: 6
+subscribers: 150
+posts: 11
+comments: 11
+weight: 11
+dau: 1
+wau: 7
+mau: 9
 instances:
 - "lemmy_world"
 tags: 

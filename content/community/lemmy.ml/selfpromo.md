@@ -3,7 +3,7 @@ title: "Self Promotion"
 name: "selfpromo"
 description: "A place for you to promote your own or others' content on the Fediverse or under Creative Commons licenses. Content which does not meet this criteria will be removed, and please view and comment on others' work whenever possible."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/selfpromo"

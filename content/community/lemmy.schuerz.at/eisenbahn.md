@@ -3,14 +3,14 @@ title: "Eisenbahnen, Schmalspurbahnen"
 name: "eisenbahn"
 description: "Alles über die große Eisenbahn. E"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/eisenbahn"
 host: lemmy.schuerz.at
 lastmod: "2021-12-27 23:20:08"
 published: "2021-02-18 15:40:49"
-subscribers: 9
+subscribers: 10
 posts: 7
 comments: 2
 weight: 7

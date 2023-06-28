@@ -3,14 +3,14 @@ title: "Dating"
 name: "dating"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:21:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dating"
 host: lemmy.world
 lastmod: "2023-06-19 05:55:17"
 published: "2023-06-18 05:07:24"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

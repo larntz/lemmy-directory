@@ -3,14 +3,14 @@ title: "Scams"
 name: "scams"
 description: "Discuss scams"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scams"
 host: lemmy.ml
 lastmod: "2023-01-27 13:16:47"
 published: "2021-10-08 07:35:10"
-subscribers: 47
+subscribers: 50
 posts: 9
 comments: 9
 weight: 9

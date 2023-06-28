@@ -3,7 +3,7 @@ title: "Mausritter RPG"
 name: "mausritter"
 description: "The community to talk about the  [mausritter RPG](https://mausritter.com)."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mausritter"

@@ -3,7 +3,7 @@ title: "Dub Music"
 name: "dub"
 description: "music that sounds bigger than the sound system it's playing on"
 type: community
-date: "2023-06-23 01:21:33"
+date: "2023-06-28 15:20:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dub"

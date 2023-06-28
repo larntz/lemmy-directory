@@ -3,7 +3,7 @@ title: "GachiMuchi"
 name: "gachi"
 description: "gachimuchi and related media mark nsfw as needed♂️♂️♂️♂️♂️♂️♂️♂️♂️♂️♂️♂️♂️♂️♂️♂️"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:43"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/gachi"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_burger_rodeo"

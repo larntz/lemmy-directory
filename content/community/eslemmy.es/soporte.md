@@ -3,19 +3,19 @@ title: "Soporte Técnico"
 name: "soporte"
 description: "Comunidad para que los usuarios de lemmy puedan consultar en castellano como utilizar las funciones que ofrece o como personalizar su cuenta."
 type: community
-date: "2023-06-23 01:19:06"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://eslemmy.es/c/soporte"
 host: eslemmy.es
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 10:54:10"
 subscribers: 10
-posts: 7
-comments: 13
-weight: 7
+posts: 8
+comments: 15
+weight: 8
 dau: 2
-wau: 5
+wau: 2
 mau: 5
 instances:
 - "eslemmy_es"

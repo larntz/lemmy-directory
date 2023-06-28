@@ -3,14 +3,14 @@ title: "Ansible"
 name: "ansible"
 description: "# TODO"
 type: community
-date: "2023-06-24 01:15:47"
+date: "2023-06-27 16:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ansible"
 host: lemmy.world
-lastmod: "2023-06-12 01:32:30"
+lastmod: "2023-06-27 16:19:33"
 published: "2023-06-12 01:19:11"
-subscribers: 32
+subscribers: 39
 posts: 1
 comments: 0
 weight: 1

@@ -3,20 +3,20 @@ title: "Privatliv"
 name: "privatliv"
 description: "Alt omkring privatlivets fred."
 type: community
-date: "2023-06-24 01:12:51"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/privatliv"
 host: feddit.dk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 22:59:31"
-subscribers: 10
-posts: 1
-comments: 0
-weight: 1
+subscribers: 18
+posts: 2
+comments: 3
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 3
+mau: 3
 instances:
 - "feddit_dk"
 tags: 

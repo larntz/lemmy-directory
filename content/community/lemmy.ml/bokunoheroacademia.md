@@ -3,14 +3,14 @@ title: "Boku No Hero Academia"
 name: "bokunoheroacademia"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bokunoheroacademia"
 host: lemmy.ml
 lastmod: "2023-06-06 22:35:53"
 published: "2023-06-06 22:34:13"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

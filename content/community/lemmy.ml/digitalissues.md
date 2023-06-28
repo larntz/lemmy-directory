@@ -3,14 +3,14 @@ title: "Digital Issues"
 name: "digitalissues"
 description: "Political discourse of issues revolving the digital. Asking big and small questions. What should the internet be? Is this software beneficial for the user? "
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/digitalissues"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-03-30 08:06:25"
-subscribers: 51
+subscribers: 52
 posts: 13
 comments: 47
 weight: 13

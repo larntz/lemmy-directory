@@ -3,14 +3,14 @@ title: "Rollerblading"
 name: "rollerblading"
 description: "Currently just a parked community, message the mod if you want to take over it!"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rollerblading"
 host: lemmy.ml
 lastmod: "2022-01-25 19:58:37"
 published: "2022-01-25 11:25:04"
-subscribers: 24
+subscribers: 27
 posts: 1
 comments: 2
 weight: 1

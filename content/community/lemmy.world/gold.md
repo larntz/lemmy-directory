@@ -3,7 +3,7 @@ title: "Gold"
 name: "gold"
 description: "Rules1. No bigotry - including racism, sexism, homophobia, transphobia, or xenophobia. [Code of Conduct.](https://join-lemmy.org/docs/en/code_of_conduct.html)2. Be respectful. Everyone should feel welcome here.3. No NSFW4. No Ads / Spamming.5. All hail the true precious metal"
 type: community
-date: "2023-06-23 01:21:35"
+date: "2023-06-28 15:21:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gold"

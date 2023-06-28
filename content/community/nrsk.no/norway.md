@@ -3,14 +3,14 @@ title: "Norway"
 name: "norway"
 description: "Regarding Norway, in English. Posts in Norwegian, Swedish or Danish goes in [!norge@nrsk.no](https://nrsk.no/c/norge).(🇳🇴) Poster på norsk skal i [!norge@nrsk.no](https://nrsk.no/c/norge)."
 type: community
-date: "2023-06-24 01:13:29"
+date: "2023-06-28 15:18:08"
 draft: false
 nsfw: false
 actor_id: "https://nrsk.no/c/norway"
 host: nrsk.no
 lastmod: "2023-06-17 15:54:15"
 published: "2023-06-17 15:52:48"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

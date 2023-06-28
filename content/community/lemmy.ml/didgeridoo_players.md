@@ -3,14 +3,14 @@ title: "Didgeridoo players of the world"
 name: "didgeridoo_players"
 description: "Are you a didgeridoo player? Do you want to share your knowledge, be known? share some good didgeridoo vibes here!"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/didgeridoo_players"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-02-13 02:56:58"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

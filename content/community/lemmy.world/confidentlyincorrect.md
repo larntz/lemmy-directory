@@ -3,14 +3,14 @@ title: "Confidently incorrect"
 name: "confidentlyincorrect"
 description: "For posting people that are very confident about something while being incorrect"
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-28 15:20:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/confidentlyincorrect"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 18:02:33"
-subscribers: 27
+subscribers: 32
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "PAW"
 name: "paw"
 description: "Pedalska Akcja Wyzwoleńcza | queerowy antyfaszyzm | antyasymilacjonizm | queerowe wyzwolenie, nie tęczowy kapitalizm!"
 type: community
-date: "2023-06-24 01:13:35"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/paw"
 host: szmer.info
 lastmod: "2023-05-24 20:29:19"
 published: "2023-05-24 20:27:34"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "PICO-8"
 name: "pico8"
 description: "A place to discuss, share, and collaborate all things PICO-8, the fantasy game console by Lexaloffle! Show off your work, talk about your favorite carts, and meet other Pico-8 enthusiasts!   * [PICO-8 Homepage](http://www.lexaloffle.com/pico-8.php)   * [PICO-8 Cartridges](http://www.lexaloffle.com/bbs/?cat=7&sub=2)   * [PICO-8 BBS](http://www.lexaloffle.com/bbs/?cat=7)"
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pico8"

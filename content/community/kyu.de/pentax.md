@@ -3,14 +3,14 @@ title: "Pentax"
 name: "pentax"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://kyu.de/c/pentax"
 host: kyu.de
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 10:52:47"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2

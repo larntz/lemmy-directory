@@ -3,14 +3,14 @@ title: "Pizza"
 name: "pizza"
 description: "Pizzas of all kinds and styles welcome. Show me your pies!"
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/pizza"
 host: vlemmy.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 16:28:47"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "sailormoon"
 name: "sailormoon"
 description: "A Lemmy for fans of the Sailor Moon franchise. Please remember to read the rules in the sidebar:- Respect One Another. Super Simple Stuff Here.- No Hate Speech. - No NSFW/Porn/Hentai.- No Pirating Material.- Credit Fanworks."
 type: community
-date: "2023-06-24 01:15:50"
+date: "2023-06-28 15:20:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sailormoon"
 host: lemmy.world
 lastmod: "2023-06-11 07:48:06"
 published: "2023-06-10 13:46:12"
-subscribers: 27
+subscribers: 32
 posts: 3
 comments: 0
 weight: 3

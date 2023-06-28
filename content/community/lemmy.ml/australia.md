@@ -3,19 +3,19 @@ title: "Australia"
 name: "australia"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/australia"
 host: lemmy.ml
 lastmod: "2021-01-30 00:32:21"
 published: "2019-10-21 19:51:00"
-subscribers: 517
+subscribers: 546
 posts: 89
-comments: 138
+comments: 131
 weight: 89
 dau: 1
-wau: 11
+wau: 3
 mau: 42
 instances:
 - "lemmy_ml"

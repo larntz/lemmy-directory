@@ -3,14 +3,14 @@ title: "Beleggen"
 name: "beleggen"
 description: "Een community voor alle topics over beleggen, aandelen, opties, obligaties, brokers, etc."
 type: community
-date: "2023-06-24 01:12:58"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/beleggen"
 host: feddit.nl
 lastmod: "2023-06-12 10:03:16"
 published: "2023-06-11 20:55:13"
-subscribers: 59
+subscribers: 64
 posts: 3
 comments: 33
 weight: 3

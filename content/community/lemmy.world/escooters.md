@@ -3,12 +3,12 @@ title: "E-Scooters"
 name: "escooters"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-27 16:19:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/escooters"
 host: lemmy.world
-lastmod: "2023-06-21 06:08:32"
+lastmod: "2023-06-27 16:19:41"
 published: "2023-06-21 05:04:23"
 subscribers: 2
 posts: 1

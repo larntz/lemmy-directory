@@ -3,7 +3,7 @@ title: "Brighton & Hove Albion FC"
 name: "seagulls"
 description: "A place to discuss all goings-on related to Brighton's local Premier League Team"
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/seagulls"

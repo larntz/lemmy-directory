@@ -3,14 +3,14 @@ title: "foundation of nothing"
 name: "collapsefoundation"
 description: "Lemmy home of Collapse Foundation. Also see reddit.com/r/CollapseFoundation"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/collapsefoundation"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-01-18 22:25:04"
-subscribers: 7
+subscribers: 8
 posts: 3
 comments: 6
 weight: 3

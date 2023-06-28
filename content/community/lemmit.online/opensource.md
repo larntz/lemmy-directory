@@ -3,20 +3,20 @@ title: "Open Source on Reddit"
 name: "opensource"
 description: "A subreddit for everything [open source](http://en.wikipedia.org/wiki/Open_source) related."
 type: community
-date: "2023-06-24 01:13:23"
+date: "2023-06-28 15:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/opensource"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 22:17:11"
-subscribers: 4
-posts: 41
-comments: 0
-weight: 41
-dau: 0
-wau: 0
-mau: 0
+subscribers: 9
+posts: 101
+comments: 1
+weight: 101
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmit_online"
 tags: 

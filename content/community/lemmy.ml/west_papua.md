@@ -3,14 +3,14 @@ title: "West Papua"
 name: "west_papua"
 description: "Papua merdeka"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/west_papua"
 host: lemmy.ml
 lastmod: "2021-01-29 13:30:29"
 published: "2020-06-28 07:42:22"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

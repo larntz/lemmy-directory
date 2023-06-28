@@ -3,14 +3,14 @@ title: "Jeep CherokeeXJ"
 name: "cherokeexj"
 description: "All things Jeep XJ/MJ. If it's an XJ or an MJ, it's welcome here. "
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/cherokeexj"
 host: vlemmy.net
 lastmod: "2023-06-13 18:34:31"
 published: "2023-06-12 16:04:34"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

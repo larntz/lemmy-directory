@@ -3,14 +3,14 @@ title: "Data irl"
 name: "data_irl"
 description: "home of funny graphs"
 type: community
-date: "2023-06-24 01:13:14"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/data_irl"
 host: lemmy.antemeridiem.xyz
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 16:58:51"
-subscribers: 65
+subscribers: 70
 posts: 6
 comments: 9
 weight: 6

@@ -3,7 +3,7 @@ title: "Ahmedabad"
 name: "ahmedabad"
 description: "23.0225° N, 72.5714° EAhmedabad (Amdavad), in western India, is the largest city in the state of Gujarat. The Sabarmati River runs through its centre. "
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ahmedabad"

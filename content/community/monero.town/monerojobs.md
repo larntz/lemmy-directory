@@ -3,7 +3,7 @@ title: "Monero Jobs"
 name: "monerojobs"
 description: "Looking for work? Looking for workers? Give posting here a try!"
 type: community
-date: "2023-06-24 01:13:21"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/monerojobs"

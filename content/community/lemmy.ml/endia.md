@@ -3,14 +3,14 @@ title: "Endia that is India"
 name: "endia"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/endia"
 host: lemmy.ml
 lastmod: "2020-09-07 07:48:13"
 published: "2020-09-07 07:47:53"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

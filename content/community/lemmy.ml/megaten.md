@@ -3,19 +3,19 @@ title: "Shin Megami Tensei + Persona"
 name: "megaten"
 description: "For discussion about anything relating to the Shin Megami Tensei series.Give a spoiler warning if you're going to talk about potential spoilers."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/megaten"
 host: lemmy.ml
 lastmod: "2023-06-10 07:00:31"
 published: "2023-06-04 07:44:56"
-subscribers: 62
+subscribers: 68
 posts: 8
 comments: 30
 weight: 8
 dau: 1
-wau: 2
+wau: 1
 mau: 13
 instances:
 - "lemmy_ml"

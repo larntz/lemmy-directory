@@ -3,12 +3,12 @@ title: "main"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:24"
+date: "2023-06-27 16:16:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.mb-server.com/c/main"
 host: lemmy.mb-server.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:16:01"
 published: "2023-06-13 09:04:40"
 subscribers: 1
 posts: 0

@@ -3,14 +3,14 @@ title: "Adulting"
 name: "adulting"
 description: "Becoming an adult or living as an adult with a leftist perspective. Share advice, experience, ask questions, and other things! Enjoy your time here and make friends :)) Rules: Follow site rules and don't be a jerk >:("
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/adulting"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-10-09 21:42:19"
-subscribers: 32
+subscribers: 33
 posts: 2
 comments: 22
 weight: 2

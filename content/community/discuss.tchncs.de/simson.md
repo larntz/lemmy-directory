@@ -3,14 +3,14 @@ title: "Simson"
 name: "simson"
 description: "Die Simson Fans vom simsonforum.net im Fediverse. Kommt herein, seid dabei und tauscht euch aus!"
 type: community
-date: "2023-06-24 01:12:58"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/simson"
 host: discuss.tchncs.de
 lastmod: "2023-06-13 12:49:53"
 published: "2023-06-13 12:41:49"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

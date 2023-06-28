@@ -3,14 +3,14 @@ title: "Bedrock linux"
 name: "bedrock"
 description: "A lemmy community for the bedrock linux distribution  [bedrock linux website](https://bedrocklinux.org/)"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/bedrock"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-08 12:24:12"
-subscribers: 22
+subscribers: 23
 posts: 1
 comments: 2
 weight: 1

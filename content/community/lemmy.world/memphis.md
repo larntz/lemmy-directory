@@ -3,7 +3,7 @@ title: "Memphis"
 name: "memphis"
 description: "Memphis is a city on the Mississippi River in southwest Tennessee, famous for the influential strains of blues, soul and rock 'n' roll that originated here. Elvis Presley, B.B. King and Johnny Cash recorded albums at the legendary Sun Studio, and Presley’s Graceland mansion is a popular attraction. Other music landmarks include the Rock 'n' Soul Museum, Blues Hall of Fame and Stax Museum of American Soul Music. **Rules**1. No bigotry e.g. racism, sexism, homophobia, transphobia.2. No porn.3. No Spam.4. No illegal activity."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:21:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/memphis"
@@ -15,7 +15,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

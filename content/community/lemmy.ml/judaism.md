@@ -3,14 +3,14 @@ title: "Judaism"
 name: "judaism"
 description: "A place for things about Judaism."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/judaism"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-29 20:06:12"
-subscribers: 11
+subscribers: 12
 posts: 2
 comments: 0
 weight: 2

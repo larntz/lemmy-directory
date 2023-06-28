@@ -3,17 +3,17 @@ title: "Ｖａｐｏｒｗａｖｅ　しクベ"
 name: "vaporwave"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/vaporwave"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2022-09-30 17:00:44"
-subscribers: 67
-posts: 5
-comments: 2
-weight: 5
+subscribers: 69
+posts: 7
+comments: 3
+weight: 7
 dau: 1
 wau: 1
 mau: 1

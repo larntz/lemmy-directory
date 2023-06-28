@@ -3,20 +3,20 @@ title: "Dota 2"
 name: "dota2"
 description: "Lemmy community dedicated to everything that is DotA2."
 type: community
-date: "2023-06-23 01:21:36"
+date: "2023-06-28 14:06:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dota2"
 host: lemmy.world
-lastmod: "2023-06-11 14:45:35"
+lastmod: "2023-06-28 14:06:26"
 published: "2023-06-11 14:30:33"
-subscribers: 66
-posts: 4
-comments: 6
-weight: 4
+subscribers: 92
+posts: 19
+comments: 10
+weight: 19
 dau: 1
 wau: 5
-mau: 7
+mau: 10
 instances:
 - "lemmy_world"
 tags: 

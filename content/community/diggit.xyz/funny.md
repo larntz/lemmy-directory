@@ -3,14 +3,14 @@ title: "funny"
 name: "funny"
 description: "lol"
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/funny"
 host: diggit.xyz
 lastmod: "2023-06-14 05:09:11"
 published: "2023-06-14 05:04:12"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

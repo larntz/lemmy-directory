@@ -3,14 +3,14 @@ title: "South Florida Bulls"
 name: "southfloridabulls"
 description: "A community to discuss South Florida Bulls athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:25"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/southfloridabulls"
 host: fanaticus.social
 lastmod: "2023-06-17 03:19:47"
 published: "2023-06-17 03:19:26"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0

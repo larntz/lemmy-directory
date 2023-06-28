@@ -3,7 +3,7 @@ title: "Longform"
 name: "longform"
 description: "A place for long-form journalism and editorials which provide an in-depth analysis of the subject."
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/longform"

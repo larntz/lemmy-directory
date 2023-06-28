@@ -3,7 +3,7 @@ title: "Nicaragua"
 name: "nicaragua"
 description: "ES/EN - viva la revolución! viva shitposts!"
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/nicaragua"

@@ -3,14 +3,14 @@ title: "Formula1"
 name: "formula1"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/formula1"
 host: vlemmy.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 13:23:50"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

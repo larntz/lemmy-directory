@@ -3,14 +3,14 @@ title: "Emulators"
 name: "emulators"
 description: "A place to talk about console emulators"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/emulators"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-05-31 16:21:55"
-subscribers: 129
+subscribers: 131
 posts: 2
 comments: 1
 weight: 2

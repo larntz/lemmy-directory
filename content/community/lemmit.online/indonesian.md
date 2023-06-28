@@ -3,14 +3,14 @@ title: "Bahasa Indonesia"
 name: "indonesian"
 description: "A place for people who want to learn Indonesian."
 type: community
-date: "2023-06-24 01:13:23"
+date: "2023-06-28 15:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/indonesian"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 15:06:35"
-subscribers: 2
+subscribers: 3
 posts: 26
 comments: 0
 weight: 26

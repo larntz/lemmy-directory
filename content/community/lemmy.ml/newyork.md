@@ -3,14 +3,14 @@ title: "New York"
 name: "newyork"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newyork"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 12:55:12"
-subscribers: 9
+subscribers: 10
 posts: 2
 comments: 0
 weight: 2

@@ -3,14 +3,14 @@ title: "Freediving"
 name: "freediving"
 description: "Freediving: the art of diving in one breath. Share your experiences, questions and videos!"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freediving"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-29 09:23:33"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Tchia"
 name: "tchia"
 description: "For discussion & questions regarding the open world adventure game inspired by New Caledonia, Tchia! Developed by Awaceb and published by Kepler Interactive."
 type: community
-date: "2023-06-24 01:15:53"
+date: "2023-06-28 15:21:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tchia"

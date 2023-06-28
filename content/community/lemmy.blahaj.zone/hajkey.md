@@ -3,14 +3,14 @@ title: "Hajkey"
 name: "hajkey"
 description: "Hajkey (pronounced something like Hi-Key)A fork of Calckey, from the folk behind blahaj.zone "
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/hajkey"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 03:58:07"
-subscribers: 6
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

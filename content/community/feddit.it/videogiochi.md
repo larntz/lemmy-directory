@@ -3,19 +3,19 @@ title: "Videogiochi"
 name: "videogiochi"
 description: "Comunità dedicata ai videogiochi, passati e futuri, in tutte le loro forme. "
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/videogiochi"
 host: feddit.it
 lastmod: "2022-05-19 08:14:22"
 published: "2022-05-17 21:25:35"
-subscribers: 183
+subscribers: 190
 posts: 47
 comments: 88
 weight: 47
 dau: 1
-wau: 5
+wau: 1
 mau: 7
 instances:
 - "feddit_it"

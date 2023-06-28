@@ -1,19 +1,19 @@
 ---
 title: "British Telly " 
 name: "britishtelly"
-description: "A place for the discussion of all your favourite telly programme.British TV shows on Feddit.uk:* [Peep Show](https://feddit.uk/c/peepshow)* [Taskmaster](https://feddit.uk/c/taskmaster)For other telly discussion see:* [ukdtt@fedia.io](https://feddit.uk/c/ukdtt@fedia.io) - UK Digital Terrestrial TV (Freeserve)* [television@kbin.social](https://feddit.uk/c/television@kbin.social)* [television@lemmy.world](https://feddit.uk/c/television@lemmy.world)* [television@lemmy.ml](https://feddit.uk/c/television@lemmy.ml)* [moviesandtv@lemmy.film](https://feddit.uk/c/moviesandtv@lemmy.film) - Movies and TV Shows* [old_tv@lemmy.ml](https://feddit.uk/c/old_tv@lemmy.ml) - Early Film and Television Rules:* Don't be a dick. "
+description: "A place for the discussion of all your favourite telly programme.British TV shows on Feddit.uk:* [Monty Python](/c/montypython@feddit.uk)* [Peep Show](/c/peepshow@feddit.uk)* [Taskmaster](/c/taskmaster@feddit.uk)For other telly discussion see:* [ukdtt@fedia.io](/c/ukdtt@fedia.io) - UK Digital Terrestrial TV (Freeserve)* [television@kbin.social](/c/television@kbin.social)* [television@lemmy.world](/c/television@lemmy.world)* [television@lemmy.ml](/c/television@lemmy.ml)* [moviesandtv@lemmy.film](/c/moviesandtv@lemmy.film) - Movies and TV Shows* [old_tv@lemmy.ml](/c/old_tv@lemmy.ml) - Early Film and Television Rules:* Don't be a dick. "
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/britishtelly"
 host: feddit.uk
-lastmod: "2023-06-23 16:25:29"
+lastmod: "2023-06-27 03:50:47"
 published: "2023-06-21 16:48:20"
-subscribers: 15
-posts: 1
-comments: 4
-weight: 1
+subscribers: 29
+posts: 2
+comments: 10
+weight: 2
 dau: 0
 wau: 0
 mau: 0

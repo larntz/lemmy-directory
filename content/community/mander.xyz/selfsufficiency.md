@@ -3,14 +3,14 @@ title: "Self sufficiency"
 name: "selfsufficiency"
 description: "Discussions about achieving self-sufficiency"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/selfsufficiency"
 host: mander.xyz
 lastmod: "0001-01-01 00:00:00"
 published: "2023-02-04 16:26:00"
-subscribers: 73
+subscribers: 79
 posts: 1
 comments: 3
 weight: 1

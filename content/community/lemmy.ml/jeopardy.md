@@ -3,14 +3,14 @@ title: "Jeopardy!"
 name: "jeopardy"
 description: "What is a Lemmy community for fans of the television quiz show Jeopardy!?"
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jeopardy"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-04-21 22:06:32"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

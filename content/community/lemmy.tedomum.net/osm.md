@@ -3,7 +3,7 @@ title: "OSM"
 name: "osm"
 description: "Communauté Lemmy d'OpenStreetMap"
 type: community
-date: "2023-06-24 01:12:48"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/osm"

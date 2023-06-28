@@ -3,14 +3,14 @@ title: "CF4CF"
 name: "childfree4childfree"
 description: "Testing space for CF4CF"
 type: community
-date: "2023-06-23 01:21:35"
+date: "2023-06-28 15:21:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/childfree4childfree"
 host: lemmy.world
 lastmod: "2023-06-14 23:54:23"
 published: "2023-06-14 23:14:51"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

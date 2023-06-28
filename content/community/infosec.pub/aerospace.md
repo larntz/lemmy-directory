@@ -3,14 +3,14 @@ title: "aerospace"
 name: "aerospace"
 description: "A community for discussing all things related to aerospace, including aircraft, spacecraft, rockets, design, modeling and simulation, UAVs and more."
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/aerospace"
 host: infosec.pub
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 02:47:30"
-subscribers: 37
+subscribers: 39
 posts: 11
 comments: 1
 weight: 11

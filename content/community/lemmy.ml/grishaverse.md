@@ -3,14 +3,14 @@ title: "grisha"
 name: "grishaverse"
 description: "this is a group about #Grishaverse "
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/grishaverse"
 host: lemmy.ml
 lastmod: "2023-04-08 17:28:49"
 published: "2023-01-09 01:53:50"
-subscribers: 1
+subscribers: 2
 posts: 4
 comments: 28
 weight: 4

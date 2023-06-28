@@ -3,12 +3,12 @@ title: "Cars India"
 name: "cars_india"
 description: "A car enthusiast community for Indians"
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-27 16:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cars_india"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:26"
 published: "2023-06-20 15:05:31"
 subscribers: 1
 posts: 0

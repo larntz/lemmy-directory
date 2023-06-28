@@ -3,14 +3,14 @@ title: "MelbourneTrains"
 name: "melbournetrains"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/melbournetrains"
 host: aussie.zone
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 10:29:25"
-subscribers: 14
+subscribers: 19
 posts: 1
 comments: 0
 weight: 1

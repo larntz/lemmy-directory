@@ -3,14 +3,14 @@ title: "Amsterdam"
 name: "amsterdam"
 description: "Talk about amsterdam, the netherlands"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amsterdam"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 11:40:48"
-subscribers: 15
+subscribers: 17
 posts: 1
 comments: 0
 weight: 1

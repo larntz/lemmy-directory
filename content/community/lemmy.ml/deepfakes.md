@@ -3,14 +3,14 @@ title: "Deepfakes"
 name: "deepfakes"
 description: "A community dedicated to deepfakes"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deepfakes"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-07 10:35:22"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

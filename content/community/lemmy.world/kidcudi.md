@@ -3,7 +3,7 @@ title: "Kid Cudi"
 name: "kidcudi"
 description: "The Kid Cudi (Scott Mescudi) community. A good place to discuss anything Kid Cudi!Don't be a dick, no links to unofficial merch, and no leaks."
 type: community
-date: "2023-06-23 01:21:36"
+date: "2023-06-28 15:21:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kidcudi"

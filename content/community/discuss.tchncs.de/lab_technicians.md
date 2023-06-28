@@ -3,12 +3,12 @@ title: "Lab technicians"
 name: "lab_technicians"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:18:52"
+date: "2023-06-27 16:15:54"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/lab_technicians"
 host: discuss.tchncs.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:15:54"
 published: "2023-06-13 12:40:23"
 subscribers: 9
 posts: 1

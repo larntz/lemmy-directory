@@ -1,22 +1,22 @@
 ---
 title: "Montana" 
 name: "montana"
-description: "##### **/c/montana**A place to discuss everything related to the Treasure State."
+description: "##### **/c/montana**A place to discuss everything related to the Treasure State.Please be respectful to others and use common sense in regard to what you post."
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 15:20:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/montana"
 host: lemmy.world
-lastmod: "2023-06-22 14:52:07"
+lastmod: "2023-06-28 06:07:59"
 published: "2023-06-12 20:11:35"
-subscribers: 8
-posts: 2
-comments: 0
-weight: 2
+subscribers: 10
+posts: 3
+comments: 2
+weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

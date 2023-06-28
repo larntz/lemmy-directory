@@ -3,7 +3,7 @@ title: "Personal feed by rtwin"
 name: "u_rtwin"
 description: "Stuff i want to store for later."
 type: community
-date: "2023-06-24 01:12:59"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/u_rtwin"
@@ -16,7 +16,7 @@ comments: 6
 weight: 21
 dau: 1
 wau: 1
-mau: 2
+mau: 1
 instances:
 - "lemmy_staphup_nl"
 tags: 

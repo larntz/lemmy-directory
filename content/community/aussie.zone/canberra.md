@@ -3,20 +3,20 @@ title: "Canberra"
 name: "canberra"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/canberra"
 host: aussie.zone
 lastmod: "2023-06-18 15:29:18"
 published: "2023-06-10 02:45:04"
-subscribers: 82
-posts: 16
-comments: 22
-weight: 16
-dau: 1
-wau: 7
-mau: 15
+subscribers: 88
+posts: 20
+comments: 26
+weight: 20
+dau: 2
+wau: 3
+mau: 17
 instances:
 - "aussie_zone"
 tags: 

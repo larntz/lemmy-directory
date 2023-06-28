@@ -3,7 +3,7 @@ title: "Uyghur"
 name: "uyghur"
 description: "Community dedicated to the preservation and revival of Uyghur language and culture"
 type: community
-date: "2023-06-24 01:13:34"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/uyghur"

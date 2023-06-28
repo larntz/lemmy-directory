@@ -3,20 +3,20 @@ title: "Espiritualidad"
 name: "espiritualidad"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:19"
+date: "2023-06-28 15:18:15"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/espiritualidad"
 host: feddit.cl
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 06:11:35"
-subscribers: 2
-posts: 2
-comments: 2
-weight: 2
+subscribers: 3
+posts: 1
+comments: 0
+weight: 1
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 1
 instances:
 - "feddit_cl"
 tags: 

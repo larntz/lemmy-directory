@@ -3,14 +3,14 @@ title: "Long Live Rock and Roll"
 name: "rockandroll"
 description: "Community to discuss and share things related to Rock and Roll!"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rockandroll"
 host: lemmy.ml
 lastmod: "2021-01-26 08:10:35"
 published: "2021-01-26 08:06:12"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

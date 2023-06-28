@@ -3,14 +3,14 @@ title: "Android Gamers"
 name: "androidgamers"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:21:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/androidgamers"
 host: lemmy.world
 lastmod: "2023-06-14 22:19:40"
 published: "2023-06-14 22:18:23"
-subscribers: 51
+subscribers: 61
 posts: 4
 comments: 5
 weight: 4

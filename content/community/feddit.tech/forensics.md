@@ -3,14 +3,14 @@ title: "Forensics"
 name: "forensics"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:18:00"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/forensics"
 host: feddit.tech
 lastmod: "2023-06-14 23:39:53"
 published: "2023-06-14 22:31:20"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

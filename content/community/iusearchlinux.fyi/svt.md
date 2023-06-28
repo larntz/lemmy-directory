@@ -3,7 +3,7 @@ title: "Seventeen"
 name: "svt"
 description: "This community is dedicated to the talented and charismatic K-pop group Seventeen. Whether you're a long-time Carat, a new fan, or just curious about this incredible group, this is the place to share your love, discuss their music and performances, and connect with fellow Carats on Lemmy!**Rules**- Be respectful: Treat fellow community members, Seventeen, and other K-pop groups with respect and kindness. No hate speech, personal attacks, or fan wars- Provide sources and credits: When sharing news, articles, images, or fan creations, always provide the original source and give proper credit to the creators. - Keep discussions focused on Seventeen and their activities: While occasional non-Seventeen kpop-related discussions are welcome, please avoid excessive off-topic posts."
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/svt"

@@ -3,7 +3,7 @@ title: "Book of the New Sun"
 name: "newsun"
 description: "Discussion of Gene Wolfe's fiction series Book of the New Sun."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newsun"

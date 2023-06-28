@@ -3,14 +3,14 @@ title: "Medaka"
 name: "medaka"
 description: "This community serves to discuss small ponds, especially centered around medaka."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/medaka"
 host: lemmy.ml
 lastmod: "2023-06-08 10:29:35"
 published: "2023-06-08 06:56:40"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

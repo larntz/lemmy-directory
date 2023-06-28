@@ -3,7 +3,7 @@ title: "Labor News"
 name: "labor_news"
 description: "A community primarily for posting news about the US labor movement."
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/labor_news"

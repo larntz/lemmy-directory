@@ -3,12 +3,12 @@ title: "lemmy via mg meta"
 name: "meta"
 description: "Discuss the *lemmy via mg* lemmy instance, including suggestions and criticism."
 type: community
-date: "2023-06-24 01:13:26"
+date: "2023-06-28 15:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.meridiangrp.co.uk/c/meta"
 host: lemmy.meridiangrp.co.uk
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 10:25:48"
 subscribers: 1
 posts: 0

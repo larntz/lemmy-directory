@@ -3,14 +3,14 @@ title: "Off Topic"
 name: "offtopic"
 description: "A community to discuss anything that isn't covered by one of the other communities.If your topic is still tech related, why not [Create a Community](https://compuverse.uk/create_community) instead?"
 type: community
-date: "2023-06-24 01:13:12"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/offtopic"
 host: compuverse.uk
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 07:37:13"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

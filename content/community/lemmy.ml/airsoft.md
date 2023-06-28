@@ -3,14 +3,14 @@ title: "Airsoft"
 name: "airsoft"
 description: "All things airsoft!"
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/airsoft"
 host: lemmy.ml
 lastmod: "2021-08-06 23:07:25"
 published: "2021-08-04 00:32:12"
-subscribers: 7
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

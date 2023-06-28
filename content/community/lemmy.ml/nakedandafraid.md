@@ -3,14 +3,14 @@ title: "Naked and Afraid"
 name: "nakedandafraid"
 description: "A place to discuss Naked and Afraid!"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nakedandafraid"
 host: lemmy.ml
 lastmod: "2023-06-12 04:12:44"
 published: "2023-06-12 04:10:37"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

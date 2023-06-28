@@ -3,14 +3,14 @@ title: "da link zone"
 name: "da_link_zone"
 description: "like a truck you can keep piling links on to(i'm just dumping stuff here without sorting it)"
 type: community
-date: "2023-06-24 01:13:21"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/da_link_zone"
 host: lemmy.snoot.tube
 lastmod: "2023-06-12 20:05:13"
 published: "2023-06-12 19:40:00"
-subscribers: 1
+subscribers: 2
 posts: 4
 comments: 3
 weight: 4

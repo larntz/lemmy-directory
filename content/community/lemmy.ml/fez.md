@@ -3,14 +3,14 @@ title: "FEZ"
 name: "fez"
 description: "A community for Polytron's FEZ, the dimension-bending puzzle-platformer adventure"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fez"
 host: lemmy.ml
 lastmod: "2023-06-06 08:28:36"
 published: "2023-06-06 08:28:21"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

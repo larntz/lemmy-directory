@@ -3,14 +3,14 @@ title: "Arabian Paganism"
 name: "arabianpaganism"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:20:14"
+date: "2023-06-28 15:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arabianpaganism"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-05-05 00:05:47"
-subscribers: 3
+subscribers: 4
 posts: 8
 comments: 0
 weight: 8

@@ -3,14 +3,14 @@ title: "Pine64's PinePhone"
 name: "pinephone"
 description: "The open, community-built, Linux-powered smartphone."
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pinephone"
 host: lemmy.ml
 lastmod: "2022-01-21 21:17:02"
 published: "2020-06-21 07:01:40"
-subscribers: 177
+subscribers: 181
 posts: 9
 comments: 9
 weight: 9

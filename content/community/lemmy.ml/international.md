@@ -3,14 +3,14 @@ title: "International | World News & Global Perspectives"
 name: "international"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/international"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-08-26 14:50:30"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

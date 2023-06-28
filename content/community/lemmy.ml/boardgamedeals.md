@@ -3,14 +3,14 @@ title: "Board Game Deals"
 name: "boardgamedeals"
 description: "A community for sharing board game deals both online and offline"
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/boardgamedeals"
 host: lemmy.ml
 lastmod: "2023-06-14 18:13:43"
 published: "2023-06-14 18:10:26"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

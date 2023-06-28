@@ -3,14 +3,14 @@ title: "Humor"
 name: "humor"
 description: "For all jokes, memes, funny captions or sayings! Feel free to post original thoughts, links, videos, or screenshots.____Please keep it (at least) lightly focused on midwestern culture, this is hosted on [midwest.social](https://midwest.social) after all!"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/humor"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2022-12-16 03:48:05"
-subscribers: 76
+subscribers: 77
 posts: 3
 comments: 2
 weight: 3

@@ -3,14 +3,14 @@ title: "Alternate Reality Games"
 name: "arg"
 description: "Welcome! This is the place for posting about alternate reality games!"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arg"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-10 13:54:35"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

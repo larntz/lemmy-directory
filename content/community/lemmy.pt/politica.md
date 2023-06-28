@@ -3,7 +3,7 @@ title: "Política"
 name: "politica"
 description: "Comunidade orientada para a discussão política."
 type: community
-date: "2023-06-24 01:13:25"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/politica"

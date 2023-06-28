@@ -3,12 +3,12 @@ title: "Collaborative Fiction"
 name: "collaborativewriting"
 description: "Who wants to write a story together? Something like someone begins a story as a post and other users reply extending that story or just commenting on something they think is cool.https://en.wikipedia.org/wiki/Collaborative_writingA simple goal would be a short story or poem with 10 back and forths."
 type: community
-date: "2023-06-24 01:13:39"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/collaborativewriting"
 host: lemmy.ca
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-07-24 00:53:21"
 subscribers: 6
 posts: 0

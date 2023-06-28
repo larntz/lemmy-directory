@@ -3,19 +3,19 @@ title: "Edinburgh"
 name: "edinburgh"
 description: ""
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-27 16:16:32"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/edinburgh"
 host: sh.itjust.works
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-27 16:16:32"
 published: "2023-06-12 09:14:35"
-subscribers: 26
+subscribers: 28
 posts: 3
-comments: 7
+comments: 9
 weight: 3
-dau: 2
-wau: 4
+dau: 1
+wau: 2
 mau: 6
 instances:
 - "sh_itjust_works"

@@ -1,19 +1,19 @@
 ---
 title: "Geek" 
 name: "geek"
-description: "Description not available."
+description: "A place for all things geek in Glasgow."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/geek"
 host: lemmy.glasgow.social
-lastmod: "1969-12-31 19:00:00"
-published: "2021-06-08 13:46:50"
-subscribers: 4
-posts: 2
+lastmod: "2023-06-19 18:29:57"
+published: "2023-06-19 18:11:20"
+subscribers: 1
+posts: 1
 comments: 0
-weight: 2
+weight: 1
 dau: 1
 wau: 1
 mau: 1

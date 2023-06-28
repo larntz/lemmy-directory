@@ -3,7 +3,7 @@ title: "MY BEAT HEARTS LEFT"
 name: "dance_tankie_dance"
 description: "the VANGUARD of music taste, compiled and made available to us dirty proles. Music is synaesthetic theory. Dance, Tankie, Dance!"
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/dance_tankie_dance"

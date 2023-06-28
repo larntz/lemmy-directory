@@ -3,14 +3,14 @@ title: "LEO"
 name: "leo"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-27 16:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/leo"
 host: lemmy.world
-lastmod: "2023-06-20 15:44:43"
+lastmod: "2023-06-27 16:19:32"
 published: "2023-06-20 15:43:09"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 1
 weight: 1

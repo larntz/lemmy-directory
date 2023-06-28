@@ -3,14 +3,14 @@ title: "Açores"
 name: "acores"
 description: "Açores em Português"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/acores"
 host: sh.itjust.works
 lastmod: "2023-06-10 21:19:05"
 published: "2023-06-10 21:15:21"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

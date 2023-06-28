@@ -3,14 +3,14 @@ title: "nebelung"
 name: "nebelung"
 description: "A community for sharing photos and talking about our creatures of the mist!... eventually, right now it's just my creature. Her name's Stormy."
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nebelung"
 host: sh.itjust.works
 lastmod: "2023-06-11 12:33:19"
 published: "2023-06-11 03:40:27"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 2
 weight: 2

@@ -3,7 +3,7 @@ title: "Georgia"
 name: "georgia"
 description: "This is a community for content related to the State of Georgia. News, pictures, events, and general discussion are welcome. "
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/georgia"

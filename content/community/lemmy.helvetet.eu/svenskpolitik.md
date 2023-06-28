@@ -3,14 +3,14 @@ title: "Svensk Politik"
 name: "svenskpolitik"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:18:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/svenskpolitik"
 host: lemmy.helvetet.eu
 lastmod: "1969-12-31 19:00:00"
 published: "2023-04-01 18:16:18"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

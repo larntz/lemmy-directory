@@ -3,14 +3,14 @@ title: "ABCDesis"
 name: "abcdesis"
 description: "Placeholder for the ABCDesis community. If you're from Reddit (especially one of the mods there), or want to moderate here, send a PM. :)"
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-28 14:06:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/abcdesis"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:06:29"
 published: "2023-06-20 23:03:22"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

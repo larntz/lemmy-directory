@@ -3,14 +3,14 @@ title: "DevOps"
 name: "devops"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:27"
+date: "2023-06-28 15:18:09"
 draft: false
 nsfw: false
 actor_id: "https://insane.dev/c/devops"
 host: insane.dev
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 17:44:44"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 1
 weight: 1

@@ -3,14 +3,14 @@ title: "email"
 name: "email"
 description: "Everything e-mail.  Discuss e-mail, privacy of e-mail, politics of e-mail..."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/email"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-03-02 23:33:06"
-subscribers: 141
+subscribers: 142
 posts: 36
 comments: 26
 weight: 36

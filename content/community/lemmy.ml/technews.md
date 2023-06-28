@@ -3,20 +3,20 @@ title: "Tech News"
 name: "technews"
 description: "## What is this?A new place to discuss Tech News## Rules 1. No NSFW content2. No conspiracy theory articles 3. No politics unless it involves tech 4. Don't be mean! 5. Nothing illegal can be posted here because it's illegal!## Who runs this lemmy community?Me! Sandro Linux, a youtuber who does tech news videos as well as other tech videos## Will any of these articles be used in your show?If they are good yes :)"
 type: community
-date: "2023-06-23 01:20:20"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/technews"
 host: lemmy.ml
 lastmod: "2022-05-01 12:41:34"
 published: "2021-06-22 16:46:59"
-subscribers: 565
-posts: 215
+subscribers: 577
+posts: 216
 comments: 210
-weight: 215
+weight: 216
 dau: 1
 wau: 1
-mau: 2
+mau: 3
 instances:
 - "lemmy_ml"
 tags: 

@@ -3,12 +3,12 @@ title: "Konsum"
 name: "konsum"
 description: "Ihr habt etwas gekauft und wollt es bewerten? Oder ihr wollt etwas kaufen, und wisst nicht, welches das richtige Produkt ist? Hier kann man sich austauschen."
 type: community
-date: "2023-06-24 01:13:42"
+date: "2023-06-27 16:16:03"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/konsum"
 host: feddit.de
-lastmod: "2023-06-15 23:29:24"
+lastmod: "2023-06-27 16:16:03"
 published: "2023-06-15 23:28:59"
 subscribers: 6
 posts: 1

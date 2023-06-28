@@ -3,14 +3,14 @@ title: "Ciencia"
 name: "ciencia"
 description: "Divulgación científica, discusión de publicaciones, invitaciones a eventos científicos"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ciencia"
 host: lemmy.ml
 lastmod: "2022-01-21 19:04:22"
 published: "2022-01-19 10:32:18"
-subscribers: 9
+subscribers: 10
 posts: 8
 comments: 2
 weight: 8

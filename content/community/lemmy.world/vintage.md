@@ -3,7 +3,7 @@ title: "Vintage"
 name: "vintage"
 description: "A community dedicated to anything vintage; tools, ads, movies, clothing & accessories, furniture, or anything else that fits the description of vintage"
 type: community
-date: "2023-06-23 01:21:26"
+date: "2023-06-28 15:21:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vintage"

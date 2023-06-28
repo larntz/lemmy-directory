@@ -3,12 +3,12 @@ title: "HomePodOS"
 name: "homepodos"
 description: "The home for all things HomePodOS on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-24 01:15:47"
+date: "2023-06-27 16:19:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homepodos"
 host: lemmy.world
-lastmod: "2023-06-16 02:44:44"
+lastmod: "2023-06-27 16:19:40"
 published: "2023-06-16 02:33:01"
 subscribers: 1
 posts: 0

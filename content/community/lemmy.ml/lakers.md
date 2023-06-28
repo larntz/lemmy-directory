@@ -3,14 +3,14 @@ title: "lakers"
 name: "lakers"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lakers"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-12 04:15:17"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

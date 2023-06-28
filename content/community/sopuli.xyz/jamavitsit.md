@@ -3,14 +3,14 @@ title: "Jämävitsit"
 name: "jamavitsit"
 description: "Kaatopaikka kaikelle minkä joku voi edes etäisesti kokea huumoriksi, tai ihan vaan naurettavaksi"
 type: community
-date: "2023-06-24 01:13:34"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/jamavitsit"
 host: sopuli.xyz
 lastmod: "2023-06-16 17:50:57"
 published: "2023-06-16 13:54:57"
-subscribers: 3
+subscribers: 4
 posts: 3
 comments: 0
 weight: 3

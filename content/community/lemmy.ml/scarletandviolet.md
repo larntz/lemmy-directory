@@ -3,12 +3,12 @@ title: "Pokemon Scarlet and Violet"
 name: "scarletandviolet"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-27 16:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scarletandviolet"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-27 16:17:41"
 published: "2022-09-10 09:31:03"
 subscribers: 12
 posts: 5

@@ -3,17 +3,17 @@ title: "Anti-Jokes"
 name: "antijokes"
 description: "https://en.wikipedia.org/wiki/Anti-humor"
 type: community
-date: "2023-06-24 01:13:34"
+date: "2023-06-28 15:18:04"
 draft: false
 nsfw: false
 actor_id: "https://sowhois.gay/c/antijokes"
 host: sowhois.gay
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 10:25:24"
 subscribers: 3
-posts: 6
-comments: 3
-weight: 6
+posts: 7
+comments: 4
+weight: 7
 dau: 1
 wau: 2
 mau: 3

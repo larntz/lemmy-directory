@@ -3,20 +3,20 @@ title: "NBA Memes"
 name: "nbamemes"
 description: "A safe space for in-depth discussions of high quality, manually curated, artisanal NBA memes"
 type: community
-date: "2023-06-24 01:15:51"
+date: "2023-06-28 14:06:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nbamemes"
 host: lemmy.world
-lastmod: "2023-06-15 15:56:17"
+lastmod: "2023-06-28 14:06:23"
 published: "2023-06-15 05:30:51"
-subscribers: 5
-posts: 0
+subscribers: 7
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

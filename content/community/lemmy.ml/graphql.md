@@ -3,14 +3,14 @@ title: "GraphQL Programming"
 name: "graphql"
 description: "This is the (unofficial!) community for all things GraphQL - discussion, advice, questions and tutorials!"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/graphql"
 host: lemmy.ml
 lastmod: "2023-06-03 07:29:13"
 published: "2023-06-03 05:05:22"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 8
 weight: 1

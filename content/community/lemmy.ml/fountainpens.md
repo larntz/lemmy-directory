@@ -3,14 +3,14 @@ title: "Fountain pens"
 name: "fountainpens"
 description: "Anything fountain pen: fountain pens, paper, inks, etc..."
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fountainpens"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-01-30 22:35:17"
-subscribers: 39
+subscribers: 40
 posts: 1
 comments: 0
 weight: 1

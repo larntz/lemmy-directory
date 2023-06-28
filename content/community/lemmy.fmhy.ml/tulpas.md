@@ -3,12 +3,12 @@ title: "Tulpas"
 name: "tulpas"
 description: "A place to discuss tulpamancy. Leave your politics at the door please."
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/tulpas"
 host: lemmy.fmhy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 21:31:45"
 subscribers: 4
 posts: 1

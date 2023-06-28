@@ -1,22 +1,22 @@
 ---
 title: "Reaper" 
 name: "reaper"
-description: "Anything relevant to Reaper. http://reaper.fm/index.php"
+description: "#### AboutThis community is for questions, sharing projects, news, or anything relevant to Reaper (the DAW, not all those other things called Reaper). #### Links[Official website](http://reaper.fm/index.php)[Reaper manual](https://www.reaper.fm/userguide.php)#### Tutorials[Reaper.fm](https://www.reaper.fm/userguide.php)[Reaper Blog](https://reaper.blog/)[Reaper Mania](https://www.youtube.com/@REAPERMania)"
 type: community
-date: "2023-06-24 01:13:00"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/reaper"
 host: lemmy.studio
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-24 05:44:49"
 published: "2023-06-14 05:40:09"
-subscribers: 36
-posts: 4
-comments: 12
-weight: 4
+subscribers: 42
+posts: 6
+comments: 15
+weight: 6
 dau: 1
-wau: 8
-mau: 8
+wau: 4
+mau: 11
 instances:
 - "lemmy_studio"
 tags: 

@@ -3,7 +3,7 @@ title: "Metroidvania"
 name: "metroidvania"
 description: "***  Metroidvania is a subgenre of video games focused on guided non-linearity and utility-gated exploration. The term, popularized by video game critic Jeremy Parish, is a portmanteau of Metroid and Castlevania.***  [**Top 10 Starter Metroidvanias**](https://www.youtube.com/watch?v=-F53YRZHKSQ) - Check these out if you're new to the genre!"
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/metroidvania"

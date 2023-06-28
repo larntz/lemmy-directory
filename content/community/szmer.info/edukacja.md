@@ -3,14 +3,14 @@ title: "system edukacji, szkoły"
 name: "edukacja"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:35"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/edukacja"
 host: szmer.info
 lastmod: "1969-12-31 19:00:00"
 published: "2021-10-07 08:48:13"
-subscribers: 29
+subscribers: 30
 posts: 54
 comments: 21
 weight: 54

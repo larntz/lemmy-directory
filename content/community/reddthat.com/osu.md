@@ -3,17 +3,17 @@ title: "osu!"
 name: "osu"
 description: "osu! - Rhythm is just a *click* away!"
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-27 16:15:54"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/osu"
 host: reddthat.com
-lastmod: "2023-06-20 03:54:45"
+lastmod: "2023-06-27 16:15:54"
 published: "2023-06-20 03:42:14"
-subscribers: 5
-posts: 5
+subscribers: 6
+posts: 7
 comments: 0
-weight: 5
+weight: 7
 dau: 1
 wau: 1
 mau: 1

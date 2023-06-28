@@ -3,7 +3,7 @@ title: "Bob Marley"
 name: "bobmarley"
 description: "Post up some shit about this reggae icon, please."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:21:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bobmarley"

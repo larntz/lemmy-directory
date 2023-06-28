@@ -1,22 +1,22 @@
 ---
 title: "Capybara" 
 name: "capybara"
-description: "A place to see and discuss “nature’s chair” AKA “coconut doggo”"
+description: "A place to pull up and discuss the Capybara AKA “nature’s chair” AKA “coconut dog”.[Icon attribution](https://www.flaticon.com/free-icon/capybara_235359)"
 type: community
-date: "2023-06-24 01:15:40"
+date: "2023-06-28 15:20:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/capybara"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-25 16:42:27"
 published: "2023-06-23 17:42:19"
-subscribers: 1
-posts: 0
+subscribers: 11
+posts: 3
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 3
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

@@ -3,14 +3,14 @@ title: "Rooster Teeth"
 name: "roosterteeth"
 description: "A community about Rooster Teeth Productions. Website: https://roosterteeth.com/"
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/roosterteeth"
 host: lemmy.ml
 lastmod: "2023-06-20 18:35:56"
 published: "2023-06-09 11:24:58"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

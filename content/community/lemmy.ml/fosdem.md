@@ -3,14 +3,14 @@ title: "FOSDEM"
 name: "fosdem"
 description: "https://fosdem.org/"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fosdem"
 host: lemmy.ml
 lastmod: "2023-06-19 10:59:52"
 published: "2023-06-16 17:13:11"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

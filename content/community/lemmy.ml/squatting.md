@@ -1,16 +1,16 @@
 ---
 title: "Squatting" 
 name: "squatting"
-description: "Description not available."
+description: "[Wikipedia article about squatting](https://en.wikipedia.org/wiki/Squatting)"
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/squatting"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-24 12:27:10"
 published: "2023-06-16 17:55:55"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Media Criticism"
 name: "mediacriticism"
 description: "A discussion about framing of stories by the media."
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mediacriticism"

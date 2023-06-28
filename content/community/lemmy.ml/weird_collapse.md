@@ -3,7 +3,7 @@ title: "Weird Collapse "
 name: "weird_collapse"
 description: "If you're cursed to live in interesting times, you might as well notice the interesting stuff. . .  Doom for people who don't actually hate people . . . Check out the writings and explorations of Ran Prieur at http://www.ranprieur.com/"
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weird_collapse"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "2020-07-09 19:37:17"
 published: "2020-07-05 16:08:27"
 subscribers: 34
-posts: 5
+posts: 4
 comments: 1
-weight: 5
+weight: 4
 dau: 1
 wau: 1
 mau: 1

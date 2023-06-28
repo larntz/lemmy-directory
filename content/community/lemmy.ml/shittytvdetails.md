@@ -3,14 +3,14 @@ title: "ShittyTVDetails"
 name: "shittytvdetails"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shittytvdetails"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 20:01:44"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 1
 weight: 1

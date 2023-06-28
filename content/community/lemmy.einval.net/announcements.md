@@ -3,17 +3,17 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:12:59"
+date: "2023-06-28 15:18:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/announcements"
 host: lemmy.einval.net
 lastmod: "2023-06-06 14:20:02"
 published: "2023-06-05 23:33:50"
-subscribers: 4
-posts: 3
+subscribers: 5
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1

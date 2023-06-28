@@ -3,14 +3,14 @@ title: "Detroit"
 name: "detroit"
 description: "The offical community for anyone to discover news and events happening in and around the city of Detroit, MI. Run by the mods of /r/Detroit from Reddit"
 type: community
-date: "2023-06-24 01:15:53"
+date: "2023-06-28 15:21:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/detroit"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 16:37:18"
-subscribers: 13
+subscribers: 14
 posts: 1
 comments: 2
 weight: 1

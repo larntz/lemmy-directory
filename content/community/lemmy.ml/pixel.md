@@ -3,14 +3,14 @@ title: "Google Pixel"
 name: "pixel"
 description: "Discussions about Google's Pixel line of devices"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pixel"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 12:31:29"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,12 +3,12 @@ title: "Fox Plushies"
 name: "foxplushies"
 description: "For photos of fox plushies in just about any situation you can imagine."
 type: community
-date: "2023-06-24 01:13:00"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helios42.de/c/foxplushies"
 host: lemmy.helios42.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-05 20:32:10"
 subscribers: 2
 posts: 2

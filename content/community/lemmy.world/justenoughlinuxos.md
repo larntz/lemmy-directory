@@ -3,14 +3,14 @@ title: "JustEnoughLinuxOS"
 name: "justenoughlinuxos"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-28 15:21:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/justenoughlinuxos"
 host: lemmy.world
-lastmod: "2023-06-20 21:05:17"
+lastmod: "2023-06-28 15:21:07"
 published: "2023-06-20 20:51:52"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

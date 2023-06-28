@@ -3,14 +3,14 @@ title: "Dads"
 name: "dads"
 description: "This is a community for Dads. Single Dads, new Dads, Step-Dads, tall Dads, short Dads, and any other kind of Dad. If you've got kids in your life that you love and provide for, come join us as we discuss everything from birth announcements to code browns in the shower."
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/dads"
 host: feddit.uk
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 22:20:50"
-subscribers: 32
+subscribers: 34
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Technically The Truth"
 name: "technicallythetruth"
 description: "For information that is technically true but far from the expected answer."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/technicallythetruth"
 host: lemmy.ml
 lastmod: "2023-06-09 15:15:26"
 published: "2023-06-09 15:15:17"
-subscribers: 7
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

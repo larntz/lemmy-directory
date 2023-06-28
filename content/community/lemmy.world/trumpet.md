@@ -3,14 +3,14 @@ title: "Trumpet"
 name: "trumpet"
 description: "This is a community to discuss how to play, techniques, knowledge on trumpet, etc."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:20:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trumpet"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 05:28:13"
-subscribers: 5
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

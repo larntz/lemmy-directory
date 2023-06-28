@@ -3,14 +3,14 @@ title: "Mac"
 name: "mac"
 description: "A place to discuss Mac related news"
 type: community
-date: "2023-06-24 01:15:55"
+date: "2023-06-28 14:06:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mac"
 host: lemmy.world
-lastmod: "2023-06-13 13:08:39"
+lastmod: "2023-06-28 14:06:22"
 published: "2023-06-12 19:21:25"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

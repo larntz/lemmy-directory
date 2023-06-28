@@ -3,20 +3,20 @@ title: "Announcements"
 name: "announcements"
 description: "#### Site-wide announcements This community is for MTGZone operational notifications and meta discussion about the site itself."
 type: community
-date: "2023-06-24 01:13:15"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/announcements"
 host: mtgzone.com
 lastmod: "2023-06-14 20:18:28"
 published: "2023-06-12 15:54:16"
-subscribers: 35
+subscribers: 39
 posts: 3
-comments: 4
+comments: 6
 weight: 3
-dau: 2
-wau: 2
-mau: 4
+dau: 1
+wau: 3
+mau: 5
 instances:
 - "mtgzone_com"
 tags: 

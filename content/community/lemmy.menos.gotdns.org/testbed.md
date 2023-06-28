@@ -3,14 +3,14 @@ title: "TestBed"
 name: "testbed"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:15"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.menos.gotdns.org/c/testbed"
 host: lemmy.menos.gotdns.org
 lastmod: "2023-06-13 03:36:54"
 published: "2023-06-08 04:32:24"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 2
 weight: 1

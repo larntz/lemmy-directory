@@ -3,14 +3,14 @@ title: "Svelte the JavaScript Non-Framework"
 name: "sveltejs"
 description: "https://svelte.dev/ related content"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sveltejs"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 03:38:16"
-subscribers: 21
+subscribers: 23
 posts: 3
 comments: 0
 weight: 3

@@ -3,16 +3,16 @@ title: "The Bear (FX)"
 name: "thebear"
 description: "Discussion community for FX's The Bear---**Spoilers are strictly forbidden in post titles.** >Posts soliciting spoilers (endings, plot elements, twists, etc.) should contain `[spoilers]` in their title. Comments in these posts do not need to be hidden in [spoiler MarkDown](https://join-lemmy.org/docs/en/users/02-media.html) if they pertain to the title's subject matter.Otherwise, spoilers but must be contained in [MarkDown](https://join-lemmy.org/docs/en/users/02-media.html) as follows:```::: your spoiler warningthe crazy movie ending that no one saw coming!:::```Your mods are here to help if you need any clarification!---"
 type: community
-date: "2023-06-24 01:13:06"
+date: "2023-06-28 15:17:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.film/c/thebear"
 host: lemmy.film
 lastmod: "2023-06-13 23:32:48"
 published: "2023-06-13 23:12:38"
-subscribers: 8
+subscribers: 13
 posts: 4
-comments: 7
+comments: 9
 weight: 4
 dau: 0
 wau: 0

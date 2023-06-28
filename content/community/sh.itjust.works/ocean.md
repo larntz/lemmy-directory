@@ -3,14 +3,14 @@ title: "Ocean"
 name: "ocean"
 description: "Discussion, photos, art, science of the largest bodies of water"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ocean"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 04:07:36"
-subscribers: 33
+subscribers: 36
 posts: 5
 comments: 7
 weight: 5

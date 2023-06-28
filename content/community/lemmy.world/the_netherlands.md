@@ -3,14 +3,14 @@ title: "The Netherlands"
 name: "the_netherlands"
 description: "A Dutch page for the english speakers in the Netherlands :)"
 type: community
-date: "2023-06-24 01:15:52"
+date: "2023-06-28 15:20:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/the_netherlands"
 host: lemmy.world
 lastmod: "2023-06-11 12:19:19"
 published: "2023-06-10 14:16:45"
-subscribers: 31
+subscribers: 34
 posts: 0
 comments: 0
 weight: 0

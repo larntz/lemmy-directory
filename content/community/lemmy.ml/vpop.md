@@ -3,7 +3,7 @@ title: "Vpop"
 name: "vpop"
 description: "Community to share and discuss Vietnamese pop music. Main language is English!"
 type: community
-date: "2023-06-23 01:20:20"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vpop"

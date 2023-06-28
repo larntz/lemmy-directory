@@ -3,14 +3,14 @@ title: "Digitalisierung"
 name: "digitalisierung"
 description: "Alles interessante und relevante zum Themenbereich Digitalisierung"
 type: community
-date: "2023-06-24 01:12:58"
+date: "2023-06-28 15:17:43"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/digitalisierung"
 host: discuss.tchncs.de
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 00:07:30"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 1
 weight: 1

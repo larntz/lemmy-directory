@@ -3,7 +3,7 @@ title: "urban exploration"
 name: "urbanexploration"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:20:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/urbanexploration"

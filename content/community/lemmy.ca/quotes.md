@@ -3,14 +3,14 @@ title: "Quotes"
 name: "quotes"
 description: "quotes that you found and like to share"
 type: community
-date: "2023-06-24 01:13:39"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/quotes"
 host: lemmy.ca
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-05-26 10:56:08"
-subscribers: 24
+subscribers: 25
 posts: 3
 comments: 0
 weight: 3

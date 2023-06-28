@@ -3,14 +3,14 @@ title: "FOSS Community "
 name: "foss_community"
 description: "**FOSS Community.**Talk about Open Source, alternatives to proprietary software, and privacy!"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foss_community"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-04-19 15:52:38"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

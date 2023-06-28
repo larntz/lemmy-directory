@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "commu de test"
 type: community
-date: "2023-06-24 01:13:23"
+date: "2023-06-28 15:18:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.marud.fr/c/test"
@@ -15,7 +15,7 @@ posts: 2
 comments: 21
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_marud_fr"

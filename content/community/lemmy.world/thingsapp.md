@@ -3,20 +3,20 @@ title: "Things"
 name: "thingsapp"
 description: "Community for r/thingsapp migrators"
 type: community
-date: "2023-06-24 01:15:40"
+date: "2023-06-28 15:20:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thingsapp"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-24 01:35:43"
 published: "2023-06-23 17:46:25"
-subscribers: 2
-posts: 2
-comments: 0
-weight: 2
-dau: 1
-wau: 1
-mau: 1
+subscribers: 51
+posts: 9
+comments: 8
+weight: 9
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 

@@ -3,12 +3,12 @@ title: "League Of Legends - Wild Rift"
 name: "wildrift"
 description: "A Community for Wildrift Players"
 type: community
-date: "2023-06-24 01:15:56"
+date: "2023-06-27 16:19:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wildrift"
 host: lemmy.world
-lastmod: "2023-06-16 10:59:29"
+lastmod: "2023-06-27 16:19:33"
 published: "2023-06-16 10:47:15"
 subscribers: 3
 posts: 0

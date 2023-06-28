@@ -3,7 +3,7 @@ title: "Poverty Meals"
 name: "povertymeals"
 description: "Food should be a right, but seeing that is isn't, this is a community for sharing cheap recipes and suggested options for people in need. Rice, Beans, Canned Soup. These three things kept myself, my sister, and my mother fed in my childhood, being poor taught me how to cook. But, some people aren't so fortunate to learn culinary skills. Some people grew up around fast food culture, some only just came into poverty, I would like this community to serve as a free cooking class, a free meal planner, and a free kitchen to inspire you to make delicious poverty meals. "
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/povertymeals"

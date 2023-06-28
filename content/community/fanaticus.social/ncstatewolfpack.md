@@ -3,14 +3,14 @@ title: "NC State Wolfpack"
 name: "ncstatewolfpack"
 description: "A community to discuss North Carolina State Wolfpack athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-23 01:19:13"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/ncstatewolfpack"
 host: fanaticus.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 00:48:51"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0

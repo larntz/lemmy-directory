@@ -3,14 +3,14 @@ title: "Sport Lisboa e Benfica"
 name: "benfica"
 description: "E Pluribus Unum"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/benfica"
 host: sh.itjust.works
 lastmod: "2023-06-11 20:06:15"
 published: "2023-06-11 19:56:05"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

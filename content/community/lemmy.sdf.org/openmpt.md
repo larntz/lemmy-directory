@@ -3,14 +3,14 @@ title: "OpenMPT"
 name: "openmpt"
 description: "A (currently not so active) Lemmy community for OpenMPT users!---[OpenMPT (ModPlug Tracker)](https://openmpt.org/) is a [music tracker](https://en.wikipedia.org/wiki/Music_tracker) / sample-based music production program, with more modern features like [VST](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) plugin support.It is also backwards compatible with older trackers like [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker)."
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/openmpt"
 host: lemmy.sdf.org
 lastmod: "2023-06-17 18:05:19"
 published: "2023-06-16 17:11:41"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

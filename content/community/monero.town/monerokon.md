@@ -3,7 +3,7 @@ title: "Monero Konferenco"
 name: "monerokon"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:21"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/monerokon"
@@ -15,7 +15,7 @@ posts: 6
 comments: 1
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "monero_town"

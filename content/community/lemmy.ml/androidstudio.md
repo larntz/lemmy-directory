@@ -3,14 +3,14 @@ title: "Android Studio"
 name: "androidstudio"
 description: "A sublemmy where Android Studio users can talk."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/androidstudio"
 host: lemmy.ml
 lastmod: "2021-12-16 02:42:03"
 published: "2021-12-14 19:56:47"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

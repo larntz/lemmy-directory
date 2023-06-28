@@ -3,14 +3,14 @@ title: "WhatAGamer"
 name: "whatagamer"
 description: "A place where you see the epicest gamers"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/whatagamer"
 host: lemmy.ml
 lastmod: "2020-06-16 05:54:49"
 published: "2020-06-14 15:24:36"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

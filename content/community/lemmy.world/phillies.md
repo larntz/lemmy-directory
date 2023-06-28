@@ -3,20 +3,20 @@ title: "Philadelphia Phillies"
 name: "phillies"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 15:20:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phillies"
 host: lemmy.world
-lastmod: "2023-06-12 14:45:32"
+lastmod: "2023-06-28 15:20:59"
 published: "2023-06-09 20:00:09"
-subscribers: 53
-posts: 15
-comments: 19
-weight: 15
-dau: 2
-wau: 5
-mau: 12
+subscribers: 61
+posts: 22
+comments: 23
+weight: 22
+dau: 3
+wau: 6
+mau: 14
 instances:
 - "lemmy_world"
 tags: 

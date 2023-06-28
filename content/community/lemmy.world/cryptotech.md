@@ -1,14 +1,14 @@
 ---
-title: "cryptotech" 
+title: "CryptoTech" 
 name: "cryptotech"
-description: "Technology enabled by cryptography"
+description: "Technology enabled by cryptography, no price talk"
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:20:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cryptotech"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 11:45:26"
 published: "2023-06-22 16:17:35"
 subscribers: 1
 posts: 0

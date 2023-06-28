@@ -3,7 +3,7 @@ title: "ataturk"
 name: "ataturk"
 description: "A sub dedicated to great leader and the father of Turks, Mustafa Kemal Atatürk."
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-28 15:19:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ataturk"

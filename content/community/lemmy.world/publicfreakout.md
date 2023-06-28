@@ -3,14 +3,14 @@ title: "Public Freakout"
 name: "publicfreakout"
 description: "Description not available."
 type: community
-date: "2023-06-22 02:21:50"
+date: "2023-06-28 15:20:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/publicfreakout"
 host: lemmy.world
 lastmod: "2023-06-09 20:38:48"
 published: "2023-06-09 20:32:52"
-subscribers: 130
+subscribers: 169
 posts: 1
 comments: 1
 weight: 1

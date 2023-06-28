@@ -3,14 +3,14 @@ title: "Geese"
 name: "geese"
 description: "Feathered friends!Rules:1. Be excellent to each other2. Don't be the reason I need to add more rules"
 type: community
-date: "2023-06-24 01:15:50"
+date: "2023-06-27 16:19:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/geese"
 host: lemmy.world
-lastmod: "2023-06-11 14:23:54"
+lastmod: "2023-06-27 16:19:46"
 published: "2023-06-11 14:03:34"
-subscribers: 18
+subscribers: 19
 posts: 3
 comments: 2
 weight: 3

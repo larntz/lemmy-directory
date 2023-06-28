@@ -3,12 +3,12 @@ title: "Ultimate Fighting Championship"
 name: "ufc"
 description: "A place for talking about the UFC- Looking for Mods!- Post any fight outcome content proceeding with SPOILER:- No racism, homophobia, hate speech, etc."
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-27 16:16:32"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ufc"
 host: sh.itjust.works
-lastmod: "2023-06-13 02:47:55"
+lastmod: "2023-06-27 16:16:32"
 published: "2023-06-13 02:40:49"
 subscribers: 20
 posts: 26

@@ -3,14 +3,14 @@ title: "ObsidianMD"
 name: "obsidian"
 description: "Lovers of Obsidian, rejoice! This community is for discussing all matters related to Obsidian. Please join the conversation and seek to help one another out."
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/obsidian"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 19:16:59"
-subscribers: 66
+subscribers: 68
 posts: 0
 comments: 0
 weight: 0

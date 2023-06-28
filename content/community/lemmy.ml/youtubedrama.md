@@ -3,7 +3,7 @@ title: "Youtube Drama"
 name: "youtubedrama"
 description: "Welcome to the world of Internet beef. Where you can discuss in great detail petty squabbles to all out war.Please follow all site rules when making threads. Do not attempt to harass/dox or maliciously attack those mentioned here."
 type: community
-date: "2023-06-22 16:47:50"
+date: "2023-06-28 15:19:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/youtubedrama"

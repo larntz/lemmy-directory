@@ -3,14 +3,14 @@ title: "DungeonAlchemist"
 name: "dungeonalchemist"
 description: "https://www.dungeonalchemist.com"
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/dungeonalchemist"
 host: lemmy.rollenspiel.monster
 lastmod: "2022-04-16 13:08:08"
 published: "2022-04-15 11:30:26"
-subscribers: 7
+subscribers: 8
 posts: 3
 comments: 0
 weight: 3

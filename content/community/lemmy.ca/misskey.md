@@ -3,14 +3,14 @@ title: "Misskey"
 name: "misskey"
 description: "An interplanetary microblogging platform Also see:* [midwest.social/c/Fediverse](https://midwest.social/c/fediverse)* [Fedizens](https://lemmy.ca/c/fedizens)"
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/misskey"
 host: lemmy.ca
 lastmod: "2022-08-26 13:27:47"
 published: "2022-07-09 07:56:06"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

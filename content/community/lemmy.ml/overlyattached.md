@@ -3,7 +3,7 @@ title: "A community to share stories about overly attached Corporations."
 name: "overlyattached"
 description: "Welcome to Overly Attached, a community to discuss and share horror stories about deleting your account and/or personal information from the internet."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/overlyattached"

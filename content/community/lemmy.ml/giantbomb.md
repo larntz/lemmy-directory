@@ -3,14 +3,14 @@ title: "GiantBomb"
 name: "giantbomb"
 description: "A community for all things [GiantBomb](https://giantbomb.com) / GB extended universe!"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/giantbomb"
 host: lemmy.ml
 lastmod: "2023-06-07 16:23:27"
 published: "2023-06-07 15:47:10"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

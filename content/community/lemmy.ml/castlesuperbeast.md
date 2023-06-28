@@ -3,14 +3,14 @@ title: "Castle Super Beast"
 name: "castlesuperbeast"
 description: "A place for the shitlords from /r/TwoBestFriendsPlay."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/castlesuperbeast"
 host: lemmy.ml
 lastmod: "2023-06-05 05:28:14"
 published: "2023-06-05 05:10:23"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

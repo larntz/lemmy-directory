@@ -3,14 +3,14 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.schuerz.at/c/main"
 host: lemmy.schuerz.at
 lastmod: "2021-12-27 22:41:02"
 published: "2021-02-18 11:54:33"
-subscribers: 50
+subscribers: 51
 posts: 25
 comments: 2
 weight: 25

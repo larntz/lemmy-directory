@@ -3,14 +3,14 @@ title: "instant film photography"
 name: "instantfilm"
 description: "polaroid, instax, kodak, etc.Constructive criticism only, when asked"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/instantfilm"
 host: lemmy.ml
-lastmod: "2023-06-21 19:00:30"
+lastmod: "2023-06-25 09:30:26"
 published: "2023-06-20 19:49:00"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

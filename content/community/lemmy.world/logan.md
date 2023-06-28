@@ -3,14 +3,14 @@ title: "Logan"
 name: "logan"
 description: "A community about Logan Utah and the surrounding communities"
 type: community
-date: "2023-06-24 01:15:48"
+date: "2023-06-28 15:21:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/logan"
 host: lemmy.world
 lastmod: "2023-06-16 06:15:29"
 published: "2023-06-16 06:01:06"
-subscribers: 3
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

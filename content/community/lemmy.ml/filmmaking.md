@@ -3,14 +3,14 @@ title: "Filmmaking"
 name: "filmmaking"
 description: "For all things related to filmmaking!"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/filmmaking"
 host: lemmy.ml
 lastmod: "2023-06-10 16:17:51"
 published: "2023-06-10 16:17:33"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

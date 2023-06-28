@@ -3,14 +3,14 @@ title: "Tucson News"
 name: "localnews"
 description: "Local news only please!"
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:18:15"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/localnews"
 host: tucson.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 05:11:54"
-subscribers: 11
+subscribers: 13
 posts: 6
 comments: 0
 weight: 6

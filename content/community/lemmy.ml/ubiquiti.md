@@ -3,20 +3,20 @@ title: "Ubiquiti"
 name: "ubiquiti"
 description: "Unofficial Ubiquiti community.Discover innovations, troubleshoot, and optimize your Ubiquiti products and software."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ubiquiti"
 host: lemmy.ml
 lastmod: "2023-06-04 11:31:10"
 published: "2023-06-04 10:32:22"
-subscribers: 72
+subscribers: 84
 posts: 3
-comments: 4
+comments: 6
 weight: 3
 dau: 1
 wau: 2
-mau: 8
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 

@@ -3,7 +3,7 @@ title: "Мова"
 name: "mova"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:23"
+date: "2023-06-28 15:17:58"
 draft: false
 nsfw: false
 actor_id: "https://lm.m0e.space/c/mova"

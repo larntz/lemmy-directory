@@ -3,14 +3,14 @@ title: "Beat Saber"
 name: "beatsaber"
 description: "For Beat Saber peeps. Brag Brag Brag. Share and have fun.We adhere to the same rules as Blahaj. No bigotry, xenophobia, racism, misogyny , or general asshole ness."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-27 16:15:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/beatsaber"
 host: lemmy.blahaj.zone
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:15:52"
 published: "2023-06-16 22:36:51"
-subscribers: 23
+subscribers: 26
 posts: 1
 comments: 2
 weight: 1

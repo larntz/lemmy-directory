@@ -3,7 +3,7 @@ title: "🗑️ DeTrashed"
 name: "detrashed"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/detrashed"
@@ -15,7 +15,7 @@ posts: 3
 comments: 8
 weight: 3
 dau: 3
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_srv_eco"

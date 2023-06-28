@@ -3,20 +3,20 @@ title: "Memes"
 name: "memes"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:19:27"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/memes"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2022-09-16 16:11:40"
-subscribers: 241
-posts: 61
-comments: 48
-weight: 61
+subscribers: 264
+posts: 66
+comments: 52
+weight: 66
 dau: 1
-wau: 6
-mau: 25
+wau: 5
+mau: 28
 instances:
 - "midwest_social"
 tags: 

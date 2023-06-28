@@ -3,7 +3,7 @@ title: "Nientiendo"
 name: "gaymers"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:12:43"
+date: "2023-06-28 15:18:16"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/gaymers"
@@ -14,7 +14,7 @@ subscribers: 124
 posts: 31
 comments: 73
 weight: 31
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

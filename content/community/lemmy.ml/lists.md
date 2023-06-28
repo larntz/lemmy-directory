@@ -3,7 +3,7 @@ title: "Lists"
 name: "lists"
 description: "To make lists similar to Awesome Lists."
 type: community
-date: "2023-06-22 16:47:53"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lists"

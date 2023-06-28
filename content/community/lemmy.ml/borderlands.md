@@ -3,14 +3,14 @@ title: "Borderlands"
 name: "borderlands"
 description: "Gearbox's Borderlands series"
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/borderlands"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-25 09:34:43"
 published: "2023-06-17 15:07:20"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

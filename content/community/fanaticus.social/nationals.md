@@ -3,17 +3,17 @@ title: "Nationals"
 name: "nationals"
 description: "Cloned from [r/Nationals/](https://old.reddit.com/r/Nationals/)# Looking for mods!"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/nationals"
 host: fanaticus.social
 lastmod: "2023-06-12 18:45:11"
 published: "2023-06-09 17:21:28"
-subscribers: 10
-posts: 18
-comments: 27
-weight: 18
+subscribers: 12
+posts: 30
+comments: 39
+weight: 30
 dau: 2
 wau: 2
 mau: 2

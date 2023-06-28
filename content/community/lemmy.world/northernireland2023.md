@@ -3,7 +3,7 @@ title: "Northern Ireland"
 name: "northernireland2023"
 description: "All welcome except Da's who sell Avon."
 type: community
-date: "2023-06-24 01:15:58"
+date: "2023-06-28 15:20:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/northernireland2023"

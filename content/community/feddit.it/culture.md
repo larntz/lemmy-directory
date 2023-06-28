@@ -3,20 +3,20 @@ title: "Arte e Cultura"
 name: "culture"
 description: "# Comunità dedicata alle notizie sull'arte e la cultura ![](https://feddit.it/pictrs/image/80baf9c8-a2b9-4c34-b9b1-12c23f93ea51.png)Anfora con rami di ulivo simbolo della cultura mediterranea"
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/culture"
 host: feddit.it
 lastmod: "2023-03-21 19:00:37"
 published: "2022-05-25 22:58:56"
-subscribers: 107
-posts: 133
-comments: 28
-weight: 133
-dau: 1
-wau: 4
-mau: 6
+subscribers: 113
+posts: 137
+comments: 30
+weight: 137
+dau: 3
+wau: 3
+mau: 8
 instances:
 - "feddit_it"
 tags: 

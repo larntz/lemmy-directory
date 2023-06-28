@@ -3,14 +3,14 @@ title: "Now Playing"
 name: "nowplaying"
 description: "All about that music, what are  you playing right now."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nowplaying"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-02-17 14:08:05"
-subscribers: 41
+subscribers: 43
 posts: 8
 comments: 1
 weight: 8

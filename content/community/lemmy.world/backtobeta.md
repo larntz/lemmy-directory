@@ -3,7 +3,7 @@ title: "Back To Bêta"
 name: "backtobeta"
 description: "Community for the Back To Beta minecraft server. Currently on b1.7.3"
 type: community
-date: "2023-06-23 01:21:37"
+date: "2023-06-28 15:21:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/backtobeta"

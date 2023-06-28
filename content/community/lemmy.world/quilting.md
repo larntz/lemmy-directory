@@ -3,7 +3,7 @@ title: "Quilting"
 name: "quilting"
 description: "A warm and supportive community to discuss the art and soul of becoming and being a quilter. Anyone who loves making or sharing finished or works in progress is welcome!"
 type: community
-date: "2023-06-24 01:15:48"
+date: "2023-06-28 15:20:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/quilting"
@@ -15,7 +15,7 @@ posts: 2
 comments: 11
 weight: 2
 dau: 1
-wau: 3
+wau: 2
 mau: 7
 instances:
 - "lemmy_world"

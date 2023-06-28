@@ -1,14 +1,14 @@
 ---
 title: "Wikifactory Community" 
 name: "wikifactory"
-description: "Wikifactory integrates **Collaborative CAD Visualization**, **Product Data Management**, and **On-demand Manufacturing**. It breaks down collaboration barriers, reduces time-to-market, and **enables real-time collaboration without required setup or training**. This community is a safe space to discuss, solve doubts, share experiences, and **everything related to Wikifactory.**"
+description: "[Wikifactory](https://wikifactory.com/?utm_source=lemmy+world&utm_medium=bio&utm_campaign=wikifactory) unifies teams in real-time, enabling efficient communication, streamlined workflows, and accelerated time-to-marketThis community is a safe space to discuss, solve doubts, share experiences, and **everything related to Wikifactory.**"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wikifactory"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-26 11:38:07"
 published: "2023-06-21 14:08:34"
 subscribers: 1
 posts: 0

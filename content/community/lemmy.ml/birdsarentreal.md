@@ -3,7 +3,7 @@ title: "Birds Aren't Real"
 name: "birdsarentreal"
 description: "A PLACE ONLY FOR THE MOST WOKE AMONG US. The birds work for the bourgeoisie."
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/birdsarentreal"

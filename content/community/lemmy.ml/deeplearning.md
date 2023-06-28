@@ -3,14 +3,14 @@ title: "Deep Learning"
 name: "deeplearning"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deeplearning"
 host: lemmy.ml
 lastmod: "2020-06-28 11:49:53"
 published: "2020-06-28 11:46:57"
-subscribers: 50
+subscribers: 51
 posts: 1
 comments: 1
 weight: 1

@@ -3,7 +3,7 @@ title: "Photography"
 name: "photography"
 description: "This is a community for photographers to share and discuss photography. feel free to join if you're a beginner as this community is intended to create an environment where people can learn a new passion. Any amount of editing of photos is allowed.This is not intended to be a critique sub but critique, as long as it's not condescending, is allowed."
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/photography"

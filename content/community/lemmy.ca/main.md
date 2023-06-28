@@ -1,22 +1,22 @@
 ---
 title: "Lemmy.ca's Main Community" 
 name: "main"
-description: "Welcome to lemmy.ca's c/main!Since everyone on lemmy.ca gets subscribed here, this is the place to chat about the goings on at lemmy.ca, support-type items, suggestions, etc.Sidebar updated Sept 7, 2021"
+description: "Welcome to lemmy.ca's c/main!Since everyone on lemmy.ca gets subscribed here, this is the place to chat about the goings on at lemmy.ca, support-type items, suggestions, etc.Announcements can be found at https://lemmy.ca/c/meta"
 type: community
-date: "2023-06-24 01:13:39"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/main"
 host: lemmy.ca
-lastmod: "2023-04-04 17:47:20"
+lastmod: "2023-06-25 20:21:29"
 published: "2020-12-12 23:56:39"
-subscribers: 1526
-posts: 89
-comments: 1071
-weight: 89
+subscribers: 1634
+posts: 94
+comments: 1170
+weight: 94
 dau: 16
-wau: 172
-mau: 384
+wau: 154
+mau: 414
 instances:
 - "lemmy_ca"
 tags: 

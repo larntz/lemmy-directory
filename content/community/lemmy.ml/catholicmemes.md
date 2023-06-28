@@ -3,14 +3,14 @@ title: "christianchannel"
 name: "catholicmemes"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/catholicmemes"
 host: lemmy.ml
 lastmod: "2020-12-27 01:09:31"
 published: "2020-12-27 01:06:41"
-subscribers: 12
+subscribers: 13
 posts: 8
 comments: 0
 weight: 8

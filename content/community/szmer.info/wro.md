@@ -3,20 +3,20 @@ title: "wro"
 name: "wro"
 description: "życie wrocławia"
 type: community
-date: "2023-06-16 22:56:32"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wro"
 host: szmer.info
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 15:17:50"
 published: "2020-07-30 07:16:03"
 subscribers: 61
-posts: 120
-comments: 60
-weight: 120
+posts: 127
+comments: 63
+weight: 127
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 5
 instances:
 - "szmer_info"
 tags: 

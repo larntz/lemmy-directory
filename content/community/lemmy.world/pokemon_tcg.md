@@ -3,7 +3,7 @@ title: "Pokemon The Card Game"
 name: "pokemon_tcg"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:42"
+date: "2023-06-28 15:21:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pokemon_tcg"

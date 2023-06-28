@@ -3,20 +3,20 @@ title: "Lord Of The Rings"
 name: "lordoftherings"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:54"
+date: "2023-06-28 14:06:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lordoftherings"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:06:14"
 published: "2023-06-13 01:04:02"
-subscribers: 19
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 34
+posts: 3
+comments: 6
+weight: 3
+dau: 2
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "Brooklyn Nets Basketball"
 name: "brooklynnets"
 description: "Welcome to the Brooklyn Nets community on Lemmy! "
 type: community
-date: "2023-06-23 01:20:20"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brooklynnets"

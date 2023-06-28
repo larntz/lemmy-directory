@@ -3,20 +3,20 @@ title: "Web Hosting"
 name: "web_hosting"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:43"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/web_hosting"
 host: programming.dev
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 17:51:42"
-subscribers: 19
-posts: 2
-comments: 4
-weight: 2
+subscribers: 38
+posts: 3
+comments: 7
+weight: 3
 dau: 1
-wau: 5
-mau: 5
+wau: 6
+mau: 6
 instances:
 - "programming_dev"
 tags: 

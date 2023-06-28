@@ -3,7 +3,7 @@ title: "Found the mobile user"
 name: "foundthemobileuser"
 description: "When someone capitalises the first letter of a community name ex: R/, C/, S/ etc."
 type: community
-date: "2023-06-22 16:47:53"
+date: "2023-06-28 15:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foundthemobileuser"

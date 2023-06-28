@@ -3,12 +3,12 @@ title: "Sprawl Clubbers"
 name: "sprawlclub"
 description: "Hangout for the friends of the Sprawl Club "
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:18:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sprawl.club/c/sprawlclub"
 host: lemmy.sprawl.club
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-26 20:48:24"
 published: "2023-06-12 04:58:06"
 subscribers: 2
 posts: 1

@@ -3,7 +3,7 @@ title: "SixFlags"
 name: "sixflags"
 description: "Welcome to SixFlags!   This sub is formed from the moderation team from reddit."
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sixflags"

@@ -3,14 +3,14 @@ title: "CatBeanBag"
 name: "catbean"
 description: "Cat's Only---You know they Chonkin when they sit like a bean bag"
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/catbean"
 host: lemmy.world
 lastmod: "2023-06-15 20:23:07"
 published: "2023-06-15 20:22:01"
-subscribers: 26
+subscribers: 32
 posts: 16
 comments: 0
 weight: 16

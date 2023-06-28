@@ -3,7 +3,7 @@ title: "Desazkunde teknologikoa"
 name: "tek_desazkundea"
 description: "Krisi klimatikoa, materialen falta, krisi energetikoa...**Kolapsora bidean teknologiak aztertzeko txokoa.**Birziklapena, energia berriztagarriak, burujabetza energetiko/teknologikoa, garapen ekologikoa, zaharkitze programatua... **Desazkunde teknologikoa?***Banner eta logoa:**https://unsplash.com/photos/EtybYF-pNzIhttps://www.pexels.com/es-es/foto/internet-conexion-tecnologia-suelo-8720616/* "
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/tek_desazkundea"

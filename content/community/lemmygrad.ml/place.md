@@ -3,7 +3,7 @@ title: "r/Place"
 name: "place"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 14:57:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/place"

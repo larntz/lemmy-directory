@@ -3,14 +3,14 @@ title: "Outsider Music"
 name: "outsidermusic"
 description: "A community for fans of outsider music"
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-27 16:15:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/outsidermusic"
 host: lemmy.dbzer0.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:15:58"
 published: "2023-06-19 03:10:55"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

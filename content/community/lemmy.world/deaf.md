@@ -3,14 +3,14 @@ title: "Deaf"
 name: "deaf"
 description: "Post your deaf memes, vlogs, discussion, etc. All sign languages are welcomed here!"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:21:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/deaf"
 host: lemmy.world
 lastmod: "2023-06-22 03:02:38"
 published: "2023-06-22 02:23:07"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3

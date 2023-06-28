@@ -3,7 +3,7 @@ title: "New York University"
 name: "nyu"
 description: "A community for all NYU students! Whether you're in New York, Abu Dhabi, Shanghai, or any of the other sites globally, welcome!"
 type: community
-date: "2023-06-24 01:15:58"
+date: "2023-06-28 15:20:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nyu"

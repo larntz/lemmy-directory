@@ -3,14 +3,14 @@ title: "Bears in Art"
 name: "bears_in_art"
 description: "Busting out of frames since 350 BC"
 type: community
-date: "2023-06-24 01:13:55"
+date: "2023-06-28 15:17:51"
 draft: false
-nsfw: true
+nsfw: false
 actor_id: "https://lemmynsfw.com/c/bears_in_art"
 host: lemmynsfw.com
-lastmod: "2023-06-20 12:12:30"
+lastmod: "2023-06-25 21:30:18"
 published: "2023-06-17 14:58:19"
-subscribers: 6
+subscribers: 9
 posts: 6
 comments: 2
 weight: 6
@@ -21,7 +21,5 @@ instances:
 - "lemmynsfw_com"
 tags: 
 - "lemmynsfw_com"
-
-- "nsfw"
 
 ---

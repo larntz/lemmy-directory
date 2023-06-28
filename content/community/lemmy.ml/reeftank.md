@@ -3,14 +3,14 @@ title: "Reef Tank"
 name: "reeftank"
 description: "**A community dedicated to reef aquariums. Show off your tanks, ask questions, help others!**Other related communities:- [/c/aquariums](https://lemmy.ml/c/aquariums)- [/c/shrimptank](https://lemmy.ml/c/shrimptank)[Community icon by Smashicons ](https://www.flaticon.com/free-icons/ocean)"
 type: community
-date: "2023-06-23 01:20:13"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reeftank"
 host: lemmy.ml
 lastmod: "2023-06-05 19:58:36"
 published: "2023-06-05 09:38:42"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

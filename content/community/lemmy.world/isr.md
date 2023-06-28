@@ -3,7 +3,7 @@ title: "Israel ישראל"
 name: "isr"
 description: "ישראל memes, fun, art, quality shit posting"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:21:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/isr"

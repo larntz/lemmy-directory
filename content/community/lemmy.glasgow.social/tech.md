@@ -1,22 +1,22 @@
 ---
-title: "Technology" 
+title: "Tech" 
 name: "tech"
-description: "Description not available."
+description: "A place for all things Tech in Glasgow."
 type: community
-date: "2023-06-16 22:56:30"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/tech"
 host: lemmy.glasgow.social
-lastmod: "1969-12-31 19:00:00"
-published: "2020-12-03 23:36:45"
-subscribers: 12
-posts: 538
-comments: 1
-weight: 538
+lastmod: "0001-01-01 00:00:00"
+published: "2023-06-19 17:54:50"
+subscribers: 5
+posts: 1
+comments: 0
+weight: 1
 dau: 1
-wau: 2
-mau: 4
+wau: 1
+mau: 1
 instances:
 - "lemmy_glasgow_social"
 tags: 

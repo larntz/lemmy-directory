@@ -3,12 +3,12 @@ title: "cape cod"
 name: "capecod"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 14:06:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/capecod"
 host: lemmy.world
-lastmod: "2023-06-19 02:42:14"
+lastmod: "2023-06-28 14:06:27"
 published: "2023-06-18 05:12:51"
 subscribers: 6
 posts: 1

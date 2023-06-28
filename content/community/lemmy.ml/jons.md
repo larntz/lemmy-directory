@@ -3,14 +3,14 @@ title: "Jons"
 name: "jons"
 description: "The Federation of Jons: A community for people named Jon"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jons"
 host: lemmy.ml
 lastmod: "2023-06-23 17:27:44"
 published: "2023-06-23 05:58:49"
-subscribers: 1
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

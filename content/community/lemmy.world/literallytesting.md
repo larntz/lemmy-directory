@@ -3,7 +3,7 @@ title: "test clublemmit"
 name: "literallytesting"
 description: "I want to see how this works"
 type: community
-date: "2023-06-23 01:21:27"
+date: "2023-06-28 15:21:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/literallytesting"

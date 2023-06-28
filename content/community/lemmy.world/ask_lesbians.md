@@ -1,14 +1,14 @@
 ---
 title: "Ask Lesbians" 
 name: "ask_lesbians"
-description: "Like Ask Women, or Ask Men, but for asking Lesbians.Also please check out our sister communities:- [!saffic@lemmy.world](/c/saffic@lemmy.world) - [!lesbian@lemmy.ml](/c/lesbian@lemmy.ml) - [!wlw_memes@lemmy.world](/c/wlw_memes@lemmy.world) "
+description: "Like Ask Women, or Ask Men, but for asking Lesbians.Also please check out our sister communities:- [!saffic@lemmy.world](/c/saffic@lemmy.world) - [!actuallesbians@lemmy.world](/c/actuallesbians@lemmy.world) - [!wlw_memes@lemmy.world](/c/wlw_memes@lemmy.world) "
 type: community
-date: "2023-06-24 01:15:50"
+date: "2023-06-28 15:21:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ask_lesbians"
 host: lemmy.world
-lastmod: "2023-06-19 21:04:49"
+lastmod: "2023-06-26 00:22:54"
 published: "2023-06-11 20:44:14"
 subscribers: 8
 posts: 0

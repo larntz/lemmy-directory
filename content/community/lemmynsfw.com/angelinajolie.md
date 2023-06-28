@@ -3,14 +3,14 @@ title: "Angelina Jolie"
 name: "angelinajolie"
 description: "Angelina Jolie's pictures, gifs, and videos"
 type: community
-date: "2023-06-24 01:13:54"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/angelinajolie"
 host: lemmynsfw.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 13:33:27"
-subscribers: 9
+subscribers: 15
 posts: 1
 comments: 0
 weight: 1

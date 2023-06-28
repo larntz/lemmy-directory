@@ -3,14 +3,14 @@ title: "Chatter"
 name: "chatter"
 description: "Chitchat about anything"
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/chatter"
 host: lemmy.ca
 lastmod: "2022-08-19 08:17:54"
 published: "2022-08-19 08:16:34"
-subscribers: 24
+subscribers: 25
 posts: 5
 comments: 5
 weight: 5

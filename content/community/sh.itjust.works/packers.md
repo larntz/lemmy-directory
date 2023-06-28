@@ -3,19 +3,19 @@ title: "Green Bay Packers"
 name: "packers"
 description: "A space for Packer boosterism"
 type: community
-date: "2023-06-23 01:19:04"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/packers"
 host: sh.itjust.works
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 19:41:34"
-subscribers: 94
+subscribers: 98
 posts: 10
 comments: 26
 weight: 10
 dau: 4
-wau: 6
+wau: 1
 mau: 16
 instances:
 - "sh_itjust_works"

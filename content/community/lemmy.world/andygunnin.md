@@ -3,7 +3,7 @@ title: "Andy Gunnin"
 name: "andygunnin"
 description: "This guy is a comedian who hopes people will pirate his shit so he'll gain a wider audience, yo... I don't actually have any decent shit on hand tho"
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-28 15:21:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/andygunnin"

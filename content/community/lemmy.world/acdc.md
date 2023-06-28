@@ -3,12 +3,12 @@ title: "AC/DC"
 name: "acdc"
 description: "It's a long way to the top"
 type: community
-date: "2023-06-23 01:21:28"
+date: "2023-06-28 15:21:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/acdc"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-24 23:33:58"
 published: "2023-06-12 12:22:14"
 subscribers: 1
 posts: 0

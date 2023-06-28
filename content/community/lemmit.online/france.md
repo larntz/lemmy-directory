@@ -3,14 +3,14 @@ title: "France"
 name: "france"
 description: "La communauté dédiée à la célèbre chanteuse française France Gall."
 type: community
-date: "2023-06-24 01:13:23"
+date: "2023-06-28 15:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/france"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 15:38:04"
-subscribers: 1
+subscribers: 2
 posts: 29
 comments: 0
 weight: 29

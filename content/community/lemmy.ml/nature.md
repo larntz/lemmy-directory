@@ -3,12 +3,12 @@ title: "nature"
 name: "nature"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-27 16:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nature"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-27 16:17:41"
 published: "2020-06-29 07:49:55"
 subscribers: 39
 posts: 14

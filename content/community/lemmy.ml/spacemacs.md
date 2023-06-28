@@ -3,14 +3,14 @@ title: "( s p a c e m a c s )"
 name: "spacemacs"
 description: "Community for the [Spacemacs](https://github.com/syl20bnr/spacemacs) project.This is a sister community of 1. [/c/emacs](https://lemmy.ml/c/emacs)2. [/c/orgmode](https://lemmy.ml/c/orgmode)3. [/c/planetemacs](https://lemmy.ml/c/planetemacs) 4. [/c/doomemacs](https://lemmy.ml/c/doomemacs)"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/spacemacs"
 host: lemmy.ml
 lastmod: "2021-04-13 04:39:38"
 published: "2021-04-13 04:27:33"
-subscribers: 17
+subscribers: 18
 posts: 1
 comments: 0
 weight: 1

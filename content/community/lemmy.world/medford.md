@@ -3,14 +3,14 @@ title: "Medford"
 name: "medford"
 description: "Medford, Oregon"
 type: community
-date: "2023-06-24 01:15:52"
+date: "2023-06-27 16:19:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/medford"
 host: lemmy.world
-lastmod: "2023-06-15 01:09:59"
+lastmod: "2023-06-27 16:19:28"
 published: "2023-06-15 01:07:06"
-subscribers: 4
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2

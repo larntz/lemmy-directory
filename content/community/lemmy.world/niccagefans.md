@@ -3,17 +3,17 @@ title: "Nicolas Cage Fan Club"
 name: "niccagefans"
 description: "A place to come together and share our love of the world's greatest living actor."
 type: community
-date: "2023-06-24 01:15:48"
+date: "2023-06-28 14:06:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/niccagefans"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:06:21"
 published: "2023-06-17 01:40:24"
-subscribers: 6
-posts: 3
+subscribers: 8
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1

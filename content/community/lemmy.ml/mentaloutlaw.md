@@ -3,7 +3,7 @@ title: "Mental Outlaw"
 name: "mentaloutlaw"
 description: "A sub dedicated to the YouTuber and Odysee creator, Mental Outlaw"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mentaloutlaw"

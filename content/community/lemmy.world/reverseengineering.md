@@ -3,20 +3,20 @@ title: "Reverse Engineering"
 name: "reverseengineering"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-28 15:21:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reverseengineering"
 host: lemmy.world
 lastmod: "2023-06-19 16:57:48"
 published: "2023-06-19 08:51:34"
-subscribers: 23
-posts: 3
-comments: 2
-weight: 3
-dau: 1
-wau: 4
-mau: 4
+subscribers: 41
+posts: 4
+comments: 4
+weight: 4
+dau: 2
+wau: 5
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

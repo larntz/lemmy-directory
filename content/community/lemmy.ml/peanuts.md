@@ -3,14 +3,14 @@ title: "Peanuts"
 name: "peanuts"
 description: "The masterpiece from Charles M. Schulz"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/peanuts"
 host: lemmy.ml
 lastmod: "2021-01-29 13:29:30"
 published: "2020-06-28 06:13:26"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Saskatoon"
 name: "saskatoon"
 description: "A community about Saskatoon, SaskatchewanRelated communities: * [!sask@lemmy.ca](https://lemmy.ca/c/sask) * [!regina@lemmy.ca](https://lemmy.ca/c/regina) "
 type: community
-date: "2023-06-24 01:13:39"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/saskatoon"
 host: lemmy.ca
 lastmod: "2023-06-14 16:43:23"
 published: "2023-06-12 16:49:21"
-subscribers: 27
+subscribers: 29
 posts: 12
 comments: 4
 weight: 12

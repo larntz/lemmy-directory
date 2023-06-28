@@ -3,14 +3,14 @@ title: "Boardgames"
 name: "boardgames"
 description: "A place for boardgamers to hang out and chat about cardboard. "
 type: community
-date: "2023-06-24 01:13:39"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/boardgames"
 host: lemmy.ca
 lastmod: "2023-06-12 23:43:11"
 published: "2023-06-12 23:34:05"
-subscribers: 27
+subscribers: 31
 posts: 0
 comments: 0
 weight: 0

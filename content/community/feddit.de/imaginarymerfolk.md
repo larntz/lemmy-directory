@@ -1,19 +1,19 @@
 ---
-title: "Imaginary Merfolk" 
+title: "Imaginary Merfolk (migrated)" 
 name: "imaginarymerfolk"
-description: "# Imaginary MerfolkA community to share images of mermaids, merman and other humanoid merfolk.**Rules:**1. Include the artist in the post title2. Include the source in the post body3. Depictions of artistic nudity are allowed4. Depictions of blood and violence are allowed5. Imagery of pornographic and sexual activity is not allowed6. Mark posts as NSFW when necessary (nudity/violence)**Icon and Banner credits:**- Icon:  [Sirene by Rossdraws](https://www.artstation.com/artwork/r9QX06)- Banner: [Mermaid Lake by Logan Turner](https://www.artstation.com/artwork/8wgRWG)"
+description: "**This community has migrated to !imaginarymerfolk@lemmy.dbzer0.com**# Imaginary MerfolkA community to share images of mermaids, merman and other humanoid merfolk.**Rules:**1. Include the artist in the post title2. Include the source in the post body3. Depictions of artistic nudity are allowed4. Depictions of blood and violence are allowed5. Imagery of pornographic and sexual activity is not allowed6. Mark posts as NSFW when necessary (nudity/violence)**Icon and Banner credits:**- Icon:  [Sirene by Rossdraws](https://www.artstation.com/artwork/r9QX06)- Banner: [Mermaid Lake by Logan Turner](https://www.artstation.com/artwork/8wgRWG)"
 type: community
-date: "2023-06-24 01:13:41"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/imaginarymerfolk"
 host: feddit.de
-lastmod: "2023-06-20 12:40:50"
+lastmod: "2023-06-28 08:00:43"
 published: "2023-06-19 09:35:43"
-subscribers: 11
-posts: 11
+subscribers: 13
+posts: 12
 comments: 0
-weight: 11
+weight: 12
 dau: 1
 wau: 2
 mau: 2

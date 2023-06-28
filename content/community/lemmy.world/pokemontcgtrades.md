@@ -3,12 +3,12 @@ title: "Pokemon TCG Trades"
 name: "pokemontcgtrades"
 description: "Description not available."
 type: community
-date: "2023-06-23 01:21:29"
+date: "2023-06-27 16:19:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pokemontcgtrades"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:37"
 published: "2023-06-13 00:56:37"
 subscribers: 1
 posts: 0

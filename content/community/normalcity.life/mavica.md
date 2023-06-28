@@ -3,7 +3,7 @@ title: "Mavica"
 name: "mavica"
 description: "A community dedicated to the Sony Mavica line of digital and still video cameras.### Rules:This community follows the [instance-wide rules](https://normalcity.life/post/972)."
 type: community
-date: "2023-06-24 01:13:27"
+date: "2023-06-28 15:17:58"
 draft: false
 nsfw: false
 actor_id: "https://normalcity.life/c/mavica"
@@ -12,11 +12,11 @@ lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 00:49:59"
 subscribers: 2
 posts: 4
-comments: 0
+comments: 7
 weight: 4
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "normalcity_life"
 tags: 

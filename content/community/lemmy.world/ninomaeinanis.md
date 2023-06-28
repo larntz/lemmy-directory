@@ -3,7 +3,7 @@ title: "Ninomae Ina'Nis"
 name: "ninomaeinanis"
 description: "Subreddit dedicated to Hololive talent, **Ninomae Ina'Nis**."
 type: community
-date: "2023-06-23 01:21:31"
+date: "2023-06-28 15:20:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ninomaeinanis"

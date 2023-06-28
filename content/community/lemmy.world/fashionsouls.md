@@ -3,7 +3,7 @@ title: "Fashion Souls"
 name: "fashionsouls"
 description: "# Fashion SoulsA place to post pictures of and discuss your souls-like game fashion.## Rules:- Primarily for the FromSoftware games, but any souls-like with character customization is allowed.- Include the name of the game in your title.- Include the names of the items composing your fashion either in the body of your post or in a comment.- Be kind!"
 type: community
-date: "2023-06-24 01:15:48"
+date: "2023-06-28 15:21:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fashionsouls"

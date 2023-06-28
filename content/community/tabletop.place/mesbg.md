@@ -3,7 +3,7 @@ title: "Middle-earth Strategy Battle Game"
 name: "mesbg"
 description: "A community dedicated to the mass-battle wargame, Middle-earth Strategy Battle Game, by Games Workshop."
 type: community
-date: "2023-06-24 01:13:33"
+date: "2023-06-28 15:18:02"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/mesbg"

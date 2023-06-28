@@ -3,19 +3,19 @@ title: "Tools, sites and apps for lemmy"
 name: "lemmy_tools"
 description: "Tools, sites and apps for lemmy"
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/lemmy_tools"
 host: lemmy.fmhy.ml
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 16:42:16"
-subscribers: 142
+subscribers: 163
 posts: 7
 comments: 3
 weight: 7
 dau: 4
-wau: 4
+wau: 1
 mau: 8
 instances:
 - "lemmy_fmhy_ml"

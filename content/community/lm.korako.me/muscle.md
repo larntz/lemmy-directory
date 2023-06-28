@@ -3,14 +3,14 @@ title: "筋とれすきー"
 name: "muscle"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:12:44"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/muscle"
 host: lm.korako.me
 lastmod: "2021-11-26 08:49:16"
 published: "2021-11-26 08:48:41"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

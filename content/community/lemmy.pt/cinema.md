@@ -3,14 +3,14 @@ title: "Cinema"
 name: "cinema"
 description: "Espaço de partilha e discussão da sétima arte."
 type: community
-date: "2023-06-24 01:13:25"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/cinema"
 host: lemmy.pt
 lastmod: "0001-01-01 00:00:00"
 published: "2021-09-13 11:37:08"
-subscribers: 28
+subscribers: 27
 posts: 2
 comments: 5
 weight: 2

@@ -3,14 +3,14 @@ title: "PolygonFPS"
 name: "polygon_fps"
 description: "A community for the POLYGON FPS players on the Fediverse!"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:27"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/polygon_fps"
 host: sh.itjust.works
-lastmod: "2023-06-18 00:33:22"
+lastmod: "2023-06-28 15:18:27"
 published: "2023-06-17 17:53:53"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

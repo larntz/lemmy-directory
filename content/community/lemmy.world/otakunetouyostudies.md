@@ -3,7 +3,7 @@ title: "オタクとネット右翼について(出張所)"
 name: "otakunetouyostudies"
 description: "オタクカルチャーとネット右翼の関係を批判的に考えるための情報を集めるコミュニティです。本店: https://www.reddit.com/r/OtakuNetouyoStudies/"
 type: community
-date: "2023-06-23 01:21:32"
+date: "2023-06-28 15:21:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/otakunetouyostudies"

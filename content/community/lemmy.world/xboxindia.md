@@ -3,14 +3,14 @@ title: "Xbox India"
 name: "xboxindia"
 description: "A community for all the Indian Xbox gamers. linktr.ee/Xbox_India"
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-27 16:19:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xboxindia"
 host: lemmy.world
-lastmod: "2023-06-22 07:58:54"
+lastmod: "2023-06-27 16:19:20"
 published: "2023-06-22 07:48:49"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

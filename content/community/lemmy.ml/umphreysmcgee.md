@@ -3,7 +3,7 @@ title: "Umphrey’s McGee"
 name: "umphreysmcgee"
 description: "Where Syncopated Strangers can discuss Umphrey’s McGee. Be friendly and have fun!"
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/umphreysmcgee"

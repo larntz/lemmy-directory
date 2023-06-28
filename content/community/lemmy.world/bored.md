@@ -3,7 +3,7 @@ title: "Bored"
 name: "bored"
 description: "Bored? Well, start a game or something. You shoot first!"
 type: community
-date: "2023-06-24 01:15:55"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bored"

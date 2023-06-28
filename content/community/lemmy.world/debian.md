@@ -3,20 +3,20 @@ title: "Debian"
 name: "debian"
 description: "❤️ Debian**Rules**- Keep it about Debian.- Be respectful.- Engage in constructive discussions.- Please, no harassment, hate speech, or trolling."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/debian"
 host: lemmy.world
 lastmod: "2023-06-20 00:03:26"
 published: "2023-06-20 00:02:47"
-subscribers: 52
-posts: 2
-comments: 7
-weight: 2
+subscribers: 105
+posts: 3
+comments: 9
+weight: 3
 dau: 1
-wau: 9
-mau: 9
+wau: 3
+mau: 12
 instances:
 - "lemmy_world"
 tags: 

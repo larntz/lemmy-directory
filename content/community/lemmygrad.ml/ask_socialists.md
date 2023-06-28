@@ -3,7 +3,7 @@ title: "Ask Socialists"
 name: "ask_socialists"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 14:57:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ask_socialists"

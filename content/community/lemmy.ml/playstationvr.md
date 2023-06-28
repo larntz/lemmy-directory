@@ -3,19 +3,19 @@ title: "PlayStation VR"
 name: "playstationvr"
 description: "A place to share your love for and discuss everything PlayStation VRAKA PSVR, PS VR, PlayStationVR and formerly Project Morpheus.Bringing those 2016 reddit vibes back on Lemmy.- News - AMAs with Developers - Tournaments - Reviews - Events - Giveaways - Support - Deals - Game Discussions - PSN friends - Humor[PSVR Community on Mastondon](https://mastodon.gamedev.place/@psvr)"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/playstationvr"
 host: lemmy.ml
 lastmod: "2023-06-17 18:02:03"
 published: "2023-06-13 23:14:00"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 4
 weight: 1
 dau: 0
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"

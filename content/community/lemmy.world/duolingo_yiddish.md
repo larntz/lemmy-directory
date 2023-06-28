@@ -3,12 +3,12 @@ title: "Duolingo Yiddish"
 name: "duolingo_yiddish"
 description: "For learners of Yiddish on Duolingoפאַר די וואָס לערנען ייִדיש אויף דואָלינגאָ"
 type: community
-date: "2023-06-24 01:15:47"
+date: "2023-06-27 16:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/duolingo_yiddish"
 host: lemmy.world
-lastmod: "2023-06-14 15:46:13"
+lastmod: "2023-06-27 16:19:31"
 published: "2023-06-14 15:45:50"
 subscribers: 2
 posts: 1

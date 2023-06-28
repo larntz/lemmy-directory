@@ -3,7 +3,7 @@ title: "Eagle Scouts "
 name: "eaglescouts"
 description: "A community for those who are looking to and already have achieved the rank of Eagle in the Boy Scouts of America program."
 type: community
-date: "2023-06-24 01:15:50"
+date: "2023-06-28 15:20:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eaglescouts"

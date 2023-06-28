@@ -3,14 +3,14 @@ title: "FFXIV gposers"
 name: "gposers"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:15"
+date: "2023-06-28 15:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pastwind.top/c/gposers"
 host: lemmy.pastwind.top
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 02:30:05"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 0
 weight: 3

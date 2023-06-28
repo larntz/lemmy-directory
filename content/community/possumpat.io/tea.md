@@ -1,22 +1,22 @@
 ---
 title: "Tea" 
 name: "tea"
-description: "Description not available."
+description: "Welcome, tea lovers! This community is for discussing tea, from camellia sinensis to tisanes, and tea culture with fellow enthusiasts."
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/tea"
 host: possumpat.io
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-26 21:07:39"
 published: "2023-06-14 17:21:33"
-subscribers: 60
-posts: 6
-comments: 33
-weight: 6
-dau: 1
-wau: 10
-mau: 19
+subscribers: 72
+posts: 10
+comments: 51
+weight: 10
+dau: 4
+wau: 11
+mau: 23
 instances:
 - "possumpat_io"
 tags: 

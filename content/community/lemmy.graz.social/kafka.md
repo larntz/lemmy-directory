@@ -3,7 +3,7 @@ title: "Kafka"
 name: "kafka"
 description: "Diskussionen rund um Werke und Leben von Franz Kafka. "
 type: community
-date: "2023-06-24 01:12:41"
+date: "2023-06-28 15:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graz.social/c/kafka"

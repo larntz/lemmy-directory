@@ -3,14 +3,14 @@ title: "Wii"
 name: "wii"
 description: "A sublemmy dedicated to all things Wii. Share your favorite mods, how to videos or just ask for help. Its all welcome here."
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wii"
 host: lemmy.ml
 lastmod: "2021-12-16 02:51:33"
 published: "2021-12-14 10:13:39"
-subscribers: 18
+subscribers: 19
 posts: 1
 comments: 0
 weight: 1

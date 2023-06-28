@@ -3,7 +3,7 @@ title: "that's so meta"
 name: "meta"
 description: "A community to post stuff relevant to sigmet.io. "
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://sigmet.io/c/meta"

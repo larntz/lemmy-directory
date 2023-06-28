@@ -3,14 +3,14 @@ title: "Hardcore"
 name: "hardcore"
 description: "music for strange people"
 type: community
-date: "2023-06-20 11:37:49"
+date: "2023-06-27 16:16:03"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hardcore"
 host: feddit.de
-lastmod: "2023-06-01 18:29:19"
+lastmod: "2023-06-27 16:16:03"
 published: "2023-06-01 12:13:55"
-subscribers: 20
+subscribers: 21
 posts: 2
 comments: 0
 weight: 2

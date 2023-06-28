@@ -3,14 +3,14 @@ title: "South Dakota"
 name: "southdakota"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:21"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/southdakota"
 host: lemmy.ml
 lastmod: "2023-06-04 02:28:08"
 published: "2023-06-04 01:31:14"
-subscribers: 5
+subscribers: 8
 posts: 2
 comments: 4
 weight: 2

@@ -3,14 +3,14 @@ title: "RWBY"
 name: "rwby"
 description: "RWBY: A Rooster Teeth Production (Pronounced Ruby) (TV Show)Rules:- No NSFW (see instance rules)Links:- [RoosterTeeth](https://roosterteeth.com/series/rwby)- [crunchyroll](https://www.crunchyroll.com/series/GRNQJM89R/rwby)Related communities:- [roosterteeth@lemmy.ml](/c/roosterteeth@lemmy.ml)"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/rwby"
 host: sh.itjust.works
 lastmod: "2023-06-14 04:11:57"
 published: "2023-06-14 03:09:42"
-subscribers: 8
+subscribers: 10
 posts: 3
 comments: 0
 weight: 3

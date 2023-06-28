@@ -3,7 +3,7 @@ title: "DigitalID"
 name: "digital_id"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:21"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/digital_id"
@@ -15,7 +15,7 @@ posts: 2
 comments: 3
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "monero_town"

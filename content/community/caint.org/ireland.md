@@ -3,7 +3,7 @@ title: "ireland"
 name: "ireland"
 description: "Ireland on the fediverse / Éire ar an fediverse"
 type: community
-date: "2023-06-24 01:13:25"
+date: "2023-06-28 15:17:55"
 draft: false
 nsfw: false
 actor_id: "https://caint.org/c/ireland"
@@ -15,7 +15,7 @@ posts: 6
 comments: 1
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "caint_org"

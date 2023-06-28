@@ -3,14 +3,14 @@ title: "Ruby InfoSec"
 name: "ruby_infosec"
 description: "Where Ruby and InfoSec intersect."
 type: community
-date: "2023-06-24 01:12:55"
+date: "2023-06-28 15:17:42"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/ruby_infosec"
 host: infosec.pub
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 04:18:13"
-subscribers: 14
+subscribers: 16
 posts: 5
 comments: 1
 weight: 5

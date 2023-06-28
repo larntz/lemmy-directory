@@ -3,7 +3,7 @@ title: "Balearic"
 name: "balearic"
 description: "Per Wikipedia: Balearic beat, also known as Balearic house, Balearic, Ibiza house or Ibizan chillout, is an eclectic blend of DJ-led dance music that emerged in the mid-1980s.For everyone to share their favourite songs, albums and love of the Balearic genre."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/balearic"

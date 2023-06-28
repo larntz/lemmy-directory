@@ -3,14 +3,14 @@ title: "cryptocurrency"
 name: "cryptocurrency"
 description: "No posts by bots allowed - prove you're not a bot by having a post history"
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cryptocurrency"
 host: lemmy.ca
 lastmod: "2022-09-02 10:16:51"
 published: "2022-09-02 10:16:06"
-subscribers: 16
+subscribers: 22
 posts: 3
 comments: 0
 weight: 3

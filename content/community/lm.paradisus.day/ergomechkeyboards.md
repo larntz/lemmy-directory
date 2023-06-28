@@ -3,12 +3,12 @@ title: "ErgoMechKeyboards"
 name: "ergomechkeyboards"
 description: "A community in the same spirit of r/ErgoMechKeyboards/"
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lm.paradisus.day/c/ergomechkeyboards"
 host: lm.paradisus.day
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 22:42:34"
 subscribers: 35
 posts: 1

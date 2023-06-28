@@ -3,14 +3,14 @@ title: "Steamdeck"
 name: "steamdeck"
 description: "A place to discuss all things steamdeck related"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/steamdeck"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 14:07:50"
-subscribers: 17
+subscribers: 18
 posts: 0
 comments: 0
 weight: 0

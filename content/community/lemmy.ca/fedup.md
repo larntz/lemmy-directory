@@ -3,14 +3,14 @@ title: "fedup"
 name: "fedup"
 description: "giving away this sublemmy, dm for sublemmyI have an idea for the sublemmy but will reengage it in the future "
 type: community
-date: "2023-06-22 16:47:14"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fedup"
 host: lemmy.ca
 lastmod: "2022-08-25 06:27:14"
 published: "2022-08-19 16:08:23"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Rocket League"
 name: "rocketleague"
 description: "Join the community for Rocket League news, discussion, highlights, memes, and more"
 type: community
-date: "2023-06-24 01:13:17"
+date: "2023-06-28 15:18:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/rocketleague"
 host: lemmy.dbzer0.com
 lastmod: "2023-06-19 22:33:53"
 published: "2023-06-19 22:33:36"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

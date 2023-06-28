@@ -3,20 +3,20 @@ title: "AFL"
 name: "afl"
 description: "AFL"
 type: community
-date: "2023-06-24 01:15:49"
+date: "2023-06-28 14:06:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/afl"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 14:06:26"
 published: "2023-06-11 10:46:19"
-subscribers: 25
-posts: 15
-comments: 11
-weight: 15
+subscribers: 29
+posts: 21
+comments: 17
+weight: 21
 dau: 1
-wau: 3
-mau: 6
+wau: 4
+mau: 8
 instances:
 - "lemmy_world"
 tags: 

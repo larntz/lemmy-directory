@@ -3,7 +3,7 @@ title: "Iggy"
 name: "iggy"
 description: "Lemmy-related project to be announced!"
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iggy"

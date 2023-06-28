@@ -3,7 +3,7 @@ title: "vyizis.tech"
 name: "vyizistech"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:28"
+date: "2023-06-28 15:18:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vyizis.tech/c/vyizistech"

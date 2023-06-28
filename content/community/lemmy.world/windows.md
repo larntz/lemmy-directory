@@ -3,14 +3,14 @@ title: "Microsoft Windows"
 name: "windows"
 description: "The Lemmy community for everything related to Microsoft Windows"
 type: community
-date: "2023-06-24 01:15:48"
+date: "2023-06-28 15:21:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/windows"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 17:05:51"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

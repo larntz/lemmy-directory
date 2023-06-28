@@ -3,14 +3,14 @@ title: "Sea of Thieves"
 name: "seaofthieves"
 description: "Unofficial Sea of Thieves Community"
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/seaofthieves"
 host: lemmy.zip
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 12:52:44"
-subscribers: 11
+subscribers: 14
 posts: 2
 comments: 2
 weight: 2

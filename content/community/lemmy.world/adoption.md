@@ -3,12 +3,12 @@ title: "for those who are adopted or interested in adoption"
 name: "adoption"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:57"
+date: "2023-06-27 16:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/adoption"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:30"
 published: "2023-06-18 20:10:33"
 subscribers: 1
 posts: 0

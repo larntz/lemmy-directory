@@ -3,14 +3,14 @@ title: "Stupidpol"
 name: "stupol"
 description: "A community based off of r/Stupidpol, or perhaps more accurately r/twopidpol. "
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stupol"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-02-14 00:55:46"
-subscribers: 17
+subscribers: 18
 posts: 13
 comments: 2
 weight: 13

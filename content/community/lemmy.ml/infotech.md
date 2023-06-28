@@ -3,14 +3,14 @@ title: "information technology"
 name: "infotech"
 description: "Information technology (IT) is the use of computers to store, retrieve, transmit, and manipulate data or information."
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/infotech"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-09-13 08:37:08"
-subscribers: 9
+subscribers: 12
 posts: 3
 comments: 0
 weight: 3

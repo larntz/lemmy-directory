@@ -1,22 +1,22 @@
 ---
 title: "Incremental Games" 
 name: "incremental_games"
-description: "This community is for lovers of games that feature an incremental mechanism, such as unlocking progressively more powerful upgrades, or discovering new ways to play the game. This genre is growing at a break-neck pace, be part of the revolution!"
+description: "This community is for lovers of games that feature an incremental mechanism, such as unlocking progressively more powerful upgrades, or discovering new ways to play the game. This genre is growing at a break-neck pace, be part of the revolution!A great website for discovering incremental games! https://plaza.dsolver.ca"
 type: community
-date: "2023-06-22 02:21:52"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/incremental_games"
 host: lemmy.world
-lastmod: "2023-06-11 14:35:57"
+lastmod: "2023-06-26 13:41:30"
 published: "2023-06-10 23:47:29"
-subscribers: 49
-posts: 2
-comments: 6
-weight: 2
+subscribers: 64
+posts: 5
+comments: 11
+weight: 5
 dau: 1
-wau: 3
-mau: 5
+wau: 4
+mau: 8
 instances:
 - "lemmy_world"
 tags: 

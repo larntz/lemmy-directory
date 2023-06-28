@@ -3,14 +3,14 @@ title: "viralvideos"
 name: "viralvideos"
 description: "videos that have gone viral on tiktok and facebook etc"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:28"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/viralvideos"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 09:07:17"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 2
 weight: 2

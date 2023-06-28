@@ -3,7 +3,7 @@ title: "Abstract Art"
 name: "abstractart"
 description: "Abstract art is relaxing and fun to create. Show off your talent and join a community of artists who appreciate what you make!"
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abstractart"

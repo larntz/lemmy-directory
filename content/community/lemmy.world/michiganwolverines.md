@@ -3,14 +3,14 @@ title: "Michigan Wolverines"
 name: "michiganwolverines"
 description: "News and discussion about University of Michigan sports**Useful links**-  [Schedule](https://mgoblue.com/sports/football/schedule)"
 type: community
-date: "2023-06-22 02:21:48"
+date: "2023-06-28 14:06:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/michiganwolverines"
 host: lemmy.world
-lastmod: "2023-06-15 17:16:02"
+lastmod: "2023-06-28 14:06:14"
 published: "2023-06-15 17:04:16"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

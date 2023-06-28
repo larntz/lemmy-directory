@@ -3,14 +3,14 @@ title: "Psychology"
 name: "psychology"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:18:00"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/psychology"
 host: feddit.tech
 lastmod: "2023-06-14 22:59:20"
 published: "2023-06-14 22:38:40"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

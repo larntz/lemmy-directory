@@ -3,14 +3,14 @@ title: "Sultans of Stats"
 name: "sultansofstats"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:25"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/sultansofstats"
 host: fanaticus.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 10:41:12"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 1
 weight: 1

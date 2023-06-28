@@ -3,14 +3,14 @@ title: "Ask NYC"
 name: "asknyc"
 description: "A community to ask questions about NYC! Find your favorite restaurant or the best commute. Related communities:- [!nyc@voxpop.social](https://voxpop.social/c/nyc) - [!nyc@lemmy.ml](https://lemmy.ml/c/nyc) "
 type: community
-date: "2023-06-24 01:13:24"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.kutara.io/c/asknyc"
 host: lemmy.kutara.io
 lastmod: "2023-06-14 22:57:39"
 published: "2023-06-13 15:54:19"
-subscribers: 7
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

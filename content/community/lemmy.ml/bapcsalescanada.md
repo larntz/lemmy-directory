@@ -3,19 +3,19 @@ title: "Canadian sales for computer hardware"
 name: "bapcsalescanada"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bapcsalescanada"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 12:55:52"
-subscribers: 43
+subscribers: 46
 posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 5
 instances:
 - "lemmy_ml"

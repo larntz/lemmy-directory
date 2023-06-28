@@ -3,17 +3,17 @@ title: "Synthesizers"
 name: "synthesizers"
 description: "A place for the discussion of all things related to the electronic synthesis of sound."
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/synthesizers"
 host: lemm.ee
 lastmod: "2023-06-20 16:02:05"
 published: "2023-06-14 09:43:38"
-subscribers: 8
-posts: 5
-comments: 1
-weight: 5
+subscribers: 12
+posts: 6
+comments: 2
+weight: 6
 dau: 1
 wau: 1
 mau: 1

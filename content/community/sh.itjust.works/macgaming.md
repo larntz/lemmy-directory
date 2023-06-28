@@ -3,14 +3,14 @@ title: "Mac Gaming"
 name: "macgaming"
 description: "New Mac Gaming while Reddit dies"
 type: community
-date: "2023-06-23 01:19:03"
+date: "2023-06-28 14:57:38"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/macgaming"
 host: sh.itjust.works
 lastmod: "2023-06-14 16:56:04"
 published: "2023-06-14 16:51:20"
-subscribers: 11
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

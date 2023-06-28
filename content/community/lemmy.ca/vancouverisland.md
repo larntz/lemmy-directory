@@ -3,14 +3,14 @@ title: "Vancouver Island"
 name: "vancouverisland"
 description: "Vancouver Island, BC."
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/vancouverisland"
 host: lemmy.ca
 lastmod: "2023-06-15 18:35:49"
 published: "2023-06-14 05:31:39"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

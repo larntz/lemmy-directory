@@ -3,7 +3,7 @@ title: "Leftist Fiction"
 name: "leftistfiction"
 description: "For all fiction (not non-fiction or theoretical texts) that have leftist themes or are of a leftist nature, such as fiction from the Soviet Union. May include literary analysis and videos with said analysis. Let's help to compile fictional books written by communist/socialist/leftist authors. Please be civil and have fun."
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftistfiction"

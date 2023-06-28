@@ -1,22 +1,22 @@
 ---
 title: "React" 
 name: "react"
-description: "The (unofficial) React.js community for all things React!"
+description: "A community for discussing anything related to the React UI framework and it's ecosystem. [https://react.dev/](https://react.dev/)"
 type: community
-date: "2023-06-24 01:13:08"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/react"
 host: programming.dev
-lastmod: "2023-06-23 03:49:39"
+lastmod: "2023-06-26 19:02:11"
 published: "2023-06-15 13:04:09"
-subscribers: 122
-posts: 4
-comments: 16
-weight: 4
+subscribers: 168
+posts: 6
+comments: 22
+weight: 6
 dau: 1
-wau: 12
-mau: 15
+wau: 7
+mau: 20
 instances:
 - "programming_dev"
 tags: 

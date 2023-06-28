@@ -3,14 +3,14 @@ title: "Grøne Fargar"
 name: "gruhnefargar"
 description: "Me snakkar om fargar som er grøne. "
 type: community
-date: "2023-06-23 01:20:18"
+date: "2023-06-28 15:19:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gruhnefargar"
 host: lemmy.ml
 lastmod: "2021-03-30 10:10:37"
 published: "2021-03-20 13:42:09"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

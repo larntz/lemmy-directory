@@ -1,19 +1,19 @@
 ---
 title: "Detroit Lions" 
 name: "detroitlions"
-description: "For discussing, commiserating, and celebrating our Detroit Lions."
+description: "For discussing, commiserating, and celebrating our Detroit Lions.Instance rules still apply:- No porn.- No bigotry, hate speech.- No ads / spamming.- No conspiracies / QAnon / antivaxx sentimentAdditionally:- Memes allowed. We're here to have fun.- Opposing fans allowed, but keep it to friendly ribbing. "
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:17:49"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/detroitlions"
 host: midwest.social
-lastmod: "2023-06-21 23:47:39"
+lastmod: "2023-06-27 16:56:15"
 published: "2023-06-21 23:39:51"
 subscribers: 3
-posts: 2
+posts: 3
 comments: 2
-weight: 2
+weight: 3
 dau: 1
 wau: 2
 mau: 2

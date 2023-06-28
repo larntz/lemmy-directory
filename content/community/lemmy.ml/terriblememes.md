@@ -3,14 +3,14 @@ title: "terriblefacebookmemes"
 name: "terriblememes"
 description: "Located at !terriblefacebookmemes@kbin.social"
 type: community
-date: "2023-06-24 01:14:15"
+date: "2023-06-28 15:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/terriblememes"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 10:46:48"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

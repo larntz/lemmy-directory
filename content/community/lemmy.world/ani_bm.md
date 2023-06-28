@@ -3,14 +3,14 @@ title: "אני במציאות - me irl in hebrew"
 name: "ani_bm"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ani_bm"
 host: lemmy.world
 lastmod: "2023-06-21 23:50:21"
 published: "2023-06-21 23:49:09"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

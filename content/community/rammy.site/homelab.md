@@ -3,20 +3,20 @@ title: "Home Lab"
 name: "homelab"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:20"
+date: "2023-06-28 15:18:17"
 draft: false
 nsfw: false
 actor_id: "https://rammy.site/c/homelab"
 host: rammy.site
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 12:23:19"
-subscribers: 15
+subscribers: 18
 posts: 3
 comments: 14
 weight: 3
 dau: 2
-wau: 3
-mau: 3
+wau: 4
+mau: 5
 instances:
 - "rammy_site"
 tags: 

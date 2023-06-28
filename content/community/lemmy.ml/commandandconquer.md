@@ -1,14 +1,14 @@
 ---
 title: "Command & Conquer" 
 name: "commandandconquer"
-description: "[Command & Conquer community](https://cnc.community/)[C&C Wiki](https://cnc.fandom.com/wiki/)Related websites  cncnz.com  cncnet.org  cnc-online.net"
+description: "[Command & Conquer community](https://cnc.community/)[C&C Wiki](https://farside.link/breezewiki/cnc/wiki/Command_%26_Conquer_Wiki)Related websites  cncnz.com  cncnet.org  cnc-online.net"
 type: community
-date: "2023-06-21 14:56:16"
+date: "2023-06-28 15:19:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/commandandconquer"
 host: lemmy.ml
-lastmod: "2021-04-16 18:31:21"
+lastmod: "2023-06-27 21:30:49"
 published: "2021-02-17 08:49:06"
 subscribers: 6
 posts: 8

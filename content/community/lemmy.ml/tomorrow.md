@@ -3,12 +3,12 @@ title: "Tomorrow"
 name: "tomorrow"
 description: "When does it come out?_Tomorrow_"
 type: community
-date: "2023-06-22 16:47:55"
+date: "2023-06-27 16:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tomorrow"
 host: lemmy.ml
-lastmod: "2023-06-03 02:26:31"
+lastmod: "2023-06-27 16:17:41"
 published: "2023-05-26 01:19:24"
 subscribers: 23
 posts: 1

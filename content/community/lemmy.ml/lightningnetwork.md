@@ -3,14 +3,14 @@ title: "The Bitcoin Lightning Network"
 name: "lightningnetwork"
 description: "A place for open discussion and dialogue on the Bitcoin Lightning Network."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lightningnetwork"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-07 19:11:39"
-subscribers: 25
+subscribers: 26
 posts: 6
 comments: 1
 weight: 6

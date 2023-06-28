@@ -3,7 +3,7 @@ title: "Chat"
 name: "chat"
 description: "Generic chat about anything not covered in other communities"
 type: community
-date: "2023-06-24 01:12:57"
+date: "2023-06-28 15:18:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.serverfail.party/c/chat"

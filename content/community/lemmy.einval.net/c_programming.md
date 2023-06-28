@@ -3,14 +3,14 @@ title: "C Programming"
 name: "c_programming"
 description: "C:- https://www.cprogramming.com/C Lanuage Reference:- https://en.cppreference.com/w/c/language"
 type: community
-date: "2023-06-24 01:12:59"
+date: "2023-06-28 15:18:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/c_programming"
 host: lemmy.einval.net
 lastmod: "2023-06-06 05:33:26"
 published: "2023-06-05 23:27:17"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

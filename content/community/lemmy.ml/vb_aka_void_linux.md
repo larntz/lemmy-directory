@@ -3,14 +3,14 @@ title: "vb aka VoidGNU/Linux"
 name: "vb_aka_void_linux"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vb_aka_void_linux"
 host: lemmy.ml
 lastmod: "2022-02-05 03:41:43"
 published: "2022-02-04 21:09:41"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

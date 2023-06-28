@@ -3,14 +3,14 @@ title: "smoking"
 name: "smoking"
 description: "A Place to share BBQ smoking recipes, pictures, and other smoker related things."
 type: community
-date: "2023-06-24 01:12:58"
+date: "2023-06-28 15:17:44"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/smoking"
 host: discuss.tchncs.de
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 22:17:13"
-subscribers: 3
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

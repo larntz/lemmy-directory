@@ -3,20 +3,20 @@ title: "ArGaming"
 name: "argaming"
 description: "HUB para los gamers argentinos. Memes, noticias, fun facts o discusiones."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/argaming"
 host: lemmy.world
 lastmod: "2023-06-21 20:44:30"
 published: "2023-06-21 17:00:10"
-subscribers: 8
+subscribers: 10
 posts: 4
-comments: 11
+comments: 12
 weight: 4
 dau: 1
-wau: 3
-mau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

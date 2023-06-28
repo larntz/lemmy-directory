@@ -3,17 +3,17 @@ title: "United Kingdom"
 name: "unitedkingdom"
 description: "Main community for the Feddit UK instance"
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/unitedkingdom"
 host: feddit.uk
 lastmod: "2023-06-16 19:15:20"
 published: "2023-06-09 08:42:38"
-subscribers: 964
-posts: 29
-comments: 237
-weight: 29
+subscribers: 1040
+posts: 36
+comments: 258
+weight: 36
 dau: 12
 wau: 76
 mau: 99

@@ -3,14 +3,14 @@ title: "Drunk"
 name: "drunk"
 description: "A place to hang out and drink. Post what you're drinking, what you're doing, or anything else"
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/drunk"
 host: lemm.ee
 lastmod: "2023-06-15 01:34:46"
 published: "2023-06-14 01:53:33"
-subscribers: 7
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

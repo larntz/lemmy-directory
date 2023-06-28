@@ -3,7 +3,7 @@ title: "Pescuit"
 name: "pescuit"
 description: "Pescuit sportiv si pescuit de competitie, balti de pescuit, noutati, articole de pescuit, nade si momeli, monturi, lansete, mulinete si echipament de pescuit"
 type: community
-date: "2023-06-24 01:14:19"
+date: "2023-06-28 15:19:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pescuit"

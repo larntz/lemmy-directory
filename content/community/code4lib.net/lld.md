@@ -3,14 +3,14 @@ title: "Library Linked Data"
 name: "lld"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:12:46"
+date: "2023-06-28 15:17:58"
 draft: false
 nsfw: false
 actor_id: "https://code4lib.net/c/lld"
 host: code4lib.net
 lastmod: "1969-12-31 19:00:00"
 published: "2022-11-29 21:36:31"
-subscribers: 20
+subscribers: 21
 posts: 8
 comments: 2
 weight: 8

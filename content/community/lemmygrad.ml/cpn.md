@@ -3,7 +3,7 @@ title: "CPN"
 name: "cpn"
 description: "De Nederlandse gemeenschap voor communisten op LemmygradDit is een intersectionele gemeenschap"
 type: community
-date: "2023-06-24 01:13:09"
+date: "2023-06-28 15:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/cpn"

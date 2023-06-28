@@ -3,7 +3,7 @@ title: "Lemmy Wishlist"
 name: "lemmy_wishlist"
 description: "A community for discussing other communities that you wish existed. Which topics do you want to see discussed on Lemmy going forward?"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/lemmy_wishlist"
@@ -15,8 +15,8 @@ posts: 4
 comments: 1
 weight: 4
 dau: 1
-wau: 4
-mau: 4
+wau: 1
+mau: 5
 instances:
 - "lemmy_blahaj_zone"
 tags: 

@@ -3,14 +3,14 @@ title: "Roll20"
 name: "roll20"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/roll20"
 host: lemmy.rollenspiel.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2022-04-15 11:14:04"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 0
 weight: 3

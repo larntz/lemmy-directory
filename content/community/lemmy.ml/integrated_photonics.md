@@ -3,7 +3,7 @@ title: "Integrated Photonics"
 name: "integrated_photonics"
 description: "Nanophotonics |Silicon Photonics |Photonic Integrated Circuits"
 type: community
-date: "2023-06-24 01:14:23"
+date: "2023-06-28 15:19:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/integrated_photonics"

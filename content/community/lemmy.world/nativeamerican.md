@@ -3,12 +3,12 @@ title: "Native American"
 name: "nativeamerican"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:53"
+date: "2023-06-27 16:19:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nativeamerican"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-27 16:19:46"
 published: "2023-06-12 06:54:58"
 subscribers: 5
 posts: 3

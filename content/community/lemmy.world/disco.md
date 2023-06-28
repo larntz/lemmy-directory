@@ -3,7 +3,7 @@ title: "Disco"
 name: "disco"
 description: "Per Wikipedia: Disco is a genre of dance music and a subculture that emerged in the 1970s from the United States' urban nightlife scene. Its sound is typified by four-on-the-floor beats, syncopated basslines, string sections, brass and horns, electric piano, synthesizers, and electric rhythm guitarsFor everyone to share their favourite songs, albums and love of the Disco genre."
 type: community
-date: "2023-06-24 01:15:43"
+date: "2023-06-28 15:20:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/disco"

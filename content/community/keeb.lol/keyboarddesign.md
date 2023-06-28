@@ -1,16 +1,16 @@
 ---
-title: "Keyboard Design" 
+title: "KeyboardDesign" 
 name: "keyboarddesign"
 description: "Discussion, documentation and help regarding Keyboard design"
 type: community
-date: "2023-06-24 01:13:32"
+date: "2023-06-28 15:18:01"
 draft: false
 nsfw: false
 actor_id: "https://keeb.lol/c/keyboarddesign"
 host: keeb.lol
-lastmod: "2023-06-20 16:27:59"
+lastmod: "2023-06-25 19:34:59"
 published: "2023-06-20 16:27:18"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "indian people on lemmy"
 name: "indian"
 description: "Namaskaram, welcome to the place of Indian. Have fun"
 type: community
-date: "2023-06-24 01:14:17"
+date: "2023-06-28 15:19:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indian"
 host: lemmy.ml
 lastmod: "2021-09-28 16:47:33"
 published: "2021-09-28 16:46:28"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

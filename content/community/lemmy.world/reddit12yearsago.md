@@ -3,7 +3,7 @@ title: "The frontpage of reddit, 12 years ago"
 name: "reddit12yearsago"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:57"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/reddit12yearsago"

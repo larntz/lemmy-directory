@@ -3,14 +3,14 @@ title: "Ñ (todo en español)"
 name: "espanol"
 description: "Comunidad para publicar cualquier cosa (noticias, preguntas, memes, comics, arte, etc.) en el idioma español.Community for all things (news, questions, memes, comics, art, etc.) in spanish language."
 type: community
-date: "2023-06-24 01:14:22"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/espanol"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-08-22 21:00:44"
-subscribers: 128
+subscribers: 131
 posts: 17
 comments: 13
 weight: 17

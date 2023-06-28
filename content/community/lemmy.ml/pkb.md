@@ -3,7 +3,7 @@ title: "Personal Knowledgebases"
 name: "pkb"
 description: "From the commonplace book to the zettelkasten to the personal wiki, and everything in between. Technology-focused content and practice-based content both welcome. While we're still small, screenshots of your notes that you're particularly proud of are also welcome!"
 type: community
-date: "2023-06-23 01:20:16"
+date: "2023-06-28 15:19:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pkb"

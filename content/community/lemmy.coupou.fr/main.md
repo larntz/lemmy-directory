@@ -3,14 +3,14 @@ title: "Communauté principale Lemmy Coupou.fr"
 name: "main"
 description: "Communauté principale"
 type: community
-date: "2023-06-24 01:13:30"
+date: "2023-06-28 15:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coupou.fr/c/main"
 host: lemmy.coupou.fr
 lastmod: "2021-10-29 23:21:06"
 published: "2021-10-28 23:49:43"
-subscribers: 85
+subscribers: 86
 posts: 0
 comments: 0
 weight: 0

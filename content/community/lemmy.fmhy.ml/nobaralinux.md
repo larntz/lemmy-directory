@@ -3,14 +3,14 @@ title: "Nobara Linux"
 name: "nobaralinux"
 description: "Nobara Linux is created by GloriousEggroll (person behind Proton-GE), it's based on Fedora and comes with configured WINE dependencies, installer for NVIDIA drivers... There are 3 version of Nobara: Official, GNOME, and KDE.https://nobaraproject.org"
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/nobaralinux"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-23 11:42:47"
 published: "2023-06-23 11:04:48"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

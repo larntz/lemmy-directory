@@ -3,7 +3,7 @@ title: "Every 60 seconds in africa, a minute passes"
 name: "sixtysecondsinafrica"
 description: "Rules:1. Posts must be related in meaning to every sixty seconds in africa, a minute passes"
 type: community
-date: "2023-06-24 01:13:13"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/sixtysecondsinafrica"

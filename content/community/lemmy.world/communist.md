@@ -3,14 +3,14 @@ title: "communist"
 name: "communist"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 15:20:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/communist"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 04:51:22"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

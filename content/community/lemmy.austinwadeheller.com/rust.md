@@ -3,7 +3,7 @@ title: "Rust"
 name: "rust"
 description: "Description not available."
 type: community
-date: "2023-06-24 01:13:26"
+date: "2023-06-28 15:18:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.austinwadeheller.com/c/rust"

@@ -3,7 +3,7 @@ title: "gem highlights"
 name: "geminihighlightsa"
 description: "community to share new and other interesting articles on the network of the gemini protocol.     ###### **notes:**    - explaining why the gemini article is interesting will be helpful in maintaining a standard for keeping the posts interesting. it is not required at this time.- you must list 1-5 keywords to help a viewer decide if the article is relevant to their interests. this is required unless the title is fully descriptive. keywords should be ordered from most essential descending.    - please do not post links to very short pages. ex: three short sentences.- posting a series from one site is currently accepted. there may be a cutoff or rate limiting for repeat posters.- articles/text only- no mainstream mirror content. sorry.crossposted content of      mirror of less mainstream authors is ok in moderation."
 type: community
-date: "2023-06-24 01:14:20"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/geminihighlightsa"

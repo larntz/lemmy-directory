@@ -3,7 +3,7 @@ title: "Jazz Fusion"
 name: "jazzfusion"
 description: "Talk about Jazz Fusion bands!"
 type: community
-date: "2023-06-24 01:13:31"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/jazzfusion"

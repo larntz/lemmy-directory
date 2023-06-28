@@ -3,19 +3,19 @@ title: "Visualization"
 name: "visualization"
 description: "For topics related to visualization of data (infographics). That includes: graphs, charts, maps, etc."
 type: community
-date: "2023-06-24 01:15:44"
+date: "2023-06-28 15:21:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/visualization"
 host: lemmy.world
 lastmod: "2023-06-19 07:16:37"
 published: "2023-06-19 07:01:32"
-subscribers: 28
+subscribers: 33
 posts: 7
 comments: 2
 weight: 7
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

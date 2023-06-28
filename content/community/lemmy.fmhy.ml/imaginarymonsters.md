@@ -1,22 +1,22 @@
 ---
-title: "Imaginary Monsters/Horrors" 
+title: "Imaginary Monsters/Horrors/Elementals" 
 name: "imaginarymonsters"
-description: "Description not available."
+description: "To remember: once they add flairs to the platform create those flairs: monster/horror/elemental/dragon/creature (for less dangerous beings)/spirit"
 type: community
-date: "2023-06-24 01:13:07"
+date: "2023-06-28 15:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/imaginarymonsters"
 host: lemmy.fmhy.ml
-lastmod: "2023-06-23 19:48:12"
+lastmod: "2023-06-27 19:09:39"
 published: "2023-06-21 10:35:11"
-subscribers: 3
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 14
+posts: 10
+comments: 5
+weight: 10
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_fmhy_ml"
 tags: 

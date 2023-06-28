@@ -1,16 +1,16 @@
 ---
-title: "Mahamudra: the Great Seal" 
+title: "Mahamudra: The Great Seal" 
 name: "mahamudra"
-description: "A community for discussing Chakchen (ཕྱག་ཆེན་), the Great Seal."
+description: "A community for discussing Chakchen (ཕྱག་ཆེན་), The Great Seal."
 type: community
-date: "2023-06-24 01:15:40"
+date: "2023-06-28 15:20:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mahamudra"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-24 01:16:39"
 published: "2023-06-24 01:08:14"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

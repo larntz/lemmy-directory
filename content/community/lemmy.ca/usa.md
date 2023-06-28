@@ -3,14 +3,14 @@ title: "USA | United states of America"
 name: "usa"
 description: ""
 type: community
-date: "2023-06-24 01:13:38"
+date: "2023-06-28 15:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/usa"
 host: lemmy.ca
 lastmod: "2023-01-30 17:19:17"
 published: "2022-07-09 07:57:52"
-subscribers: 40
+subscribers: 41
 posts: 21
 comments: 6
 weight: 21

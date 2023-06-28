@@ -1,19 +1,19 @@
 ---
 title: "test" 
 name: "test"
-description: "This is a community for testing various functionality including bots, moderator actions, and other features."
+description: "This is test text[](/redball/standings)AL East Standings--------|Team|Wins|Losses|GB||:--|:-:|:-:|:-:||[Rays](/c/tampabayrays@fanaticus.social)|53|27|-||[Orioles](/c/orioles@fanaticus.social)|46|29|4.5||[Yankees](/c/nyyankees@fanaticus.social)|42|35|9.5||[Blue Jays](/c/torontobluejays@fanaticus.social)|42|36|10.0||[Red Sox](/c/redsox@fanaticus.social)|40|38|12.0|Updated: 2023-06-24 21:20[](/redball/standings)"
 type: community
-date: "2023-06-24 01:13:18"
+date: "2023-06-28 15:18:26"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/test"
 host: fanaticus.social
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-25 01:20:50"
 published: "2023-06-11 16:40:16"
-subscribers: 4
-posts: 22
+subscribers: 6
+posts: 24
 comments: 21
-weight: 22
+weight: 24
 dau: 1
 wau: 3
 mau: 3

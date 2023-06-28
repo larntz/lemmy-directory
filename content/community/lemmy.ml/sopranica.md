@@ -3,7 +3,7 @@ title: "Sopranica"
 name: "sopranica"
 description: "Discussion about the [Sopranica](https://soprani.ca) project including [Cheogram](https://cheogram.com) and [JMP.chat](https://jmp.chat)"
 type: community
-date: "2023-06-24 01:14:18"
+date: "2023-06-28 15:19:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sopranica"

@@ -3,19 +3,19 @@ title: "Overlanding"
 name: "overlanding"
 description: "A place to share pictures from your Overlanding adventure or just to show off your rig and gear. "
 type: community
-date: "2023-06-24 01:15:45"
+date: "2023-06-28 14:06:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/overlanding"
 host: lemmy.world
-lastmod: "2023-06-16 23:50:28"
+lastmod: "2023-06-28 14:06:17"
 published: "2023-06-16 01:48:13"
-subscribers: 36
-posts: 10
+subscribers: 42
+posts: 15
 comments: 7
-weight: 10
+weight: 15
 dau: 1
-wau: 3
+wau: 1
 mau: 5
 instances:
 - "lemmy_world"

@@ -3,14 +3,14 @@ title: "Brighton"
 name: "brighton"
 description: "Welcome Brightonians and visitors alike!No abuse, no doxxing, no spam."
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/brighton"
 host: feddit.uk
 lastmod: "2023-06-12 17:06:34"
 published: "2023-06-12 14:39:08"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 7
 weight: 2

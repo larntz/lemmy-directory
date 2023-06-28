@@ -3,14 +3,14 @@ title: "Bloodborne"
 name: "bloodborne"
 description: "lemmy.zip Bloodborne CommunityBasic Lemmy-quette and rules apply.Have fun and may the good blood guide your way."
 type: community
-date: "2023-06-24 01:13:16"
+date: "2023-06-28 15:17:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/bloodborne"
 host: lemmy.zip
 lastmod: "2023-06-16 16:49:13"
 published: "2023-06-16 16:06:11"
-subscribers: 10
+subscribers: 15
 posts: 2
 comments: 0
 weight: 2

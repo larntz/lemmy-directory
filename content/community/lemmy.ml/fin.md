@@ -3,14 +3,14 @@ title: "Suomi"
 name: "fin"
 description: "Testiyhteisö"
 type: community
-date: "2023-06-24 01:14:16"
+date: "2023-06-28 15:19:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fin"
 host: lemmy.ml
 lastmod: "2021-01-23 15:26:36"
 published: "2021-01-23 15:04:07"
-subscribers: 11
+subscribers: 12
 posts: 3
 comments: 5
 weight: 3

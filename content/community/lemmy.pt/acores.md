@@ -3,14 +3,14 @@ title: "Açores"
 name: "acores"
 description: "Comunidade açoriana.Os Açores, oficialmente Região Autónoma dos Açores, são um arquipélago transcontinental e um território autónomo da República Portuguesa, situado no Atlântico nordeste."
 type: community
-date: "2023-06-24 01:13:25"
+date: "2023-06-28 15:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/acores"
 host: lemmy.pt
 lastmod: "2023-06-14 10:25:29"
 published: "2021-09-25 21:24:03"
-subscribers: 5
+subscribers: 6
 posts: 12
 comments: 6
 weight: 12
