@@ -3,14 +3,14 @@ title: "Hardware"
 name: "hardware"
 description: "##### **Description:**Just a community for all the hardware porn. Just post whatever your heart desires as long as it is hardware related.##### **Rules:**No harassment. No spamming. Stay friendly. Follow the rules of infosec.pub instance."
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/hardware"
 host: infosec.pub
 lastmod: "2023-06-17 23:08:24"
 published: "2023-06-17 21:35:02"
-subscribers: 32
+subscribers: 34
 posts: 6
 comments: 8
 weight: 6

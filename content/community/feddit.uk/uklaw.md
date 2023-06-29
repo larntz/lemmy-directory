@@ -3,7 +3,7 @@ title: "uklaw"
 name: "uklaw"
 description: "For the discussion of interesting UK caselaw and legislation, and for discussion of the legal profession - NOT FOR OBTAINING LEGAL ADVICE.  "
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/uklaw"

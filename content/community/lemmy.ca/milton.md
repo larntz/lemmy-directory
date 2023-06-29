@@ -3,7 +3,7 @@ title: "Milton, Ontario"
 name: "milton"
 description: "A community for discussing anything related to the town of Milton in Ontario."
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/milton"

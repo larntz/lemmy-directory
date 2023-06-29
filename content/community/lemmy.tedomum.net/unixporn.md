@@ -3,7 +3,7 @@ title: "Unixporn"
 name: "unixporn"
 description: "Submit screenshots of all your *NIX desktops, themes, and nifty configurations, or submit anything else that will make ricers happy. Maybe a server running on an Amiga, or a thinkpad signed by Bjarne Stroustrup? Show the world how sexy your computer can be!"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/unixporn"
@@ -16,7 +16,7 @@ comments: 1
 weight: 4
 dau: 1
 wau: 1
-mau: 2
+mau: 1
 instances:
 - "lemmy_tedomum_net"
 tags: 

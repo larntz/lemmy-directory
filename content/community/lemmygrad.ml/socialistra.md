@@ -3,14 +3,14 @@ title: "Socialist Rifle Association"
 name: "socialistra"
 description: "Placeholder. Not sure if/when this community will be in use."
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/socialistra"
 host: lemmygrad.ml
 lastmod: "2022-08-28 02:23:31"
 published: "2022-08-28 00:39:35"
-subscribers: 26
+subscribers: 27
 posts: 1
 comments: 0
 weight: 1

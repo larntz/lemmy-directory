@@ -3,14 +3,14 @@ title: "EKG"
 name: "ekg"
 description: "A place to discuss EKGs. "
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ekg"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-26 08:19:40"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

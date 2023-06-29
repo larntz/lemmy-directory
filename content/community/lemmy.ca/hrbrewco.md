@@ -3,7 +3,7 @@ title: "High River Brewing Company"
 name: "hrbrewco"
 description: "Small Craft Brewery Specializing in delicious brews, events and live music! Located in High River Alberta Canada"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/hrbrewco"

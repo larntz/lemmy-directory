@@ -3,14 +3,14 @@ title: "Chainsaw Man"
 name: "chainsawman"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chainsawman"
 host: lemmy.ml
 lastmod: "2022-04-14 04:33:55"
 published: "2022-02-03 00:31:55"
-subscribers: 28
+subscribers: 29
 posts: 10
 comments: 4
 weight: 10

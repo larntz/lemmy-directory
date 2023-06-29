@@ -3,7 +3,7 @@ title: "Techno Production on Lemmy"
 name: "technoproduction"
 description: "~ADSR~A - ALL feedback requests must be posted to the sticky on the top of the page. If you post a feedback request to the main thread it will be deleted by a moderator. Only post to the feedback thread!D - DO NOT share links to warez, torrents, or pirated software.S - No SPAM. This includes:    Posting personal blogs that include links to paid software or commercially distributed music.    Posting links to Self-Promotional content like youtube or soundcloud. Please use flair if you would like to share your pages.R - Be RESPECTFUL."
 type: community
-date: "2023-06-28 15:19:29"
+date: "2023-06-29 12:36:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/technoproduction"

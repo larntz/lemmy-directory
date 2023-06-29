@@ -3,7 +3,7 @@ title: "Real Madrid"
 name: "realmadrid"
 description: "Home of the 14 times European Champions. Hala Madrid!"
 type: community
-date: "2023-06-28 15:21:04"
+date: "2023-06-29 12:37:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realmadrid"

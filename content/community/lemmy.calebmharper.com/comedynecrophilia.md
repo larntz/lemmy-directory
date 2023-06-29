@@ -3,14 +3,14 @@ title: "Comedy Necrophilia"
 name: "comedynecrophilia"
 description: "Bad comedy made worse**Related Communities:**[Comedy Heaven](/c/comedyheaven@lemmy.world)"
 type: community
-date: "2023-06-28 15:18:20"
+date: "2023-06-29 12:35:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.calebmharper.com/c/comedynecrophilia"
 host: lemmy.calebmharper.com
 lastmod: "2023-06-17 21:11:43"
 published: "2023-06-16 04:44:50"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 1
 weight: 1

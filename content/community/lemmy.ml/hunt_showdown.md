@@ -3,14 +3,14 @@ title: "Hunt: Showdown"
 name: "hunt_showdown"
 description: "A place for news, updates, and general discussion about the videogame Hunt: Showdown.All platforms welcome."
 type: community
-date: "2023-06-27 16:17:41"
+date: "2023-06-29 12:36:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hunt_showdown"
 host: lemmy.ml
-lastmod: "2023-06-27 16:17:41"
+lastmod: "2023-06-05 18:58:22"
 published: "2023-06-05 17:56:03"
-subscribers: 10
+subscribers: 11
 posts: 3
 comments: 3
 weight: 3

@@ -3,12 +3,12 @@ title: "Tech'n Privacy"
 name: "technprivacy"
 description: "Community zum Tech'n Privacy Matrix Room. Alles mögliche zu Technik und Privacy Themen."
 type: community
-date: "2023-06-28 15:18:05"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://postit.quantentoast.de/c/technprivacy"
 host: postit.quantentoast.de
-lastmod: "2023-06-25 21:43:49"
+lastmod: "2023-06-28 19:18:08"
 published: "2023-06-25 21:39:33"
 subscribers: 4
 posts: 0

@@ -3,7 +3,7 @@ title: "VXJunkies: Science, made Delta; NOW newly re-famulated!"
 name: "vxjunkies"
 description: "Looking for a double-helix transistor to magnify your oblidisk? Want to discuss ballooning algorithms or Dormison's Paradox? Ever wondered about Swedish teutonic logic commands, the Hans-Rodenheim Law of Vectoral Momentum, Fankel readings, Mornington axions, the Armistan Codex, Envels, or the newest breakthroughs in ion insulate module technology?Come here for all your VX needs, whether it be tech updates, fixes, or conventions!e"
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/vxjunkies"

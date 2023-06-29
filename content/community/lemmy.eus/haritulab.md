@@ -3,14 +3,14 @@ title: "haritulab"
 name: "haritulab"
 description: "haritualb.eus"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/haritulab"
 host: lemmy.eus
 lastmod: "2021-12-27 09:29:17"
 published: "2021-12-27 09:28:54"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

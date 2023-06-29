@@ -3,14 +3,14 @@ title: "analysis"
 name: "analysis"
 description: "All kinds of fact-based, political analysis. "
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/analysis"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-08-22 18:58:38"
-subscribers: 39
+subscribers: 41
 posts: 59
 comments: 29
 weight: 59

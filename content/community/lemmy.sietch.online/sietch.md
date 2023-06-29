@@ -3,14 +3,14 @@ title: "sietch"
 name: "sietch"
 description: "Discuss lemmy.sietch.online"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sietch.online/c/sietch"
 host: lemmy.sietch.online
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 13:03:59"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

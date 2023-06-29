@@ -3,14 +3,14 @@ title: "Jeux"
 name: "jeux"
 description: "pour échanger sur tous types de jeux"
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/jeux"
 host: lemmy.tedomum.net
 lastmod: "1969-12-31 19:00:00"
 published: "2022-03-30 17:15:36"
-subscribers: 8
+subscribers: 9
 posts: 5
 comments: 0
 weight: 5

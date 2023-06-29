@@ -3,17 +3,17 @@ title: "UFO"
 name: "ufo"
 description: "A subreddit for the serious discussion of UFOs and related phenomena, with an emphasis on current events and breaking news. PLEASE DO NOT POST..."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/ufo"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-24 14:36:17"
-subscribers: 1
-posts: 139
+subscribers: 2
+posts: 174
 comments: 0
-weight: 139
+weight: 174
 dau: 0
 wau: 0
 mau: 0

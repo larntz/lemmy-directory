@@ -3,7 +3,7 @@ title: "Good News"
 name: "goodnews"
 description: "Good, positive news stories. Stuff that gives you hope for humanity.Other wholesome communities on the Threadiverse: [/m/wholesome](https://kbin.social/m/wholesome) Other news communities:* [/c/BadNews](https://lemmy.ml/c/badnews)* [/c/WorldNews](https://lemmy.ml/c/worldnews)* [/c/news @ beehaw](https://lemmy.ml/c/news@beehaw.org) "
 type: community
-date: "2023-06-28 15:19:16"
+date: "2023-06-29 12:36:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/goodnews"

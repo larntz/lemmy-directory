@@ -3,7 +3,7 @@ title: "University of Waterloo"
 name: "uwaterloo"
 description: "Discuss the University of Waterloo and student life here! "
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/uwaterloo"

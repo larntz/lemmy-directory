@@ -3,7 +3,7 @@ title: "me_irl - selfies of the soul"
 name: "me_irl"
 description: "Post things that are u irl.---# FAQ## What lemmy instance hosts this community?https://discuss.tchncs.de/c/me_irl## How do I join this god-like community?[join-lemmy.org](https://join-lemmy.org/docs/en/users/01-getting-started.html) has a quick start guide.Just choose one of the many [Lemmy instances](https://github.com/maltfield/awesome-lemmy-instances#all-lemmy-instances) and register a new account. It is also possible to use your existing Mastodon/Friendica/whatever account.## Where is the content?The content is YOU! Fill this community with the ~~most depressing~~ greatest content you may think of.## When things are too real for u irlGo to [2meirl4meirl](https://discuss.tchncs.de/c/2meirl4meirl)"
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/me_irl"

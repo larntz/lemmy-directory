@@ -3,14 +3,14 @@ title: "Books"
 name: "books"
 description: "All about the books"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/books"
 host: group.lt
 lastmod: "2022-03-11 17:47:26"
 published: "2022-03-03 22:06:54"
-subscribers: 42
+subscribers: 43
 posts: 37
 comments: 6
 weight: 37

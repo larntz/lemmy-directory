@@ -3,14 +3,14 @@ title: "Farscape"
 name: "farscape"
 description: "A place to discuss the TV show Farscape"
 type: community
-date: "2023-06-28 15:20:50"
+date: "2023-06-29 12:37:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/farscape"
 host: lemmy.world
 lastmod: "2023-06-17 20:47:17"
 published: "2023-06-17 20:40:54"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

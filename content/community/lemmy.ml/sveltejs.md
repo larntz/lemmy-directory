@@ -3,7 +3,7 @@ title: "Svelte the JavaScript Non-Framework"
 name: "sveltejs"
 description: "https://svelte.dev/ related content"
 type: community
-date: "2023-06-28 15:19:11"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sveltejs"

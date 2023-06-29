@@ -3,7 +3,7 @@ title: "UI_Design"
 name: "ui_design"
 description: "Welcome to UI_Design! Showcase, critique, look for advice, and more!"
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ui_design"

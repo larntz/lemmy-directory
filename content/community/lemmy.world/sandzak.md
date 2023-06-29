@@ -3,14 +3,14 @@ title: "Sandžak"
 name: "sandzak"
 description: "Welcome to Sandžak!"
 type: community
-date: "2023-06-28 15:21:09"
+date: "2023-06-29 12:37:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sandzak"
 host: lemmy.world
 lastmod: "2023-06-22 00:38:41"
 published: "2023-06-22 00:35:49"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "familyguyshitposting"
 name: "familyguyshitposting"
 description: "This sub is for all shitposts and memes related to the Seth MacFarlane animated universe, giggity."
 type: community
-date: "2023-06-28 15:20:40"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/familyguyshitposting"
@@ -15,7 +15,7 @@ posts: 10
 comments: 3
 weight: 10
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_world"

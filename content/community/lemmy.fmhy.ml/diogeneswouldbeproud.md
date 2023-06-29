@@ -3,19 +3,19 @@ title: "Diogenes Would Be Proud"
 name: "diogeneswouldbeproud"
 description: "For cases when a definition is too specific/broad,I.e. A human is a featherless biped, therefore a plucked chicken is a human.Moved from Reddit, (r/DiogenesWouldBeProud) to Lemmy"
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/diogeneswouldbeproud"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-22 11:05:27"
 published: "2023-06-20 05:52:18"
-subscribers: 46
+subscribers: 48
 posts: 5
 comments: 4
 weight: 5
 dau: 1
-wau: 6
+wau: 4
 mau: 6
 instances:
 - "lemmy_fmhy_ml"

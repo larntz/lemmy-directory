@@ -3,14 +3,14 @@ title: "Vidya"
 name: "vidya"
 description: "A place to post about vidya games"
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/vidya"
 host: board.minimally.online
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 19:53:32"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

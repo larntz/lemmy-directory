@@ -3,7 +3,7 @@ title: "The Carolina Panthers"
 name: "panthers"
 description: "Unofficial home of The Carolina Panthers NFL team on Lemmy- [Official Panthers website](https://www.panthers.com/)- [Official NFL website](https://www.nfl.com/)- [Official Panthers Facebook page](https://www.facebook.com/CarolinaPanthers/)- [Official Panthers Instagram](https://www.instagram.com/panthers/)- [Official Panthers Twitter](https://twitter.com/Panthers)- [Official Panthers YouTube](https://www.youtube.com/channel/UC6vl4XAyO5mZLczhFC8MgpA)- [Official Panthers Tiktok](https://tiktok.com/@panthers)"
 type: community
-date: "2023-06-28 15:19:30"
+date: "2023-06-29 12:36:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/panthers"

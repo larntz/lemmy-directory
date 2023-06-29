@@ -3,12 +3,12 @@ title: "Fantasy Football"
 name: "fantasyfootball"
 description: "A community for discussing fantasy football."
 type: community
-date: "2023-06-27 16:15:55"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/fantasyfootball"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:55"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 17:20:50"
 subscribers: 7
 posts: 1

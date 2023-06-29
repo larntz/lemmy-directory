@@ -3,7 +3,7 @@ title: "Interactive Fiction"
 name: "interactive_fiction"
 description: "The community for interactive fiction and text games on Lemmy."
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/interactive_fiction"
@@ -15,7 +15,7 @@ posts: 14
 comments: 7
 weight: 14
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_ml"

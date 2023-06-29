@@ -3,7 +3,7 @@ title: "Learning CW (morse code)"
 name: "learning_cw"
 description: "An informal community for people learning decoding morse code (sounds! not characters ...---......-)"
 type: community
-date: "2023-06-28 15:18:02"
+date: "2023-06-29 12:34:59"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/learning_cw"
@@ -15,7 +15,7 @@ posts: 9
 comments: 2
 weight: 9
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemm_ee"

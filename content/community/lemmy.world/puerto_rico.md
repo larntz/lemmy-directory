@@ -3,7 +3,7 @@ title: "PuertoRico"
 name: "puerto_rico"
 description: "A community for Puerto Ricans."
 type: community
-date: "2023-06-28 15:21:05"
+date: "2023-06-29 12:37:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/puerto_rico"

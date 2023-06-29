@@ -3,7 +3,7 @@ title: "badhistory"
 name: "badhistory"
 description: "A community for discussing pseudo-history."
 type: community
-date: "2023-06-28 15:19:18"
+date: "2023-06-29 12:36:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/badhistory"

@@ -3,14 +3,14 @@ title: "pigs"
 name: "pigs"
 description: "A community for pet pig owners."
 type: community
-date: "2023-06-28 15:19:22"
+date: "2023-06-29 12:36:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pigs"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-05 20:02:20"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

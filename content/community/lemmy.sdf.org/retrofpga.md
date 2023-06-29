@@ -3,7 +3,7 @@ title: "Retro FPGA"
 name: "retrofpga"
 description: "Discuss FPGA recreations of Retro Hardware. Games, Computers, Specialized ICs other stuff. Things like MiSTer, Vampire, etc."
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/retrofpga"

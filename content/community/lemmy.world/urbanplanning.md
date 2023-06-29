@@ -1,0 +1,25 @@
+---
+title: "Urban planning: The built environment" 
+name: "urbanplanning"
+description: "Urban planning aims to improve the built, natural, social and economic aspects of towns and cities. Discuss any related topics, like transportation, land use, and community development here among enthusiasts and professionals."
+type: community
+date: "2023-06-29 12:37:44"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/urbanplanning"
+host: lemmy.world
+lastmod: "1969-12-31 19:00:00"
+published: "2023-06-16 11:06:53"
+subscribers: 26
+posts: 3
+comments: 1
+weight: 3
+dau: 1
+wau: 3
+mau: 4
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---

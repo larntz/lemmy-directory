@@ -3,7 +3,7 @@ title: "Dungeons"
 name: "dungeons"
 description: "This community has moved to lemmy.world: https://lemmy.world/c/dungeons"
 type: community
-date: "2023-06-28 15:19:23"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dungeons"

@@ -3,14 +3,14 @@ title: "Moderate Politics"
 name: "moderate_politics"
 description: "Welcome to Moderate Politics!Have a moderate, polite, and informed discussion about politics. We like news articles, cool wikipedia pages, discussion threads, and more.**Be Thoughtful****Be Kind****Consider the Audience**"
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/moderate_politics"
 host: lemmy.world
 lastmod: "2023-06-23 17:46:59"
 published: "2023-06-21 03:22:16"
-subscribers: 46
+subscribers: 49
 posts: 7
 comments: 6
 weight: 7

@@ -3,7 +3,7 @@ title: "Arcmage"
 name: "arcmage"
 description: "# ArcmageCommunity dedicated to Arcmage, a free and open source community driven customizable card game (CCG).## Rules- Everyone should feel welcome- Post and comment related to the game- Get fun!## Links- Check more info: https://arcmage.org- Play online with a friend (or us): https://aminduna.arcmage.org/#/play- Getting started rules (pdf): https://arcmage.org/wp-content/uploads/2018/11/Arcmage-Rules-Compact.pdf- Mastodon: https://mastodon.social/@arcmage- Matrix: https://matrix.to/#/!fljIQduTQTMNRfwYhT:matrix.org"
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arcmage"

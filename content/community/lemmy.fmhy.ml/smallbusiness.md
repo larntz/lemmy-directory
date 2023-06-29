@@ -3,14 +3,14 @@ title: "SmallBusiness Owners"
 name: "smallbusiness"
 description: "The lemmy alternative for /r/smallbusinessA place for small business owners. "
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/smallbusiness"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 10:50:21"
-subscribers: 3
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

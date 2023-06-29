@@ -3,7 +3,7 @@ title: "dachschaden"
 name: "dachschaden"
 description: "**Statuten von Dachschaden:**Wir positionieren uns eindeutig gegen Antisemitismus, Klassismus, Rassismus, Sexismus und Transfeindlichkeit.Wir sind klar antifaschistisch, emanzipatorisch, stehen für sexuelle und geschlechtliche Vielfalt (LGBTQIA+, hier ist kein Platz für homo-, trans*-, bi-, a-, enby-, ...-misia) und moderieren dementsprechend.Antiintellektualismus, Verschwörungsideologien, Fake News, Falschbehauptungen und Geschichtsrevisionismus wird hier keine Plattform geboten. Ja, dazu zählt auch Relativierung."
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dachschaden"

@@ -3,14 +3,14 @@ title: "EuroBike"
 name: "eurobike"
 description: "A community for all European bicycle users. Commuters, mountain bikers, roadies, everybody is welcome."
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eurobike"
 host: lemmy.world
 lastmod: "2023-06-25 13:50:16"
 published: "2023-06-25 13:47:25"
-subscribers: 10
+subscribers: 11
 posts: 2
 comments: 0
 weight: 2

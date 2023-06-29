@@ -3,7 +3,7 @@ title: "Scienza e innovazione "
 name: "scienza"
 description: "# Notizie su scienza e innovazioneComunità dedicata alle notizie su **~~astronomia~~,  fisica, biologia, zoologia, geologia e scoperte scientifiche**.**Ricordiamo agli appassionati di astronomia che è stata attivata una comunità dedicata: [https://feddit.it/c/astronomia](https://feddit.it/c/astronomia)**> Tutti gli articoli sono graditi, tranne le notizie provenienti da siti sensazionalistici e blog di pseudoscienza!!!"
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/scienza"

@@ -3,7 +3,7 @@ title: "Thai Natural Language Processing"
 name: "thainlp"
 description: "ชุมชนผู้สนใจการประมวลผลภาษาธรรมชาติ (natural language processing) ในภาษาไทย และแบ่งปันความรู้ตามแนวทางซอฟต์แวร์เสรีและข้อมูลเปิดมีงานพบปะแลกเปลี่ยนชื่อ Thai NLP Meetupไม่เกี่ยวข้องกับบริษัทหรือสถาบันใด ๆ#ThaiNLP"
 type: community
-date: "2023-06-28 15:19:28"
+date: "2023-06-29 12:36:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thainlp"

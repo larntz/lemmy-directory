@@ -3,7 +3,7 @@ title: "Fluxx Card Game"
 name: "fluxxcardgame"
 description: "A community for those who like the ever changing game(s) from Loony Labs.Whether you play the original or any of the variants, come on down and have a natter.Note : this community is not associated with Loony Labs. It's just for fans of the game. "
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fluxxcardgame"

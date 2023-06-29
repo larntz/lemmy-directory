@@ -3,7 +3,7 @@ title: "食レポ"
 name: "gochisou"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/gochisou"

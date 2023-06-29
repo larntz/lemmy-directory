@@ -3,14 +3,14 @@ title: "EDC"
 name: "edc"
 description: "What's in your pocket?"
 type: community
-date: "2023-06-28 15:20:49"
+date: "2023-06-29 12:37:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/edc"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 23:49:28"
-subscribers: 11
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Lockheed Martin"
 name: "lockheed_martin"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:49"
+date: "2023-06-29 12:37:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lockheed_martin"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 20:06:28"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

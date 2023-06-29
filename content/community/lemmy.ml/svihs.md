@@ -3,7 +3,7 @@ title: "SU VEREN İTFAİYENİN HORTUMUNU SİKEYİM"
 name: "svihs"
 description: "SVİHS LEMMY VERSİYONU"
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/svihs"

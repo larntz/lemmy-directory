@@ -3,7 +3,7 @@ title: "Natural Language Processing"
 name: "nlp"
 description: "A community to discuss research, development and products relating to Natural Language Processing.Please prefix each post with the appropriate tags:- `[R]`: Research paper- `[D]`: Discussion post- `[P]`: Project (your own or others)- `[N]`: News article- `[B]`: Blog post (your own or others)- `[C]`: Conferences and Workshops- `[M]`: Meta discussions"
 type: community
-date: "2023-06-28 15:19:11"
+date: "2023-06-29 12:36:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nlp"

@@ -3,12 +3,12 @@ title: "Diablo 4"
 name: "diablo4"
 description: "Diablo 4 community - looking for moderators!"
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/diablo4"
 host: feddit.nl
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 10:26:39"
 subscribers: 5
 posts: 1

@@ -3,14 +3,14 @@ title: "Outdoor Service Guides"
 name: "osg"
 description: "#### Fediverse CommunitySee our website:[Outdoor Service Guides](https://osg-us.org)Not much to see here yet!"
 type: community
-date: "2023-06-28 15:21:05"
+date: "2023-06-29 12:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/osg"
 host: lemmy.world
 lastmod: "2023-06-22 02:50:18"
 published: "2023-06-22 02:42:48"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

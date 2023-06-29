@@ -3,7 +3,7 @@ title: "Klassische Antike"
 name: "antike"
 description: "Alles, was mit den Sprachen, Literaturen, Geschichte und Artefakten der alten Griechen und Römer zu tun hat.Das community icon ist [hier](https://commons.wikimedia.org/wiki/File:Euripides,_archetype_350-325_BC,_Plaster_cast,_Hostinn%C3%A9,_188470.jpg)."
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/antike"
@@ -15,7 +15,7 @@ posts: 3
 comments: 9
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 4
 instances:
 - "feddit_de"

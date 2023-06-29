@@ -3,7 +3,7 @@ title: "tl;dr bot discussion"
 name: "tldrbot"
 description: "Community for discussing tl; dr bot. Leave any feedback here."
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tldrbot"
@@ -15,7 +15,7 @@ posts: 8
 comments: 9
 weight: 8
 dau: 1
-wau: 14
+wau: 12
 mau: 14
 instances:
 - "lemmy_world"

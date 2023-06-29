@@ -3,7 +3,7 @@ title: "Beer Money UK"
 name: "beermoneyuk"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/beermoneyuk"

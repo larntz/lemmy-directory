@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Where the mods show stuff"
 type: community
-date: "2023-06-28 15:18:20"
+date: "2023-06-29 12:35:13"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/announcements"

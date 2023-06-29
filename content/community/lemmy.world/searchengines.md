@@ -3,7 +3,7 @@ title: "searchengines"
 name: "searchengines"
 description: "this community i am interested in .. so i create it for now. see how it goes .."
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/searchengines"

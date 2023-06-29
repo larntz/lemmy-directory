@@ -3,7 +3,7 @@ title: "gry"
 name: "gry"
 description: "Hejko gracze i graczki!"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/gry"
@@ -14,9 +14,9 @@ subscribers: 80
 posts: 75
 comments: 72
 weight: 75
-dau: 1
+dau: 2
 wau: 4
-mau: 6
+mau: 7
 instances:
 - "szmer_info"
 tags: 

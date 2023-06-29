@@ -3,7 +3,7 @@ title: "Nature Drawing"
 name: "nature_drawing"
 description: "Hello! Here you can share your drawings of nature.I recommend you to include a tag of the medium at the beginning of the color. For example, [Watercolor] or [Oil painting], and mention your source of inspiration!"
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/nature_drawing"

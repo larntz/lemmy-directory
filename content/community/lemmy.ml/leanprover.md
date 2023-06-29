@@ -3,7 +3,7 @@ title: "The Lean Theorem Prover"
 name: "leanprover"
 description: "Lean is a functional programming language that makes it easy to write correct and maintainable code. You can also use Lean as an interactive theorem prover. Lean programming primarily involves defining types and functions. This allows your focus to remain on the problem domain and manipulating its data, rather than the details of programming.This community is for discussion of the Lean programming language/theorem prover and about mathematics, computer science, type theory and anything else relevant."
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leanprover"

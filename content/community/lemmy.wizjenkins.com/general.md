@@ -3,14 +3,14 @@ title: "General Topics"
 name: "general"
 description: "This community is for anything that doesn't fit into other communities."
 type: community
-date: "2023-06-28 15:17:39"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wizjenkins.com/c/general"
 host: lemmy.wizjenkins.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-07 18:44:31"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Kentucky: The Bluegrass State"
 name: "kentucky"
 description: "# Y'all means all.Welcome to !kentucky@midwest.social, where you can share and discuss all things happening in Kentucky. Please subscribe!# Rules- Be respectful and civil. - No racism/bigotry/hateful speech.- Post anything related to Kentucky."
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:41"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/kentucky"
 host: midwest.social
 lastmod: "2023-06-20 14:54:14"
 published: "2023-06-20 14:00:42"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

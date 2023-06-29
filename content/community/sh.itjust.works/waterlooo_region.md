@@ -3,12 +3,12 @@ title: "Waterloo Region"
 name: "waterlooo_region"
 description: "Welcome to Waterloo Region, including the cities of Cambridge, Kitchener, and Waterloo, and the townships of North Dumfries, Wellesley, Wilmot and Woolwich."
 type: community
-date: "2023-06-27 16:16:32"
+date: "2023-06-29 12:35:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/waterlooo_region"
 host: sh.itjust.works
-lastmod: "2023-06-27 16:16:32"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 21:58:04"
 subscribers: 9
 posts: 1

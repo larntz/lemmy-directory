@@ -3,7 +3,7 @@ title: "Seattle, WA"
 name: "seattle"
 description: "of the four corners of the mainland, you've got to admit we've got a good case for ourselves"
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seattle"

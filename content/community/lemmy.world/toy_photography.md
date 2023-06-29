@@ -3,17 +3,17 @@ title: "Toy Photography"
 name: "toy_photography"
 description: "A place to share and discuss toy photography"
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/toy_photography"
 host: lemmy.world
 lastmod: "2023-06-25 23:25:25"
 published: "2023-06-25 23:23:12"
-subscribers: 9
-posts: 3
+subscribers: 11
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1

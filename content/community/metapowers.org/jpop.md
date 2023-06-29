@@ -3,7 +3,7 @@ title: "J-pop"
 name: "jpop"
 description: "Community dedicated to sharing / discussing J-pop music.Rules:- J-pop related content only.- Stay civil, and stay calm."
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://metapowers.org/c/jpop"

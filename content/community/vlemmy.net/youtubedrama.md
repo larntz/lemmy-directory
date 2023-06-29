@@ -3,7 +3,7 @@ title: "Content Creators, Drama, and Self-Destruction"
 name: "youtubedrama"
 description: "all the juicy drama from all of the content creating websites. youtube, twitch, wherever, it just needs to be juicy"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/youtubedrama"

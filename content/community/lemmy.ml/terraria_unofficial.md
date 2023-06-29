@@ -3,7 +3,7 @@ title: "Terraria Unofficial"
 name: "terraria_unofficial"
 description: "Hello! Welcome to the ***unofficial*** terraria community, this community is ran entirely by fans, no developers are involved in this. Have fun!"
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/terraria_unofficial"

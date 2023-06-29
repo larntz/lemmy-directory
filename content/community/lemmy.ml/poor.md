@@ -3,7 +3,7 @@ title: "Poor"
 name: "poor"
 description: "A community dedicated to the discussion of being poor, rantings about it, asking for advice, etc.Rules:1- Be friendly, posts or comments laughing, mocking or showing a negative attitude towards people will be deleted.2- Don't ask for stuff or money, it is really hard to know who's behind a keyboard and this could lead to scams, which is hard to moderate.Related communities:[/c/povertymeals](https://lemmygrad.ml/c/povertymeals)"
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/poor"

@@ -3,7 +3,7 @@ title: "👋 Introductions"
 name: "introductions"
 description: "A place for new members to introduce themselves and meet each other"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/introductions"

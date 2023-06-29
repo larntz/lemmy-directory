@@ -3,7 +3,7 @@ title: "Bring Da Ruckus"
 name: "bring_da_ruckus"
 description: "Posts related to this instance. News, complaints, requests, reports."
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bringdaruck.us/c/bring_da_ruckus"

@@ -3,12 +3,12 @@ title: "Explain Like I'm Psycho"
 name: "explainlikeimpsycho"
 description: "Give here explanations as if someone is a psychopath who lacks moral compassion, so explain it in an amorally way."
 type: community
-date: "2023-06-28 15:19:21"
+date: "2023-06-29 12:36:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/explainlikeimpsycho"
 host: lemmy.ml
-lastmod: "2023-06-22 02:40:00"
+lastmod: "2023-06-28 22:40:09"
 published: "2023-06-22 02:36:06"
 subscribers: 2
 posts: 0

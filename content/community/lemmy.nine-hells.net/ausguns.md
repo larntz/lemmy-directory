@@ -3,14 +3,14 @@ title: "AusGuns"
 name: "ausguns"
 description: "A place for Australian sporting shooters and hunters"
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nine-hells.net/c/ausguns"
 host: lemmy.nine-hells.net
 lastmod: "2023-06-12 04:32:44"
 published: "2023-06-10 23:31:13"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 1
 weight: 1

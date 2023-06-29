@@ -3,14 +3,14 @@ title: "Mausritter RPG"
 name: "mausritter"
 description: "The community to talk about the  [mausritter RPG](https://mausritter.com)."
 type: community
-date: "2023-06-28 15:19:11"
+date: "2023-06-29 12:36:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mausritter"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 09:50:18"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

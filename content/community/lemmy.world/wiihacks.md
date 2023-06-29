@@ -3,14 +3,14 @@ title: "WiiHacks"
 name: "wiihacks"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:53"
+date: "2023-06-29 12:38:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wiihacks"
 host: lemmy.world
-lastmod: "2023-06-25 13:08:27"
+lastmod: "2023-06-28 16:19:36"
 published: "2023-06-15 16:51:18"
-subscribers: 6
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Gateway Tapes"
 name: "gatewaytapes"
 description: "A gateway for self-discovery and go beyond time-space"
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/gatewaytapes"

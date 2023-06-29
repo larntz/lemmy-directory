@@ -3,7 +3,7 @@ title: "Skyline Porn"
 name: "skylineporn"
 description: "For photos of city skylines!Rules- Any type of skyline is allowed (small towns or big cities)- Include the location in the title- Include the resolution in [brackets] in the title.- Include the photographer name in the title. If you submitting your own work tag it with [OC].- Do not edit, rehost or modify images submitted here without permission of the photographer. This includes edits to fix the colors of an image or remove a watermark.- Only submit static images (no videos, gifs, interactive images or articles)- Original source is allowed and preferred over the approved hosts. If your submission is not on the list of approved hosts, but is the original source, please use the tag [OS] so your submission is not removed in error.- Repost isn't allow for three months.- Please report anything that breaks any of these rules to the moderators using the report button.- If you have any more questions, message the moderators!"
 type: community
-date: "2023-06-28 15:18:17"
+date: "2023-06-29 12:35:12"
 draft: false
 nsfw: false
 actor_id: "https://feddit.fun/c/skylineporn"

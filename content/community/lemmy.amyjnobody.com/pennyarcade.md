@@ -3,17 +3,17 @@ title: "Penny Arcade (RSS)"
 name: "pennyarcade"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:59"
+date: "2023-06-29 12:34:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.amyjnobody.com/c/pennyarcade"
 host: lemmy.amyjnobody.com
 lastmod: "2023-06-26 16:30:11"
 published: "2023-06-26 16:29:18"
-subscribers: 2
-posts: 21
+subscribers: 4
+posts: 22
 comments: 0
-weight: 21
+weight: 22
 dau: 0
 wau: 0
 mau: 0

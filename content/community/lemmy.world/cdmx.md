@@ -3,7 +3,7 @@ title: "Ciudad de México - Mexico City - CDMX"
 name: "cdmx"
 description: "Noticias, imágenes y links relacionados con la Ciudad de México son bienvenidos, así como anuncios y preguntas dirigidas a la comunidad.News, images and links related to Mexico City are welcome, as well as announcements and questions addressed to the community."
 type: community
-date: "2023-06-28 15:20:40"
+date: "2023-06-29 12:37:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cdmx"

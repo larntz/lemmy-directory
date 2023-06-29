@@ -3,7 +3,7 @@ title: "CasualUK"
 name: "casualuk"
 description: "UK based subreddit for non-political news, commentary and discussion."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/casualuk"

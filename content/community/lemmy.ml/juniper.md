@@ -3,7 +3,7 @@ title: "Juniper Networks"
 name: "juniper"
 description: "Juniper-specific network engineering, architecture, and design.Rules:1. Be kind2. No home networking3. No low effort questions (use Google first)"
 type: community
-date: "2023-06-28 15:19:29"
+date: "2023-06-29 12:36:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/juniper"

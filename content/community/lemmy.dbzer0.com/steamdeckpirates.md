@@ -3,14 +3,14 @@ title: "SteamDeckPirates"
 name: "steamdeckpirates"
 description: "Discuss piracy on Valve's portable handheld - the Steam Deck."
 type: community
-date: "2023-06-28 15:18:21"
+date: "2023-06-29 12:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/steamdeckpirates"
 host: lemmy.dbzer0.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 20:28:29"
-subscribers: 219
+subscribers: 222
 posts: 4
 comments: 3
 weight: 4

@@ -3,14 +3,14 @@ title: "ESP32"
 name: "esp32"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/esp32"
 host: lemmy.ml
 lastmod: "2022-01-20 20:46:43"
 published: "2022-01-18 13:58:55"
-subscribers: 57
+subscribers: 58
 posts: 4
 comments: 6
 weight: 4

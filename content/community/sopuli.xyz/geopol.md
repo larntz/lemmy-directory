@@ -3,7 +3,7 @@ title: "Geopolitics"
 name: "geopol"
 description: "## WelcomeVisit us on Matrix at [#geopol:matrix.org](https://matrix.to/#/#geopol:matrix.org)"
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/geopol"
@@ -16,7 +16,7 @@ comments: 29
 weight: 89
 dau: 1
 wau: 1
-mau: 3
+mau: 2
 instances:
 - "sopuli_xyz"
 tags: 

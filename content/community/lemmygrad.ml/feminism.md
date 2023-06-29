@@ -3,14 +3,14 @@ title: "Revolutionary Feminism"
 name: "feminism"
 description: "A place to talk about feminism, especially from a Marxist perspective but not solely."
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/feminism"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-10-14 16:34:57"
-subscribers: 198
+subscribers: 199
 posts: 55
 comments: 165
 weight: 55

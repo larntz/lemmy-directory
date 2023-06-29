@@ -3,14 +3,14 @@ title: "Marxism 101"
 name: "marxism101"
 description: "This community is for learning about Marxism."
 type: community
-date: "2023-06-28 15:18:20"
+date: "2023-06-29 12:35:14"
 draft: false
 nsfw: false
 actor_id: "https://invariant-marxism.red/c/marxism101"
 host: invariant-marxism.red
 lastmod: "2023-06-09 22:47:25"
 published: "2023-06-08 23:55:08"
-subscribers: 5
+subscribers: 6
 posts: 3
 comments: 0
 weight: 3

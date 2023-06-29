@@ -3,7 +3,7 @@ title: "This Old Tony"
 name: "tot"
 description: "For This Old Tony and machining duscussions"
 type: community
-date: "2023-06-28 15:20:36"
+date: "2023-06-29 12:37:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tot"

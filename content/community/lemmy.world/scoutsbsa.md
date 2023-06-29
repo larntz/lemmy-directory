@@ -3,7 +3,7 @@ title: "Scouts BSA"
 name: "scoutsbsa"
 description: "This is the unofficial Lemmy community for all things relating to Scouting in the United States, specifically the Boy Scouts of America: Cub Scouts, Scouts BSA, Sea Scouts, Venturing, Exploring, and related programs."
 type: community
-date: "2023-06-28 15:20:44"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/scoutsbsa"

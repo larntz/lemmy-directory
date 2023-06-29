@@ -3,7 +3,7 @@ title: "Nordic Nature"
 name: "nature"
 description: "Share photos of the beautiful nature we have in the North! Non-Nordics are of course welcome to subscribe, comment and post images that they have of Nordic nature!*Why no banner on icon? The snkkis.me instance currently have some problems when it comes to uploading images, but don't worry! You can still upload from other instances or other image hosting services!!!!!!*## Rules1. Follow the snkkis.me instance rules2. Be nice and respecting3. Images can only be of Nordic nature, thats the point of the community..."
 type: community
-date: "2023-06-28 15:18:14"
+date: "2023-06-29 12:35:09"
 draft: false
 nsfw: false
 actor_id: "https://snkkis.me/c/nature"

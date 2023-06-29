@@ -3,14 +3,14 @@ title: "Law School"
 name: "lawschool"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:54"
+date: "2023-06-29 12:37:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lawschool"
 host: lemmy.world
 lastmod: "2023-06-19 06:28:41"
 published: "2023-06-18 04:40:12"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

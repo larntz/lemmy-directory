@@ -3,14 +3,14 @@ title: "Kalamazoo"
 name: "kalamazoo"
 description: "Community for Kalamazoo, Michigan"
 type: community
-date: "2023-06-28 15:17:49"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/kalamazoo"
 host: midwest.social
 lastmod: "2023-06-19 02:21:20"
 published: "2023-05-31 22:01:39"
-subscribers: 23
+subscribers: 24
 posts: 4
 comments: 3
 weight: 4

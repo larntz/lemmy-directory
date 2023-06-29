@@ -3,7 +3,7 @@ title: "Marvel Snap"
 name: "marvelsnap"
 description: "A Marvel Snap community on sh.itjust.works! Discuss the game, post decks and strategies, and connect with other fans of Second Dinner's mobile game."
 type: community
-date: "2023-06-28 15:18:26"
+date: "2023-06-29 12:35:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/marvelsnap"

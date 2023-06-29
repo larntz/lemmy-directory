@@ -3,7 +3,7 @@ title: "Vue.js"
 name: "vuejs"
 description: "A place for the Vue community to come together and discuss projects, news, tips and evertything else concerning the Vue js framework."
 type: community
-date: "2023-06-28 15:21:04"
+date: "2023-06-29 12:37:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vuejs"

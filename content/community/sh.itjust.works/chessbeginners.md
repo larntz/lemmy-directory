@@ -3,14 +3,14 @@ title: "chessbeginners"
 name: "chessbeginners"
 description: "A place for chess beginners to seek advice and/or ask about weird pawn moves."
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-29 12:35:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/chessbeginners"
 host: sh.itjust.works
 lastmod: "2023-06-15 13:35:27"
 published: "2023-06-14 10:00:53"
-subscribers: 34
+subscribers: 36
 posts: 1
 comments: 6
 weight: 1

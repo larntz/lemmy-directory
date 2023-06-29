@@ -3,12 +3,12 @@ title: "Old School RuneScape"
 name: "osrs"
 description: "### Guidelines- Posts should be about RuneScape"
 type: community
-date: "2023-06-27 16:15:54"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/osrs"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:54"
+lastmod: "2023-06-26 16:10:44"
 published: "2023-06-26 16:03:37"
 subscribers: 1
 posts: 1

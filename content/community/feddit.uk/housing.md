@@ -3,7 +3,7 @@ title: "HousingUK"
 name: "housing"
 description: "A place to discuss or ask for advice about renting or buying your home. Useful links: [Shelter - The Housing Charity](https://www.shelter.org.uk/)"
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/housing"

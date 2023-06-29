@@ -3,14 +3,14 @@ title: "Network Neutrality"
 name: "netneutrality"
 description: "discussion about network neutrality"
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/netneutrality"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-03-28 15:33:08"
-subscribers: 119
+subscribers: 120
 posts: 1
 comments: 1
 weight: 1

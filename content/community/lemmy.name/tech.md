@@ -3,7 +3,7 @@ title: "Technology"
 name: "tech"
 description: "Discussion about the latest news in tech"
 type: community
-date: "2023-06-28 15:18:12"
+date: "2023-06-29 12:35:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.name/c/tech"

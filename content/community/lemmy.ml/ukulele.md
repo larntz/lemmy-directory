@@ -3,14 +3,14 @@ title: "Ukulele Love"
 name: "ukulele"
 description: "Discuss and share anything neat related to the wonderful ukulele."
 type: community
-date: "2023-06-28 15:19:21"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ukulele"
 host: lemmy.ml
 lastmod: "2021-05-29 15:10:26"
 published: "2021-05-28 13:38:23"
-subscribers: 38
+subscribers: 39
 posts: 15
 comments: 7
 weight: 15

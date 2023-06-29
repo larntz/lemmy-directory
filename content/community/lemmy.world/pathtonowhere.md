@@ -3,7 +3,7 @@ title: "Path to Nowhere"
 name: "pathtonowhere"
 description: "An English community for the mobile SRPG real-time tower defense gacha game Path to Nowhere by AISNO Games.[Official Website](https://ptn.aisnogames.com/en-EN/home)[Official Twitter](https://twitter.com/PathtoNowhereEN)[Official Discord](https://t.co/hIeCg3sZXK)"
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pathtonowhere"
@@ -15,8 +15,8 @@ posts: 9
 comments: 0
 weight: 9
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

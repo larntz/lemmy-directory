@@ -3,14 +3,14 @@ title: "Everdrive"
 name: "everdrive"
 description: "/r/Everdrive Alternative"
 type: community
-date: "2023-06-28 15:20:55"
+date: "2023-06-29 12:37:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/everdrive"
 host: lemmy.world
 lastmod: "2023-06-16 02:23:27"
 published: "2023-06-10 14:27:15"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

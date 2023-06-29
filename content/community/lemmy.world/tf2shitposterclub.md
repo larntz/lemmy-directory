@@ -3,14 +3,14 @@ title: "Team Fortress 2 Shitposter Club"
 name: "tf2shitposterclub"
 description: "Community for assorted crap that's too unserious for the official TF2 sublemmy"
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tf2shitposterclub"
 host: lemmy.world
 lastmod: "2023-06-25 23:06:28"
 published: "2023-06-25 22:21:12"
-subscribers: 8
+subscribers: 9
 posts: 4
 comments: 0
 weight: 4

@@ -3,7 +3,7 @@ title: "Arcane Legends"
 name: "arcane_legends"
 description: "Unofficial community for Arcane Legends game on MobileMMOHub.com"
 type: community
-date: "2023-06-28 15:18:04"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://mobilemmohub.com/c/arcane_legends"

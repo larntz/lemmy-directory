@@ -3,14 +3,14 @@ title: "Epic Music"
 name: "epicmusic"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jpiolho.com/c/epicmusic"
 host: lemmy.jpiolho.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 18:24:56"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

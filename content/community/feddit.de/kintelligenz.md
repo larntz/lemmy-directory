@@ -3,7 +3,7 @@ title: "Künstliche Intelligenz"
 name: "kintelligenz"
 description: "Alles zum Thema künstliche Intelligenz,#ai #ki #artificial-intelligence::: spoiler Attributionbanner by deep-aiicon by  [Freepik - Flaticon](https://www.flaticon.com/de/kostenlose-icons/gehirn):::"
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kintelligenz"

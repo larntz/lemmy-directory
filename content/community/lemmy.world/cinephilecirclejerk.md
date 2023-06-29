@@ -3,14 +3,14 @@ title: "Cinephile Circlejerk"
 name: "cinephilecirclejerk"
 description: "No movies allowed, only films, cinema, kino, and motion pictures."
 type: community
-date: "2023-06-27 16:19:31"
+date: "2023-06-29 12:37:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cinephilecirclejerk"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:31"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 02:16:06"
-subscribers: 25
+subscribers: 26
 posts: 9
 comments: 1
 weight: 9

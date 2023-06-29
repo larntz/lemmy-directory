@@ -3,7 +3,7 @@ title: "Allgemeines in Graz"
 name: "main"
 description: "Foto: © Bwag/CC-BY-SA-4.0 "
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graz.social/c/main"

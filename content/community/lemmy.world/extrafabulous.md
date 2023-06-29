@@ -3,14 +3,14 @@ title: "extra fabulous comics"
 name: "extrafabulous"
 description: "extra fabulous comics by homie z"
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/extrafabulous"
 host: lemmy.world
 lastmod: "2023-06-25 19:24:36"
 published: "2023-06-25 17:14:16"
-subscribers: 82
+subscribers: 89
 posts: 2
 comments: 12
 weight: 2

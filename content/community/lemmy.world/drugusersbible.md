@@ -3,7 +3,7 @@ title: "The Drug Users Bible"
 name: "drugusersbible"
 description: "This is a little island on Lemmy covering psychoactive drugs, harm reduction and of course The Drug Users Bible. From Amazon: *The author self-administered over 180 drugs, documenting the qualitative experience and the vital safety data for each*... Website: [www.DrugUsersBible.com](https://www.DrugUsersBible.com)"
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drugusersbible"

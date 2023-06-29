@@ -3,12 +3,12 @@ title: "Doggos That Aren't Food Motivated"
 name: "dog_doesnt_eat"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:15:54"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/dog_doesnt_eat"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:54"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 07:19:39"
 subscribers: 26
 posts: 21

@@ -3,14 +3,14 @@ title: "Digital Preservation"
 name: "digitalark"
 description: "A community for people who care about preservation of digital media - software, games, audio, video. Discussions, questions, sources for preserved digital items are all welcome.What's ***not*** welcome is apologia for DRM or intellectual property rights. Knowledge is to be shared so it can evolve and improve, not kept away for monetary gain.It's absolutely okay to discuss piracy but due to obvious reasons, don't share anything that would get this site in trouble.Otherwise, just keep it civil and somewhat friendly."
 type: community
-date: "2023-06-28 14:57:09"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/digitalark"
 host: lemmygrad.ml
 lastmod: "2022-03-23 18:22:50"
 published: "2022-03-23 18:18:45"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 7
 weight: 2

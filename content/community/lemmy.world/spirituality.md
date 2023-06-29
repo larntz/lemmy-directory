@@ -3,14 +3,14 @@ title: "spirituality"
 name: "spirituality"
 description: "A place for spiritual discussion of all kinds. All faiths and beliefs welcome."
 type: community
-date: "2023-06-28 14:06:21"
+date: "2023-06-29 12:38:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spirituality"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:21"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 06:18:05"
-subscribers: 24
+subscribers: 25
 posts: 4
 comments: 6
 weight: 4

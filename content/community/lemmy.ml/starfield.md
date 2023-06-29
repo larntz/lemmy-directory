@@ -3,14 +3,14 @@ title: "Starfield"
 name: "starfield"
 description: "Discussion about Starfield by Bethesda Game Studios"
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starfield"
 host: lemmy.ml
 lastmod: "2023-06-10 21:24:52"
 published: "2023-06-10 21:22:41"
-subscribers: 59
+subscribers: 60
 posts: 7
 comments: 8
 weight: 7

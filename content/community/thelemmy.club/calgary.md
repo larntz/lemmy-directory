@@ -3,7 +3,7 @@ title: "Calgary"
 name: "calgary"
 description: "The City of Calgary"
 type: community
-date: "2023-06-28 15:18:18"
+date: "2023-06-29 12:35:12"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/calgary"

@@ -3,14 +3,14 @@ title: "Revolutionary Art"
 name: "revolutionary_art"
 description: "Post your political art! Digital and physical pieces are welcome. "
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/revolutionary_art"
 host: lemmygrad.ml
 lastmod: "2022-03-28 04:19:59"
 published: "2022-03-27 07:01:24"
-subscribers: 94
+subscribers: 96
 posts: 3
 comments: 4
 weight: 3

@@ -3,7 +3,7 @@ title: "Canning & Food Preservation"
 name: "canning"
 description: "Canning and preserving food. Includes dehydrating, freeze-drying, etc."
 type: community
-date: "2023-06-28 14:57:00"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/canning"

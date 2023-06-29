@@ -3,14 +3,14 @@ title: "puppies"
 name: "puppies"
 description: "Description not available."
 type: community
-date: "2023-06-28 14:06:21"
+date: "2023-06-29 12:37:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/puppies"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:21"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 06:23:54"
-subscribers: 18
+subscribers: 19
 posts: 1
 comments: 0
 weight: 1

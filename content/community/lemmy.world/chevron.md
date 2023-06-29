@@ -3,12 +3,12 @@ title: "chevron"
 name: "chevron"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:16"
+date: "2023-06-29 12:38:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chevron"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:16"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 19:46:50"
 subscribers: 1
 posts: 0

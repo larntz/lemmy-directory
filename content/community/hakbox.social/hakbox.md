@@ -3,14 +3,14 @@ title: "HakBox"
 name: "hakbox"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://hakbox.social/c/hakbox"
 host: hakbox.social
 lastmod: "2023-06-10 19:27:11"
 published: "2023-06-10 17:14:39"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

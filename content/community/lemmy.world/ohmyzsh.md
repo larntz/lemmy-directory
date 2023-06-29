@@ -3,7 +3,7 @@ title: "OhMyZsh"
 name: "ohmyzsh"
 description: "OMZ users community (unofficial)Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.[https://ohmyz.sh/](https://ohmyz.sh)"
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ohmyzsh"

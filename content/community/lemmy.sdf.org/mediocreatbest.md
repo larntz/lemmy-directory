@@ -3,7 +3,7 @@ title: "mediocreatbest"
 name: "mediocreatbest"
 description: "My collection of links, articles, projects, and more that I find interesting."
 type: community
-date: "2023-06-28 14:56:57"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/mediocreatbest"

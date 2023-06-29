@@ -3,14 +3,14 @@ title: "Main"
 name: "main"
 description: "Welcome welcome welcom to this technology focused Lemmy"
 type: community
-date: "2023-06-28 15:18:00"
+date: "2023-06-29 12:34:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/main"
 host: feddit.tech
 lastmod: "2023-06-15 08:19:02"
 published: "2023-06-14 22:08:18"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

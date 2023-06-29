@@ -3,7 +3,7 @@ title: "Massachusetts "
 name: "massachusetts"
 description: "Now there's a Massachusetts page!"
 type: community
-date: "2023-06-28 15:19:30"
+date: "2023-06-29 12:36:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/massachusetts"

@@ -3,7 +3,7 @@ title: "CRT Gaming"
 name: "crtgaming"
 description: "Celebrating the art of playing video games on cathode ray tube displays."
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:59"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/crtgaming"

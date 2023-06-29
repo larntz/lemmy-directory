@@ -3,7 +3,7 @@ title: "Wichita"
 name: "wichita"
 description: "For those living within and around Wichita, KS to share news, events, and thoughts!1. Here is your new [Code of Conduct](https://mastodon.world/about)2. Posts need to be about Wichita3. Politics are allowed, but only about Wichita/Kansas.4. These are subject to change as Lemmy evolves and new user bases interact."
 type: community
-date: "2023-06-28 15:21:10"
+date: "2023-06-29 12:38:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wichita"

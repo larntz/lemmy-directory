@@ -3,7 +3,7 @@ title: "minecraftlife"
 name: "minecraftlife"
 description: "do you want to play minecraft like ethoslab, stampylonghead, dallsmed65, ibxtoycat? these people played on the same world for years. if you want to create such a journey for yourself, then please do share it in this community! "
 type: community
-date: "2023-06-28 15:20:58"
+date: "2023-06-29 12:37:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minecraftlife"

@@ -3,14 +3,14 @@ title: "Mastodon"
 name: "mastodon"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/mastodon"
 host: notdigg.com
 lastmod: "2023-06-13 23:13:48"
 published: "2023-06-13 22:57:13"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

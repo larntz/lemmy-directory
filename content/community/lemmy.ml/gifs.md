@@ -1,0 +1,25 @@
+---
+title: "GIFs" 
+name: "gifs"
+description: "Pronounced with a hard “J”"
+type: community
+date: "2023-06-29 12:36:32"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ml/c/gifs"
+host: lemmy.ml
+lastmod: "2023-06-29 12:36:32"
+published: "2020-02-18 14:37:48"
+subscribers: 159
+posts: 6
+comments: 1
+weight: 6
+dau: 1
+wau: 1
+mau: 1
+instances:
+- "lemmy_ml"
+tags: 
+- "lemmy_ml"
+
+---

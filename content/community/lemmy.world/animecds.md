@@ -3,14 +3,14 @@ title: "AnimeCDs"
 name: "animecds"
 description: "For All things Anime CDs. "
 type: community
-date: "2023-06-28 15:20:49"
+date: "2023-06-29 12:38:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/animecds"
 host: lemmy.world
 lastmod: "2023-06-11 18:08:29"
 published: "2023-06-11 18:07:53"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

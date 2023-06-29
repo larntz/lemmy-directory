@@ -3,7 +3,7 @@ title: "Journalism"
 name: "journalism"
 description: "Just wanted a place to post good journalism that isn't specifically related to other communities already (also feel free to cross-post)"
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/journalism"

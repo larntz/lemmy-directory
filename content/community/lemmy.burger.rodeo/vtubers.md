@@ -3,14 +3,14 @@ title: "VTubers"
 name: "vtubers"
 description: "The community for everything VTuber related**WORK IN PROGRESS**"
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/vtubers"
 host: lemmy.burger.rodeo
 lastmod: "2023-06-26 07:53:05"
 published: "2023-06-26 07:50:06"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

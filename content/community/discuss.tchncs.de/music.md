@@ -3,14 +3,14 @@ title: "music on lemmy, for all lovers of music"
 name: "music"
 description: "Welcome to Music on Lemmy! "
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/music"
 host: discuss.tchncs.de
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 17:34:42"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

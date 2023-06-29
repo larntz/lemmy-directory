@@ -3,14 +3,14 @@ title: "Ask the Internet"
 name: "askinternet"
 description: "c/askinternet is the place to ask and answer thought-provoking questions."
 type: community
-date: "2023-06-28 15:20:56"
+date: "2023-06-29 12:38:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askinternet"
 host: lemmy.world
 lastmod: "2023-06-20 16:23:46"
 published: "2023-06-20 16:22:06"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

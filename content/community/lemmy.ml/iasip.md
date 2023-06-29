@@ -3,14 +3,14 @@ title: "It's always sunny in philadelphia "
 name: "iasip"
 description: "A fan sub for its always sunny in philadelphia. "
 type: community
-date: "2023-06-28 15:19:30"
+date: "2023-06-29 12:36:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iasip"
 host: lemmy.ml
 lastmod: "2021-10-04 12:18:06"
 published: "2021-10-04 12:15:24"
-subscribers: 315
+subscribers: 322
 posts: 16
 comments: 38
 weight: 16

@@ -3,12 +3,12 @@ title: "Fire Twirling and Spinning"
 name: "firetwirling"
 description: "we light things on fire, spin them around our heads, and look pretty"
 type: community
-date: "2023-06-27 16:15:55"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/firetwirling"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:55"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 14:34:40"
 subscribers: 7
 posts: 1

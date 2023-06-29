@@ -3,14 +3,14 @@ title: "ARM Linux"
 name: "armlinux"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:29"
+date: "2023-06-29 12:36:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/armlinux"
 host: lemmy.ml
 lastmod: "2023-06-02 07:04:30"
 published: "2022-09-25 16:50:22"
-subscribers: 18
+subscribers: 19
 posts: 5
 comments: 3
 weight: 5

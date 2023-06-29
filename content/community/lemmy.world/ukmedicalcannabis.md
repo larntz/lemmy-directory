@@ -3,7 +3,7 @@ title: "UK Medical Cannabis"
 name: "ukmedicalcannabis"
 description: "A community for patients receiving or hoping to receive prescribed cannabis in the UK"
 type: community
-date: "2023-06-28 15:21:13"
+date: "2023-06-29 12:38:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ukmedicalcannabis"

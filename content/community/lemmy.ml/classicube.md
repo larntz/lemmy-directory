@@ -3,7 +3,7 @@ title: "ClassiCube (Un-official community)"
 name: "classicube"
 description: "ClassiCube is a custom Minecraft Classic and ClassiCube client written in C that works on Windows, macOS, Linux, Android, FreeBSD, NetBSD, OpenBSD, Solaris, Haiku, and in a web browser.It is not affiliated with (or supported by) Mojang AB, Minecraft, or Microsoft in any way.Rules:- Only post stuff relationated ClassiCube- Respect the other[Website](https://www.classicube.net) / [GitHub](https://github.com/UnknownShadow200/ClassiCube) / [Itch.io](https://andrewph.itch.io/classicube)"
 type: community
-date: "2023-06-28 15:19:23"
+date: "2023-06-29 12:36:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/classicube"

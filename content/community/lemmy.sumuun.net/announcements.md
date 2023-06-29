@@ -3,14 +3,14 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:06"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sumuun.net/c/announcements"
 host: lemmy.sumuun.net
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 16:45:41"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

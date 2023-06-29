@@ -3,14 +3,14 @@ title: "Mascots from Japan"
 name: "japanesemascots"
 description: "A place for people who love Japanese mascots. Come join us!"
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/japanesemascots"
 host: lemmy.world
 lastmod: "2023-06-23 09:44:51"
 published: "2023-06-22 18:45:38"
-subscribers: 27
+subscribers: 29
 posts: 8
 comments: 7
 weight: 8

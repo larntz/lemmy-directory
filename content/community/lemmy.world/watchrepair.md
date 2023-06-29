@@ -3,14 +3,14 @@ title: "Watch Repair "
 name: "watchrepair"
 description: "Open forum to discuss watch making and repair. "
 type: community
-date: "2023-06-28 15:20:50"
+date: "2023-06-29 12:37:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/watchrepair"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 15:39:56"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 2
 weight: 1

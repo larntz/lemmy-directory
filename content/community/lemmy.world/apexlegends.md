@@ -3,20 +3,20 @@ title: "Apex Legends"
 name: "apexlegends"
 description: "The official Lemmy Community for Apex Legends!"
 type: community
-date: "2023-06-27 16:19:40"
+date: "2023-06-29 12:38:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/apexlegends"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:40"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 22:28:50"
-subscribers: 133
+subscribers: 139
 posts: 9
-comments: 35
+comments: 36
 weight: 9
 dau: 1
-wau: 1
-mau: 23
+wau: 2
+mau: 24
 instances:
 - "lemmy_world"
 tags: 

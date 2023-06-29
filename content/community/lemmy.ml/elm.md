@@ -3,14 +3,14 @@ title: "Elm"
 name: "elm"
 description: "A delightful language for reliable web apps"
 type: community
-date: "2023-06-28 15:19:11"
+date: "2023-06-29 12:36:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/elm"
 host: lemmy.ml
 lastmod: "2021-02-03 05:21:18"
 published: "2020-01-23 05:29:00"
-subscribers: 34
+subscribers: 35
 posts: 4
 comments: 2
 weight: 4

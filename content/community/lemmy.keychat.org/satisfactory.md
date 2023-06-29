@@ -3,14 +3,14 @@ title: "Satisfactory Game"
 name: "satisfactory"
 description: "All about Satisfactory the game by Coffee Stains studio"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.keychat.org/c/satisfactory"
 host: lemmy.keychat.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 03:25:20"
-subscribers: 11
+subscribers: 12
 posts: 6
 comments: 1
 weight: 6

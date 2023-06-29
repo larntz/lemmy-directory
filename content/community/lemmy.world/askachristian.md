@@ -3,7 +3,7 @@ title: "AskAChristian"
 name: "askachristian"
 description: "This is so far only a place holder. When /r/AskAChristian decides to move here I am happy to hand this magazine over to their mod.Rule 0: Honest, straightforward inquiries onlyRule 1: No insults / no uncivil commentsRule 1b: Uncivil: Mischaracterizing someone else's beliefsRule 2: Only Christians may make top-level repliesRule 5: Some types of hypothetical questions are not allowedRule 6: Questions about U.S. political people and topics should go in the megathreadRule 8: Comments in a FAQ post should comply with the FAQ-specific rulesRule 9: No asking for money help"
 type: community
-date: "2023-06-28 15:20:40"
+date: "2023-06-29 12:38:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askachristian"

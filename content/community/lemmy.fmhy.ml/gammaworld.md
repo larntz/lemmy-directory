@@ -3,14 +3,14 @@ title: "Gamma World"
 name: "gammaworld"
 description: "Earth. After the apocalypse. Never mind the radiation, you’re gonna like it here. Your source for Gamma World & Mutant Future information in the Fediverse."
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/gammaworld"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-16 12:54:56"
 published: "2023-06-16 12:54:13"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

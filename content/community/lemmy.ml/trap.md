@@ -3,7 +3,7 @@ title: "Trap"
 name: "trap"
 description: "A community for the music genre, merging EDM and Hip Hop"
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trap"

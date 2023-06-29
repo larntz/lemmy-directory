@@ -3,7 +3,7 @@ title: "1"
 name: "1st"
 description: "Hey. Hopefully you are checking this in the far future and I have this special sub. :)"
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/1st"

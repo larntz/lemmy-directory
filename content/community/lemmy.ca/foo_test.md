@@ -3,7 +3,7 @@ title: "FOO - test community for experimentation"
 name: "foo_test"
 description: "A community where you can post test content for Fediverse experimentation content. Expect little to no moderation, although I might purge spam or NSFW material. "
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/foo_test"

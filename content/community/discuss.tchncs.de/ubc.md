@@ -3,7 +3,7 @@ title: "CLOSED - UBC"
 name: "ubc"
 description: "This community is being redirected here:https://lemmy.ca/c/ubcHowever if you would prefer to use this community (or if you would like to repurpose this community for something else), please let me know! For now, I’ve set it to moderator posts only in order to reduce headaches for discuss.tchncs.de admins since I may miss rule breaking content.> discuss.tchncs.de"
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/ubc"

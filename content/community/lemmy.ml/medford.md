@@ -1,14 +1,14 @@
 ---
 title: "Medford" 
 name: "medford"
-description: "Medford, Oregon"
+description: "Medford, OregonPlease also see https://lemmy.world/c/medford"
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/medford"
 host: lemmy.ml
-lastmod: "2023-06-03 01:11:44"
+lastmod: "2023-06-29 03:11:28"
 published: "2023-06-03 01:09:14"
 subscribers: 4
 posts: 3

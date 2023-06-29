@@ -3,7 +3,7 @@ title: "Mageia"
 name: "mageia"
 description: "**Mageia Linux**"
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mageia"

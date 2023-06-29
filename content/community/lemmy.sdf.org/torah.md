@@ -3,14 +3,14 @@ title: "Torah"
 name: "torah"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/torah"
 host: lemmy.sdf.org
 lastmod: "2023-06-27 02:57:05"
 published: "2023-06-27 02:47:38"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0

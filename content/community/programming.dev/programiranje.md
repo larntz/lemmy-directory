@@ -3,14 +3,14 @@ title: "Programiranje"
 name: "programiranje"
 description: "Diskusije, deljenje sadržaja na temu programiranja i svega što ima veze sa istim."
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/programiranje"
 host: programming.dev
 lastmod: "2023-06-16 09:56:20"
 published: "2023-06-15 19:28:34"
-subscribers: 11
+subscribers: 12
 posts: 2
 comments: 1
 weight: 2

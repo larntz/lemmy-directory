@@ -3,7 +3,7 @@ title: "Kansas City Geek Connection"
 name: "kcgeekconnection"
 description: "Place for local Kansas City folks to talk about games, comics, cards, collectables, etc."
 type: community
-date: "2023-06-28 15:18:28"
+date: "2023-06-29 12:35:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/kcgeekconnection"

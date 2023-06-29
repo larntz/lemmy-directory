@@ -3,14 +3,14 @@ title: "Georgia Tech"
 name: "gatech"
 description: "Lemmy community for the Georgia Institute of Technology. THWG!"
 type: community
-date: "2023-06-28 15:20:49"
+date: "2023-06-29 12:38:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gatech"
 host: lemmy.world
 lastmod: "2023-06-25 16:53:18"
 published: "2023-06-18 23:38:11"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

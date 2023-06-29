@@ -3,14 +3,14 @@ title: "Artificial intelligence"
 name: "altercon"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:09"
+date: "2023-06-29 12:38:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/altercon"
 host: lemmy.world
 lastmod: "2023-06-18 16:37:37"
 published: "2023-06-17 17:34:41"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

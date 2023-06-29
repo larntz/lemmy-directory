@@ -3,7 +3,7 @@ title: "Board Game Upgrades"
 name: "boardgameupgrades"
 description: "A place to post and discuss upgrades to board games. 3D Printing, foamcore, PnP, organization, DIY, variant rules, and more!"
 type: community
-date: "2023-06-28 15:20:41"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/boardgameupgrades"

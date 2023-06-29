@@ -3,7 +3,7 @@ title: "The Co-operative Movement"
 name: "cooperatives"
 description: "A place to come to discuss news about co-operatives across the world.Want to know how to find a cooperative or how to start a cooperative? Ask here!"
 type: community
-date: "2023-06-28 15:19:22"
+date: "2023-06-29 12:36:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cooperatives"

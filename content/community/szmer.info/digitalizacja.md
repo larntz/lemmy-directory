@@ -3,7 +3,7 @@ title: "digitalizacja bez zmuszania"
 name: "digitalizacja"
 description: "Czy masz czasem wrażenie, że rozwiązania cyfrowe nie dają Ci możliwości, ale zmuszają Cię do zrobienia lub cierpienia czegoś, co Ci się nie podoba? Tutaj jest miejsce do omówienia problemów i opcji."
 type: community
-date: "2023-06-28 15:17:49"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/digitalizacja"

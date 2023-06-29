@@ -3,14 +3,14 @@ title: "Space"
 name: "space"
 description: "Space is like, really really big."
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:55"
 draft: false
 nsfw: false
 actor_id: "https://krabb.org/c/space"
 host: krabb.org
 lastmod: "2023-06-25 12:53:19"
 published: "2023-06-25 12:52:50"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

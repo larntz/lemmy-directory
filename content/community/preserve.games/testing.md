@@ -3,14 +3,14 @@ title: "Testing"
 name: "testing"
 description: "This is for testing Lemmy functionality"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://preserve.games/c/testing"
 host: preserve.games
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 23:59:39"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

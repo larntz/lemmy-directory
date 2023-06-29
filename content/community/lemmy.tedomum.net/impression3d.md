@@ -3,14 +3,14 @@ title: "Impression 3D"
 name: "impression3d"
 description: "Ici, vous pouvez poster tous les liens qui ont un rapport avec l'impression 3D"
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/impression3d"
 host: lemmy.tedomum.net
 lastmod: "1969-12-31 19:00:00"
 published: "2020-11-23 18:44:06"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

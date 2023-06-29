@@ -3,7 +3,7 @@ title: "Focus Puller"
 name: "focuspuller"
 description: "A space for camera assistants to discuss, ask questions, and share knowledge (*and horror stories*)."
 type: community
-date: "2023-06-28 15:20:56"
+date: "2023-06-29 12:38:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/focuspuller"

@@ -3,14 +3,14 @@ title: "Red Australia!"
 name: "redaustralia"
 description: "Dedicated to communist and leftist discussion centred around Australia.Memes are allowed too!"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/redaustralia"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-10-21 03:13:53"
-subscribers: 31
+subscribers: 32
 posts: 4
 comments: 21
 weight: 4

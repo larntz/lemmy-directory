@@ -3,19 +3,19 @@ title: "Xbox"
 name: "xbox"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:17"
+date: "2023-06-29 12:36:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xbox"
 host: lemmy.ml
 lastmod: "2022-02-13 19:42:50"
 published: "2022-02-13 19:41:35"
-subscribers: 349
+subscribers: 352
 posts: 22
-comments: 59
+comments: 60
 weight: 22
 dau: 1
-wau: 12
+wau: 9
 mau: 27
 instances:
 - "lemmy_ml"

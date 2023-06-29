@@ -3,7 +3,7 @@ title: "Not The Onion"
 name: "not_the_onion"
 description: "Real news that is oniony"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/not_the_onion"
@@ -15,7 +15,7 @@ posts: 6
 comments: 12
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 9
 instances:
 - "partizle_com"

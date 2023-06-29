@@ -3,7 +3,7 @@ title: "bone hurting juice"
 name: "bonehurtingjuice"
 description: "Memes that completely misuse the original meme template removing the original meaning and obliterating your bones in the process"
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/bonehurtingjuice"

@@ -3,14 +3,14 @@ title: "SelfHosted"
 name: "selfhosted"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:13"
+date: "2023-06-29 12:35:07"
 draft: false
 nsfw: false
 actor_id: "https://proit.org/c/selfhosted"
 host: proit.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 21:30:53"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

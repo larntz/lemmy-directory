@@ -3,14 +3,14 @@ title: "lemmy.gregw.us Main"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.gregw.us/c/main"
 host: lemmy.gregw.us
 lastmod: "2023-06-16 19:06:38"
 published: "2023-06-16 01:02:51"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Japanese 日本語"
 name: "japanese"
 description: "A community dedicated to the Japanese language.日本語に特化したコミュニティです。"
 type: community
-date: "2023-06-28 15:19:26"
+date: "2023-06-29 12:36:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/japanese"

@@ -3,14 +3,14 @@ title: "modernwarfare"
 name: "modernwarfare"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:44"
+date: "2023-06-29 12:37:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/modernwarfare"
 host: lemmy.world
 lastmod: "2023-06-09 20:40:28"
 published: "2023-06-09 20:27:08"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

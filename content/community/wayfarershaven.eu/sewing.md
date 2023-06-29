@@ -3,14 +3,14 @@ title: "Sewing"
 name: "sewing"
 description: "Inspired by /r/sewingRelated:* [/r/sewing](https://www.reddit.com/r/sewing/)* ...?Banner credit:  [Alexander Andrews](https://unsplash.com/@alex_andrews?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  "
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/sewing"
 host: wayfarershaven.eu
 lastmod: "2023-06-12 09:43:14"
 published: "2023-06-11 13:18:14"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 2
 weight: 2

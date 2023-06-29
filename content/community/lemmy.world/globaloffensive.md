@@ -3,14 +3,14 @@ title: "GlobalOffensive"
 name: "globaloffensive"
 description: "All things related to Counter-Strike: Global Offensive."
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/globaloffensive"
 host: lemmy.world
 lastmod: "2023-06-26 08:49:44"
 published: "2023-06-26 08:48:56"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

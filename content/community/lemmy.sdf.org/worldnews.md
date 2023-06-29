@@ -3,14 +3,14 @@ title: "WorldNews"
 name: "worldnews"
 description: "What is happening in the world today?"
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/worldnews"
 host: lemmy.sdf.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-08 19:14:08"
-subscribers: 98
+subscribers: 100
 posts: 2
 comments: 0
 weight: 2

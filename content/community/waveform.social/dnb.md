@@ -3,7 +3,7 @@ title: "Drum & Bass"
 name: "dnb"
 description: "A place we can talk about all things DNB/Jungle related!"
 type: community
-date: "2023-06-28 15:18:16"
+date: "2023-06-29 12:35:11"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/dnb"

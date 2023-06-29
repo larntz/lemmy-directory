@@ -3,7 +3,7 @@ title: "wolna Rosja"
 name: "wolna_ru"
 description: "Wolna Rosja bez Putina."
 type: community
-date: "2023-06-28 15:17:49"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wolna_ru"
@@ -16,7 +16,7 @@ comments: 62
 weight: 189
 dau: 1
 wau: 2
-mau: 5
+mau: 4
 instances:
 - "szmer_info"
 tags: 

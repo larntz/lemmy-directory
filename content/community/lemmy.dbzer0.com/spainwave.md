@@ -3,7 +3,7 @@ title: "Spainwave Aesthetics"
 name: "spainwave"
 description: "Fork of www.reddit.com/r/spainwave"
 type: community
-date: "2023-06-28 15:18:21"
+date: "2023-06-29 12:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/spainwave"

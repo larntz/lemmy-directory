@@ -3,14 +3,14 @@ title: "Chat"
 name: "chat"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:04"
+date: "2023-06-29 12:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bulbousnub.com/c/chat"
 host: lemmy.bulbousnub.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-27 00:31:55"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

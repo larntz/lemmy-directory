@@ -3,14 +3,14 @@ title: "Kdenlive"
 name: "kdenlive"
 description: "A place to chat about [Kdenlive](https://kdenlive.org/en/).Share your videos and ask questions."
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kdenlive"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-12-03 20:22:50"
-subscribers: 82
+subscribers: 81
 posts: 10
 comments: 1
 weight: 10

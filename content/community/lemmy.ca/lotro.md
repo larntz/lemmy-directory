@@ -3,7 +3,7 @@ title: "Lord of the Rings Online"
 name: "lotro"
 description: "A place to discuss Standing Stone Games' MMO set in Middle Earth. Come smoke some pipe-weed and share some stories."
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/lotro"

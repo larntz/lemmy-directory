@@ -3,14 +3,14 @@ title: "Rapid City"
 name: "rapidcity"
 description: "Any news, information or questions about Rapid City, South Dakota, US.#"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmyverse.org/c/rapidcity"
 host: lemmyverse.org
 lastmod: "2023-06-21 16:27:29"
 published: "2023-06-21 16:27:15"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

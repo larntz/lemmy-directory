@@ -3,14 +3,14 @@ title: "sardines"
 name: "sardines"
 description: "This is for the _game_ Sardines, not the fish."
 type: community
-date: "2023-06-28 15:18:17"
+date: "2023-06-29 12:35:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.xcoolgroup.com/c/sardines"
 host: lemmy.xcoolgroup.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 23:30:00"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

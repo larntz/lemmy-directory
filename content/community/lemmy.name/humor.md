@@ -3,7 +3,7 @@ title: "Humor"
 name: "humor"
 description: "Upload your funniest memes and anything else you find funny"
 type: community
-date: "2023-06-28 15:18:12"
+date: "2023-06-29 12:35:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.name/c/humor"

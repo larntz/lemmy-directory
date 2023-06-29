@@ -3,7 +3,7 @@ title: "Sysadmins for sysadmins"
 name: "bofh"
 description: "Kažkas turi tai padaryti / Somebody has to do itRelated communities:- [!softwareengineering@group.lt](https://group.lt/c/softwareengineering) - [!saugumas@group.lt](https://group.lt/c/saugumas)- [!bpf@group.lt](https://group.lt/c/bpf) Fotkė / Photo [camilo jimenez](https://unsplash.com/@camstejim) iš [Unsplash](https://unsplash.com/s/photos/system-administrator)"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/bofh"

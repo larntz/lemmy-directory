@@ -3,14 +3,14 @@ title: "esperanto"
 name: "esperanto"
 description: "## Bonvenon!Tiu ĉi komunumo translokiĝis al [!esperanto@sopuli.xyz](https://sopuli.xyz/c/esperanto) "
 type: community
-date: "2023-06-28 15:19:20"
+date: "2023-06-29 12:36:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/esperanto"
 host: lemmy.ml
 lastmod: "2022-08-13 03:07:28"
 published: "2020-05-04 00:00:35"
-subscribers: 123
+subscribers: 124
 posts: 30
 comments: 36
 weight: 30

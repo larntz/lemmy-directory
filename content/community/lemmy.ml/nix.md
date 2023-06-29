@@ -3,14 +3,14 @@ title: "Deprecated, merged with !NixOS"
 name: "nix"
 description: "Use https://lemmy.ml/c/nixos instead."
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nix"
 host: lemmy.ml
 lastmod: "2023-06-11 21:41:04"
 published: "2020-07-10 15:48:52"
-subscribers: 68
+subscribers: 67
 posts: 2
 comments: 3
 weight: 2

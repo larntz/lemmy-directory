@@ -3,14 +3,14 @@ title: "powkiddy"
 name: "powkiddy"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:45"
+date: "2023-06-29 12:38:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/powkiddy"
 host: lemmy.world
 lastmod: "2023-06-20 21:02:29"
 published: "2023-06-20 20:59:05"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

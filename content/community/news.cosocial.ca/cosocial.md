@@ -3,7 +3,7 @@ title: "CoSocial Co-Op"
 name: "cosocial"
 description: "The community for discussions about the CoSocial Community Cooperative"
 type: community
-date: "2023-06-28 15:18:07"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://news.cosocial.ca/c/cosocial"
@@ -15,7 +15,7 @@ posts: 7
 comments: 19
 weight: 7
 dau: 1
-wau: 5
+wau: 3
 mau: 9
 instances:
 - "news_cosocial_ca"

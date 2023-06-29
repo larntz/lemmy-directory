@@ -3,14 +3,14 @@ title: "Brainrot Observation"
 name: "brainrot"
 description: "Share your conversations with brainrot liberals! Share what you learned about them, and share what you think!"
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/brainrot"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-03-22 19:42:25"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 1
 weight: 1

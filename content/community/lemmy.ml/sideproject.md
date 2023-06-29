@@ -3,7 +3,7 @@ title: "A community announcing its own SideProject."
 name: "sideproject"
 description: "Do you want to expand the user base of your side project? Find potential users of your products, expand your user base, and collect user opinions in this community."
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sideproject"

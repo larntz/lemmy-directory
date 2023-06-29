@@ -3,7 +3,7 @@ title: "Plauderstube DE"
 name: "plauderstubede"
 description: "Neue Kontakte knüpfen und nette Menschen kennenlernen.Hol dir ein Getränk, leg die Beine hoch und plauder ein bisschen mit uns. Amtssprache deutsch.Kein Hass, Gewalt und auch keine extreme in egal welche Richtung.Trolle fliegen raus."
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/plauderstubede"

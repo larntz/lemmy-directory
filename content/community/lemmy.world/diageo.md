@@ -3,14 +3,14 @@ title: "Diageo"
 name: "diageo"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:21"
+date: "2023-06-29 12:38:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/diageo"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:21"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 20:11:45"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

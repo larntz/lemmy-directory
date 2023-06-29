@@ -3,7 +3,7 @@ title: "Requests for help or general HVAC commentary from outside the trade"
 name: "hvacadvice"
 description: "This is intended to be a group for homeowners and end users to ask hvac related questions."
 type: community
-date: "2023-06-28 15:19:22"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hvacadvice"

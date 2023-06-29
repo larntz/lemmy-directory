@@ -3,14 +3,14 @@ title: "Felipe Neto"
 name: "felipeneto"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:16:11"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/felipeneto"
 host: lemmy.eco.br
-lastmod: "2023-06-27 16:16:11"
+lastmod: "2023-06-23 16:11:54"
 published: "2023-06-23 15:03:16"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 11
 weight: 1

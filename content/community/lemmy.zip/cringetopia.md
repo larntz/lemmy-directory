@@ -3,14 +3,14 @@ title: "Cringetopia"
 name: "cringetopia"
 description: "Cringetopia recreation from reddit"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/cringetopia"
 host: lemmy.zip
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 14:57:40"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

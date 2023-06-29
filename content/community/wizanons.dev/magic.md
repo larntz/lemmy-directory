@@ -3,7 +3,7 @@ title: "Magic"
 name: "magic"
 description: "Magic, Mysticism, and Psychedelics!Psychonauts welcome!Discussion on Psilocybin Mushrooms, LSD, MDMA, Mescaline, DMT, and Ayahuasca. News on therapies very encouraged!Rules:1. Be nice, I want to encourage playful safe spaces.2. No sourcing, It's illegal in the US."
 type: community
-date: "2023-06-28 15:18:19"
+date: "2023-06-29 12:35:13"
 draft: false
 nsfw: false
 actor_id: "https://wizanons.dev/c/magic"

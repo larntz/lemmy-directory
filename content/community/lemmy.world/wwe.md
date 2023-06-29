@@ -3,14 +3,14 @@ title: "WWE"
 name: "wwe"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:04"
+date: "2023-06-29 12:37:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wwe"
 host: lemmy.world
 lastmod: "2023-06-19 01:50:27"
 published: "2023-06-18 21:01:57"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

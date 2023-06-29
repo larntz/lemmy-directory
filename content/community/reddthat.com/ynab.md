@@ -3,12 +3,12 @@ title: "YNAB unofficial"
 name: "ynab"
 description: "Friendly You Need a Budget (YNAB) community"
 type: community
-date: "2023-06-27 16:15:54"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/ynab"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:54"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 09:12:22"
 subscribers: 15
 posts: 1

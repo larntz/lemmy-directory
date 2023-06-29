@@ -3,7 +3,7 @@ title: "Photography"
 name: "photography"
 description: "All things photography. Discuss and share photos including digital and film.Please provide as much detail as possible about the process of obtaining the photograph. Including where, when and the camera!It can also be helpful to know about any post-processing.Subscribe to:!photography@lemmy.sdf.org"
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/photography"

@@ -3,7 +3,7 @@ title: "World.Building"
 name: "world_building"
 description: "You may be looking for the [Lemmy Worldbuilding Community](https://lemmy.world/c/worldbuilding)."
 type: community
-date: "2023-06-28 15:20:40"
+date: "2023-06-29 12:38:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/world_building"

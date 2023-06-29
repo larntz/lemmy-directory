@@ -3,7 +3,7 @@ title: "Prankcast "
 name: "prankcast"
 description: "Community for prankcast.com"
 type: community
-date: "2023-06-28 15:20:51"
+date: "2023-06-29 12:37:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prankcast"

@@ -3,7 +3,7 @@ title: "Halton Region, Ontario - Burlington, Halton Hills, Milton and Oakville"
 name: "halton"
 description: "A place for people from Burlington, Halton Hills, Milton and Oakville to talk about life in Burlington, Halton Hills, Milton and Oakville.Halton Region's official website at: https://www.halton.caRelated Communities:- [!milton](https://lemmy.ca/c/milton) "
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/halton"

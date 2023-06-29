@@ -3,7 +3,7 @@ title: "pygame"
 name: "pygame"
 description: "Welcome to !pygame@lemmy.world.  A community for anyone interested in creating games or apps with pygame. Whether you are a beginner or an expert, you can share your projects, ask questions, get feedback, and learn from others. Pygame is a powerful and easy-to-use library that lets you create games with Python. Join us and have fun with pygame!This is for all pygame forks.**Rules**1. Be nice"
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pygame"

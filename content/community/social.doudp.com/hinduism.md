@@ -3,14 +3,14 @@ title: "Hinduism"
 name: "hinduism"
 description: "General discussion on topics of Hinduism"
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.run/c/hinduism"
 host: social.doudp.com
 lastmod: "2023-06-15 06:55:55"
 published: "2023-06-14 05:40:48"
-subscribers: 9
+subscribers: 10
 posts: 11
 comments: 0
 weight: 11

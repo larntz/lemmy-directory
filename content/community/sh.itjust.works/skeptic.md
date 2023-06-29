@@ -3,7 +3,7 @@ title: "Skeptic"
 name: "skeptic"
 description: "The skeptic movement is a collective endeavor that promotes the respect for knowledge and truth, methodological naturalism, science, reason, critical thinking, and consumer protection, and aims to distinguish legitimate science from pseudoscience, uphold ideological freedom, understand cognitive biases, address specific flawed or pseudoscientific claims, maintain cultural memory of past pseudosciences and scams, and improve science communication and journalism."
 type: community
-date: "2023-06-28 15:18:26"
+date: "2023-06-29 12:35:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/skeptic"

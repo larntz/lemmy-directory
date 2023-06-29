@@ -3,14 +3,14 @@ title: "Good Omens"
 name: "good_omens"
 description: "A place for Good Omens fans to share our love for the TV show and book. Please...-be respectful towards each other-credit OC (original content) be it yourself or otherwise-no racism, sexism, ableism etc."
 type: community
-date: "2023-06-28 15:21:04"
+date: "2023-06-29 12:37:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/good_omens"
 host: lemmy.world
-lastmod: "2023-06-28 15:21:04"
+lastmod: "2023-06-16 11:29:56"
 published: "2023-06-16 11:07:20"
-subscribers: 12
+subscribers: 13
 posts: 3
 comments: 2
 weight: 3

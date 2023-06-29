@@ -3,7 +3,7 @@ title: "Beat Saber"
 name: "beatsaber"
 description: "The unofficial community for [Beat Saber](https://beatsaber.com/), a Virtual Reality musical rhythm game. Saberians, Beaters, Saberites, Jedi, we have many names.**Discords:*** [BSMG](https://discord.gg/beatsabermods) (Beat Saber Modding Group)* [ScoreSaber](https://discord.gg/WpuDMwU)**Leaderboards:*** [BeatLeader](https://www.beatleader.xyz)* [ScoreSaber](https://scoresaber.com)**ModAssistant:*** [Download Latest](https://github.com/Assistant/ModAssistant/releases/latest/download/ModAssistant.exe)* [GitHub](https://github.com/Assistant/ModAssistant)"
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beatsaber"

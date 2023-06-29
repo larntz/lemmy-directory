@@ -3,7 +3,7 @@ title: "Covid19💉 etc "
 name: "c19_adverse_etc"
 description: "Releted Info on the c19 scam"
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/c19_adverse_etc"

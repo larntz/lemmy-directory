@@ -3,7 +3,7 @@ title: "Game Updates"
 name: "gameupdates"
 description: "A community for keeping up with game updates. Please keep posts to update announcements and remember to link a source and write a short TLDR of it. Feel free to discuss them in the comments, though!"
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gameupdates"

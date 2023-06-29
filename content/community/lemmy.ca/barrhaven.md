@@ -3,14 +3,14 @@ title: "Barrhaven"
 name: "barrhaven"
 description: "The Paris of Eastern Ontario"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/barrhaven"
 host: lemmy.ca
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 19:25:20"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3

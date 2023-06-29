@@ -3,14 +3,14 @@ title: "fediversal recipes"
 name: "recipes"
 description: "recipes"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/recipes"
 host: quex.cc
 lastmod: "2023-06-08 21:46:17"
 published: "2023-06-08 21:22:21"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

@@ -3,7 +3,7 @@ title: "Collective"
 name: "collective"
 description: "General posts and shit"
 type: community
-date: "2023-06-28 15:17:39"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dupper.net/c/collective"

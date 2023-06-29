@@ -3,14 +3,14 @@ title: "TV chat"
 name: "tvchat"
 description: "A place for TV series discussion and news.Rules: First and foremost, don't be a dick. And refrain from posting spoilers. "
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/tvchat"
 host: sopuli.xyz
 lastmod: "2023-06-15 01:42:17"
 published: "2023-06-15 01:28:24"
-subscribers: 10
+subscribers: 12
 posts: 7
 comments: 11
 weight: 7

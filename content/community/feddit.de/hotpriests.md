@@ -3,7 +3,7 @@ title: "Hot Priests"
 name: "hotpriests"
 description: "**Welcome to Hot Priests!**A community to share content about fictional hot men of the Lord. Whether priests, rabbis, imams or shamans, the important thing is that they are hot!**Rules**1. No real priests2. Men only3. No NSFW4. Identify all posts! (actor/ role/ film or show)5. Fanart is allowed (please credit the artist!)6. No reposts (identical pics)7. No discussions about religion8. Be nice!"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hotpriests"
@@ -15,7 +15,7 @@ posts: 6
 comments: 1
 weight: 6
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "feddit_de"

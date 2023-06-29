@@ -3,7 +3,7 @@ title: "Fallout 4"
 name: "fo4"
 description: "A place for all things related to Fallout 4. Settlements, character builds, lore, gameplay, mods, bugs, questions & answers: Anything Goes. "
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/fo4"

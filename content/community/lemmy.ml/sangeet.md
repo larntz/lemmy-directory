@@ -3,7 +3,7 @@ title: "Sangeet"
 name: "sangeet"
 description: "A community for sharing and discussing Indian music.You're welcome to share any song in any Indian language and of any genre. Raps with slangs are allowed but do not use slang amongst the community."
 type: community
-date: "2023-06-28 15:19:20"
+date: "2023-06-29 12:36:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sangeet"

@@ -3,7 +3,7 @@ title: "Darmstadt teilt"
 name: "darmstadtteilt"
 description: "Alles rund ums (kostenlose) Teilen, Leihen und Verschenken in Darmstadt und Umgebung.Hier sollen Angebote von Vereinen, sozialen Initiativen oder auch Firmen, die etwas kostenlos abgeben, teilen oder verleihen, gesammelt und Erfahrungen geteilt werden. Willkommen sind auch Angebote von Privatpersonen, die etwas zu verleihen oder zu verschenken haben!"
 type: community
-date: "2023-06-28 15:17:59"
+date: "2023-06-29 12:34:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.darmstadt.social/c/darmstadtteilt"

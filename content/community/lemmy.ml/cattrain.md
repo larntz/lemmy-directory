@@ -3,14 +3,14 @@ title: "CatTrain"
 name: "cattrain"
 description: "For all things related to cat trains"
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cattrain"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-03 08:12:23"
-subscribers: 27
+subscribers: 28
 posts: 5
 comments: 2
 weight: 5

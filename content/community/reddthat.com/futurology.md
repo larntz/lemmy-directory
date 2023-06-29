@@ -3,12 +3,12 @@ title: "Futurology"
 name: "futurology"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:15:54"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/futurology"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:54"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 15:15:56"
 subscribers: 16
 posts: 0

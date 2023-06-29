@@ -3,7 +3,7 @@ title: "Nascar"
 name: "nascar"
 description: "Your home for NASCAR!More stuff coming soon....."
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-29 12:35:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nascar"
@@ -12,9 +12,9 @@ lastmod: "2023-06-13 18:28:15"
 published: "2023-06-12 14:35:19"
 subscribers: 43
 posts: 33
-comments: 30
+comments: 31
 weight: 33
-dau: 2
+dau: 1
 wau: 4
 mau: 9
 instances:

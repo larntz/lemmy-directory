@@ -3,7 +3,7 @@ title: "Station Wagons"
 name: "stationwagons"
 description: "For station wagon enthusiasts!You can also join us on discord to discuss station wagons: https://discord.gg/MzHrYxqmjm (this discord covers multiple hobbies.)"
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stationwagons"
@@ -15,7 +15,7 @@ posts: 4
 comments: 8
 weight: 4
 dau: 1
-wau: 4
+wau: 2
 mau: 4
 instances:
 - "lemmy_world"

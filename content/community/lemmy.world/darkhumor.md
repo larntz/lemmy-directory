@@ -3,14 +3,14 @@ title: "Dark Humor"
 name: "darkhumor"
 description: "A place where the humor goes hard and nobody gets their panties in a bunch. That said, no politics or genuine bigotry. This ain't a Neo-Nazi rally"
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/darkhumor"
 host: lemmy.world
 lastmod: "2023-06-24 19:05:36"
 published: "2023-06-24 18:59:44"
-subscribers: 102
+subscribers: 110
 posts: 7
 comments: 10
 weight: 7

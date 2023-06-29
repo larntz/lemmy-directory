@@ -3,7 +3,7 @@ title: "Taidenäyttelyt Helsingissä"
 name: "taidehelsingissa"
 description: "Tänne saa jakaa tietoa ja kutsuja Helsingissä ja Pääkaupunkiseudulla tapahtuviin taidenäyttelyihin, avajaisiin ja performansseihin. Taidegalleriat, taidemuseot, teokset esillä baareissa ja kirjastoissa kaikki on tervetulleita!Kansikuva: Ateneumin patsaiden kuva Logo: Tekoälyn generoima nykytaidelogoParempia kuvia saa ehdottaa!"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/taidehelsingissa"

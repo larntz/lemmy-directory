@@ -3,7 +3,7 @@ title: "Art"
 name: "art"
 description: "Community for fine art and decorative art."
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://terefere.eu/c/art"

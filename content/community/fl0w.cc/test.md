@@ -3,14 +3,14 @@ title: "test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:05"
+date: "2023-06-29 12:34:59"
 draft: false
 nsfw: false
 actor_id: "https://fl0w.cc/c/test"
 host: fl0w.cc
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 00:43:07"
-subscribers: 1
+subscribers: 2
 posts: 4
 comments: 1
 weight: 4

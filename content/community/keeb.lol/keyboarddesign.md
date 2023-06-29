@@ -3,14 +3,14 @@ title: "KeyboardDesign"
 name: "keyboarddesign"
 description: "Discussion, documentation and help regarding Keyboard design"
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:55"
 draft: false
 nsfw: false
 actor_id: "https://keeb.lol/c/keyboarddesign"
 host: keeb.lol
-lastmod: "2023-06-25 19:34:59"
+lastmod: "2023-06-28 19:20:16"
 published: "2023-06-20 16:27:18"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

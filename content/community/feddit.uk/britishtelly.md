@@ -3,7 +3,7 @@ title: "British Telly "
 name: "britishtelly"
 description: "A place for the discussion of all your favourite telly programme.British TV shows on Feddit.uk:* [Monty Python](/c/montypython@feddit.uk)* [Peep Show](/c/peepshow@feddit.uk)* [Taskmaster](/c/taskmaster@feddit.uk)For other telly discussion see:* [ukdtt@fedia.io](/c/ukdtt@fedia.io) - UK Digital Terrestrial TV (Freeserve)* [television@kbin.social](/c/television@kbin.social)* [television@lemmy.world](/c/television@lemmy.world)* [television@lemmy.ml](/c/television@lemmy.ml)* [moviesandtv@lemmy.film](/c/moviesandtv@lemmy.film) - Movies and TV Shows* [old_tv@lemmy.ml](/c/old_tv@lemmy.ml) - Early Film and Television Rules:* Don't be a dick. "
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/britishtelly"

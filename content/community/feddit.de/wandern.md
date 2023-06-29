@@ -1,14 +1,14 @@
 ---
 title: "wandern" 
 name: "wandern"
-description: "Description not available."
+description: "Routenplanung, Equipment, Bilder. Nur keine Selbstwerbung zu Blogs oder Youtube und so."
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wandern"
 host: feddit.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 16:59:46"
 published: "2023-06-22 15:36:18"
 subscribers: 6
 posts: 0

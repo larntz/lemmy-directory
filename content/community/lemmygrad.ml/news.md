@@ -3,14 +3,14 @@ title: "News"
 name: "news"
 description: "All kinds of news."
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/news"
 host: lemmygrad.ml
 lastmod: "2020-05-18 02:05:25"
 published: "2020-05-18 02:05:08"
-subscribers: 192
+subscribers: 193
 posts: 64
 comments: 160
 weight: 64

@@ -3,7 +3,7 @@ title: "wolna śmierć"
 name: "smierc"
 description: "[TW: śmierć, również samobójcza]Społeczność ukierunkowana jest na temat godnej śmierci na zasadach osoby, której dotyczy oraz tego co się stanie z ciałem po śmierci. Jeśli ta kwestia Cię triggeruje po prostu ją omiń.Raczej monitorujemy sytuację w poslce i na świecie związana z prawem do godnej śmierci. Prośba o nie wrzucanie poradników DIY (takie treści będą kasowane), jeśli ktoś chce to znajdzie sobie to info, niekoniecznie przez szmer, dzięki! "
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/smierc"

@@ -3,14 +3,14 @@ title: "ChurchOfKita"
 name: "churchofkita"
 description: "Church of Kita from Bocchi the Rock."
 type: community
-date: "2023-06-27 16:19:45"
+date: "2023-06-29 12:37:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/churchofkita"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:45"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 04:52:47"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

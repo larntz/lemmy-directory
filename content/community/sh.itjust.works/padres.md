@@ -3,14 +3,14 @@ title: "San Diego Padres"
 name: "padres"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-29 12:35:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/padres"
 host: sh.itjust.works
 lastmod: "2023-06-20 23:52:23"
 published: "2023-06-20 22:51:48"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 1
 weight: 1

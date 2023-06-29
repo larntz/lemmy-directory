@@ -3,7 +3,7 @@ title: "indian people on lemmy"
 name: "indian"
 description: "Namaskaram, welcome to the place of Indian. Have fun"
 type: community
-date: "2023-06-28 15:19:15"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indian"

@@ -3,14 +3,14 @@ title: "lemuria"
 name: "lemuria"
 description: "Lemmy doesn't have the Reddit feature where you can post to your own profile, so I'll instead post here"
 type: community
-date: "2023-06-28 15:19:30"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemuria"
 host: lemmy.ml
 lastmod: "2023-06-10 20:46:52"
 published: "2023-06-10 20:12:23"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3

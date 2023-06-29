@@ -3,14 +3,14 @@ title: "Cyclisme (en français)"
 name: "cyclisme"
 description: "Communauté pour parler de cyclisme sous toutes ses formes :- courses professionnelles et autres ;- pratiques de loisir ;- vélotaf et usages utilitaires."
 type: community
-date: "2023-06-28 15:18:26"
+date: "2023-06-29 12:35:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/cyclisme"
 host: sh.itjust.works
 lastmod: "2023-06-18 08:26:32"
 published: "2023-06-17 19:14:06"
-subscribers: 12
+subscribers: 13
 posts: 5
 comments: 4
 weight: 5

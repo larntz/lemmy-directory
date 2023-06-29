@@ -3,7 +3,7 @@ title: "AI Horde"
 name: "aihorde"
 description: "Discuss the happenings around the [AI Horde](https://aihorde.net)"
 type: community
-date: "2023-06-28 15:18:21"
+date: "2023-06-29 12:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/aihorde"

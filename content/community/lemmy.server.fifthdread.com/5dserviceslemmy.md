@@ -3,14 +3,14 @@ title: "Fifthdread Services Lemmy Instance"
 name: "5dserviceslemmy"
 description: "Welcome to 5D Services Lemmy"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.server.fifthdread.com/c/5dserviceslemmy"
 host: lemmy.server.fifthdread.com
 lastmod: "2023-06-13 19:45:19"
 published: "2023-06-13 18:59:21"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

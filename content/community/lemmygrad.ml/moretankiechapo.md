@@ -3,14 +3,14 @@ title: "MoreTankieChapo"
 name: "moretankiechapo"
 description: "cd /memes/leftwing/auth"
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/moretankiechapo"
 host: lemmygrad.ml
 lastmod: "2020-08-13 10:27:51"
 published: "2020-07-15 14:00:21"
-subscribers: 82
+subscribers: 83
 posts: 4
 comments: 8
 weight: 4

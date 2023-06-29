@@ -3,7 +3,7 @@ title: "Sacramento"
 name: "sacramento"
 description: "A forum about Sacramento, for Sacramento."
 type: community
-date: "2023-06-28 15:21:13"
+date: "2023-06-29 12:38:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sacramento"

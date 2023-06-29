@@ -3,14 +3,14 @@ title: "Monero Jobs"
 name: "monerojobs"
 description: "Looking for work? Looking for workers? Give posting here a try!"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/monerojobs"
 host: monero.town
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 11:56:17"
-subscribers: 14
+subscribers: 16
 posts: 2
 comments: 6
 weight: 2

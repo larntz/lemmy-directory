@@ -3,7 +3,7 @@ title: "octopus"
 name: "octopus"
 description: "For sharing and discussion of the 8-armed aquatic animal"
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-29 12:35:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/octopus"

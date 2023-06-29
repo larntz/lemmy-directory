@@ -3,14 +3,14 @@ title: "O Contragolpe"
 name: "ocontragolpe"
 description: "Comunidade Antigolpe. Aprenda a identificar golpes e escapar de golpistas. Recebeu golpe? Poste aqui e tentaremos ajudar."
 type: community
-date: "2023-06-27 16:16:10"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/ocontragolpe"
 host: lemmy.eco.br
-lastmod: "2023-06-27 16:16:10"
+lastmod: "2023-06-23 14:36:37"
 published: "2023-06-23 09:51:28"
-subscribers: 11
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "Sky: Children of the Light"
 name: "skychildrenoflight"
 description: "Community about the game « **Sky: Children of the Light** », created by ThatGameCompanyfor iOS, Android, Nintendo Switch, PS4/5, soon on PCs"
 type: community
-date: "2023-06-28 15:20:55"
+date: "2023-06-29 12:37:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skychildrenoflight"
 host: lemmy.world
 lastmod: "2023-06-21 17:13:35"
 published: "2023-06-21 15:04:23"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

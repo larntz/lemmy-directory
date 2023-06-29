@@ -3,14 +3,14 @@ title: "Command & Conquer"
 name: "commandandconquer"
 description: "A group for command and conquer  fans, but without all the reactionaries and libs. "
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/commandandconquer"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-12 01:55:50"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 5
 weight: 1

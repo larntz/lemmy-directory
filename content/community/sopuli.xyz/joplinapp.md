@@ -3,7 +3,7 @@ title: "Joplin"
 name: "joplinapp"
 description: "Unofficial community of Joplin - an open source note-taking appCapture your thoughts and securely access them from any device___- Official Forums: https://discourse.joplinapp.org/- Subreddit: https://www.reddit.com/r/joplinapp/___Features:- 🔗 sync via NextCloud, Dropbox, OneDrive, Syncthing, WebDAV- 🌐 web clipper extension- 🛡️ end-to-end encryption- ✏️ Markdown support- ✅ built-in todo manager- 📱 runs on every desktop and mobile OS"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/joplinapp"

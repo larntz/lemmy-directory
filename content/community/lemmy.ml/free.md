@@ -3,12 +3,12 @@ title: "Freebies"
 name: "free"
 description: "Freebies, no strings attached. "
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/free"
 host: lemmy.ml
-lastmod: "2023-06-28 15:19:32"
+lastmod: "0001-01-01 00:00:00"
 published: "2022-03-16 23:14:54"
 subscribers: 41
 posts: 8

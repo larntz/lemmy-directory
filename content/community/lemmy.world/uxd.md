@@ -3,7 +3,7 @@ title: "User Experience Design"
 name: "uxd"
 description: "User Experience guides, news and tips."
 type: community
-date: "2023-06-28 15:20:40"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/uxd"

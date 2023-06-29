@@ -3,14 +3,14 @@ title: "Informatik"
 name: "informatik"
 description: "Im Gegensatz zum Überbegriff Informationstechnik bezeichnet die Informatik die Wissenschaft der IT. Hier landet alles, was um IT als Beruf, Ausbildung oder Forschungsgebiet angesiedelt ist."
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/informatik"
 host: feddit.de
 lastmod: "2021-08-30 09:19:19"
 published: "2021-08-21 11:07:06"
-subscribers: 219
+subscribers: 220
 posts: 9
 comments: 6
 weight: 9

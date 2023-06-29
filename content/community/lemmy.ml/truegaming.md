@@ -3,7 +3,7 @@ title: "True Gaming"
 name: "truegaming"
 description: "A place for meaningful discussions about video games"
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/truegaming"

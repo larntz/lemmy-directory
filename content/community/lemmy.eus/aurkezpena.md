@@ -3,14 +3,14 @@ title: "Ongi Etorri! Aurkeztu zeure burua!"
 name: "aurkezpena"
 description: "Erabiltzaile berrien aurkezpenak egiteko komunitatea"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/aurkezpena"
 host: lemmy.eus
 lastmod: "2020-12-03 09:52:58"
 published: "2020-12-03 09:17:56"
-subscribers: 16
+subscribers: 17
 posts: 9
 comments: 5
 weight: 9

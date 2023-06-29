@@ -3,14 +3,14 @@ title: "Blommor"
 name: "blommor"
 description: "**En svensk community för blommor och växter**"
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blommor"
 host: lemmy.world
 lastmod: "2023-06-22 13:53:29"
 published: "2023-06-21 18:13:40"
-subscribers: 27
+subscribers: 28
 posts: 6
 comments: 8
 weight: 6

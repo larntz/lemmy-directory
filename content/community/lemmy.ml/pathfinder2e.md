@@ -3,7 +3,7 @@ title: "Pathfinder2e"
 name: "pathfinder2e"
 description: "A subreddit for anything related to the Pathfinder Second Edition tabletop role-playing game."
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pathfinder2e"

@@ -3,14 +3,14 @@ title: "Lego Deals"
 name: "legodeals"
 description: "A place to post sales & deals on Lego!"
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-29 12:37:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/legodeals"
 host: lemmy.world
 lastmod: "2023-06-21 20:08:42"
 published: "2023-06-21 19:59:30"
-subscribers: 11
+subscribers: 12
 posts: 4
 comments: 0
 weight: 4

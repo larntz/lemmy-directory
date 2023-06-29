@@ -3,7 +3,7 @@ title: "Rollenspiele – #pnpde"
 name: "rollenspiele"
 description: "Eine Community für Pen-and-Paper-Rollenspiele und Erzählspiele aller Art. #pnpde"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rollenspiele"

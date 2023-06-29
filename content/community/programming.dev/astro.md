@@ -3,14 +3,14 @@ title: "Astro"
 name: "astro"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/astro"
 host: programming.dev
 lastmod: "2023-06-21 13:47:37"
 published: "2023-06-21 12:45:15"
-subscribers: 10
+subscribers: 11
 posts: 2
 comments: 4
 weight: 2

@@ -3,14 +3,14 @@ title: "Jahrein"
 name: "jahrein"
 description: "jahrein"
 type: community
-date: "2023-06-28 15:21:11"
+date: "2023-06-29 12:38:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jahrein"
 host: lemmy.world
 lastmod: "2023-06-21 14:00:02"
 published: "2023-06-21 13:59:55"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

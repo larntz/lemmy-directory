@@ -3,14 +3,14 @@ title: "Good History Memes"
 name: "goodhistorymemes"
 description: "For history memes not made by screeching liberals"
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/goodhistorymemes"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-10-12 15:31:16"
-subscribers: 12
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0

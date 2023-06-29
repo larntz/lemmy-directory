@@ -3,14 +3,14 @@ title: "St. Louis, MO | Gateway to the West"
 name: "stlouis"
 description: "A place for all things STL."
 type: community
-date: "2023-06-28 14:57:00"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/stlouis"
 host: midwest.social
 lastmod: "2023-06-18 14:26:11"
 published: "2023-06-05 05:57:58"
-subscribers: 114
+subscribers: 116
 posts: 36
 comments: 68
 weight: 36

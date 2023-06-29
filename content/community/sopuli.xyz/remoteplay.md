@@ -3,14 +3,14 @@ title: "Steam Remote Play/Steam Link"
 name: "remoteplay"
 description: "A community for the discussion and troubleshooting of Steam Remote Play, also known as Steam Link# Rules1. Be Respectful2. No Advertising/Spam3. No URL shorteners (bit.ly, tinyurl, etc)/Affiliate Links.4. No NSFW submission"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/remoteplay"
 host: sopuli.xyz
 lastmod: "2023-06-09 15:55:02"
 published: "2023-06-07 19:50:08"
-subscribers: 27
+subscribers: 28
 posts: 1
 comments: 1
 weight: 1

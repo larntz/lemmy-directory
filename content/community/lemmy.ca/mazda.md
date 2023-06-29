@@ -3,14 +3,14 @@ title: "Mazda"
 name: "mazda"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mazda"
 host: lemmy.ca
 lastmod: "2023-06-23 18:13:08"
 published: "2023-06-23 18:12:28"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

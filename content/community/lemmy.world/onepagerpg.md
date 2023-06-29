@@ -1,22 +1,22 @@
 ---
-title: "onepagerpg" 
+title: "One Page RPG" 
 name: "onepagerpg"
-description: "One Page RPG is a community that creates, discusses, and shares tabletop RPG games that fit on one piece of paper front and/or back.Submission rules: 1: The RPG you submit must fit on a single piece of paper. That's it. That's the only submission rule.Community rules:- Be a decent person.- Credit creators if you share something that isn't yours.- Give criticism constructively.- Accept criticism openly.*Banner image credit Alexander Grey*"
+description: "One Page RPG is a community that creates, discusses, and shares tabletop RPG games that fit on one piece of paper front and/or back.[Honey Heist](https://www.drivethrurpg.com/product/236887/Honey-Heist) is an example of a One Page RPGWhat you should post here:- One Page TTRPGs you've made- One Page TTRPGs you're working on- One Page TTRPGs you've played- One Page TTRPGs you want to play- Game design information- Game design inspiration - General questions Community rules:- Be a decent person.- Credit creators if you share something that isn't yours.- Give criticism constructively.- Accept criticism openly.*Banner image credit Alexander Grey*"
 type: community
-date: "2023-06-28 15:20:36"
+date: "2023-06-29 12:37:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onepagerpg"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 18:34:55"
 published: "2023-06-27 05:17:29"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1
-dau: 0
-wau: 0
-mau: 0
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

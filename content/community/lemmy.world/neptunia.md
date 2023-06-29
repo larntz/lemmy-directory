@@ -3,7 +3,7 @@ title: "Neptunia"
 name: "neptunia"
 description: "**The place to discuss Compile Heart & Idea Factory's Neptunia franchise on Lemmy.**"
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/neptunia"

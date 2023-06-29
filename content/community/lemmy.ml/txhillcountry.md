@@ -3,7 +3,7 @@ title: "Texas Hill Country"
 name: "txhillcountry"
 description: "A community for residents and visitors of the Texas Hill Country"
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/txhillcountry"

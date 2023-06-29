@@ -3,7 +3,7 @@ title: "Be the men's issues conversation you want to see in the world."
 name: "menslib"
 description: "The men's issues discussion has been sorely held back by counterproductive tribalism. We're building a new dialogue on the real issues facing men..."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/menslib"

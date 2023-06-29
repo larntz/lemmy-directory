@@ -3,7 +3,7 @@ title: "Axolotl - A cross-plattform Signal client"
 name: "axolotl"
 description: "A place to discuss the news and latest developments to the cross-platform Signal client."
 type: community
-date: "2023-06-28 15:19:21"
+date: "2023-06-29 12:36:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/axolotl"

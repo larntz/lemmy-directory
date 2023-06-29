@@ -3,12 +3,12 @@ title: "gogame"
 name: "gogame"
 description: "about the board game gosome links:- [online-go.com](https://online-go.com/)- [Go-Playing programs](https://senseis.xmp.net/?GoPlayingPrograms)"
 type: community
-date: "2023-06-28 14:06:26"
+date: "2023-06-29 12:37:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gogame"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:26"
+lastmod: "2023-06-16 17:33:37"
 published: "2023-06-12 19:01:40"
 subscribers: 5
 posts: 1

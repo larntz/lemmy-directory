@@ -3,20 +3,20 @@ title: "Gaming"
 name: "gaming"
 description: "Sub for any gaming related content!Rules:- **1: No spam or advertising.** This basically means no linking to your own content on blogs, YouTube, Twitch, etc.- **2: No bigotry or gatekeeping.** This should be obvious, but neither of those things will be tolerated. This goes for linked content too; if the site has some heavy anti-woke energy, you probably shouldn't be posting it here.- **3: No untagged game spoilers.** If the game was recently released or not released at all yet, use the Spoiler tag (the little ⚠️ button) in the body text, and avoid typing spoilers in the title. It should also be avoided to openly talk about **major story spoilers**, even in old games."
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gaming"
 host: lemmy.ml
 lastmod: "2023-06-20 17:07:59"
 published: "2019-10-16 20:31:00"
-subscribers: 11440
-posts: 1452
-comments: 2698
-weight: 1452
-dau: 76
-wau: 371
-mau: 909
+subscribers: 11545
+posts: 1455
+comments: 2726
+weight: 1455
+dau: 23
+wau: 352
+mau: 916
 instances:
 - "lemmy_ml"
 tags: 

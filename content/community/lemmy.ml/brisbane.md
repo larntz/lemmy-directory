@@ -3,14 +3,14 @@ title: "BRISBANE"
 name: "brisbane"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:28"
+date: "2023-06-29 12:36:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brisbane"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-08-25 17:02:34"
-subscribers: 15
+subscribers: 16
 posts: 1
 comments: 2
 weight: 1

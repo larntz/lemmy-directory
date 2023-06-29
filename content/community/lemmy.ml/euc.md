@@ -3,7 +3,7 @@ title: "Electric Unicycle"
 name: "euc"
 description: "A community for electric unicycle enthusiasts.Although this community is focused primarily on electric unicycles, other electric forms of transportation (not cars tho) are also welcome.Discussions of urbanism, bicycle infrastructure, urban transportation and other topics tangentially related to personal electric vehicles are welcome."
 type: community
-date: "2023-06-28 15:19:28"
+date: "2023-06-29 12:36:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/euc"

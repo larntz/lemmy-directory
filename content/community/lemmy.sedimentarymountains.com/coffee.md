@@ -3,20 +3,20 @@ title: "Coffee"
 name: "coffee"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:16"
+date: "2023-06-29 12:35:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sedimentarymountains.com/c/coffee"
 host: lemmy.sedimentarymountains.com
-lastmod: "2023-06-14 02:40:58"
+lastmod: "2023-06-29 04:07:08"
 published: "2023-06-14 02:40:15"
-subscribers: 16
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 17
+posts: 1
+comments: 1
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_sedimentarymountains_com"
 tags: 

@@ -3,17 +3,17 @@ title: "hacking: security in practice"
 name: "hacking"
 description: "A subreddit dedicated to hacking and hackers. Constructive collaboration and learning about exploits, industry standards, grey and white hat..."
 type: community
-date: "2023-06-28 14:57:27"
+date: "2023-06-29 12:35:10"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/hacking"
 host: zerobytes.monster
-lastmod: "2023-06-28 14:57:27"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 06:39:35"
 subscribers: 1
-posts: 88
+posts: 104
 comments: 0
-weight: 88
+weight: 104
 dau: 1
 wau: 1
 mau: 1

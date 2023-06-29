@@ -3,14 +3,14 @@ title: "FreeCodeCamp"
 name: "freecodecamp"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:52"
+date: "2023-06-29 12:37:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/freecodecamp"
 host: lemmy.world
 lastmod: "2023-06-23 16:31:05"
 published: "2023-06-17 17:19:40"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

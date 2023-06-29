@@ -3,14 +3,14 @@ title: "DC Comics"
 name: "dc_comics"
 description: "A community to discuss all aspects of DC Comics"
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dc_comics"
 host: lemmy.ml
 lastmod: "2023-06-13 15:14:30"
 published: "2023-06-11 05:52:08"
-subscribers: 7
+subscribers: 8
 posts: 5
 comments: 0
 weight: 5

@@ -3,7 +3,7 @@ title: "Videos of public speaking events"
 name: "talks"
 description: "Post your favorite talks, lectures, speeches, orations, sermons, eulogies, rants and diatribes. Remember to add the date the event took place in either the title or the comments."
 type: community
-date: "2023-06-28 15:19:22"
+date: "2023-06-29 12:36:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/talks"

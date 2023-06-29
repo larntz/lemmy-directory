@@ -3,7 +3,7 @@ title: "The Gamer Club"
 name: "tgc"
 description: "The official community for The Gamer Club in Glasgow.  https://www.thegamerclub.co.uk"
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/tgc"

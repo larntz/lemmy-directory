@@ -3,12 +3,12 @@ title: "Tile"
 name: "tile"
 description: "Like r/tile. Post you’re tile pics and questions. "
 type: community
-date: "2023-06-27 16:19:39"
+date: "2023-06-29 12:38:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tile"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:39"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 04:35:58"
 subscribers: 2
 posts: 0

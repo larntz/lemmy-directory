@@ -3,14 +3,14 @@ title: "mountain bike"
 name: "mtb"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:17"
+date: "2023-06-29 12:35:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/mtb"
 host: lemmy.cat
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 23:20:05"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

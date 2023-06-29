@@ -3,12 +3,12 @@ title: "Weird Fiction"
 name: "weirdfiction"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:17:21"
+date: "2023-06-29 12:36:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weirdfiction"
 host: lemmy.ml
-lastmod: "2023-06-27 16:17:21"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 21:18:18"
 subscribers: 4
 posts: 0

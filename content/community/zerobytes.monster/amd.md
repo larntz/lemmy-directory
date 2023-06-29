@@ -3,7 +3,7 @@ title: "/r/AMD — For all things Radeon, Ryzen and more!"
 name: "amd"
 description: "Welcome to /r/AMD — the subreddit for all things AMD; come talk about Ryzen, Radeon, Threadripper, EPYC, rumors, reviews, news and more. /r/AMD..."
 type: community
-date: "2023-06-28 15:18:14"
+date: "2023-06-29 12:35:10"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/amd"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 07:00:27"
 subscribers: 1
-posts: 99
+posts: 119
 comments: 0
-weight: 99
+weight: 119
 dau: 1
 wau: 1
 mau: 1

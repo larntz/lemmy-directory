@@ -3,12 +3,12 @@ title: "Truth or Dare"
 name: "truthordare"
 description: "Truth or Dare: choose your game.You can either submit truths or dares, for example:* Truth: Have you ever fallen in love with someone?* Dare: Try to eat multiple hot chili peppers in a row!Please use the daily truth or dare thread to play the game as intended."
 type: community
-date: "2023-06-28 15:19:22"
+date: "2023-06-29 12:36:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/truthordare"
 host: lemmy.ml
-lastmod: "2023-06-18 12:28:21"
+lastmod: "2023-06-28 22:38:53"
 published: "2023-06-18 11:57:15"
 subscribers: 0
 posts: 1

@@ -3,7 +3,7 @@ title: "Tutanota - unofficial Tutanota community"
 name: "tutanota"
 description: "An **unofficial** community for Tutanota users.Tutanota is an open-source (client source code only) email provider based in Hanover, Germany.https://github.com/tutao/tutanotahttps://tutanota.com/"
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tutanota"

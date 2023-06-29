@@ -3,7 +3,7 @@ title: "Ask Mechanics"
 name: "askmechanics"
 description: "Get advice/help from actual Mechanics. Our focus is automotive, but all mechanical questions are welcome."
 type: community
-date: "2023-06-28 15:19:23"
+date: "2023-06-29 12:36:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askmechanics"

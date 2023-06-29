@@ -3,12 +3,12 @@ title: "Morbid Questions"
 name: "morbidquestions"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/morbidquestions"
 host: lemmy.ml
-lastmod: "2023-06-16 22:50:57"
+lastmod: "2023-06-28 22:38:39"
 published: "2023-06-16 22:50:49"
 subscribers: 0
 posts: 0

@@ -3,7 +3,7 @@ title: "Spoilers"
 name: "spoilers"
 description: "All card and set spoilers, including official spoilers and unofficial leaks.Please keep all spoilers and spoiler discussion here instead of the other communities."
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/spoilers"

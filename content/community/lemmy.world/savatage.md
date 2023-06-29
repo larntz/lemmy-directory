@@ -3,7 +3,7 @@ title: "Savatage"
 name: "savatage"
 description: "Most underrated band in the world.**Other Communities:**[Metal](https://lemmy.world/c/metal)"
 type: community
-date: "2023-06-28 15:20:51"
+date: "2023-06-29 12:37:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/savatage"

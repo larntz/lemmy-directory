@@ -3,7 +3,7 @@ title: "MuttMutt's Place"
 name: "muttmutts_place"
 description: "This is just a place where I post a few things.  It's kinda like the void to me and not meant to be a discussion."
 type: community
-date: "2023-06-28 15:20:46"
+date: "2023-06-29 12:38:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/muttmutts_place"

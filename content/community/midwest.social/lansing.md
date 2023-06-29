@@ -3,14 +3,14 @@ title: "Lansing MI "
 name: "lansing"
 description: "Lansing MI community.  Be civil.  Be helpful.  Be a human who treats others like you want to be treated."
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/lansing"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 17:33:48"
-subscribers: 8
+subscribers: 9
 posts: 4
 comments: 0
 weight: 4

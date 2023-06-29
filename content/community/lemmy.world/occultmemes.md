@@ -3,14 +3,14 @@ title: "Occult Memes"
 name: "occultmemes"
 description: "A community for occult memes and esoteric humor."
 type: community
-date: "2023-06-28 15:20:56"
+date: "2023-06-29 12:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/occultmemes"
 host: lemmy.world
 lastmod: "2023-06-16 10:30:09"
 published: "2023-06-16 10:19:06"
-subscribers: 40
+subscribers: 44
 posts: 5
 comments: 2
 weight: 5

@@ -3,14 +3,14 @@ title: "WarBOT.dev"
 name: "warbot"
 description: "Anything relating to https://docs.warbot.dev/.Install the bot at https://warbot.dev/Dev version: https://dev.warbot.dev/"
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/warbot"
 host: lemmyonline.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 00:38:54"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

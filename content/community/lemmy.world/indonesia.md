@@ -3,7 +3,7 @@ title: "indonesia"
 name: "indonesia"
 description: "Welcome to /c/indonesia@lemmy.world . Selamat datang di sublemmy /c/indonesia@lemmy.world . Please follow the rules and respect others. Mohon patuhi peraturan sublemmy dan hormati orang lain.(made to reserve sublemmy name, if you want to be a mod contact @temesvar at telegram)"
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/indonesia"

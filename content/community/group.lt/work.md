@@ -3,7 +3,7 @@ title: "Work"
 name: "work"
 description: "Good things and bad things about work"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/work"
@@ -11,11 +11,11 @@ host: group.lt
 lastmod: "0001-01-01 00:00:00"
 published: "2022-01-11 22:19:16"
 subscribers: 14
-posts: 42
+posts: 43
 comments: 7
-weight: 42
-dau: 2
-wau: 2
+weight: 43
+dau: 1
+wau: 1
 mau: 2
 instances:
 - "group_lt"

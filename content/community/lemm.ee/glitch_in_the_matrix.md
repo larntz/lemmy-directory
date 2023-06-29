@@ -3,12 +3,12 @@ title: "glitch_in_the_matrix"
 name: "glitch_in_the_matrix"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:16:11"
+date: "2023-06-29 12:34:56"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/glitch_in_the_matrix"
 host: lemm.ee
-lastmod: "2023-06-27 16:16:11"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-19 19:34:12"
 subscribers: 4
 posts: 0

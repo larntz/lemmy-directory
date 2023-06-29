@@ -3,7 +3,7 @@ title: "The Sound of Resistance"
 name: "topical"
 description: "A place to discover new music that speaks to the issues of our time.## Rules1. Posts must include a text body as to how it is relevant.2. Lyrics should be relatively easy to understand.3. No excessively derogatory music that glamorizes crime or violence.4. Music must not promote hate speech or discrimination.5. No music that is excessively explicit or inappropriate.6. No music that is spam or self-promotional."
 type: community
-date: "2023-06-28 15:20:39"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/topical"

@@ -3,14 +3,14 @@ title: "Badass Women from Movies & TV"
 name: "kickasswomen"
 description: "Showcases of badass, awesome, powerful, and/or determined women from your favorite media. Absolutely no NSFW or suggestive content allowed."
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/kickasswomen"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 20:49:33"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Música"
 name: "musica"
 description: "Comunidade para a partilha e discussão de qualquer género de música."
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/musica"
 host: lemmy.pt
 lastmod: "2021-09-13 11:22:58"
 published: "2021-09-10 19:56:31"
-subscribers: 27
+subscribers: 28
 posts: 4
 comments: 3
 weight: 4

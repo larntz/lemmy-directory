@@ -3,7 +3,7 @@ title: "Disc golf"
 name: "discgolf"
 description: "A place to discuss anything disc golf related"
 type: community
-date: "2023-06-28 15:18:03"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/discgolf"

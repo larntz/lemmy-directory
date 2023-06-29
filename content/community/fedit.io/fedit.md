@@ -3,14 +3,14 @@ title: "Fedit"
 name: "fedit"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:06"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://fedit.io/c/fedit"
 host: fedit.io
 lastmod: "2023-06-25 18:29:18"
 published: "2023-06-24 16:00:55"
-subscribers: 2
+subscribers: 3
 posts: 4
 comments: 1
 weight: 4

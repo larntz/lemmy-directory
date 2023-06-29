@@ -3,7 +3,7 @@ title: "Android_Beta"
 name: "android_beta"
 description: "Check us out over at [/c/AndroidBeta](https://lemmy.ml/c/androidbeta)"
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/android_beta"

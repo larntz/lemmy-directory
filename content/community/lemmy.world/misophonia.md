@@ -3,7 +3,7 @@ title: "Misophonia"
 name: "misophonia"
 description: "The misophonia lemmy."
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/misophonia"

@@ -1,14 +1,14 @@
 ---
 title: "Liverpool " 
 name: "liverpool"
-description: "A community for the city that can include Merseyside or the Liverpool City Region."
+description: "A community for the city that can include Merseyside or the Liverpool City Region.See also:*  [Everton Football Club](/c/efc)*  [Liverpool Football Club](/c/lfc)"
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/liverpool"
 host: feddit.uk
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-29 00:41:42"
 published: "2023-06-22 12:32:01"
 subscribers: 4
 posts: 1

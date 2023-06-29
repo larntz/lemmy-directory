@@ -3,7 +3,7 @@ title: "100 gecs"
 name: "100gecs"
 description: "Reserved for r/100gecs mods. If you moderated r/100gecs, make a post with proof and I'll promote you. Mod applications from anyone are welcome though!"
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/100gecs"

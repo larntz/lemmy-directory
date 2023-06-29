@@ -3,14 +3,14 @@ title: "The PNW's Lemmy"
 name: "seattle"
 description: "The PNW's Lemmy"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/seattle"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-09-01 21:43:51"
-subscribers: 40
+subscribers: 41
 posts: 11
 comments: 7
 weight: 11

@@ -3,7 +3,7 @@ title: "Shadowrun"
 name: "shadowrun"
 description: "A place to discuss Shadowrun the TTRPG, the series of games by Harebrained Schemes, lore or anything else Shadowrun related."
 type: community
-date: "2023-06-28 15:18:28"
+date: "2023-06-29 12:35:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/shadowrun"
@@ -14,7 +14,7 @@ subscribers: 139
 posts: 17
 comments: 29
 weight: 17
-dau: 3
+dau: 1
 wau: 4
 mau: 11
 instances:

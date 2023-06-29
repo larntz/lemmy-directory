@@ -3,7 +3,7 @@ title: "Cannabis"
 name: "cannabis"
 description: "Die Legalisierung steht an, höchste Zeit für eine Community!Alles zum Thema Legalisierung & Cannabis im Allgemeinen.::: spoiler AttributionIcon made by [shmai](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/):::"
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/cannabis"
@@ -15,7 +15,7 @@ posts: 8
 comments: 10
 weight: 8
 dau: 1
-wau: 3
+wau: 2
 mau: 14
 instances:
 - "feddit_de"

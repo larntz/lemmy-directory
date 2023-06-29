@@ -3,7 +3,7 @@ title: "BestOfLists"
 name: "bestoflists"
 description: "There is more to see, to do, to find, to learn. This community is for lists of all the things. "
 type: community
-date: "2023-06-28 15:19:17"
+date: "2023-06-29 12:36:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bestoflists"

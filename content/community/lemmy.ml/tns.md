@@ -3,7 +3,7 @@ title: "talao's nerd station"
 name: "tns"
 description: "welcome to talao's nerd stationhere you can obsess about games"
 type: community
-date: "2023-06-28 15:19:30"
+date: "2023-06-29 12:36:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tns"

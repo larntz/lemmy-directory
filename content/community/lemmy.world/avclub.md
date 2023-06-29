@@ -3,14 +3,14 @@ title: "go to @alternativenation@lemmy.world"
 name: "avclub"
 description: "Focusing on LemTV Alternative Nation for now at @alternativenation@lemmy.world"
 type: community
-date: "2023-06-28 15:20:54"
+date: "2023-06-29 12:38:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/avclub"
 host: lemmy.world
 lastmod: "2023-06-21 19:16:32"
 published: "2023-06-20 12:36:33"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

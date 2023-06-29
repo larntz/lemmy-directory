@@ -3,7 +3,7 @@ title: "ExConvicts"
 name: "excons"
 description: "Support group, news, tips, tricks and moreThe label of ex-convict usually has lifelong implications, such as social stigma or reduced opportunities for employment.I hope this can be fixed in my lifetime"
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/excons"

@@ -3,14 +3,14 @@ title: "Drums"
 name: "drums"
 description: "A place for drummers and anyone who wants to talk about drums"
 type: community
-date: "2023-06-28 15:21:01"
+date: "2023-06-29 12:37:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/drums"
 host: lemmy.world
 lastmod: "2023-06-12 16:05:59"
 published: "2023-06-12 15:56:45"
-subscribers: 44
+subscribers: 46
 posts: 7
 comments: 15
 weight: 7

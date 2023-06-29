@@ -3,14 +3,14 @@ title: "Polyamory!"
 name: "polyamory"
 description: "A subreddit for talking about ethical polyamory"
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/polyamory"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-10 22:48:39"
-subscribers: 21
+subscribers: 22
 posts: 1
 comments: 1
 weight: 1

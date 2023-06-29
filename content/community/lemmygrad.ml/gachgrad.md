@@ -3,14 +3,14 @@ title: "Gacha Community"
 name: "gachgrad"
 description: "A place for Marxists interested in the dress-up games Gacha Club and Gacha life.Gacha Club offers a higher degree of customization."
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/gachgrad"
 host: lemmygrad.ml
 lastmod: "2023-02-23 11:46:24"
 published: "2023-01-23 10:18:43"
-subscribers: 2
+subscribers: 3
 posts: 7
 comments: 3
 weight: 7

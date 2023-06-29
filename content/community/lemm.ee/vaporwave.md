@@ -3,14 +3,14 @@ title: "Vaporwave"
 name: "vaporwave"
 description: "A community for Vaporwave, it's subgenres, and the overall aesthetic (art, pictures, fashion)"
 type: community
-date: "2023-06-28 15:18:02"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/vaporwave"
 host: lemm.ee
 lastmod: "2023-06-24 12:22:20"
 published: "2023-06-16 17:59:24"
-subscribers: 40
+subscribers: 44
 posts: 4
 comments: 4
 weight: 4

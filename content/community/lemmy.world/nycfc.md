@@ -3,7 +3,7 @@ title: "New York City FC"
 name: "nycfc"
 description: "Discussion of New York City FC related news"
 type: community
-date: "2023-06-28 15:20:35"
+date: "2023-06-29 12:37:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nycfc"
@@ -14,9 +14,9 @@ subscribers: 1
 posts: 2
 comments: 0
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

@@ -3,14 +3,14 @@ title: "Discussion"
 name: "discussion"
 description: "A place for General discussion within the Psychedelia.ink communities."
 type: community
-date: "2023-06-28 15:18:19"
+date: "2023-06-29 12:35:13"
 draft: false
 nsfw: false
 actor_id: "https://psychedelia.ink/c/discussion"
 host: psychedelia.ink
 lastmod: "2023-06-16 00:47:47"
 published: "2023-06-13 21:31:45"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

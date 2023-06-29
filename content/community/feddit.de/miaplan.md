@@ -3,7 +3,7 @@ title: "MiaPlan.de "
 name: "miaplan"
 description: "[**MiaPlan.de**](https://www.miaplan.de/miaplan-testen-mt/) - Datenschutzfreundliche Dienstplanung**Themen**: Rund um die Schichtplanung mit MiaPlan. Auch *Fragen* sind gern gesehen.**Features** und **Bugs**: Bei [Codeberg](https://codeberg.org/mgellner/MiaPlan-Automatische-Personalplanung/)"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/miaplan"

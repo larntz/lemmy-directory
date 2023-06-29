@@ -3,7 +3,7 @@ title: "Iron Maiden"
 name: "ironmaiden"
 description: "Up the Irons!**Other Communities:**[Metal](https://lemmy.world/c/metal@lemmy.world)"
 type: community
-date: "2023-06-28 15:21:01"
+date: "2023-06-29 12:37:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ironmaiden"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 5
+wau: 3
 mau: 5
 instances:
 - "lemmy_world"

@@ -3,14 +3,14 @@ title: "Crunchyroll"
 name: "crunchyroll"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:18"
+date: "2023-06-29 12:36:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crunchyroll"
 host: lemmy.ml
 lastmod: "2022-02-14 01:54:56"
 published: "2022-02-03 00:28:09"
-subscribers: 33
+subscribers: 34
 posts: 12
 comments: 1
 weight: 12

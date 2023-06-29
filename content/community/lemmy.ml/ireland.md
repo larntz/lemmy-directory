@@ -3,14 +3,14 @@ title: "Ireland"
 name: "ireland"
 description: "A sublemmy for the loveliest country on earth. "
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ireland"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-10-16 15:45:39"
-subscribers: 112
+subscribers: 115
 posts: 21
 comments: 20
 weight: 21

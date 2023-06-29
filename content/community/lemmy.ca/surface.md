@@ -3,7 +3,7 @@ title: "Microsoft Surface Laptops and Tablets"
 name: "surface"
 description: "For all things regarding the Microsoft Surface line of devices!"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/surface"

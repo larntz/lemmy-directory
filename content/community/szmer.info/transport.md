@@ -3,7 +3,7 @@ title: "Transport Publiczny"
 name: "transport"
 description: "Lubimy pociągi."
 type: community
-date: "2023-06-28 15:17:49"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/transport"

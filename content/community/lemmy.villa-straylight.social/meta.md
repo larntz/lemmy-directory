@@ -3,7 +3,7 @@ title: "Chatsubo"
 name: "meta"
 description: "A place for general chat and things of interest to this instance."
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/meta"
@@ -15,7 +15,7 @@ posts: 8
 comments: 28
 weight: 8
 dau: 1
-wau: 3
+wau: 1
 mau: 13
 instances:
 - "lemmy_villa-straylight_social"

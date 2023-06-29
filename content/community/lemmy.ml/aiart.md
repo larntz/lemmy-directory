@@ -3,7 +3,7 @@ title: "AIArt"
 name: "aiart"
 description: "Community for sharing AI generated art. "
 type: community
-date: "2023-06-28 15:19:22"
+date: "2023-06-29 12:36:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aiart"

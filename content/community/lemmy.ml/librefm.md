@@ -3,7 +3,7 @@ title: "libre.fm"
 name: "librefm"
 description: "**Libre.fm** is a music community website that aims to provide a Free Software replacement for last.fm. #### ImportantLemmy doesn’t have flags yet, so please tag your posts with [Question], [Help], [Other], [Promoting], [Artist], [Album], [Song], [Radio], [Station] or other you may think is appropriate.#### This is a sister community of- [Free/Libre music](https://lemmy.ml/c/libremusic)- [Free Music Archive](https://lemmy.ml/c/fma)- [funkwhale](https://lemmy.ml/c/funkwhale)- [Magnatune](https://lemmy.ml/c/magnatune)"
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/librefm"

@@ -3,14 +3,14 @@ title: "Hardcore"
 name: "hardcore"
 description: "Hardcore, Rave & Oldschool musicIcon cropped from [wiki commons picture](https://commons.wikimedia.org/wiki/File:Fantazia_Summertime_Rave.jpg) by Altjunglist under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)"
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hardcore"
 host: lemmy.ml
 lastmod: "2023-06-16 09:11:10"
 published: "2023-06-10 11:02:13"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

@@ -3,14 +3,14 @@ title: "Nerf/Blaster Tag"
 name: "nerf"
 description: "A community like r/nerf for lovers of foam flinging, blaster modding, and everything related to the hobby of nerf/blaster tag!"
 type: community
-date: "2023-06-28 14:57:40"
+date: "2023-06-29 12:35:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nerf"
 host: sh.itjust.works
 lastmod: "2023-06-15 04:18:25"
 published: "2023-06-14 21:23:52"
-subscribers: 12
+subscribers: 13
 posts: 3
 comments: 5
 weight: 3

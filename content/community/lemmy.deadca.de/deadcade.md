@@ -3,7 +3,7 @@ title: "deadcade"
 name: "deadcade"
 description: "All about services (lemmy, matrix) hosted on deadca.de"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.deadca.de/c/deadcade"

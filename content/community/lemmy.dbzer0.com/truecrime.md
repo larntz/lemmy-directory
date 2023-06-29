@@ -3,7 +3,7 @@ title: "True Crime Chatter"
 name: "truecrime"
 description: "A place to talk about True Crime. A community to share and bring awareness to cases and discuss all aspects from theories to detailed write ups and all things crime related."
 type: community
-date: "2023-06-28 15:18:21"
+date: "2023-06-29 12:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/truecrime"
@@ -12,9 +12,9 @@ lastmod: "2023-06-20 11:09:37"
 published: "2023-06-18 19:01:24"
 subscribers: 25
 posts: 8
-comments: 5
+comments: 6
 weight: 8
-dau: 2
+dau: 1
 wau: 2
 mau: 3
 instances:

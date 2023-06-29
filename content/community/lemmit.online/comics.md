@@ -3,17 +3,17 @@ title: "Print Comics and Webcomics"
 name: "comics"
 description: "Everything related to print comics (comic books, graphic novels, and strips) and web comics. Artists are encouraged to post their own work. News..."
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/comics"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 18:38:39"
-subscribers: 17
-posts: 224
+subscribers: 18
+posts: 255
 comments: 0
-weight: 224
+weight: 255
 dau: 0
 wau: 0
 mau: 0

@@ -3,14 +3,14 @@ title: "Somerville, MA"
 name: "somerville_ma"
 description: "Welcome to /r/Somerville, a subreddit dedicated to news, photos, questions, or whatever else relevant to the Somerville, MA community."
 type: community
-date: "2023-06-28 15:20:46"
+date: "2023-06-29 12:37:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/somerville_ma"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 13:38:43"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 0
 weight: 1

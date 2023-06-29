@@ -3,7 +3,7 @@ title: "GamePreservationists"
 name: "gamepreservationists"
 description: "A hub for Game Preservationists and Historians.Rules:* No Irrelevant Personal Attacks* Stick to topics about game preservation and history."
 type: community
-date: "2023-06-28 15:19:17"
+date: "2023-06-29 12:36:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gamepreservationists"

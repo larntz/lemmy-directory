@@ -3,7 +3,7 @@ title: "Xenoblade Chronicles"
 name: "xenoblade"
 description: "A community for the Xenoblade Chronicles series of RPG games. Xenogears and Xenosaga discussion welcome too!"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/xenoblade"

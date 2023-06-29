@@ -3,20 +3,20 @@ title: "Iowa"
 name: "iowa"
 description: "Is this heaven? Hell no, it's Iowa."
 type: community
-date: "2023-06-28 15:17:49"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/iowa"
 host: midwest.social
 lastmod: "2023-06-15 17:03:55"
 published: "2023-05-31 21:34:07"
-subscribers: 66
-posts: 12
-comments: 34
-weight: 12
+subscribers: 70
+posts: 13
+comments: 41
+weight: 13
 dau: 5
-wau: 9
-mau: 22
+wau: 14
+mau: 27
 instances:
 - "midwest_social"
 tags: 

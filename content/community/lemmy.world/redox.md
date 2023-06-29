@@ -3,7 +3,7 @@ title: "Redox OS"
 name: "redox"
 description: "A community for users, developers, and enthusiasts of Redox OS."
 type: community
-date: "2023-06-28 15:20:44"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/redox"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

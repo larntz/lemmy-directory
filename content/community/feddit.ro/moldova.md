@@ -3,19 +3,19 @@ title: "Moldova"
 name: "moldova"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:58"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/moldova"
 host: feddit.ro
 lastmod: "2023-06-19 13:44:01"
 published: "2023-06-19 13:42:10"
-subscribers: 7
-posts: 8
+subscribers: 8
+posts: 9
 comments: 6
-weight: 8
+weight: 9
 dau: 1
-wau: 4
+wau: 3
 mau: 5
 instances:
 - "feddit_ro"

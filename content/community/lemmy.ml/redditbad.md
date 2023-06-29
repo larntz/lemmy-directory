@@ -3,14 +3,14 @@ title: "lemmy >>"
 name: "redditbad"
 description: "haha reddit bad lemmy good"
 type: community
-date: "2023-06-28 15:19:24"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/redditbad"
 host: lemmy.ml
 lastmod: "2020-06-29 16:56:52"
 published: "2020-06-29 16:56:06"
-subscribers: 6
+subscribers: 7
 posts: 3
 comments: 0
 weight: 3

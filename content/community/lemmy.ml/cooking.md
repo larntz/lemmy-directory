@@ -3,7 +3,7 @@ title: "A community for people who love to cook!"
 name: "cooking"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:17"
+date: "2023-06-29 12:36:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cooking"
@@ -15,7 +15,7 @@ posts: 16
 comments: 33
 weight: 16
 dau: 1
-wau: 6
+wau: 5
 mau: 12
 instances:
 - "lemmy_ml"

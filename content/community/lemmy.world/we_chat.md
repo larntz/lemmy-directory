@@ -3,14 +3,14 @@ title: "WeChat"
 name: "we_chat"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:53"
+date: "2023-06-29 12:38:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/we_chat"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 20:23:15"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

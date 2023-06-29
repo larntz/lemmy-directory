@@ -3,17 +3,17 @@ title: "Toronto"
 name: "toronto"
 description: "#### Toronto, Ontario, Canada##### Friends:- [!Ontario](https://lemmy.ca/c/ontario)- [!AskTO](https://lemmy.ca/c/askto)##### [Support lemmy.ca](https://lemmy.ca/post/654216)"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/toronto"
 host: lemmy.ca
 lastmod: "2023-06-14 14:29:37"
 published: "2021-03-10 18:59:43"
-subscribers: 552
-posts: 56
+subscribers: 556
+posts: 58
 comments: 167
-weight: 56
+weight: 58
 dau: 18
 wau: 28
 mau: 69

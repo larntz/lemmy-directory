@@ -3,7 +3,7 @@ title: "worldofgothic - die dt. Community für alles, was Gothic betrifft..."
 name: "worldofgothic"
 description: "Die deutsche Gothic-Community für alles, was Gothic- oder Risen- oder Elex- Bezug hat (PiranhaBytes-Spiele)! Regeln- Ein respektvoller Umgang miteinander ist das A und O in einer Online-Community. Auch hier gilt die [Chatiquette](https://de.wikipedia.org/wiki/Netiquette#Chat).[Gothic Wiki](https://gothic.fandom.com/wiki/Gothic_Wiki)- Erfahre mehr über das Spiel im Wiki.und im [WoG-Forum](https://worldofgothic.de)."
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/worldofgothic"

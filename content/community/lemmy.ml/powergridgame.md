@@ -3,7 +3,7 @@ title: "The Powergrid Boardgame"
 name: "powergridgame"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:11"
+date: "2023-06-29 12:36:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/powergridgame"

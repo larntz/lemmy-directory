@@ -3,14 +3,14 @@ title: "Griefge"
 name: "vidyatrolling"
 description: "Clips, Vids or Vods of griefing, exploiting, trolling, baiting or general Toomfoolery for reactions and lulz in Interactive Computer Games or related mediums."
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/vidyatrolling"
 host: lemmy.burger.rodeo
 lastmod: "2023-06-11 12:19:08"
 published: "2023-06-11 12:07:58"
-subscribers: 2
+subscribers: 3
 posts: 11
 comments: 3
 weight: 11

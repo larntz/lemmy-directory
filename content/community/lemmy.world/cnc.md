@@ -3,7 +3,7 @@ title: "CNC, Milling and GCode"
 name: "cnc"
 description: "A community to discuss CNC machining, milling, GCode, and general computer controlled automation discussion."
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cnc"

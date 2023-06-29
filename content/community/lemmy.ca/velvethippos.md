@@ -3,7 +3,7 @@ title: "Velvet Hippos"
 name: "velvethippos"
 description: "Velvet Hippos is a community to share your love of your favourite velvet hippos through pictures, video, etc. Velvet Hippos include Staffordshire Terriers, American Bullies, American Pitbulls and other pitty breeds. We are all inclusive and invite posts of dogs cross bred with these breeds, as well.  This is a NO HATE community. "
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/velvethippos"

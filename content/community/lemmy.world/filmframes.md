@@ -3,14 +3,14 @@ title: "Every Frame is a Painting"
 name: "filmframes"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/filmframes"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-27 01:46:31"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

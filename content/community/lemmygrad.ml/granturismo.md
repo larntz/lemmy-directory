@@ -3,14 +3,14 @@ title: "The community of the Gran Turismo series of games"
 name: "granturismo"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/granturismo"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-08-04 09:43:56"
-subscribers: 14
+subscribers: 15
 posts: 3
 comments: 2
 weight: 3

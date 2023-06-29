@@ -3,7 +3,7 @@ title: "Eurovision "
 name: "eurovision"
 description: "A community for discussion of all things related to the Eurovision Song Contest.Rules:- No racism, xenophobia, homophobia, transphobia, etc.- No spam (a bit of promoting is OK if it’s related to Eurovision, but don’t take the piss).- Posts must be relevant to Eurovision in some way.- No harassment or abuse."
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/eurovision"

@@ -3,14 +3,14 @@ title: "AWS"
 name: "aws"
 description: "Een community voor Nederlandse AWS-gebruikers, cloud engineers, cloud architecten etc etc."
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/aws"
 host: feddit.nl
 lastmod: "2023-06-14 08:05:22"
 published: "2023-06-12 19:53:52"
-subscribers: 18
+subscribers: 19
 posts: 3
 comments: 0
 weight: 3

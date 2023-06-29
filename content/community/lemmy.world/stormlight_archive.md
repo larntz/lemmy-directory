@@ -3,7 +3,7 @@ title: "Stormlight Archive"
 name: "stormlight_archive"
 description: "Welcome!This is a community to discuss the fantasy series The Stormlight Archive by Brandon Sanderson.RulesFirst and foremost, we ask that everyone show respect to others in this community. Every interaction on the community must be kind, respectful, and welcoming. We also have several rules concerning spoilers, appropriate content, and more."
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stormlight_archive"

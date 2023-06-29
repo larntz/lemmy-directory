@@ -3,14 +3,14 @@ title: "Hot"
 name: "hot"
 description: "Hottest threads around Lemmy!"
 type: community
-date: "2023-06-28 15:21:04"
+date: "2023-06-29 12:37:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hot"
 host: lemmy.world
 lastmod: "2023-06-16 11:26:17"
 published: "2023-06-12 12:36:37"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

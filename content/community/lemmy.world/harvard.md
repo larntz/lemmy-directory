@@ -3,14 +3,14 @@ title: "Harvard"
 name: "harvard"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:45"
+date: "2023-06-29 12:38:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/harvard"
 host: lemmy.world
 lastmod: "2023-06-19 03:51:57"
 published: "2023-06-18 05:16:31"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Ruud Tips Music"
 name: "ruudtipsmusic"
 description: "I'll post music here that I like. Be warned: my taste is very diverse.## GenresSome genres you can expect (not limited to these):- Drum n Bass- Dubstep- Hip-Hop / Rap- Metal- House## RulesThis is a place to discuss music. Everyone has a different taste. Feel free to dislike music that others like, but discuss it in a friendly way.(Oh and follow the general server rules)"
 type: community
-date: "2023-06-28 15:20:39"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ruudtipsmusic"

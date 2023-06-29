@@ -3,14 +3,14 @@ title: "Club Hub"
 name: "club_hub"
 description: "The pipeline to populate other communities"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/club_hub"
 host: lemmygrad.ml
 lastmod: "2022-04-15 20:31:23"
 published: "2022-04-12 16:15:57"
-subscribers: 43
+subscribers: 44
 posts: 12
 comments: 38
 weight: 12

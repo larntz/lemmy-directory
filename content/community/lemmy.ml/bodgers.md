@@ -3,7 +3,7 @@ title: "Hand Tool Woodworking"
 name: "bodgers"
 description: "For discussing woodworking with hand tools. Machines are fine but we focus on the manual techniques here: Carving, joining, Sloyd/Slöjd/Sløyd/Sløjd, spring-pole lathe turning, planing, shaving, bending, basketry, etc. All levels of experience are welcome."
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bodgers"

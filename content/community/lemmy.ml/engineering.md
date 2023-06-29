@@ -3,7 +3,7 @@ title: "Engineering"
 name: "engineering"
 description: "A community to discuss engineering."
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/engineering"
@@ -14,7 +14,7 @@ subscribers: 60
 posts: 10
 comments: 5
 weight: 10
-dau: 2
+dau: 1
 wau: 3
 mau: 5
 instances:

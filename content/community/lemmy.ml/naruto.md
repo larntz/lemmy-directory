@@ -3,14 +3,14 @@ title: "Naruto"
 name: "naruto"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/naruto"
 host: lemmy.ml
 lastmod: "2022-04-16 03:41:49"
 published: "2022-04-15 23:01:21"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 3
 weight: 2

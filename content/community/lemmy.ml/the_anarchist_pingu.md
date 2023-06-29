@@ -3,7 +3,7 @@ title: "The Anarcho Pingu Community"
 name: "the_anarchist_pingu"
 description: "The official Lemmy community for Anarcho Pingu"
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/the_anarchist_pingu"

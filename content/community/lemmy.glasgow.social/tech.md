@@ -3,7 +3,7 @@ title: "Tech"
 name: "tech"
 description: "A place for all things Tech in Glasgow."
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/tech"

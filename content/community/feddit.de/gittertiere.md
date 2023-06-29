@@ -3,18 +3,18 @@ title: "Gittertiere"
 name: "gittertiere"
 description: "Gittertiere, syn. Käfigtiere [*Currus emptio*] - eine Community, die dem Austausch über unsere edlen Mitgeschöpfe auf vier Rollen dient. Zeigt Eure Gittertierfotos, berichtet von Euren Begegnungen mit Gittertieren oder postet die neuesten Erkenntnisse aus der Gittertierforschung!"
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gittertiere"
 host: feddit.de
-lastmod: "2023-06-25 14:56:08"
+lastmod: "2023-06-28 18:48:32"
 published: "2023-06-19 21:00:44"
-subscribers: 122
-posts: 14
-comments: 19
-weight: 14
-dau: 1
+subscribers: 126
+posts: 15
+comments: 21
+weight: 15
+dau: 2
 wau: 18
 mau: 22
 instances:

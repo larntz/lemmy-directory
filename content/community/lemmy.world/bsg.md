@@ -3,7 +3,7 @@ title: "Battlestar Galactica"
 name: "bsg"
 description: "For discussion of the original 1978 series, the reimagined series of the 2000s, and other related shows and content.Rules:1. Be respectful.2. Please avoid spoilers in post titles and mention if your post or comment will have spoilers.3. No porn, ads, or spamming."
 type: community
-date: "2023-06-28 15:21:10"
+date: "2023-06-29 12:38:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bsg"

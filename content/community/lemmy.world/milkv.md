@@ -3,14 +3,14 @@ title: "MilkV"
 name: "milkv"
 description: "Discussion on MilkV RISC-V Development boards and products"
 type: community
-date: "2023-06-28 14:06:22"
+date: "2023-06-29 12:38:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/milkv"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:22"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 11:20:37"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Beast Wars"
 name: "beastwars"
 description: "![](https://lemmy.world/pictrs/image/52b6c52e-eae0-4eb0-92c9-cf9d55e68cfd.jpeg)![](https://lemmy.world/pictrs/image/c7d35727-9fc6-4060-b715-dbf2ec308b04.jpeg)All about Beast Wars, Beast Machines, Beast Wars II, Neo and Transformers: Rise of the Beasts.**Rules:**- Be kind to Maximals, Predacons, and all beings (it's ok to make fun of Waspinator).- Post relevant content- No SPAMing or trolling "
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/beastwars"

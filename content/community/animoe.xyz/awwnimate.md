@@ -3,7 +3,7 @@ title: "Awwnimate"
 name: "awwnimate"
 description: "[Cute anime moments]()**Rules:**- Follow the site rules.- Must be a video or gif.- Must be cute.- Must be a scene from an anime."
 type: community
-date: "2023-06-28 15:18:05"
+date: "2023-06-29 12:34:59"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/awwnimate"

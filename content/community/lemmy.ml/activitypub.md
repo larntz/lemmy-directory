@@ -3,7 +3,7 @@ title: "ActivityPub"
 name: "activitypub"
 description: "This is a community dedicated to discussing technical details related to ActivityPub. It is not for discussing the Fediverse, although discussion on that topic is fine if it somehow relates to the AP protocol itself.We welcome developers familiar with the protocol! "
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/activitypub"

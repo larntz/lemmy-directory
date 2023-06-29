@@ -3,14 +3,14 @@ title: "The Last of Us 2"
 name: "thelastofus2"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:48"
+date: "2023-06-29 12:37:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thelastofus2"
 host: lemmy.world
 lastmod: "2023-06-21 04:04:38"
 published: "2023-06-21 04:03:16"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

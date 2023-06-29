@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Subscribe to this community to get updates about the instance itself."
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.saik0.com/c/announcements"

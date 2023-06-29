@@ -3,7 +3,7 @@ title: "Death Note"
 name: "deathnote"
 description: "**The Death Note community.**Also see alternative instances here:- https://kbin.social/m/deathnote- https://lemmy.world/c/deathnote- https://lemmy.ml/c/deathnoteFor now, there are no rules. Feel free to post anything that follows the overall instance’s rules. The post must be related to Death Note."
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/deathnote"

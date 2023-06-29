@@ -3,7 +3,7 @@ title: "Bass"
 name: "bass"
 description: "A place for bassists to talk shop! Whether it's about gear, practicing, tips & tricks, let's discuss!**Related Communities**:[guitars](https://lemmy.world/c/guitars)"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/bass"

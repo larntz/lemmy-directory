@@ -3,7 +3,7 @@ title: "EDCAS "
 name: "edcas"
 description: "## EDCAS - Elite Dangerous Commander Assistant SystemShows system information compact for explorer.Get it on  [GitHub](https://github.com/arne-fuchs/edcas-client)"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.paesserver.de/c/edcas"

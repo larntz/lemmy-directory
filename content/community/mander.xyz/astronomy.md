@@ -3,20 +3,20 @@ title: "Astronomy"
 name: "astronomy"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/astronomy"
 host: mander.xyz
-lastmod: "2023-06-20 18:47:11"
+lastmod: "2023-06-28 20:36:40"
 published: "2022-01-27 08:03:11"
-subscribers: 552
-posts: 59
-comments: 70
-weight: 59
-dau: 3
-wau: 21
-mau: 53
+subscribers: 559
+posts: 61
+comments: 72
+weight: 61
+dau: 2
+wau: 18
+mau: 54
 instances:
 - "mander_xyz"
 tags: 

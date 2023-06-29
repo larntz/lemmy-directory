@@ -3,7 +3,7 @@ title: "Politica interna, europea e internazionale"
 name: "politica"
 description: "# Comunità dedicata alle notizie e alle analisi politiche!Sono vietati i messaggi offensivi e ostili o quelli palesemente illegali.🚫 Evitare notizie provenienti da fonti non affidabili. Per una rassegna, cfr la Black List di Butac al link https://www.butac.it/the-black-list/ *Nel caso fosse proprio necessario postare link da quei siti, aggiungere al titolo la dicitura* :**#Disinformazione?**"
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/politica"
@@ -15,7 +15,7 @@ posts: 252
 comments: 264
 weight: 252
 dau: 1
-wau: 5
+wau: 2
 mau: 43
 instances:
 - "feddit_it"

@@ -3,7 +3,7 @@ title: "The Sopranos"
 name: "thesopranos"
 description: "A Lemmy version of reddit's r/TheSopranos"
 type: community
-date: "2023-06-28 15:20:48"
+date: "2023-06-29 12:37:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thesopranos"

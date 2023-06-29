@@ -3,7 +3,7 @@ title: "PUBG Mobile"
 name: "pubg_mobile"
 description: "Unofficial community for PUBG Mobile game on MobileMMOHub.com"
 type: community
-date: "2023-06-28 15:18:04"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://mobilemmohub.com/c/pubg_mobile"

@@ -3,14 +3,14 @@ title: "Meta"
 name: "meta"
 description: "For meta discussion of The Leafy Library server."
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.leafylibrary.uk/c/meta"
 host: lemmy.leafylibrary.uk
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 19:57:22"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: -1
 weight: 0

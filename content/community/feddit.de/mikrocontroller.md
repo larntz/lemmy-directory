@@ -3,7 +3,7 @@ title: "Mikrocontroller"
 name: "mikrocontroller"
 description: "Nicht zu verwechseln mit den englischen microcontrollers, geht es hier in deutscher Sprache um Kleinstcomputer die i.d.R. ohne Betriebssystem laufen."
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mikrocontroller"

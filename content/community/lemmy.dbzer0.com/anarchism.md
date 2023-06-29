@@ -3,14 +3,14 @@ title: "Anarchism"
 name: "anarchism"
 description: "Discuss anarchist praxis and philosophy."
 type: community
-date: "2023-06-28 15:18:21"
+date: "2023-06-29 12:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/anarchism"
 host: lemmy.dbzer0.com
 lastmod: "2023-06-12 00:48:19"
 published: "2023-06-09 20:44:21"
-subscribers: 213
+subscribers: 218
 posts: 11
 comments: 33
 weight: 11

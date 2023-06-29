@@ -3,14 +3,14 @@ title: "World of Warcraft "
 name: "wow"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/wow"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 15:53:11"
-subscribers: 16
+subscribers: 17
 posts: 1
 comments: 0
 weight: 1

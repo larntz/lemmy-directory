@@ -3,7 +3,7 @@ title: "Synthesizers"
 name: "synthesizers"
 description: "Obsessed with synthesizers: hardware & software"
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://burggit.moe/c/synthesizers"

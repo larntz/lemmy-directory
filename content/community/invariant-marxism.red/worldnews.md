@@ -3,14 +3,14 @@ title: "World News"
 name: "worldnews"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:20"
+date: "2023-06-29 12:35:14"
 draft: false
 nsfw: false
 actor_id: "https://invariant-marxism.red/c/worldnews"
 host: invariant-marxism.red
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 22:46:32"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3

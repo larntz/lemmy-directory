@@ -3,7 +3,7 @@ title: "Shrooms"
 name: "shrooms"
 description: "A place to discuss the growing, hunting, and the experience of magical fungi. Primarily concerned with psilocybin containing mushrooms, but all psychoactive species are welcome."
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/shrooms"

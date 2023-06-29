@@ -3,20 +3,20 @@ title: "Fediverse"
 name: "fediversede"
 description: "Beiträge zum Fediverse in Deutsch"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fediversede"
 host: feddit.de
 lastmod: "2021-12-02 14:50:31"
 published: "2021-12-02 14:46:35"
-subscribers: 1004
+subscribers: 1013
 posts: 108
-comments: 728
+comments: 734
 weight: 108
-dau: 22
-wau: 67
-mau: 145
+dau: 6
+wau: 39
+mau: 151
 instances:
 - "feddit_de"
 tags: 

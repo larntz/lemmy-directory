@@ -3,7 +3,7 @@ title: "V Rising"
 name: "vrising"
 description: "A community for the vampire themed survival game V Rising from Stunlock Studios.Build your castle. Hunt for blood. Rise in power."
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vrising"

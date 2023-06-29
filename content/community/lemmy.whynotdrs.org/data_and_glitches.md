@@ -3,17 +3,17 @@ title: "Data and Glitches"
 name: "data_and_glitches"
 description: "GameStop Data, Tables, and Glitches"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.whynotdrs.org/c/data_and_glitches"
 host: lemmy.whynotdrs.org
 lastmod: "2023-06-25 17:07:43"
 published: "2023-06-25 16:59:03"
-subscribers: 6
-posts: 4
+subscribers: 7
+posts: 5
 comments: 7
-weight: 4
+weight: 5
 dau: 1
 wau: 4
 mau: 4

@@ -3,7 +3,7 @@ title: "Indian Cinema"
 name: "desicinema"
 description: "A  more refined discussion forum for South Asian films (India, Pakistan, Bangladesh, Nepal, Bhutan, Sri Lanka, the Maldives and Afghanistan)"
 type: community
-date: "2023-06-28 15:21:14"
+date: "2023-06-29 12:37:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/desicinema"

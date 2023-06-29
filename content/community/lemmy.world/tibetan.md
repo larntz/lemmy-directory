@@ -3,7 +3,7 @@ title: "Tibetan"
 name: "tibetan"
 description: "hang out and chat about Tibetan stuff"
 type: community
-date: "2023-06-28 15:20:41"
+date: "2023-06-29 12:38:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tibetan"

@@ -3,14 +3,14 @@ title: "Brexit "
 name: "brexit"
 description: "Brexit is life"
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-29 12:35:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/brexit"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 15:17:27"
-subscribers: 9
+subscribers: 10
 posts: 2
 comments: 1
 weight: 2

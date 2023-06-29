@@ -3,7 +3,7 @@ title: "Real Madrid"
 name: "realmadrid"
 description: "Home of the 14 times European Champions on reddit. Hala Madrid!"
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/realmadrid"

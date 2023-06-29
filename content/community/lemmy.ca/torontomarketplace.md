@@ -3,7 +3,7 @@ title: "Toronto Marketplace (Buy And Sell)"
 name: "torontomarketplace"
 description: "buy and sell locally in the GTA"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/torontomarketplace"

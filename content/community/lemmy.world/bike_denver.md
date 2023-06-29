@@ -3,7 +3,7 @@ title: "Bike Denver"
 name: "bike_denver"
 description: "Do you Commute by Bike?  Do you want to start?This is the place for you!Primary goal is to drive less, and Bike MORE!"
 type: community
-date: "2023-06-28 15:20:56"
+date: "2023-06-29 12:38:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bike_denver"

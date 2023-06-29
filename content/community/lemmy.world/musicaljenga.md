@@ -3,14 +3,14 @@ title: "Musical Jenga"
 name: "musicaljenga"
 description: "Musical collaboration via internet and apps like TikTok duets. "
 type: community
-date: "2023-06-28 15:21:03"
+date: "2023-06-29 12:37:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/musicaljenga"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 15:30:30"
-subscribers: 10
+subscribers: 12
 posts: 7
 comments: 0
 weight: 7

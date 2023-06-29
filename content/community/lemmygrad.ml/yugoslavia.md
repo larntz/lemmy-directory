@@ -3,14 +3,14 @@ title: "SFR Yugoslavia "
 name: "yugoslavia"
 description: "Dedicated to preserving the legacy of Yugoslavia Anything related to the history of ex-Yugoslavia or current events in the region is allowed "
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/yugoslavia"
 host: lemmygrad.ml
 lastmod: "2022-03-24 00:25:13"
 published: "2022-03-24 00:24:43"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

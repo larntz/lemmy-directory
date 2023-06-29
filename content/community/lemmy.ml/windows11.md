@@ -3,7 +3,7 @@ title: "Windows 11"
 name: "windows11"
 description: "All about Windows 11.- Installation- Troubleshooting- Enhancements- Security- Everything else"
 type: community
-date: "2023-06-28 15:19:11"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/windows11"

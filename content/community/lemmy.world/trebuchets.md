@@ -3,7 +3,7 @@ title: "trebuchets"
 name: "trebuchets"
 description: "Forum for discussing hurling things by dropping other things. Ballistas are cool too"
 type: community
-date: "2023-06-28 15:20:36"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trebuchets"

@@ -3,12 +3,12 @@ title: "covid"
 name: "covid"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:40"
+date: "2023-06-29 12:38:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/covid"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:40"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 06:18:37"
 subscribers: 7
 posts: 0

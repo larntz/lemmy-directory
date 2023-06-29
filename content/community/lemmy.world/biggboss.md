@@ -3,12 +3,12 @@ title: "Bigg Boss"
 name: "biggboss"
 description: "Be Civil"
 type: community
-date: "2023-06-28 14:06:29"
+date: "2023-06-29 12:37:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/biggboss"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:29"
+lastmod: "2023-06-22 05:29:13"
 published: "2023-06-22 04:56:20"
 subscribers: 1
 posts: 1

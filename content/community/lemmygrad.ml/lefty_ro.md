@@ -3,14 +3,14 @@ title: "Stanga Romana"
 name: "lefty_ro"
 description: "Pentru persoane de stanga economica in Romania"
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lefty_ro"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-11-09 15:59:48"
-subscribers: 19
+subscribers: 20
 posts: 2
 comments: 3
 weight: 2

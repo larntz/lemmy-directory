@@ -3,7 +3,7 @@ title: "Structured Media"
 name: "structuredmedia"
 description: "Structured media panels by Leviton, LeGrand, OnQ, and others. Pictures, questions, product recommendations welcome."
 type: community
-date: "2023-06-28 15:19:16"
+date: "2023-06-29 12:36:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/structuredmedia"

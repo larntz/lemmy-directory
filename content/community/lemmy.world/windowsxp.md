@@ -3,7 +3,7 @@ title: "Windows XP"
 name: "windowsxp"
 description: "List of XP apps [(editable)](https://docs.google.com/document/d/1WpPS_zOQZD3IcWmG5guWQxmt-n7aEeQ3yZ16Ra4x4Jw/edit) [(html)](https://skipster1337.github.io/posts/windows-software.html)[Quickstart Guide](https://skipster1337.github.io/posts/xp-info.html)[Discord](https://discord.gg/vzRvU3V)If you are a mod of r/windowsxp and you would like mod, please contact me on lemmy before making a post or comment"
 type: community
-date: "2023-06-28 15:20:41"
+date: "2023-06-29 12:38:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/windowsxp"

@@ -3,14 +3,14 @@ title: "KDE"
 name: "kde"
 description: "🇩🇪 Die KDE Community auf Lemmy (inoffiziell).🇬🇧 The KDE community on Lemmy (inofficial)Regeln:- Sei kein Sackgesicht. Sei nett.- Posts nur in deutscher oder englischer SpracheRules :- Don't be an a$$hole. Be nice.- Posts in German or English language only"
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kde"
 host: discuss.tchncs.de
 lastmod: "2023-06-22 08:16:53"
 published: "2023-06-12 13:07:56"
-subscribers: 76
+subscribers: 77
 posts: 14
 comments: 2
 weight: 14

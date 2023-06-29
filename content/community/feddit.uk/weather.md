@@ -3,7 +3,7 @@ title: "Weather and Meteorology"
 name: "weather"
 description: "Hope to expand on this later.A community for discussing the weather (very UK), amateur meteorology, and moaning it's too hot/cold/wet/dry/mild."
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/weather"

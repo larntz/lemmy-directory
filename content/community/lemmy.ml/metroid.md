@@ -3,14 +3,14 @@ title: "Metroid"
 name: "metroid"
 description: "Welcome to c/Metroid! Feel free to post any* news, questions, art, cosplay or anything else relating to the Metroid franchise!Rules:- 1. Be a decent human being.- 2. Fanart must be credited.- 3. No untagged spoilers of new games."
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/metroid"
 host: lemmy.ml
 lastmod: "2023-06-19 13:32:22"
 published: "2021-02-22 14:42:29"
-subscribers: 53
+subscribers: 54
 posts: 3
 comments: 2
 weight: 3

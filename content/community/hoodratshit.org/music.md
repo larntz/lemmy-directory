@@ -3,14 +3,14 @@ title: "music"
 name: "music"
 description: "music"
 type: community
-date: "2023-06-28 15:18:06"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://hoodratshit.org/c/music"
 host: hoodratshit.org
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-23 15:44:07"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

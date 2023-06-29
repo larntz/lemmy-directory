@@ -3,14 +3,14 @@ title: "Sydney Roosters"
 name: "sydneyroosters"
 description: "All things related to the Sydney Roosters NRL and NRLW teams. The only foundation club to compete in every premiership season. #EastsToWin"
 type: community
-date: "2023-06-28 15:20:52"
+date: "2023-06-29 12:38:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sydneyroosters"
 host: lemmy.world
 lastmod: "2023-06-23 02:36:15"
 published: "2023-06-23 02:35:02"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

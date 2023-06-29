@@ -3,7 +3,7 @@ title: "Leftist Infighting"
 name: "leftistinfighting"
 description: "This is a safe space to call each other tankies and libs."
 type: community
-date: "2023-06-28 15:19:26"
+date: "2023-06-29 12:36:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leftistinfighting"

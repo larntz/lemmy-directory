@@ -3,14 +3,14 @@ title: "chapotraphouse"
 name: "chapotraphouse"
 description: "chapotraphouse"
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/chapotraphouse"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-08-29 09:48:03"
-subscribers: 408
+subscribers: 409
 posts: 50
 comments: 68
 weight: 50

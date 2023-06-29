@@ -3,7 +3,7 @@ title: "Odysee - Share Videos Freely"
 name: "odysee"
 description: "Odysee, a video website built by LBRY Inc. using their LBRY protocol, entered beta in September 2020 and officially launched that December.# Rules   - No harassment  - Video Promoting is allowed    - No spamming   - Stay friendly  -  Follow the lemmy.ml instance rules# Related Communities: - [!lbry_community@lemmy.ml](https://lemmy.ml/c/lbry_community) # If you see a rule-breaker please DM the mods!"
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/odysee"

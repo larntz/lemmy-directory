@@ -3,7 +3,7 @@ title: "No Context Art"
 name: "no_context_art"
 description: "Post art that you've seen in a museum or gallery without context. Comment on that art without context.Note: the picture must be a photo taken of the art as displayed, no high quality scans are allowed. Mods reserve the right to ask where you've taken the photo of the art."
 type: community
-date: "2023-06-28 15:18:18"
+date: "2023-06-29 12:35:12"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/no_context_art"

@@ -3,14 +3,14 @@ title: "Cluj"
 name: "cluj"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/cluj"
 host: feddit.ro
 lastmod: "2023-06-28 13:02:34"
 published: "2023-06-14 11:23:06"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

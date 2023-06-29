@@ -3,14 +3,14 @@ title: "Furry Tech"
 name: "ftech"
 description: "Welcome to the Furry Tech Lemmy.Find the website: https://furry.lol  Main Matrix room: https://matrix.to/#/#furrytech:matrix.org"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/ftech"
 host: lemmy.tedomum.net
 lastmod: "1969-12-31 19:00:00"
 published: "2022-08-30 08:08:28"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

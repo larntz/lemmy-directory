@@ -3,7 +3,7 @@ title: "funny"
 name: "funny"
 description: "Reddit's largest humor depository."
 type: community
-date: "2023-06-28 15:18:14"
+date: "2023-06-29 12:35:10"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/funny"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 18:53:44"
 subscribers: 1
-posts: 242
+posts: 278
 comments: 0
-weight: 242
+weight: 278
 dau: 1
 wau: 1
 mau: 1

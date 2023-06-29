@@ -3,7 +3,7 @@ title: "Deutschsprachiges Trans-Lemmy"
 name: "germantrans"
 description: "Für alle trans Menschen aus deutschsprachigen Ländern. Nicht-binäre und inter Menschen sind willkommen. ······························································· For trans people from/in German speaking countries. Non-binary and inter people are welcome."
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/germantrans"

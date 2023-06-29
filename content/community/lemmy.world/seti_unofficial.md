@@ -3,7 +3,7 @@ title: "The Unofficial Lemmy For SETI and METI"
 name: "seti_unofficial"
 description: "All things related to SETI and METI"
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-06-29 12:37:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/seti_unofficial"

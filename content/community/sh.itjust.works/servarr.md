@@ -3,14 +3,14 @@ title: "Servarr"
 name: "servarr"
 description: "Community to discuss the *arr stack, such as Sonarr, Radarr, Lidar etc.Getting started: https://wiki.servarr.com/"
 type: community
-date: "2023-06-28 14:57:38"
+date: "2023-06-29 12:35:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/servarr"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 00:11:48"
-subscribers: 421
+subscribers: 424
 posts: 5
 comments: 49
 weight: 5

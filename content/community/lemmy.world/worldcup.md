@@ -3,12 +3,12 @@ title: "World Cup"
 name: "worldcup"
 description: "Description not available."
 type: community
-date: "2023-06-28 14:06:13"
+date: "2023-06-29 12:38:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/worldcup"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:13"
+lastmod: "2023-06-19 02:26:18"
 published: "2023-06-19 02:25:56"
 subscribers: 6
 posts: 1

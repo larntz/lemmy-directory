@@ -3,7 +3,7 @@ title: "Grafitti"
 name: "grafitti"
 description: "Post originals or stuff you see online that you like. Notebook sketches and lettering practice is cool too."
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bringdaruck.us/c/grafitti"

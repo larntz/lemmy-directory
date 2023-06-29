@@ -3,7 +3,7 @@ title: "ThinkPad"
 name: "thinkpad"
 description: "For IBM and Lenovo **ThinkPad** laptop enthusiasts!*German and English allowed.*"
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/thinkpad"
@@ -15,7 +15,7 @@ posts: 3
 comments: 6
 weight: 3
 dau: 1
-wau: 4
+wau: 1
 mau: 5
 instances:
 - "feddit_de"

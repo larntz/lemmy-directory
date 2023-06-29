@@ -3,7 +3,7 @@ title: "Pawb.Social Feedback"
 name: "pawbsocial_feedback"
 description: "An official community for users of Pawb.Social services (furry.engineer, pawb.fun, and pawb.social) to provide feedback and suggestions."
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/pawbsocial_feedback"
@@ -15,7 +15,7 @@ posts: 27
 comments: 272
 weight: 27
 dau: 1
-wau: 24
+wau: 19
 mau: 116
 instances:
 - "pawb_social"

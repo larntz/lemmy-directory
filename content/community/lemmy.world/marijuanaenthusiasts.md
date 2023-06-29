@@ -3,7 +3,7 @@ title: "Marijuana Enthusiasts!"
 name: "marijuanaenthusiasts"
 description: "Similar to the sub on the site which shall not be named, this site is all about TREES.Welcome to the community! Posts about pot and it's related subjects should be shared with our good friends at c/trees, not so much here; we're all about *actual trees* (that's the joke) 😊🌳 'Thank you! Come Again!'"
 type: community
-date: "2023-06-28 15:20:40"
+date: "2023-06-29 12:37:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/marijuanaenthusiasts"

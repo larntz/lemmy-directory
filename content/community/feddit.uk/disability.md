@@ -3,7 +3,7 @@ title: "Disability"
 name: "disability"
 description: "A community for people who self-identify as having a disability - physical, mental, neurological, or otherwise. "
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/disability"

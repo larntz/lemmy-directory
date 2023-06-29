@@ -3,7 +3,7 @@ title: "Rice University"
 name: "riceuniversity"
 description: "A Lemmy community for the institution formally known as William Marsh Rice University!Here's a set of helpful links:- [Rice Textbook Library](https://docs.google.com/document/d/17z7If3hP8RiBEmc64SnL6L5hiVOS_O8TkhkoEA9Q3y4/)- [Rice Discord Student Hub](https://discord.gg/bcynNWqrde) (you will need your `rice.edu` email for this)- [co2027 Discord](https://discord.gg/bcynNWqrde)*P.S. If the mods of the [original subreddit](https://www.reddit.com/r/riceuniversity/) reach out, I'll happily give this Lemmy to them.*"
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/riceuniversity"

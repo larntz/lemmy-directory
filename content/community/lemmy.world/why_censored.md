@@ -3,7 +3,7 @@ title: "WHY"
 name: "why_censored"
 description: "AWWW +[516941](https://lemmy.world/post/516941) +[516952](https://lemmy.world/post/516952)+[517282](https://lemmy.world/post/517282)"
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/why_censored"

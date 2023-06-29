@@ -3,7 +3,7 @@ title: "meta"
 name: "meta"
 description: "Meta discussion about Reddit + this Lemmy instance"
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/meta"

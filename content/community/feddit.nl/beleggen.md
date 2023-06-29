@@ -3,7 +3,7 @@ title: "Beleggen"
 name: "beleggen"
 description: "Een community voor alle topics over beleggen, aandelen, opties, obligaties, brokers, etc."
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/beleggen"

@@ -3,14 +3,14 @@ title: "VirtualReal"
 name: "virtualreal"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/virtualreal"
 host: fediverse.ro
 lastmod: "1969-12-31 19:00:00"
 published: "2023-01-20 18:16:52"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 2
 weight: 2

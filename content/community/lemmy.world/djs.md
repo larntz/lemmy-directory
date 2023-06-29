@@ -3,7 +3,7 @@ title: "DJs"
 name: "djs"
 description: "reddit.com/r/djs refugees!"
 type: community
-date: "2023-06-28 15:20:48"
+date: "2023-06-29 12:37:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/djs"

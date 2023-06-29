@@ -3,7 +3,7 @@ title: "Pour les Nantais et les discussions autour de Naoned"
 name: "nantes"
 description: "(English below)Règles:- Écrire en français ou anglais- Pas de pornographie- Merci de respecter les lois en vigueur-------------------------------Rules:- Write in English or French- No porn- No illegal stuff"
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-29 12:35:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nantes"

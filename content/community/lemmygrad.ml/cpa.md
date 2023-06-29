@@ -3,14 +3,14 @@ title: "Communist Party of Australia"
 name: "cpa"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/cpa"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-03-26 01:48:09"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

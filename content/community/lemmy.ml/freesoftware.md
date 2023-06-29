@@ -3,14 +3,14 @@ title: "Free Software"
 name: "freesoftware"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:17:41"
+date: "2023-06-29 12:36:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freesoftware"
 host: lemmy.ml
-lastmod: "2023-06-27 16:17:41"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-08-25 00:35:02"
-subscribers: 229
+subscribers: 230
 posts: 12
 comments: 0
 weight: 12

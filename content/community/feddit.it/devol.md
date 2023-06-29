@@ -3,7 +3,7 @@ title: "devol"
 name: "devol"
 description: "gruppo devol "
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/devol"
@@ -15,7 +15,7 @@ posts: 43
 comments: 91
 weight: 43
 dau: 2
-wau: 2
+wau: 1
 mau: 4
 instances:
 - "feddit_it"

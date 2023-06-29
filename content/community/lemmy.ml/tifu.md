@@ -3,14 +3,14 @@ title: "Today I Fucked Up"
 name: "tifu"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:15"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tifu"
 host: lemmy.ml
-lastmod: "2023-06-27 07:57:18"
+lastmod: "2023-06-28 22:35:23"
 published: "2023-06-09 14:13:33"
-subscribers: 58
+subscribers: 60
 posts: 0
 comments: 0
 weight: 0

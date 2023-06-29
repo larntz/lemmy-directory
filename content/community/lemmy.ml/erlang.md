@@ -3,7 +3,7 @@ title: "Erlang Programming Language"
 name: "erlang"
 description: "Discussions about Erlang and beam"
 type: community
-date: "2023-06-28 15:19:17"
+date: "2023-06-29 12:36:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/erlang"

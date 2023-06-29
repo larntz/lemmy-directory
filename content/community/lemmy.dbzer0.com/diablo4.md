@@ -3,7 +3,7 @@ title: "Diablo 4"
 name: "diablo4"
 description: "A place for fans to discuss news, streams, drops, builds and all things Diablo 4. From character builds and skills, to lore and theories."
 type: community
-date: "2023-06-28 15:18:21"
+date: "2023-06-29 12:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/diablo4"

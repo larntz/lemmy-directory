@@ -3,7 +3,7 @@ title: "TeX typesetting"
 name: "tex_typesetting"
 description: "A place to share ideas, resources, tips, and hacks for Donald Knuths typesetting software TeX. All variants and formats like OpTeX, LaTeX and ConTeXt are welcome."
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/tex_typesetting"
@@ -15,7 +15,7 @@ posts: 11
 comments: 10
 weight: 11
 dau: 1
-wau: 6
+wau: 3
 mau: 6
 instances:
 - "lemmy_sdf_org"

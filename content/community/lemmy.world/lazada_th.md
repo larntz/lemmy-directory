@@ -3,7 +3,7 @@ title: "lazada_th"
 name: "lazada_th"
 description: "Community to exchange good (and weird) Lazada goodies. Each post must be accompanied with a personal usage feedback and a link."
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lazada_th"

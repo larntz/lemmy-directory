@@ -3,7 +3,7 @@ title: "They Might Be Giants"
 name: "tmbg"
 description: "Do you like and or follow the John's? This may be the place for you."
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tmbg"
@@ -15,7 +15,7 @@ posts: 4
 comments: 5
 weight: 4
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_world"

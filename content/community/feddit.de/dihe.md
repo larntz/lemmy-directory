@@ -3,14 +3,14 @@ title: "Danke, ich hasse es!"
 name: "dihe"
 description: ""
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dihe"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 09:52:43"
-subscribers: 185
+subscribers: 187
 posts: 8
 comments: 10
 weight: 8

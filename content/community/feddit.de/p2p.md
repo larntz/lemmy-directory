@@ -3,7 +3,7 @@ title: "p2p"
 name: "p2p"
 description: "Deutschsprachige Diskussion von dezentralen, föderierten und peer-to-peer-Technologien, sowie verwandten Themen.Denglisch ist ok."
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/p2p"

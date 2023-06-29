@@ -3,7 +3,7 @@ title: "Propaganda"
 name: "propaganda"
 description: "Discussion of cases of propaganda around the world, both obvious and suspected."
 type: community
-date: "2023-06-28 15:19:29"
+date: "2023-06-29 12:36:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/propaganda"

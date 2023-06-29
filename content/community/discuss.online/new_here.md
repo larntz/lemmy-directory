@@ -3,7 +3,7 @@ title: "New Here"
 name: "new_here"
 description: "For all the new folks to post and asked questions.You can still ask if you've been here a while too.If you're a veteran you're welcome too! Post tips and tricks as you use Lemmy!"
 type: community
-date: "2023-06-28 15:18:13"
+date: "2023-06-29 12:35:09"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/new_here"

@@ -3,14 +3,14 @@ title: "Mech Market"
 name: "mechmarket"
 description: "A place for selling, buying, and trading anything related to keyboards!"
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mechmarket"
 host: lemmy.ml
 lastmod: "2023-06-08 20:29:59"
 published: "2023-06-08 20:24:15"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

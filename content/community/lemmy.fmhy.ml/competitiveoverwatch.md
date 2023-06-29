@@ -3,14 +3,14 @@ title: "Competitive Overwatch"
 name: "competitiveoverwatch"
 description: "Replacement for the subreddit. All mods are welcome and will happily add you"
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/competitiveoverwatch"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 20:19:26"
-subscribers: 13
+subscribers: 14
 posts: 3
 comments: 0
 weight: 3

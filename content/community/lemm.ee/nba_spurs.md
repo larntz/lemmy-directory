@@ -3,7 +3,7 @@ title: "San Antonio Spurs"
 name: "nba_spurs"
 description: "Lemmy's community for fans of the San Antonio Spurs"
 type: community
-date: "2023-06-28 15:18:02"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/nba_spurs"

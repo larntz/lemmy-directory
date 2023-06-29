@@ -3,17 +3,17 @@ title: "Life Pro Tips"
 name: "lifeprotips"
 description: "Tips that improve your life in one way or another."
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/lifeprotips"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-26 18:54:10"
-subscribers: 7
-posts: 105
+subscribers: 8
+posts: 137
 comments: 1
-weight: 105
+weight: 137
 dau: 1
 wau: 1
 mau: 1

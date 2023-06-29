@@ -3,7 +3,7 @@ title: "Technology Policy & Law"
 name: "techlaw"
 description: "Technology Policy & Law"
 type: community
-date: "2023-06-28 15:17:39"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/techlaw"

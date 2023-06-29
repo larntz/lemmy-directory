@@ -3,14 +3,14 @@ title: "DDR"
 name: "ddr"
 description: "Kommet, Genossen"
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ddr"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-03-23 16:01:11"
-subscribers: 21
+subscribers: 22
 posts: 0
 comments: 0
 weight: 0

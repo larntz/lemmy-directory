@@ -3,7 +3,7 @@ title: "Camellia"
 name: "camellia"
 description: "https://linktr.ee/cametekDiscuss about the Japanese music producer and composer; かめりあ (Camellia), also known as Cametek. He's particularly known in the rhythm game community, with his tracks being prominently featured in popular rhythm games."
 type: community
-date: "2023-06-28 15:20:40"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/camellia"

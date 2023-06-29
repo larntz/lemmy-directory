@@ -3,14 +3,14 @@ title: "MIDI"
 name: "midi"
 description: "MIDI music"
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/midi"
 host: suppo.fi
 lastmod: "2023-06-07 11:20:31"
 published: "2023-06-06 22:43:30"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

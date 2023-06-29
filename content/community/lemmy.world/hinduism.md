@@ -3,7 +3,7 @@ title: "India"
 name: "hinduism"
 description: "Official Lemmy page for India "
 type: community
-date: "2023-06-28 15:21:02"
+date: "2023-06-29 12:38:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hinduism"

@@ -3,7 +3,7 @@ title: "Great Pyredanes"
 name: "greatpyredanes"
 description: "A community for everything about Great Pyredanes, a mix breed of Great Pyrenees and Great Danes.Friend communities:  * [!greatpyrenees@lemmy.world](https://lemmy.world/c/greatpyrenees)  * [!pyrs@lemmy.world](https://lemmy.world/c/pyrs)  "
 type: community
-date: "2023-06-28 15:20:44"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/greatpyredanes"

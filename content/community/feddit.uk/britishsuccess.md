@@ -3,14 +3,14 @@ title: "British Success"
 name: "britishsuccess"
 description: "Celebrate the best bits of being a Brit with your fellow Brits and show off our culture to the rest of the world.# Rules- Be Kind.- Be friendly.- Follow [Feddit.uk](https://feddit.uk/post/21869) site rules."
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/britishsuccess"
 host: feddit.uk
 lastmod: "2023-06-15 20:37:34"
 published: "2023-06-13 07:21:57"
-subscribers: 221
+subscribers: 222
 posts: 10
 comments: 76
 weight: 10

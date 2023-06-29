@@ -3,14 +3,14 @@ title: "testtt"
 name: "exxxxxkc"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/exxxxxkc"
 host: latte.isnot.coffee
 lastmod: "2023-06-15 06:56:55"
 published: "2023-06-15 06:56:13"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

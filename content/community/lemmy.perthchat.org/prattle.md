@@ -3,14 +3,14 @@ title: "Prattle - post/talk about anything!"
 name: "prattle"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/prattle"
 host: lemmy.perthchat.org
 lastmod: "1969-12-31 19:00:00"
 published: "2022-08-19 08:12:39"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

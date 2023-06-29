@@ -3,7 +3,7 @@ title: "Mann aus Sachsen"
 name: "mannaussachsen"
 description: "Mann aus Sachsen tut Dinge die Mann aus Sachsen tut.Regeln:Alle Einreichungen müssen:- im Titel dem Schema Mann aus Sachsen [...] entsprechen- Screenshots von Nachrichtenartikeln enthalten die einen Bezug zu Sachsen aufweisen- Die jeweilige Quelle des Nachrichtenartikels im Body enthalten"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mannaussachsen"
@@ -15,7 +15,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 2
-wau: 3
+wau: 2
 mau: 6
 instances:
 - "feddit_de"

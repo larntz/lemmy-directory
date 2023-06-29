@@ -3,7 +3,7 @@ title: "Print Comics and Webcomics"
 name: "comics"
 description: "Everything related to print comics (comic books, graphic novels, and strips) and web comics. Artists are encouraged to post their own work. News..."
 type: community
-date: "2023-06-28 15:18:14"
+date: "2023-06-29 12:35:10"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/comics"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 09:44:23"
 subscribers: 1
-posts: 146
+posts: 178
 comments: 0
-weight: 146
+weight: 178
 dau: 1
 wau: 1
 mau: 1

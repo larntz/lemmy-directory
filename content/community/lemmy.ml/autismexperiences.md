@@ -3,14 +3,14 @@ title: "Autistic Spectrum Experiences"
 name: "autismexperiences"
 description: "Where people on the spectrum talk about their experiences!"
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/autismexperiences"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-02-15 00:43:38"
-subscribers: 70
+subscribers: 72
 posts: 8
 comments: 8
 weight: 8

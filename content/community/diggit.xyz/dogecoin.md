@@ -3,7 +3,7 @@ title: "Dogecoin"
 name: "dogecoin"
 description: "The most amazing place on diggit! A community for sharing, discussing, hoarding and wow'ing about Dogecoins. The much wow innovative crypto-currency."
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/dogecoin"

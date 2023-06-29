@@ -3,14 +3,14 @@ title: "Aachen"
 name: "aachen"
 description: "Community für Aachen Stadt"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/aachen"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 07:49:15"
-subscribers: 37
+subscribers: 38
 posts: 7
 comments: 30
 weight: 7

@@ -3,7 +3,7 @@ title: "Portal Fiction"
 name: "portal_fiction"
 description: "This community is dedicated to Science Fiction and Fantasy media, that contains any group or individual transported from there environment into a new fantasy setting. Any kind of media can be posted. Ex. Novels, comicbooks, movies, as long as it is in the relevant genre"
 type: community
-date: "2023-06-28 15:19:16"
+date: "2023-06-29 12:36:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/portal_fiction"

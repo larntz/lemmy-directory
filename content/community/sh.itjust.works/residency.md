@@ -3,7 +3,7 @@ title: "Residency"
 name: "residency"
 description: "Welcome to the Residency community on sh.itjust.works of interns and residents in medical training programs around the world, sharing knowledge and trying to make it through together!(Standard disclaimer: no posts here should be construed as medical advice for a specific condition yada yada yada)"
 type: community
-date: "2023-06-28 15:18:28"
+date: "2023-06-29 12:35:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/residency"

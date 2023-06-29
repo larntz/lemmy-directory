@@ -3,14 +3,14 @@ title: "Machine Learning"
 name: "machinelearning"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:00"
+date: "2023-06-29 12:34:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/machinelearning"
 host: feddit.tech
 lastmod: "2023-06-14 23:20:38"
 published: "2023-06-14 22:44:17"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

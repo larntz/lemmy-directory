@@ -3,14 +3,14 @@ title: "Justice Served"
 name: "justiceserved"
 description: "For justice being served."
 type: community
-date: "2023-06-28 15:21:02"
+date: "2023-06-29 12:38:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/justiceserved"
 host: lemmy.world
 lastmod: "2023-06-21 21:06:33"
 published: "2023-06-12 09:35:19"
-subscribers: 14
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0

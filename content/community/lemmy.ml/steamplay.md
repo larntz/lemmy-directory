@@ -3,7 +3,7 @@ title: "Steam Play - Proton"
 name: "steamplay"
 description: "A community for all topics related to Steam Play and the Proton compatibility layer for Linux Gaming."
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/steamplay"

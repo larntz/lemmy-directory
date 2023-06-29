@@ -3,7 +3,7 @@ title: "Vaping"
 name: "vaping"
 description: "[c/vaping](/c/vaping@lemmy.world) is a community dedicated to nicotine vaping as a means of smoking cessation and harm reduction. Our goal is to provide high-quality, fact-based guides and resources."
 type: community
-date: "2023-06-28 15:21:06"
+date: "2023-06-29 12:38:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vaping"

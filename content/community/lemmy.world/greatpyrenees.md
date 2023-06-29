@@ -3,7 +3,7 @@ title: "Great Pyrenees "
 name: "greatpyrenees"
 description: "A community for everything Great Pyrenees.Friend communities:  * [!pyrs@lemmy.world](https://lemmy.world/c/pyrs)  * [!greatpyredanes@lemmy.world](https://lemmy.world/c/greatpyredanes)  "
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/greatpyrenees"

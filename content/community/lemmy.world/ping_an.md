@@ -3,14 +3,14 @@ title: "Ping An"
 name: "ping_an"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:06"
+date: "2023-06-29 12:37:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ping_an"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 20:24:15"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

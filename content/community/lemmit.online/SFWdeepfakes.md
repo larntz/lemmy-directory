@@ -3,7 +3,7 @@ title: "Reddit's Official Deepfake Sub"
 name: "SFWdeepfakes"
 description: "If anything goes wrong, move to lemmy https://lemmy.ml/c/deepfakes."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/SFWdeepfakes"

@@ -3,7 +3,7 @@ title: "AMDLaptops"
 name: "amdlaptops"
 description: "A community dedicated toward all things AMD mobile. From Zen1 (Ryzen 2000 series) to Zen3+ (Ryzen 6000 series), please join us in discussing the..."
 type: community
-date: "2023-06-28 15:17:56"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/amdlaptops"

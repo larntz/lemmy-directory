@@ -3,7 +3,7 @@ title: "PLC"
 name: "plc"
 description: "Discussion and questions about Programmable Logic Controllers (PLCs): an industrial digital computer that has been ruggedized and adapted for the control of manufacturing processes, such as assembly lines, robotic devices, or any activity that requires high reliability, ease of programming, and process fault diagnosis."
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/plc"

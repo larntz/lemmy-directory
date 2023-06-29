@@ -3,7 +3,7 @@ title: "WholesomeAnime"
 name: "wholesome_anime"
 description: "[Wholesome anime moments]()**Rules:**- Follow the site rules.- Can be anime scene, manga or art.- Must be wholesome."
 type: community
-date: "2023-06-28 15:18:05"
+date: "2023-06-29 12:34:59"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/wholesome_anime"

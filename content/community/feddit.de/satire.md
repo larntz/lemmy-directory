@@ -3,7 +3,7 @@ title: "'Seriöse' Nachrichten"
 name: "satire"
 description: "Garantiert keine Satire"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/satire"
@@ -15,7 +15,7 @@ posts: 32
 comments: 47
 weight: 32
 dau: 2
-wau: 6
+wau: 5
 mau: 34
 instances:
 - "feddit_de"

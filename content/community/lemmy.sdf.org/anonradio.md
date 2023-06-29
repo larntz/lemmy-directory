@@ -3,7 +3,7 @@ title: "aNONradio"
 name: "anonradio"
 description: "a-NON-radio community (not anonymous)Discussions on shows and DJs streaming on aNONradio"
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/anonradio"

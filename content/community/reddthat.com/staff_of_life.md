@@ -3,12 +3,12 @@ title: "Bread"
 name: "staff_of_life"
 description: "Flat or risen, no matter the grains, questions, recipes, or show and tell. All things bread are shared here."
 type: community
-date: "2023-06-27 16:15:54"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/staff_of_life"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:54"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 04:18:16"
 subscribers: 7
 posts: 1

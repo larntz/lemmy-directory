@@ -3,14 +3,14 @@ title: "Jreg"
 name: "jreg"
 description: "All hail our anti-centrist saviorhttps://www.youtube.com/user/flavacrava"
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/jreg"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-08-25 23:02:29"
-subscribers: 67
+subscribers: 68
 posts: 2
 comments: 6
 weight: 2

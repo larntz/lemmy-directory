@@ -3,14 +3,14 @@ title: "Movies"
 name: "movies"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/movies"
 host: notdigg.com
 lastmod: "2023-06-13 23:11:34"
 published: "2023-06-13 18:42:02"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

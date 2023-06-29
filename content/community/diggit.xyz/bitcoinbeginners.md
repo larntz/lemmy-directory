@@ -3,7 +3,7 @@ title: "Bitcoin for Beginners"
 name: "bitcoinbeginners"
 description: "Bitcoin Beginners is a community for new users to ask Bitcoin related questions. *Do not respond to strangers direct messaging you, as over 99% of these people are Scammers.*"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/bitcoinbeginners"

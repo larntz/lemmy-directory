@@ -3,14 +3,14 @@ title: "Cars"
 name: "cars"
 description: "A community for commie car enthusiasts! No anti-car discourse permitted."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/cars"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-03-29 03:23:25"
-subscribers: 33
+subscribers: 34
 posts: 4
 comments: 7
 weight: 4

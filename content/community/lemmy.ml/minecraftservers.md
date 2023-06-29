@@ -3,7 +3,7 @@ title: "Minecraft Servers"
 name: "minecraftservers"
 description: "Post and Share Minecraft servers here!Rules:1 - Don't spam your server. 1 Post per day2 - Posts must be formatted (Name) (Platform/Version) - (Type). Use the body to describe your servers!3- Follow Lemmy's rules"
 type: community
-date: "2023-06-28 15:19:29"
+date: "2023-06-29 12:36:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minecraftservers"

@@ -3,14 +3,14 @@ title: "Tor - The Onion Router"
 name: "tor"
 description: "Tips, tricks and information about the Tor network! [Tor Project](https://www.torproject.org/) "
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tor"
 host: lemmy.ml
 lastmod: "2020-12-24 00:02:05"
 published: "2020-02-17 21:53:53"
-subscribers: 989
+subscribers: 996
 posts: 43
 comments: 33
 weight: 43

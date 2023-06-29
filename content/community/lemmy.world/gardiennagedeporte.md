@@ -3,14 +3,14 @@ title: "GardiennageDePorte"
 name: "gardiennagedeporte"
 description: "**1 - Les informations permettant d'identifier une personne doivent être retirées.****2 - La capture d'écran doit montrer un gardiennage de porte évident.****3 - Il doit s'agir d'un gardiennage de porte français.**"
 type: community
-date: "2023-06-28 15:20:49"
+date: "2023-06-29 12:38:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gardiennagedeporte"
 host: lemmy.world
 lastmod: "2023-06-22 21:45:47"
 published: "2023-06-22 10:14:44"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 0
 weight: 3

@@ -3,7 +3,7 @@ title: "ExoSquad"
 name: "exosquad"
 description: "![](https://lemmy.world/pictrs/image/021ef962-70ab-4963-a4ad-0caabdc291ed.png)A community for fans of the American anime known as ExoSquad. Frame up troopers!**Rules**- BE NICE and have fun- No advertising or self-promotion- Credit artist(s) when possible"
 type: community
-date: "2023-06-28 15:20:39"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/exosquad"

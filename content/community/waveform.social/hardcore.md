@@ -3,7 +3,7 @@ title: "Hardcore"
 name: "hardcore"
 description: "Hardcore Punk community for the Fediverse. Feel free to post your music, show dates, and band promo. If you want to add to the resource list below, post your links in the Welcome thread.**RESOURCES:**-[Massachusetts Show Listings](https://www.safeinacrowd.com/)*************"
 type: community
-date: "2023-06-28 15:18:16"
+date: "2023-06-29 12:35:11"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/hardcore"
@@ -15,7 +15,7 @@ posts: 42
 comments: 8
 weight: 42
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "waveform_social"

@@ -3,7 +3,7 @@ title: "People's Court"
 name: "lemmygrad_court"
 description: "This is a community for Lemmygrad users and admins to discuss administrative issues in a more transparent manner"
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lemmygrad_court"
@@ -15,7 +15,7 @@ posts: 24
 comments: 577
 weight: 24
 dau: 1
-wau: 12
+wau: 11
 mau: 21
 instances:
 - "lemmygrad_ml"

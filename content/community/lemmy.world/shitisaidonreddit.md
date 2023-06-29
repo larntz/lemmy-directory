@@ -3,14 +3,14 @@ title: "Shit I Said On Reddit"
 name: "shitisaidonreddit"
 description: "A personal archive of posts I made on Reddit which I liked (and have now deleted).This is meant to be my own private archive - there's nothing stopping you from subscribing, but it's just a collection of my own nonsense!"
 type: community
-date: "2023-06-28 15:21:08"
+date: "2023-06-29 12:37:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shitisaidonreddit"
 host: lemmy.world
 lastmod: "2023-06-19 07:08:44"
 published: "2023-06-17 03:27:56"
-subscribers: 40
+subscribers: 41
 posts: 2
 comments: 3
 weight: 2

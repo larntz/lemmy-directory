@@ -3,14 +3,14 @@ title: "sapphic space - a place for sapphics, lesbians, and wlw"
 name: "sapphicspace"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:17:21"
+date: "2023-06-29 12:36:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sapphicspace"
 host: lemmy.ml
-lastmod: "2023-06-27 16:17:21"
+lastmod: "2023-06-22 22:00:45"
 published: "2023-06-22 14:08:56"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

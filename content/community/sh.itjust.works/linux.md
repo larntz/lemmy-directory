@@ -3,20 +3,20 @@ title: "Linux"
 name: "linux"
 description: "Shit, just linux.Use this community for anything related to linux for now, if it gets too huge maybe there will be some sort of meme/gaming/shitpost spinoff. Currently though…  [go nuts](https://www.youtube.com/watch?v=1ztjGp0aLZk)"
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-29 12:35:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/linux"
 host: sh.itjust.works
 lastmod: "2023-06-19 00:56:49"
 published: "2023-06-11 03:35:28"
-subscribers: 882
-posts: 8
-comments: 151
-weight: 8
+subscribers: 893
+posts: 9
+comments: 157
+weight: 9
 dau: 4
-wau: 14
-mau: 96
+wau: 17
+mau: 100
 instances:
 - "sh_itjust_works"
 tags: 

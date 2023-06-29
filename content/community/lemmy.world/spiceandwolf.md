@@ -3,7 +3,7 @@ title: "Spice And Wolf (and other Hasekura works)"
 name: "spiceandwolf"
 description: "The Lemmy.world instance for r/spiceandwolf.Same rules as r/spiceandwolf apply.*(tl;dr: Be nice, and tag your spoilers.)*"
 type: community
-date: "2023-06-28 15:20:37"
+date: "2023-06-29 12:37:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spiceandwolf"

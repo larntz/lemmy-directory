@@ -3,7 +3,7 @@ title: "Amateur/Ham Radio"
 name: "amateur_radio"
 description: "Your digital federated home for all things amateur radio! Discuss license exams, DXpeditions, band conditions, and new (or old) modes!"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/amateur_radio"

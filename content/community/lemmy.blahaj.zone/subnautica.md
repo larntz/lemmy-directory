@@ -3,14 +3,14 @@ title: "Subnautica "
 name: "subnautica"
 description: "For the video game Subnautica "
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/subnautica"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 21:53:00"
-subscribers: 14
+subscribers: 16
 posts: 1
 comments: 1
 weight: 1

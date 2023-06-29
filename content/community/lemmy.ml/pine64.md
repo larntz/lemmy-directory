@@ -3,14 +3,14 @@ title: "Pine64"
 name: "pine64"
 description: "Pine64 is an organization that designs, manufactures, and sells single-board computers, notebook computers, a smartwatch, and smartphones. https://www.pine64.org/"
 type: community
-date: "2023-06-28 15:19:26"
+date: "2023-06-29 12:36:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pine64"
 host: lemmy.ml
 lastmod: "2023-06-11 09:44:47"
 published: "2020-05-04 04:24:13"
-subscribers: 693
+subscribers: 694
 posts: 45
 comments: 64
 weight: 45

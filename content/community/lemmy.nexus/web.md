@@ -3,7 +3,7 @@ title: "Webcore"
 name: "web"
 description: "Welcome to the web!This is a webcore/early internet aesthetic board"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nexus/c/web"

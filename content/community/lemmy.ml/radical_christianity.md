@@ -3,7 +3,7 @@ title: "Radical Christianity"
 name: "radical_christianity"
 description: "About the One (Communist), Holy (Anarchist), Catholic (Universalist), & Apostolic (Pacifist) church"
 type: community
-date: "2023-06-28 15:19:28"
+date: "2023-06-29 12:36:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/radical_christianity"

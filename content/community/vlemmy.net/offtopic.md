@@ -3,7 +3,7 @@ title: "offtopic"
 name: "offtopic"
 description: "General Community for off topic discussions, rants, how your week is, whatever you like."
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/offtopic"

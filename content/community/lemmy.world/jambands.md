@@ -3,7 +3,7 @@ title: "Jambands"
 name: "jambands"
 description: "Jambands - A community to discuss jambands, upcoming shows, promote your band (don't over-promote).  No circle jerking, no spam, no trolling, no bigotry, no hate, no sealioning or jaqing off. This isn't Reddit for crissakes."
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jambands"

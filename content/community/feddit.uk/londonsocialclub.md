@@ -3,7 +3,7 @@ title: "LondonSocialClub"
 name: "londonsocialclub"
 description: "Hi all, just wanted to stake out this piece of ground for r/LondonSocialClub. If it becomes necessary to spin this community up in the future, I'll be happy to add existing mods of the subreddit."
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/londonsocialclub"

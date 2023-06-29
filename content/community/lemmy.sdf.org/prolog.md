@@ -3,7 +3,7 @@ title: "Prolog"
 name: "prolog"
 description: "A community for discussion of the Prolog programming language and related Logic Programming and Symbolic AI topics."
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/prolog"

@@ -3,14 +3,14 @@ title: "Field hockey"
 name: "fieldhockey"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:52"
+date: "2023-06-29 12:38:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fieldhockey"
 host: lemmy.world
 lastmod: "2023-06-22 06:36:38"
 published: "2023-06-21 22:51:41"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

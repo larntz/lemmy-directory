@@ -1,22 +1,22 @@
 ---
-title: "micromobility" 
+title: "micromobility - Ebikes, scooters, longboards: Whatever floats your goat, this is micromobility" 
 name: "micromobility"
 description: "Ebikes, scooters, longboards: Whatever floats your goat, this is all things micromobility!Transportation using lightweight vehicles such as bicycles or scooters, especially electric ones that may be borrowed as part of a self-service rental program in which people rent vehicles for short-term use within a town or city.micromobility is seen as a potential solution to moving people more efficiently around cities"
 type: community
-date: "2023-06-27 16:19:36"
+date: "2023-06-29 12:37:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/micromobility"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:36"
+lastmod: "2023-06-28 16:42:10"
 published: "2023-06-11 20:29:46"
-subscribers: 172
-posts: 8
-comments: 43
-weight: 8
-dau: 1
-wau: 6
-mau: 22
+subscribers: 179
+posts: 10
+comments: 48
+weight: 10
+dau: 3
+wau: 5
+mau: 24
 instances:
 - "lemmy_world"
 tags: 

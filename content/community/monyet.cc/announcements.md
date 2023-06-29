@@ -3,14 +3,14 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:12"
+date: "2023-06-29 12:35:07"
 draft: false
 nsfw: false
 actor_id: "https://monyet.cc/c/announcements"
 host: monyet.cc
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 13:22:00"
-subscribers: 96
+subscribers: 98
 posts: 2
 comments: 6
 weight: 2

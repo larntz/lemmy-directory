@@ -3,14 +3,14 @@ title: "test community"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:59"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nu/c/test"
 host: feddit.nu
 lastmod: "2023-06-20 17:40:41"
 published: "2023-06-20 17:39:36"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

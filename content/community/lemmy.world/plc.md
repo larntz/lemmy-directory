@@ -3,14 +3,14 @@ title: "PLC"
 name: "plc"
 description: "A community for PLC/HMI programming and related endeavors "
 type: community
-date: "2023-06-28 15:20:44"
+date: "2023-06-29 12:38:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/plc"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-09 15:52:36"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

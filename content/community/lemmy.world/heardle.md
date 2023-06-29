@@ -3,14 +3,14 @@ title: "Team Heardle"
 name: "heardle"
 description: "For players of  all the Heardle variants out there.Check out heardledecades.com for some good ones to start with.Check [here](https://docs.google.com/document/d/1hvKg8CgOJoZRlFxZzMzPjPSVKARTzh9xbkTaOGLLKUU/edit) for a much bigger list."
 type: community
-date: "2023-06-28 15:20:54"
+date: "2023-06-29 12:37:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/heardle"
 host: lemmy.world
 lastmod: "2023-06-14 03:25:36"
 published: "2023-06-14 03:15:19"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 0
 weight: 2

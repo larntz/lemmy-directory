@@ -3,14 +3,14 @@ title: "skrillex"
 name: "skrillex"
 description: "http://discord.gg/skrillcord"
 type: community
-date: "2023-06-28 15:21:00"
+date: "2023-06-29 12:37:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skrillex"
 host: lemmy.world
 lastmod: "2023-06-12 01:43:24"
 published: "2023-06-12 01:24:40"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

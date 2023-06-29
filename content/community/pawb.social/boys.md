@@ -3,14 +3,14 @@ title: "Safe drawings of cute boys!"
 name: "boys"
 description: "A safe for work community dedicated to posting art of cute boys! Any boys, human or furry, are okay!In addition to the [pawb.social COC](https://pawb.social/post/100):- Please try to post links to where the artwork was posted originally, and always credit the original artist- Don't repost art if the artist explicitly asks that you don't"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/boys"
 host: pawb.social
 lastmod: "2023-06-12 07:30:42"
 published: "2023-06-12 07:19:17"
-subscribers: 48
+subscribers: 49
 posts: 17
 comments: 4
 weight: 17

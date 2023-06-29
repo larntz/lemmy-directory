@@ -3,14 +3,14 @@ title: "Russia"
 name: "russia"
 description: "News and discussion related to Russia"
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/russia"
 host: sopuli.xyz
 lastmod: "2022-08-21 16:01:13"
 published: "2022-08-21 15:53:12"
-subscribers: 38
+subscribers: 37
 posts: 49
 comments: 14
 weight: 49

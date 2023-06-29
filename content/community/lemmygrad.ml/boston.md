@@ -3,14 +3,14 @@ title: "a community for the city of boston"
 name: "boston"
 description: "boston is a city in the state of massachusetts"
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/boston"
 host: lemmygrad.ml
 lastmod: "2020-02-25 02:30:53"
 published: "2020-02-25 02:30:41"
-subscribers: 17
+subscribers: 18
 posts: 2
 comments: 0
 weight: 2

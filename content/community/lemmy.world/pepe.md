@@ -3,14 +3,14 @@ title: "Pepe"
 name: "pepe"
 description: "Fundamentalistas de Pepe y sus variantes multiversales ///Pepe's Fundamentalists and their multiversal variants"
 type: community
-date: "2023-06-28 15:21:02"
+date: "2023-06-29 12:38:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pepe"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 21:59:03"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

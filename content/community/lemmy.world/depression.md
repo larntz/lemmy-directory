@@ -3,14 +3,14 @@ title: "Depression"
 name: "depression"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:46"
+date: "2023-06-29 12:38:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/depression"
 host: lemmy.world
 lastmod: "2023-06-12 19:07:39"
 published: "2023-06-11 00:30:18"
-subscribers: 12
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0

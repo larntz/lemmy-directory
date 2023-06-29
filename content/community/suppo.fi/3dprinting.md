@@ -3,14 +3,14 @@ title: "3D Printing"
 name: "3dprinting"
 description: ""
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/3dprinting"
 host: suppo.fi
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-07 16:27:57"
-subscribers: 12
+subscribers: 13
 posts: 2
 comments: 1
 weight: 2

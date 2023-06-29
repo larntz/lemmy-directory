@@ -3,14 +3,14 @@ title: "Map Porn"
 name: "mapporn"
 description: "A place to post interesting maps!"
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mapporn"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 17:08:14"
-subscribers: 94
+subscribers: 95
 posts: 8
 comments: 1
 weight: 8

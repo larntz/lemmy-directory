@@ -3,14 +3,14 @@ title: "Power Electronics"
 name: "powerelectronics"
 description: "This community is for those who have an interests in power electronics to share knowledge, ask questions, post articles, etc. Posts can be about anything relating to power conversion, control methodologies, power quality, subcomponent design, theory, etc.No rules for posting in this community.. lets just have interesting conversations!"
 type: community
-date: "2023-06-28 15:17:59"
+date: "2023-06-29 12:34:55"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/powerelectronics"
 host: lemm.ee
 lastmod: "2023-06-25 00:46:14"
 published: "2023-06-25 00:27:33"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

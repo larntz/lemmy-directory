@@ -3,7 +3,7 @@ title: "Lebanon"
 name: "lebanon"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lebanon"
@@ -15,7 +15,7 @@ posts: 1
 comments: 4
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"

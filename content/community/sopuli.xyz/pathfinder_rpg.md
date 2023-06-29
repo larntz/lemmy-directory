@@ -3,7 +3,7 @@ title: "Pathfinder"
 name: "pathfinder_rpg"
 description: "A community for all versions of pathfinder and discussion surrounding it."
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/pathfinder_rpg"

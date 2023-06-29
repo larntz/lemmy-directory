@@ -3,12 +3,12 @@ title: "Bahia"
 name: "bahia"
 description: "Subreddit oficial do estado da Bahia, lar da Baía de Todos os Santos."
 type: community
-date: "2023-06-27 16:16:10"
+date: "2023-06-29 12:34:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/bahia"
 host: lemmy.eco.br
-lastmod: "2023-06-27 16:16:10"
+lastmod: "2023-06-23 11:55:23"
 published: "2023-06-23 10:30:02"
 subscribers: 7
 posts: 0

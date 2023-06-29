@@ -3,14 +3,14 @@ title: "Sozialismus"
 name: "sozialismus"
 description: "Für alle und alles aus dem linken Spektrum::: spoiler Attribution___Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)___:::"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/sozialismus"
 host: feddit.de
 lastmod: "2022-08-14 07:36:02"
 published: "2022-03-23 21:02:37"
-subscribers: 28
+subscribers: 29
 posts: 5
 comments: 10
 weight: 5

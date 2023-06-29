@@ -3,7 +3,7 @@ title: "Red Pill"
 name: "redpill"
 description: "See how deep the rabbit hole goes.Discussion about anything that will make people see the real world.[Red pill and blue pill](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill)"
 type: community
-date: "2023-06-28 15:19:26"
+date: "2023-06-29 12:36:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/redpill"

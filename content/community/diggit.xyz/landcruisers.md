@@ -3,7 +3,7 @@ title: "Land Cruisers"
 name: "landcruisers"
 description: "A community for Land Cruiser enthusiasts."
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://diggit.xyz/c/landcruisers"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "diggit_xyz"

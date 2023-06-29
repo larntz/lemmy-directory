@@ -3,20 +3,20 @@ title: "microG"
 name: "microg"
 description: "Unofficial community about microG, a free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.- Project Website: https://microg.org/- Github: https://github.com/microg- Community Wiki: https://microg-fans.gitlab.io/wiki/"
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/microg"
 host: discuss.tchncs.de
 lastmod: "2023-06-27 21:59:08"
 published: "2023-06-25 07:08:45"
-subscribers: 58
-posts: 2
-comments: 6
-weight: 2
-dau: 1
-wau: 3
-mau: 3
+subscribers: 66
+posts: 3
+comments: 8
+weight: 3
+dau: 3
+wau: 5
+mau: 5
 instances:
 - "discuss_tchncs_de"
 tags: 

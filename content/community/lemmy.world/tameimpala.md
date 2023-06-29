@@ -3,7 +3,7 @@ title: "Tame Impala"
 name: "tameimpala"
 description: "A place to discuss Kevin Parker"
 type: community
-date: "2023-06-28 15:21:05"
+date: "2023-06-29 12:38:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tameimpala"

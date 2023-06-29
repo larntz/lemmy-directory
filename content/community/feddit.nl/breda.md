@@ -3,12 +3,12 @@ title: "Breda"
 name: "breda"
 description: "Everything about the city of Breda."
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/breda"
 host: feddit.nl
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 12:31:41"
 subscribers: 9
 posts: 0

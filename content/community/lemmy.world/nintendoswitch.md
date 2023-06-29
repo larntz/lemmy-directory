@@ -3,7 +3,7 @@ title: "Nintendo Switch"
 name: "nintendoswitch"
 description: "❤️ Nintendo Switch.**Rules**- Be respectful.- Engage in constructive discussions.- Use appropriate language and tone.- Please, no harassment, hate speech, no ads / spamming or trolling."
 type: community
-date: "2023-06-28 15:21:13"
+date: "2023-06-29 12:38:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nintendoswitch"

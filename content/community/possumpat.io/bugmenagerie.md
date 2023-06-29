@@ -3,7 +3,7 @@ title: "The Bug Menagerie"
 name: "bugmenagerie"
 description: "A community for posting bugs, arachnids, arthropods, invertebrates, and any other kind of cool critter. - ***We worship weevils on Wednesdays***"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://possumpat.io/c/bugmenagerie"
@@ -12,10 +12,10 @@ lastmod: "2023-06-09 01:03:13"
 published: "2023-06-08 17:54:39"
 subscribers: 119
 posts: 25
-comments: 35
+comments: 36
 weight: 25
 dau: 1
-wau: 5
+wau: 4
 mau: 27
 instances:
 - "possumpat_io"

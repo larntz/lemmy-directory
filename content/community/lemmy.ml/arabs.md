@@ -3,14 +3,14 @@ title: "arabs"
 name: "arabs"
 description: "A community for discussing anything related to the Arab world."
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arabs"
 host: lemmy.ml
 lastmod: "2021-06-17 22:21:14"
 published: "2021-06-17 21:59:39"
-subscribers: 23
+subscribers: 24
 posts: 9
 comments: 6
 weight: 9

@@ -3,14 +3,14 @@ title: "Greebles"
 name: "greebles"
 description: "You know when cats see something that's not there? That's a greeble. They're like invisible gremlins that like messing with cats."
 type: community
-date: "2023-06-28 15:20:52"
+date: "2023-06-29 12:37:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/greebles"
 host: lemmy.world
 lastmod: "2023-06-13 23:13:04"
 published: "2023-06-13 23:04:09"
-subscribers: 16
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

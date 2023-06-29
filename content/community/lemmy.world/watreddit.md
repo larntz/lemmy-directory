@@ -3,12 +3,12 @@ title: "Wat Reddit"
 name: "watreddit"
 description: "wat reddit wat reddit hes so cool"
 type: community
-date: "2023-06-28 14:06:26"
+date: "2023-06-29 12:37:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/watreddit"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:26"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 19:18:00"
 subscribers: 4
 posts: 1

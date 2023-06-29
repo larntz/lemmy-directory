@@ -3,14 +3,14 @@ title: "ElgibbityMemes"
 name: "elgibbitymemes"
 description: "Memes, Humor, Jokes, Comedy, by and for the LGBTQIA+ community.  (With all that's going on in the world, you have to laugh.)  "
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/elgibbitymemes"
 host: lemmy.blahaj.zone
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 07:12:03"
-subscribers: 67
+subscribers: 68
 posts: 8
 comments: 1
 weight: 8

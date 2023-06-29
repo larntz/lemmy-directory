@@ -3,7 +3,7 @@ title: "Ham Radio Stuffs"
 name: "radiostuff"
 description: "Collection of post, webpages and other content related to ham radio."
 type: community
-date: "2023-06-28 15:18:11"
+date: "2023-06-29 12:35:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmonade.marbledfennec.net/c/radiostuff"

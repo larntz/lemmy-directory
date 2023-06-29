@@ -3,14 +3,14 @@ title: "Farming Simulator"
 name: "farmingsimulator"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:49"
+date: "2023-06-29 12:34:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.timdn.com/c/farmingsimulator"
 host: lemmy.timdn.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 00:12:23"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 1
 weight: 1

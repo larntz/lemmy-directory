@@ -3,12 +3,12 @@ title: "↑ Next Fucking Level ↑"
 name: "nextfuckinglevel"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nextfuckinglevel"
 host: lemmy.ml
-lastmod: "2023-06-16 21:13:02"
+lastmod: "2023-06-28 22:37:46"
 published: "2023-06-16 21:12:55"
 subscribers: 2
 posts: 0

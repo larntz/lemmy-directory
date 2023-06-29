@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Announcements, questions and everything else about the Communick instance and its members. "
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://communick.news/c/meta"
@@ -15,7 +15,7 @@ posts: 3
 comments: 1
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "communick_news"

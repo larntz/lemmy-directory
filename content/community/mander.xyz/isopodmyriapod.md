@@ -3,7 +3,7 @@ title: "Isopods and Myriapods"
 name: "isopodmyriapod"
 description: "We welcome isopod, millipede, and centipede enthusiasts to discuss care and identification or just to admire our favorite invertebrates. Community banner and icon by u/LogLurker"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/isopodmyriapod"
@@ -15,7 +15,7 @@ posts: 7
 comments: 15
 weight: 7
 dau: 1
-wau: 4
+wau: 3
 mau: 8
 instances:
 - "mander_xyz"

@@ -3,17 +3,17 @@ title: "Tekno"
 name: "tekno"
 description: "Tekno, tribe, acidcore, mentalcore, raggatek and anything tek-ish you feel like sharing"
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tekno"
 host: lemmy.ml
 lastmod: "2023-06-06 12:32:11"
 published: "2023-02-22 16:28:08"
-subscribers: 2
-posts: 4
+subscribers: 3
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1

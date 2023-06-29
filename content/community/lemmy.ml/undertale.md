@@ -3,7 +3,7 @@ title: "Undertale/Deltarune"
 name: "undertale"
 description: "Community for the videogames Undertale and DeltaruneRules:1. No NSFW! Such posts will be removed"
 type: community
-date: "2023-06-28 15:19:30"
+date: "2023-06-29 12:36:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/undertale"

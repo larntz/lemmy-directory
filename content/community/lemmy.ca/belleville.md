@@ -3,7 +3,7 @@ title: "Belleville Ontario"
 name: "belleville"
 description: "The sister community of [r/BellevilleOntario](https://www.reddit.com/r/BellevilleOntario)"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/belleville"

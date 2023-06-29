@@ -3,7 +3,7 @@ title: "Golf"
 name: "golf"
 description: "A community for golf enthusiasts to discuss all golf related things amateur and professional.Please keep the discourse respectful and free of hate and politics."
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/golf"

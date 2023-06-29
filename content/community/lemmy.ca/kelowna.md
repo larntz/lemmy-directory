@@ -3,14 +3,14 @@ title: "kelowna"
 name: "kelowna"
 description: "Okanagan and beyond"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/kelowna"
 host: lemmy.ca
 lastmod: "0001-01-01 00:00:00"
 published: "2021-12-16 23:57:37"
-subscribers: 22
+subscribers: 23
 posts: 2
 comments: 4
 weight: 2

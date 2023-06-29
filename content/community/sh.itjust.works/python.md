@@ -3,14 +3,14 @@ title: "Python"
 name: "python"
 description: "A community for talking about the Python programming language."
 type: community
-date: "2023-06-28 15:18:28"
+date: "2023-06-29 12:35:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/python"
 host: sh.itjust.works
 lastmod: "2023-06-08 23:14:03"
 published: "2023-06-08 23:09:46"
-subscribers: 1045
+subscribers: 1056
 posts: 7
 comments: 96
 weight: 7

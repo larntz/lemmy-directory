@@ -3,14 +3,14 @@ title: "Learn Finnish"
 name: "learn_finnish"
 description: "A community for learning Finnish."
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/learn_finnish"
 host: sopuli.xyz
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-05 09:11:12"
-subscribers: 43
+subscribers: 45
 posts: 3
 comments: 3
 weight: 3

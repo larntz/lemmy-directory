@@ -3,14 +3,14 @@ title: "Palaeontology"
 name: "palaeontology"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:00"
+date: "2023-06-29 12:34:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/palaeontology"
 host: feddit.tech
 lastmod: "2023-06-14 23:51:06"
 published: "2023-06-14 22:37:06"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

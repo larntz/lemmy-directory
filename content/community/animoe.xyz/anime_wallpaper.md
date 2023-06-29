@@ -3,7 +3,7 @@ title: "AnimeWallpaper"
 name: "anime_wallpaper"
 description: "[High quality anime art]()**Rules:**- Follow the site rules.- Art must be high resolution (At least fullHD).- This community is meant for nice art that you could use as wallpaper, so no scetches etc. Those can be posted in other communities."
 type: community
-date: "2023-06-28 15:18:05"
+date: "2023-06-29 12:34:59"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/anime_wallpaper"

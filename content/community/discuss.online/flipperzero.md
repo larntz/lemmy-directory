@@ -1,21 +1,21 @@
 ---
 title: "FlipperZero (Unofficial)" 
 name: "flipperzero"
-description: "# Welcome## We are an unnoficial CommunityFlipper Zero is a portable multi-tool for pentesters and geeks in Tamagotchi body. It loves to hack digital stuff around such as radio protocols, access control systems, hardware and more. It's fully opensource and customizable so you can extend it in whatever way you like."
+description: "# Welcome## We are an unofficial CommunityFlipper Zero is a portable multi-tool for pen-testers and geeks in the Tamagotchi body. It loves to hack digital stuff, such as radio protocols, access control systems, hardware, etc. It's fully open-source and customizable, so you can extend it however you like."
 type: community
-date: "2023-06-28 15:18:13"
+date: "2023-06-29 12:35:09"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/flipperzero"
 host: discuss.online
-lastmod: "2023-06-22 00:25:08"
+lastmod: "2023-06-29 03:25:50"
 published: "2023-06-16 20:37:30"
-subscribers: 28
-posts: 5
+subscribers: 32
+posts: 6
 comments: 4
-weight: 5
+weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "discuss_online"

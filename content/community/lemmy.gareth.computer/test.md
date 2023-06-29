@@ -3,14 +3,14 @@ title: "Test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.gareth.computer/c/test"
 host: lemmy.gareth.computer
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 01:37:49"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 1
 weight: 1

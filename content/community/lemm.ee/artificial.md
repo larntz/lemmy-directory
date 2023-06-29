@@ -3,7 +3,7 @@ title: "artificial"
 name: "artificial"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:03"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/artificial"

@@ -3,7 +3,7 @@ title: "meme ideas"
 name: "memeideas"
 description: "A space for memes when you haven't yet put in the effort to make them"
 type: community
-date: "2023-06-28 15:19:21"
+date: "2023-06-29 12:36:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/memeideas"

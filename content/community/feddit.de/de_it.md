@@ -3,7 +3,7 @@ title: "9nAdELdRuCKeR ist EDV"
 name: "de_it"
 description: "Ein subversives deutsches IT sub-Sub. Nicht EDV. Kein Windows. Kein iPhone. Kein closed source. Keine Nutzer von vorherig genanntem."
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/de_it"
@@ -15,7 +15,7 @@ posts: 2
 comments: 23
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 6
 instances:
 - "feddit_de"

@@ -3,7 +3,7 @@ title: "arabfunny"
 name: "arabfunny"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/arabfunny"

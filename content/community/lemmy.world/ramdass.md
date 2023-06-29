@@ -3,7 +3,7 @@ title: "Ram Dass"
 name: "ramdass"
 description: "This is the Lemmy community dedicated to the life and teachings of Ram Dass (Richard Alpert)."
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ramdass"

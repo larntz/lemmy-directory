@@ -3,7 +3,7 @@ title: "Guns"
 name: "guns"
 description: "Talk about any kind of firearms, accessories, laws, etc."
 type: community
-date: "2023-06-28 14:57:38"
+date: "2023-06-29 12:35:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/guns"

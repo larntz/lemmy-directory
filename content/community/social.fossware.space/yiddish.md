@@ -3,14 +3,14 @@ title: "דאָס ייִדישע צװײַגעלע - The Little Yiddish Branch"
 name: "yiddish"
 description: "This is a community for yiddish speakers, learners, and people interested in yiddish and yiddishkeit to congregate, talk, and share resources. Resources:- [Learn the Aleph Beys](https://www.yiddishbookcenter.org/language-literature-culture/learn-yiddish-alphabet/yiddish-alphabet-video)- [The Yiddish Book Center](https://www.yiddishbookcenter.org/)- [The Grammar](https://www.dovidkatz.net/dovid/PDFLinguistics/2-1987-Grammar-Yiddish.pdf) by [Dovid Katz](https://www.dovidkatz.net/)- [YIVO](https://yivo.org/)"
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://social.fossware.space/c/yiddish"
 host: social.fossware.space
 lastmod: "2023-06-20 01:23:51"
 published: "2023-06-16 16:31:34"
-subscribers: 4
+subscribers: 5
 posts: 4
 comments: 8
 weight: 4

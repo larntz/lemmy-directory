@@ -3,14 +3,14 @@ title: "Livros"
 name: "livros"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:16:11"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/livros"
 host: lemmy.eco.br
-lastmod: "2023-06-27 16:16:11"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 15:46:39"
-subscribers: 31
+subscribers: 33
 posts: 1
 comments: 16
 weight: 1

@@ -3,14 +3,14 @@ title: "Lemmit Support"
 name: "lemmit"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.xyz/c/lemmit"
 host: lemmit.xyz
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 08:08:00"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2

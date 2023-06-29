@@ -3,14 +3,14 @@ title: "Privacy"
 name: "privacy"
 description: "Protecting your anonymity and data online the communist way"
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/privacy"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-10-20 08:26:59"
-subscribers: 69
+subscribers: 70
 posts: 14
 comments: 17
 weight: 14

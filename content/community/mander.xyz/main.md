@@ -3,7 +3,7 @@ title: "Introductions"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/main"
@@ -15,7 +15,7 @@ posts: 14
 comments: 85
 weight: 14
 dau: 1
-wau: 7
+wau: 5
 mau: 28
 instances:
 - "mander_xyz"

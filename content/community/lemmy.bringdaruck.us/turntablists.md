@@ -3,7 +3,7 @@ title: "Turntablists"
 name: "turntablists"
 description: "Practice yo cuts and maybe post some links to videos you made. "
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bringdaruck.us/c/turntablists"

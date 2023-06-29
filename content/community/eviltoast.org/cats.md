@@ -3,14 +3,14 @@ title: "Cats"
 name: "cats"
 description: "Everybody love cats"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:41"
 draft: false
 nsfw: false
 actor_id: "https://eviltoast.org/c/cats"
 host: eviltoast.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 05:48:41"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "amogus"
 name: "amogus"
 description: "amogus"
 type: community
-date: "2023-06-28 14:57:01"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/amogus"

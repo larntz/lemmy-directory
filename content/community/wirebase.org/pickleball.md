@@ -3,16 +3,16 @@ title: "Pickleball"
 name: "pickleball"
 description: "General discussion on Pickleball"
 type: community
-date: "2023-06-28 15:18:02"
+date: "2023-06-29 12:34:57"
 draft: false
 nsfw: false
 actor_id: "https://wirebase.org/c/pickleball"
 host: wirebase.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 13:41:11"
-subscribers: 1
+subscribers: 2
 posts: 3
-comments: 0
+comments: 2
 weight: 3
 dau: 1
 wau: 1

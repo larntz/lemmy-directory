@@ -3,14 +3,14 @@ title: "FIFA"
 name: "fifa"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:49"
+date: "2023-06-29 12:37:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fifa"
 host: lemmy.world
 lastmod: "2023-06-09 20:37:00"
 published: "2023-06-09 20:30:25"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

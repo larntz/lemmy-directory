@@ -3,12 +3,12 @@ title: "All The *removed by mod* Things"
 name: "modsarekillinglemmy"
 description: "Stop killing Lemmy.STOP KILL-*removed by mod*"
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modsarekillinglemmy"
 host: lemmy.ml
-lastmod: "2023-06-11 10:57:21"
+lastmod: "2023-06-28 22:39:39"
 published: "2023-06-11 10:57:04"
 subscribers: 1
 posts: 0

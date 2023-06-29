@@ -3,12 +3,12 @@ title: "Affinity"
 name: "affinity"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:16:06"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/affinity"
 host: lemmy.ca
-lastmod: "2023-06-27 16:16:06"
+lastmod: "2023-06-12 15:53:38"
 published: "2023-06-12 14:33:33"
 subscribers: 5
 posts: 1

@@ -3,14 +3,14 @@ title: "BPS.Space"
 name: "bps_space"
 description: "Unofficial fan community for watching small model rockets take off and land again! [YouTube Channel](https://www.youtube.com/@BPSspace)  [BPS.Space website](https://bps.space/)  [BPS.Space Patreon](https://www.patreon.com/bps_space)This community is unaffiliated with BPS.Space or Joe Barnard."
 type: community
-date: "2023-06-28 15:20:36"
+date: "2023-06-29 12:37:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bps_space"
 host: lemmy.world
 lastmod: "2023-06-27 20:22:49"
 published: "2023-06-27 20:17:29"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

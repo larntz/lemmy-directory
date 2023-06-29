@@ -3,7 +3,7 @@ title: "Speedrunning!"
 name: "speedrunning"
 description: "A place for any and all discussions related to speedrunning video games. Please be respectful to each other and feel free to discuss what you're into"
 type: community
-date: "2023-06-28 15:20:40"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/speedrunning"

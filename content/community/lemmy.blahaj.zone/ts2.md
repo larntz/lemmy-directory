@@ -1,19 +1,19 @@
 ---
 title: "The Sims 2" 
 name: "ts2"
-description: "Description not available."
+description: "What this community is:- Discussion about The Sims 2- Asking for what type of custom content/mod to download- Share screenshot/video of the game"
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/ts2"
 host: lemmy.blahaj.zone
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-29 10:38:16"
 published: "2023-06-05 18:44:50"
-subscribers: 11
-posts: 0
+subscribers: 13
+posts: 1
 comments: 0
-weight: 0
+weight: 1
 dau: 0
 wau: 0
 mau: 0

@@ -3,7 +3,7 @@ title: "Kassel"
 name: "kassel"
 description: "Die Community für Kassel und Umgebung. "
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kassel"
@@ -14,7 +14,7 @@ subscribers: 6
 posts: 5
 comments: 3
 weight: 5
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

@@ -3,14 +3,14 @@ title: "plants"
 name: "plants"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:29"
+date: "2023-06-29 12:36:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/plants"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-09-03 09:53:03"
-subscribers: 193
+subscribers: 195
 posts: 14
 comments: 6
 weight: 14

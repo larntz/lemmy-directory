@@ -3,7 +3,7 @@ title: "Phish"
 name: "phish"
 description: "The home of Phish on Lemmy"
 type: community
-date: "2023-06-28 15:17:59"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/phish"

@@ -3,12 +3,12 @@ title: "TJX"
 name: "tjx"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:20"
+date: "2023-06-29 12:37:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tjx"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:20"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 20:12:04"
 subscribers: 1
 posts: 0

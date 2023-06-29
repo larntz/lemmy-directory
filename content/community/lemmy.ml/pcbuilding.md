@@ -3,7 +3,7 @@ title: "Custom PC Building"
 name: "pcbuilding"
 description: "This is a community dedicated to building custom computers of all shapes, sizes and performance classes, mostly from off-the-self parts, but custom fabrication is of course also welcome.Rules:* Content must be relevant to custom PC building, PC hardware, or performance and benchmarks thereof.* No NSFW content.* No bigotry, hate speech, etc.Community icon by [Abderraouf omara](https://www.iconfinder.com/3ab2ou), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)"
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pcbuilding"

@@ -3,7 +3,7 @@ title: "Sonic the Hedgehog"
 name: "sonic"
 description: "Welcome to the Sonic ~~Zone~~ Community hosted on pawb.social!If you're joining from another Lemmy Instance, search for [!sonic@pawb.social](https://pawb.social/c/sonic) Come in and discuss the radical blue blur that was a gateway to the furry fandom for some of you!"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/sonic"

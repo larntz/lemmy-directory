@@ -3,14 +3,14 @@ title: "Nebraska"
 name: "nebraska"
 description: "A Lemmy space for all things Nebraska "
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/nebraska"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-05 18:24:01"
-subscribers: 31
+subscribers: 32
 posts: 2
 comments: 6
 weight: 2

@@ -3,12 +3,12 @@ title: "GNUnet"
 name: "gnunet"
 description: "Unofficial GNUnet discussion board. GNUnet is GNU's own decentralized application framework. In early stage development"
 type: community
-date: "2023-06-27 16:15:54"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/gnunet"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:54"
+lastmod: "2023-06-26 08:37:17"
 published: "2023-06-26 08:32:43"
 subscribers: 2
 posts: 1

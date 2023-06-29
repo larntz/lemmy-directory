@@ -3,14 +3,14 @@ title: "Workshop"
 name: "workshop"
 description: "Share what you're hacking, building, designing..."
 type: community
-date: "2023-06-28 15:17:47"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/workshop"
 host: board.minimally.online
 lastmod: "2023-06-11 05:04:34"
 published: "2023-06-11 04:44:39"
-subscribers: 4
+subscribers: 5
 posts: 4
 comments: 5
 weight: 4

@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.g97.top/c/announcements"

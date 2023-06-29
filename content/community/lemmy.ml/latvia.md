@@ -3,7 +3,7 @@ title: "Latvia"
 name: "latvia"
 description: "Latviešu kopiena. Viss par Latviju un tās notikumiem."
 type: community
-date: "2023-06-28 15:19:11"
+date: "2023-06-29 12:36:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/latvia"

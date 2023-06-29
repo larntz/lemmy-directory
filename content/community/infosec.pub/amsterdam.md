@@ -3,7 +3,7 @@ title: "Amsterdam"
 name: "amsterdam"
 description: "Find our new community on **[Kbin.social/m/Amsterdam](https://kbin.social/m/Amsterdam)**"
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/amsterdam"

@@ -3,7 +3,7 @@ title: "The Mentalist "
 name: "thementalist"
 description: "The community is for fans of **The Mentalist TV Show** far and wide. If you enjoy this show as much as we do, please join us. Welcome!**2 Simple Rules:**1- Be kind (it doesn’t cost anything)2- Be respectful. Questions and relevant content are always welcome.  This is a pleasant place to be as we share our enjoyment of the show."
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thementalist"

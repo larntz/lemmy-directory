@@ -3,14 +3,14 @@ title: "MotoUK"
 name: "motouk"
 description: "Fellow MotoUK users from Reddit, Rejoin and carry on as usual"
 type: community
-date: "2023-06-28 15:20:52"
+date: "2023-06-29 12:37:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/motouk"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 13:46:49"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

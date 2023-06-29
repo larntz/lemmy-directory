@@ -1,22 +1,22 @@
 ---
-title: "Linder Kreiswichs" 
+title: "Lindner Kreiswichs" 
 name: "lindnerwichsvorlage"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/lindnerwichsvorlage"
 host: feddit.de
-lastmod: "2023-06-27 12:06:27"
+lastmod: "2023-06-29 07:58:47"
 published: "2023-06-27 12:04:54"
-subscribers: 21
+subscribers: 24
 posts: 7
-comments: 5
+comments: 6
 weight: 7
-dau: 5
-wau: 5
-mau: 5
+dau: 3
+wau: 7
+mau: 7
 instances:
 - "feddit_de"
 tags: 

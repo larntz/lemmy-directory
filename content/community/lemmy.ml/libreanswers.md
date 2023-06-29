@@ -3,7 +3,7 @@ title: "Libre Answers"
 name: "libreanswers"
 description: "Open Source & Free Homework/Classwork Answers, How It Should Be**Free Answers**, **Free Help**, **No Paywalls**"
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libreanswers"

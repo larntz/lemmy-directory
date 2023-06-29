@@ -3,7 +3,7 @@ title: "MX Linux"
 name: "mx_linux"
 description: "MX Linux @ Lemmy.Midweight Linux OS based on Debian stable. Using core antiX components +additional software created / packaged by the MX community.https://mxlinux.org/"
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mx_linux"

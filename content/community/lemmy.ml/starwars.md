@@ -3,14 +3,14 @@ title: "Star Wars"
 name: "starwars"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:17"
+date: "2023-06-29 12:36:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/starwars"
 host: lemmy.ml
 lastmod: "2022-04-20 05:06:26"
 published: "2022-04-16 05:25:01"
-subscribers: 424
+subscribers: 433
 posts: 12
 comments: 32
 weight: 12

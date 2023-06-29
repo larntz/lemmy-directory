@@ -3,14 +3,14 @@ title: "Editing"
 name: "editing"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:04"
+date: "2023-06-29 12:38:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/editing"
 host: lemmy.world
 lastmod: "2023-06-25 14:10:07"
 published: "2023-06-21 18:14:09"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

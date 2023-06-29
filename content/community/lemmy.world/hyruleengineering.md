@@ -3,14 +3,14 @@ title: "Hyrule Engineering"
 name: "hyruleengineering"
 description: "Inspired by /r/hyruleengineering, the community I loved most in Reddit"
 type: community
-date: "2023-06-28 15:20:39"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hyruleengineering"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 20:14:35"
-subscribers: 96
+subscribers: 100
 posts: 2
 comments: 11
 weight: 2

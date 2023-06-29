@@ -3,7 +3,7 @@ title: "UK Medical Cannabis"
 name: "medicalcannabis"
 description: "Cannabis prescriptions became legal in the UK in 2018. This is a place for those seeking advice and to share information, knowledge & news about legal medical cannabis obtained by a prescription as well as the clinics and pharmacies that provide it. This is also a community, where patients can come together and forge friendships with others who share similar experiences.I've created this community as well as !ukmedicalcannabis as I'm new to the Fediverse, migrating from Reddit and unsure if the proper naming convention for a UK based medical cannabis community should be [!ukmedicalcannabis@feddit.uk](https://feddit.uk/c/ukmedicalcannabis) or [!medicalcannabis@feddit.uk](https://feddit.uk/c/medicalcannabis)"
 type: community
-date: "2023-06-28 15:17:46"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/medicalcannabis"

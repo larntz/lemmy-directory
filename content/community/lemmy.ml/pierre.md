@@ -3,14 +3,14 @@ title: "Pierre"
 name: "pierre"
 description: "Community for Pierre, SD and surrounding areas"
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pierre"
 host: lemmy.ml
 lastmod: "2023-06-04 02:00:08"
 published: "2023-06-04 01:32:53"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2

@@ -3,7 +3,7 @@ title: "Wichita, Kansas"
 name: "wichita"
 description: "A sublemmy for discussing issues relating to the biggest city in Kansas: Wichita. I assume this sub will be inactive for a while until we get some more users on Lemmy, but don't let that stop you from helping to start the party."
 type: community
-date: "2023-06-28 15:19:24"
+date: "2023-06-29 12:36:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wichita"

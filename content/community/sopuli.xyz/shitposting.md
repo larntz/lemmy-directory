@@ -3,17 +3,17 @@ title: "Shitposting"
 name: "shitposting"
 description: "Shitpost lemmy community"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/shitposting"
 host: sopuli.xyz
 lastmod: "2023-05-14 19:47:46"
 published: "2023-05-14 19:39:14"
-subscribers: 272
-posts: 19
+subscribers: 278
+posts: 20
 comments: 11
-weight: 19
+weight: 20
 dau: 1
 wau: 2
 mau: 17

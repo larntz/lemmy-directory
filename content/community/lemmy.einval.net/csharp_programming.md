@@ -3,7 +3,7 @@ title: "C# Programming"
 name: "csharp_programming"
 description: "C#:- https://learn.microsoft.com/en-us/dotnet/csharp/C# Language Reference:- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/C# Packages:- https://nuget.org/"
 type: community
-date: "2023-06-28 15:18:13"
+date: "2023-06-29 12:35:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/csharp_programming"

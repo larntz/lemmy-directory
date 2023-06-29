@@ -3,7 +3,7 @@ title: "Magick"
 name: "magick"
 description: "Magick in all forms"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/magick"

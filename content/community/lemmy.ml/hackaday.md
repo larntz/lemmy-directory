@@ -3,7 +3,7 @@ title: "hackaday"
 name: "hackaday"
 description: "Hackaday serves up Fresh Hacks Every Day from around the Internet. Read the latest articles from Hackaday.com and all things of interest to hardware hackers, designers, and engineers.Related communities: - [c/embedded](https://lemmy.ml/c/embedded)- [c/askelectronics](https://lemmy.ml/c/askelectronics)- [c/fpga](https://lemmy.ml/c/fpga)- [c/chipdesign](https://lemmy.ml/c/chipdesign)- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)- [c/dsp](https://lemmy.ml/c/dsp)- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)"
 type: community
-date: "2023-06-28 15:19:21"
+date: "2023-06-29 12:36:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackaday"

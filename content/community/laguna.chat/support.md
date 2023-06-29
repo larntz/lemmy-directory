@@ -3,14 +3,14 @@ title: "Support"
 name: "support"
 description: "A community to post your issues or questions regarding Laguna.chat.---Check out Laguna.chat's [code of conduct and privacy policy](https://laguna.chat/legal)."
 type: community
-date: "2023-06-28 15:18:00"
+date: "2023-06-29 12:34:54"
 draft: false
 nsfw: false
 actor_id: "https://laguna.chat/c/support"
 host: laguna.chat
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 09:29:25"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

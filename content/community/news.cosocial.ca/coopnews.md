@@ -3,7 +3,7 @@ title: "Co-op News"
 name: "coopnews"
 description: "All about cooperatives. Anything co-op related is welcome."
 type: community
-date: "2023-06-28 15:18:07"
+date: "2023-06-29 12:35:00"
 draft: false
 nsfw: false
 actor_id: "https://news.cosocial.ca/c/coopnews"

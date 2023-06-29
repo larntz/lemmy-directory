@@ -3,14 +3,14 @@ title: "Cisco"
 name: "cisco"
 description: "For all your Cisco networking"
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/cisco"
 host: lemmings.online
 lastmod: "2023-06-14 14:46:50"
 published: "2023-06-14 14:45:45"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Knowledge Fight"
 name: "knowledgefight"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:26"
+date: "2023-06-29 12:36:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/knowledgefight"
@@ -15,7 +15,7 @@ posts: 5
 comments: 10
 weight: 5
 dau: 1
-wau: 4
+wau: 2
 mau: 7
 instances:
 - "lemmy_ml"

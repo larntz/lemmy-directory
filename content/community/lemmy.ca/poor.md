@@ -3,7 +3,7 @@ title: "poor"
 name: "poor"
 description: "Anything about being poor, poverty or otherwise.Also check out:- lemmy.ml/c/finance- [Share referral codes](https://lemmy.ca/c/referrals)"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/poor"

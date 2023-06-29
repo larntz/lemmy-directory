@@ -3,14 +3,14 @@ title: "Thrash Metal"
 name: "thrashmetal"
 description: "Spectrum of Death"
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thrashmetal"
 host: lemmy.ml
 lastmod: "2020-12-17 18:40:49"
 published: "2020-01-26 16:05:07"
-subscribers: 26
+subscribers: 27
 posts: 2
 comments: 0
 weight: 2

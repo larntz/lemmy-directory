@@ -3,14 +3,14 @@ title: "Jamie Blog"
 name: "blog"
 description: "This is a community where I blog about things I'm doing. These will usually be relevant to the Fediverse, or generally just technical in nature."
 type: community
-date: "2023-06-28 15:18:00"
+date: "2023-06-29 12:34:55"
 draft: false
 nsfw: false
 actor_id: "https://jamie.moe/c/blog"
 host: jamie.moe
 lastmod: "2023-06-18 16:53:26"
 published: "2023-06-16 06:50:58"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

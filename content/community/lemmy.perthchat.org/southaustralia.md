@@ -3,14 +3,14 @@ title: "South Australia"
 name: "southaustralia"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-29 12:34:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/southaustralia"
 host: lemmy.perthchat.org
 lastmod: "1969-12-31 19:00:00"
 published: "2022-08-13 18:54:50"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

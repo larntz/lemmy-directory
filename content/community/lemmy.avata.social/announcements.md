@@ -3,14 +3,14 @@ title: "lemmy.avata.social Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:04"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.avata.social/c/announcements"
 host: lemmy.avata.social
 lastmod: "2023-06-17 00:10:48"
 published: "2023-06-16 19:14:24"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

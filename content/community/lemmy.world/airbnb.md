@@ -3,14 +3,14 @@ title: "Airbnb"
 name: "airbnb"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:13"
+date: "2023-06-29 12:37:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/airbnb"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 15:06:54"
-subscribers: 12
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1

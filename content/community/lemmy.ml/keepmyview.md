@@ -3,12 +3,12 @@ title: "Keep My View"
 name: "keepmyview"
 description: "A place to post an opinion you accept may be correct, in an effort to explain your perspective on the issue. Enter with a mindset for conversation, not debate. Visit [!changemyview](https://lemmy.ml/c/changemyview) for the opposite version."
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/keepmyview"
 host: lemmy.ml
-lastmod: "2023-06-09 14:41:46"
+lastmod: "2023-06-28 22:35:12"
 published: "2023-06-09 13:45:32"
 subscribers: 0
 posts: 0

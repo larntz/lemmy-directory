@@ -3,14 +3,14 @@ title: "Evercade"
 name: "evercade"
 description: "Discussion about Games and Consoles produced by Blaze Entertainment."
 type: community
-date: "2023-06-27 16:19:31"
+date: "2023-06-29 12:37:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/evercade"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:31"
+lastmod: "2023-06-13 08:31:08"
 published: "2023-06-13 08:28:56"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 1
 weight: 2

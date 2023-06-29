@@ -3,7 +3,7 @@ title: "Meditation"
 name: "meditation"
 description: "Meditation, contemplation, all or no traditions"
 type: community
-date: "2023-06-28 15:17:51"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/meditation"
@@ -15,7 +15,7 @@ posts: 10
 comments: 13
 weight: 10
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "sopuli_xyz"

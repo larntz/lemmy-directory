@@ -3,7 +3,7 @@ title: "Religion"
 name: "religion"
 description: "# **Religion**This isn't a community, it is an online sub-forum.Struggle to learn.Teach wisdom through example.Hope to realize that you are wrong.Anti-social perspectives will be socialized with less."
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/religion"

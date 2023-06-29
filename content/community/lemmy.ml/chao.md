@@ -3,7 +3,7 @@ title: "chao"
 name: "chao"
 description: "A sublemmy for discussion of all things Chao from the Sonic franchise.    Useful Links:    * [Chao Island](https://chao-island.com/)  * [Chao Wiki](https://chao-island.com/wiki)  * [Sonic Wiki](http://sonic.wikia.com/wiki/Chao)  "
 type: community
-date: "2023-06-28 15:19:21"
+date: "2023-06-29 12:36:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chao"

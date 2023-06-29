@@ -3,7 +3,7 @@ title: "Pardus"
 name: "pardus"
 description: "https://pardus.org.tr https://forum.pardus.org.tr Pardus, Debian GNU/Linux altyapısını kullanarak oluşturulan açık kaynak kodlu bir işletim sistemidir.Pardus is an open source operating system built using the Debian GNU / Linux infrastructure.  "
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pardus"

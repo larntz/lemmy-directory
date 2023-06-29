@@ -3,14 +3,14 @@ title: "Belgium - Provincie West-Vlaanderen"
 name: "westvlaanderen"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:57"
+date: "2023-06-29 12:34:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmings.online/c/westvlaanderen"
 host: lemmings.online
 lastmod: "2023-06-14 08:46:28"
 published: "2023-06-14 08:34:48"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

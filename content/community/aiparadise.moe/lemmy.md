@@ -3,14 +3,14 @@ title: "Lemmy"
 name: "lemmy"
 description: "A general discussion community to ask questions or just general discussions "
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://aiparadise.moe/c/lemmy"
 host: aiparadise.moe
 lastmod: "1969-12-31 19:00:00"
 published: "2023-05-15 13:47:06"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 4
 weight: 1

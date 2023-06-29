@@ -3,12 +3,12 @@ title: "bristol"
 name: "bristol"
 description: "Bristol, UK. The greatest bridge in the universe."
 type: community
-date: "2023-06-27 16:19:36"
+date: "2023-06-29 12:37:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bristol"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:36"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 19:40:16"
 subscribers: 3
 posts: 3

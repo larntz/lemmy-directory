@@ -3,14 +3,14 @@ title: "Arizer"
 name: "arizer"
 description: "For any discussions relating to Arizer dry herb vaporizers!"
 type: community
-date: "2023-06-28 15:21:05"
+date: "2023-06-29 12:37:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arizer"
 host: lemmy.world
-lastmod: "2023-06-28 15:21:05"
+lastmod: "2023-06-18 17:20:24"
 published: "2023-06-18 17:19:25"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

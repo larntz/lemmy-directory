@@ -3,14 +3,14 @@ title: "Godot"
 name: "godot"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/godot"
 host: foros.fediverso.gal
 lastmod: "2022-12-24 14:31:25"
 published: "2022-12-24 14:31:14"
-subscribers: 15
+subscribers: 16
 posts: 1
 comments: 2
 weight: 1

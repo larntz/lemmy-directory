@@ -3,14 +3,14 @@ title: "Wii"
 name: "wii"
 description: "All things Wii.Related subjects like Wii U are are allowed."
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/wii"
 host: suppo.fi
 lastmod: "2023-06-13 11:57:52"
 published: "2023-06-12 16:42:34"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

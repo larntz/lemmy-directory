@@ -3,7 +3,7 @@ title: "Service Clouds: AWS, Azure, GCP, etc."
 name: "service_clouds"
 description: "A community for discussions related to all cloud service providers and the tools of the trade.**Related Communities:**General- [DevOps](https://lemmy.ml/c/devops)Platforms- [Kubernetes](https://lemmy.ml/c/kubernetes)Infrastructure Orchestration- [Terraform](https://lemmy.ml/c/terraform)Programming- [Powershell](https://programming.dev/c/powershell)- [Python](https://programming.dev/c/python)- [Go](https://lemmy.ml/c/golang)"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/service_clouds"

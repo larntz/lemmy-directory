@@ -3,14 +3,14 @@ title: "mastodon.gal"
 name: "mastodon"
 description: "A comunidade de [mastodon.gal](https://mastodon.gal)"
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/mastodon"
 host: foros.fediverso.gal
 lastmod: "1969-12-31 19:00:00"
 published: "2022-12-01 10:01:01"
-subscribers: 19
+subscribers: 20
 posts: 1
 comments: 1
 weight: 1

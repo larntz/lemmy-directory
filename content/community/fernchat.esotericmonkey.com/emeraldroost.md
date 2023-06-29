@@ -3,14 +3,14 @@ title: "Emerald Roost"
 name: "emeraldroost"
 description: "Ontop the fernery perches the Emerald Roost."
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:45"
 draft: false
 nsfw: false
 actor_id: "https://fernchat.esotericmonkey.com/c/emeraldroost"
 host: fernchat.esotericmonkey.com
 lastmod: "2023-06-24 03:12:26"
 published: "2023-06-13 02:45:07"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

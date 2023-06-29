@@ -3,14 +3,14 @@ title: "wipE′out″"
 name: "wipeout"
 description: "Community for fans and pilots of the Anti-Gravity Racing League.  **[Discord](https://discord.gg/emexjUk)**"
 type: community
-date: "2023-06-28 15:17:41"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/wipeout"
 host: lemmy.blahaj.zone
 lastmod: "2023-06-15 21:47:06"
 published: "2023-06-06 02:24:39"
-subscribers: 9
+subscribers: 10
 posts: 5
 comments: 1
 weight: 5

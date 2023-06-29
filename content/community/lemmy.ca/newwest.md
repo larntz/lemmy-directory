@@ -3,7 +3,7 @@ title: "New Westminster"
 name: "newwest"
 description: "Located in BC, Canada along the Lower Fraser River, on the homelands of the Halkomelem-speaking people, New Westminster is at the center of Metro Vancouver. It has long been a crossroads of people, pathways, and ideas, where innovation and culture are interwoven and celebrated, making this city a great place to live, work, and visit."
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/newwest"

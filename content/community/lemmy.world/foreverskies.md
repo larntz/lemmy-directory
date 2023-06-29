@@ -3,7 +3,7 @@ title: "Forever Skies"
 name: "foreverskies"
 description: "Welcome to the Forever Skies community on Lemmy!## Rules1. All posts should be related to Forever Skies.2. Be respectful - This means no bigotry, racism, sexism, etc. 3. Mods and users must follow the Lemmy [Code of Conduct](https://join-lemmy.org/docs/code_of_conduct.html).4. No porn, ads, or spamming.**Rules are subject to change as we grow.**"
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/foreverskies"

@@ -3,7 +3,7 @@ title: "Desire Paths"
 name: "desire_paths"
 description: "Desire paths Desire paths can be paths created as a consequence of erosion caused by human or animal foot-fall or traffic. The paths usually represent the shortest or most easily navigated routes between origins and destinations. https://en.wikipedia.org/wiki/Desire_path"
 type: community
-date: "2023-06-28 15:18:26"
+date: "2023-06-29 12:35:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/desire_paths"

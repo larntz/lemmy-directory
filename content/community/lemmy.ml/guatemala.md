@@ -3,7 +3,7 @@ title: "guatemala"
 name: "guatemala"
 description: "¡Para los chapines FOSSeros y decentralizados!Qué bueno verlos acá :) es un placer ser parte de una comunidad que trata de entender la experiencia de los demás, que piensa críticamente, y que con eso trata de mejorar la experiencia de todos como chapines y como ciudadanos del mundo!"
 type: community
-date: "2023-06-28 15:19:22"
+date: "2023-06-29 12:36:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guatemala"

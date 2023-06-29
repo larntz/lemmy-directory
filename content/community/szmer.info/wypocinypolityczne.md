@@ -3,7 +3,7 @@ title: "Polityczne wypociny i inne ściany tekstu"
 name: "wypocinypolityczne"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:49"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wypocinypolityczne"
@@ -15,8 +15,8 @@ posts: 39
 comments: 25
 weight: 39
 dau: 1
-wau: 4
-mau: 6
+wau: 3
+mau: 5
 instances:
 - "szmer_info"
 tags: 

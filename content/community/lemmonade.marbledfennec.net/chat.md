@@ -3,7 +3,7 @@ title: "Chatter Box"
 name: "chat"
 description: "A place to shoot the shit.Site rules and policies mustbe followed at all times."
 type: community
-date: "2023-06-28 15:18:11"
+date: "2023-06-29 12:35:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmonade.marbledfennec.net/c/chat"

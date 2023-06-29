@@ -3,14 +3,14 @@ title: "New Jersey"
 name: "newjersey"
 description: "A place to share news, links, photos, discussions, recipes, pet photos, breakfast food, correspondence, love letters, and advice about the great state of New Jersey."
 type: community
-date: "2023-06-28 15:19:25"
+date: "2023-06-29 12:36:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/newjersey"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 20:13:53"
-subscribers: 9
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

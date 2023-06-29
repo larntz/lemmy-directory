@@ -3,14 +3,14 @@ title: "Cocte.au"
 name: "cocteau"
 description: "A place to discuss the Cocte.au Lemmy instance"
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://cocte.au/c/cocteau"
 host: cocte.au
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-27 06:35:03"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,12 +3,12 @@ title: "France"
 name: "france"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:16:30"
+date: "2023-06-29 12:35:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/france"
 host: sh.itjust.works
-lastmod: "2023-06-27 16:16:30"
+lastmod: "2023-06-22 11:59:56"
 published: "2023-06-22 11:56:04"
 subscribers: 10
 posts: 1

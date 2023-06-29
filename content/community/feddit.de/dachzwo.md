@@ -3,19 +3,19 @@ title: "c/DachZwo - Zwotes Deutsches Feddit!"
 name: "dachzwo"
 description: "Für eine deutschsprachige Community in der wir gut und gerne leben!"
 type: community
-date: "2023-06-28 15:17:55"
+date: "2023-06-29 12:34:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dachzwo"
 host: feddit.de
 lastmod: "2023-06-15 18:05:08"
 published: "2023-06-14 16:14:53"
-subscribers: 65
+subscribers: 66
 posts: 16
-comments: 85
+comments: 86
 weight: 16
-dau: 7
-wau: 9
+dau: 1
+wau: 10
 mau: 36
 instances:
 - "feddit_de"

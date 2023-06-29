@@ -3,7 +3,7 @@ title: "Discussions of the Smalltalk family of Programming Langauges"
 name: "smalltalk"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:44"
+date: "2023-06-29 12:34:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/smalltalk"

@@ -3,7 +3,7 @@ title: "LocalCDN"
 name: "localcdn"
 description: "**Regeln**1. Sei höflich2. Fehler bitte über [Codeberg](https://codeberg.org/nobody/LocalCDN) melden---**Rules**1. Be polite2. Please report bugs via [Codeberg](https://codeberg.org/nobody/LocalCDN)"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/localcdn"

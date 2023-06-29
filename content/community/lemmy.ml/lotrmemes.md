@@ -3,17 +3,17 @@ title: "Memes about the Lord of the Rings universe"
 name: "lotrmemes"
 description: "The beautiful universe of J.R.R. Tolkien"
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lotrmemes"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-30 21:23:38"
-subscribers: 71
-posts: 4
-comments: 0
-weight: 4
+subscribers: 75
+posts: 6
+comments: 1
+weight: 6
 dau: 1
 wau: 1
 mau: 1

@@ -3,14 +3,14 @@ title: "Reselling"
 name: "reselling"
 description: "Eine Community für alle, die sich für Reselling interessieren."
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reselling"
 host: lemmy.ml
 lastmod: "2020-06-19 17:16:46"
 published: "2020-06-19 17:15:05"
-subscribers: 4
+subscribers: 5
 posts: 3
 comments: 0
 weight: 3

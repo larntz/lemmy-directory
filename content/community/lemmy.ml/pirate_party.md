@@ -3,7 +3,7 @@ title: "Pirate Party"
 name: "pirate_party"
 description: "A community to discuss and follow international Pirate Party politics.While Pirate Parties are found globally and are very diverse, they generally stand for civil rights, direct democracy (including e-democracy), reform of copyright and patent law, free sharing of knowledge (open content), information privacy, transparency, freedom of information, free speech, anti-corruption and net neutrality."
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pirate_party"

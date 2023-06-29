@@ -3,7 +3,7 @@ title: "San Diego"
 name: "sandiego"
 description: "A San Diegan-run community, geared towards San Diegans, but all are welcome!We have some rules here:-No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.-Good vibes only. Be respectful. Everyone should feel welcome here.-No porn.-No Ads / Spamming.Related Communities:[California](https://sh.itjust.works/c/california@lemmy.world)[Los Angeles](https://sh.itjust.works/c/losangeles@lemmy.world)[Bay Area](https://sh.itjust.works/c/bayarea@lemmy.world)[Oakland](https://sh.itjust.works/c/oakland@lemmy.world)"
 type: community
-date: "2023-06-28 15:18:28"
+date: "2023-06-29 12:35:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/sandiego"

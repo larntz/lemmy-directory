@@ -3,14 +3,14 @@ title: "Migraine"
 name: "migraine"
 description: "Community for support, conversation, and healing among migraine sufferers."
 type: community
-date: "2023-06-28 15:20:49"
+date: "2023-06-29 12:37:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/migraine"
 host: lemmy.world
 lastmod: "2023-06-15 03:25:01"
 published: "2023-06-15 00:16:23"
-subscribers: 60
+subscribers: 62
 posts: 7
 comments: 13
 weight: 7

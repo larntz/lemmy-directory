@@ -3,7 +3,7 @@ title: "xenharmonic and microtonal music"
 name: "xenharmonic"
 description: "community to discuss and show all things related to music outside the western 12 tones equal temperament. you can promote your own content, but must write something about what you are sharing. You may not share the same thing more than once."
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xenharmonic"

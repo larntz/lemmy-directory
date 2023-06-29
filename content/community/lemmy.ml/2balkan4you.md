@@ -3,7 +3,7 @@ title: "2balkan4you"
 name: "2balkan4you"
 description: "Basically just r/2balkan4you, if it gets banned againThis sub is ironic and makes fun of online nationalists"
 type: community
-date: "2023-06-28 15:19:27"
+date: "2023-06-29 12:36:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/2balkan4you"

@@ -3,14 +3,14 @@ title: "yes"
 name: "yes"
 description: "yet another leftist shitposting community"
 type: community
-date: "2023-06-28 15:20:45"
+date: "2023-06-29 12:37:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/yes"
 host: lemmy.world
 lastmod: "2023-06-20 17:04:36"
 published: "2023-06-20 16:31:41"
-subscribers: 3
+subscribers: 2
 posts: 2
 comments: 2
 weight: 2

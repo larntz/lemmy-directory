@@ -3,7 +3,7 @@ title: "Just testing some bots"
 name: "bot_test"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:36"
+date: "2023-06-29 12:37:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bot_test"
@@ -14,9 +14,9 @@ subscribers: 1
 posts: 2
 comments: 5
 weight: 2
-dau: 0
-wau: 0
-mau: 0
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "Video Game Music"
 name: "vgm"
 description: "vgm is the best m"
 type: community
-date: "2023-06-28 15:18:01"
+date: "2023-06-29 12:34:58"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/vgm"
@@ -15,7 +15,7 @@ posts: 17
 comments: 5
 weight: 17
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemm_ee"

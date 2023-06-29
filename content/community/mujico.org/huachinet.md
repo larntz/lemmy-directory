@@ -3,7 +3,7 @@ title: "TransaNet - Servicio al cliente"
 name: "huachinet"
 description: "Testea la huachinet y quejate si encuentras fallas o sugerencias"
 type: community
-date: "2023-06-28 15:18:16"
+date: "2023-06-29 12:35:10"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/huachinet"
@@ -12,7 +12,7 @@ lastmod: "2022-09-08 02:50:36"
 published: "2022-09-04 21:31:44"
 subscribers: 148
 posts: 14
-comments: 101
+comments: 103
 weight: 14
 dau: 1
 wau: 1

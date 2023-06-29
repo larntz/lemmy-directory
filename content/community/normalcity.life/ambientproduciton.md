@@ -3,14 +3,14 @@ title: "Ambient Production"
 name: "ambientproduciton"
 description: "A community about ambient music production, especially with libre software and budget-conscious gear."
 type: community
-date: "2023-06-28 15:17:58"
+date: "2023-06-29 12:34:52"
 draft: false
 nsfw: false
 actor_id: "https://normalcity.life/c/ambientproduciton"
 host: normalcity.life
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-26 04:33:16"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

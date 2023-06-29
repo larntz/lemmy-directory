@@ -3,7 +3,7 @@ title: "2middleeast4you"
 name: "2middleeast4you"
 description: "Ironic memes about MENA, it's beoble, and friends (greater ME)"
 type: community
-date: "2023-06-28 15:20:41"
+date: "2023-06-29 12:37:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/2middleeast4you"

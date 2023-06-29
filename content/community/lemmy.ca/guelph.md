@@ -3,7 +3,7 @@ title: "Guelph"
 name: "guelph"
 description: "A vibrant community of 118,000 people, Guelph is ranked among the top ten places to live in Canada. The city is located in one of the strongest economic regions in the country - 100 kilometres west of Toronto, just east of Kitchener-Waterloo. Guelph is rich in culture, architecture, parks and riverside green spaces. In 2009 Guelph was also named one of the country's smartest communities, its safest city, and Canada's volunteer capital - Guelph.ca"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/guelph"

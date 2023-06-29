@@ -3,7 +3,7 @@ title: "Meat is health food"
 name: "meatishealthy"
 description: "Here we discuss the varius health benifits of meat consumption in humans. We also allow content talking about some people's struggles trying to maintain a vegan or vegetarian diet. "
 type: community
-date: "2023-06-28 15:19:23"
+date: "2023-06-29 12:36:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/meatishealthy"

@@ -3,7 +3,7 @@ title: "Nett hier."
 name: "netthier"
 description: "Nett hier. Aber waren Sie schon mal in Baden-Württemberg?"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-06-29 12:34:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/netthier"

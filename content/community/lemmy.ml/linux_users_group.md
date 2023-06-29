@@ -3,7 +3,7 @@ title: "#LUG"
 name: "linux_users_group"
 description: "Linux Users Group, playing StarCitizen and other games :)"
 type: community
-date: "2023-06-28 15:19:31"
+date: "2023-06-29 12:36:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linux_users_group"
@@ -12,11 +12,11 @@ lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 18:22:39"
 subscribers: 4
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 

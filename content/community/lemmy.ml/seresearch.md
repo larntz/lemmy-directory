@@ -3,7 +3,7 @@ title: "Software Engineering Research"
 name: "seresearch"
 description: "Software Engineering Research related posts only"
 type: community
-date: "2023-06-28 15:19:16"
+date: "2023-06-29 12:36:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seresearch"

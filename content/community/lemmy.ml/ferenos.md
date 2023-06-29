@@ -3,7 +3,7 @@ title: "Feren OS"
 name: "ferenos"
 description: "Discussion about Feren OS https://ferenos.weebly.com/"
 type: community
-date: "2023-06-28 15:19:13"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ferenos"

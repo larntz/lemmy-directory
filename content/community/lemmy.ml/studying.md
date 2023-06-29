@@ -3,7 +3,7 @@ title: "Studying"
 name: "studying"
 description: "A community for **students** of any subject - with a focus on **productivity** and positive habits."
 type: community
-date: "2023-06-28 15:19:23"
+date: "2023-06-29 12:36:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/studying"

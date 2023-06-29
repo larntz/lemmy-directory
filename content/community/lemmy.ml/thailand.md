@@ -3,14 +3,14 @@ title: "Thailand 🇹🇭"
 name: "thailand"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:22"
+date: "2023-06-29 12:36:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thailand"
 host: lemmy.ml
 lastmod: "2022-05-11 15:32:07"
 published: "2022-05-11 15:05:20"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

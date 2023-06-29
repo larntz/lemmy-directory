@@ -3,14 +3,14 @@ title: "Ljubljana"
 name: "ljubljana"
 description: "-- SI --Dobrodošli.Informacije povezane z mestom Ljubljana ([Slovenija](https://lemmy.world/c/slovenija)).-- EN --Welcome.All about city Ljubljana ([Slovenia](https://lemmy.world/c/slovenia))."
 type: community
-date: "2023-06-28 15:21:04"
+date: "2023-06-29 12:37:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ljubljana"
 host: lemmy.world
 lastmod: "2023-06-13 22:00:44"
 published: "2023-06-13 14:46:48"
-subscribers: 2
+subscribers: 3
 posts: 3
 comments: 0
 weight: 3

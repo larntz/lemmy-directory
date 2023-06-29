@@ -3,7 +3,7 @@ title: "Green Arrow"
 name: "greenarrow"
 description: "![](https://lemmy.world/pictrs/image/a4e58eb2-e4fb-4774-a455-75afe4072236.jpeg)*Artist: Sean Izaakse*A community dedicated to discussing everyone's favorite emerald archer and the rest of the Green Arrow family from across all forms of media.**Rules:**- Be civil- Credit artist(s) when possible - No spoilers in title, mark spoilers- No spamming or trolling- Only relevant posts"
 type: community
-date: "2023-06-28 15:20:38"
+date: "2023-06-29 12:37:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/greenarrow"

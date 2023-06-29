@@ -3,14 +3,14 @@ title: "ARES"
 name: "ares"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:33"
 draft: false
 nsfw: false
 actor_id: "https://fediverse.ro/c/ares"
 host: fediverse.ro
 lastmod: "1969-12-31 19:00:00"
 published: "2023-03-02 18:18:25"
-subscribers: 3
+subscribers: 4
 posts: 3
 comments: 2
 weight: 3

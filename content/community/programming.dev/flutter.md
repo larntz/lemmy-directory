@@ -3,20 +3,20 @@ title: "Flutter"
 name: "flutter"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/flutter"
 host: programming.dev
 lastmod: "2023-06-13 04:33:50"
 published: "2023-06-13 02:25:05"
-subscribers: 111
+subscribers: 112
 posts: 5
-comments: 14
+comments: 15
 weight: 5
 dau: 1
-wau: 6
-mau: 10
+wau: 7
+mau: 11
 instances:
 - "programming_dev"
 tags: 

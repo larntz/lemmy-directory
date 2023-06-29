@@ -3,7 +3,7 @@ title: "california"
 name: "california"
 description: ""
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-06-29 12:36:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/california"
@@ -15,7 +15,7 @@ posts: 20
 comments: 4
 weight: 20
 dau: 1
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "lemmy_ml"

@@ -3,14 +3,14 @@ title: "jeep"
 name: "jeep"
 description: "A home for all jeep enthusiasts!# Rules:* No NSFW Content* No hate speech or personal attacks.* No Ads / Spamming.--"
 type: community
-date: "2023-06-27 16:19:31"
+date: "2023-06-29 12:37:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jeep"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:31"
+lastmod: "2023-06-10 16:14:42"
 published: "2023-06-10 15:43:08"
-subscribers: 95
+subscribers: 99
 posts: 9
 comments: 17
 weight: 9

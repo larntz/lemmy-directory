@@ -3,14 +3,14 @@ title: "Cleveland"
 name: "cleveland"
 description: "A place to discuss what is going on in Cleveland!"
 type: community
-date: "2023-06-28 15:18:26"
+date: "2023-06-29 12:35:18"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/cleveland"
 host: sh.itjust.works
 lastmod: "2023-06-27 13:43:22"
 published: "2023-06-27 13:38:58"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

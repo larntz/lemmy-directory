@@ -3,7 +3,7 @@ title: "Shield Hero"
 name: "shieldhero"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:19:12"
+date: "2023-06-29 12:36:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shieldhero"

@@ -3,19 +3,19 @@ title: "Linux"
 name: "linux"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/linux"
 host: sopuli.xyz
 lastmod: "0001-01-01 00:00:00"
 published: "2022-08-21 22:53:07"
-subscribers: 935
+subscribers: 952
 posts: 26
 comments: 122
 weight: 26
 dau: 1
-wau: 24
+wau: 23
 mau: 79
 instances:
 - "sopuli_xyz"

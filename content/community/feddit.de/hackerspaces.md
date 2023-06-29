@@ -3,7 +3,7 @@ title: "Hackerspaces"
 name: "hackerspaces"
 description: "A place for hackerspace links, news, info, and discussion. NOT for hacking or computer security topics.# Rules1. Posts in English please1. No hacking/cracking/infosec posts# Links- [Hackerspace](https://en.wikipedia.org/wiki/Hackerspace) on Wikipedia- [hackerspaces.org Wiki](https://wiki.hackerspaces.org/)- [Hackerspaces near you](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)"
 type: community
-date: "2023-06-28 15:17:53"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hackerspaces"

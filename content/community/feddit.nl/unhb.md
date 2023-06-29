@@ -3,14 +3,14 @@ title: "UN-Hack-Bar e.V."
 name: "unhb"
 description: "https://www.un-hack-bar.de/"
 type: community
-date: "2023-06-28 15:17:42"
+date: "2023-06-29 12:34:36"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/unhb"
 host: feddit.nl
 lastmod: "2023-06-19 18:51:45"
 published: "2023-06-19 18:44:48"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

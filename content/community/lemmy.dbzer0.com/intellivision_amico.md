@@ -3,14 +3,14 @@ title: "Intellivision Amico"
 name: "intellivision_amico"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:18:21"
+date: "2023-06-29 12:35:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/intellivision_amico"
 host: lemmy.dbzer0.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 10:22:17"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

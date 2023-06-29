@@ -3,7 +3,7 @@ title: "ultralight"
 name: "ultralight"
 description: "Ultralight Backpacking!"
 type: community
-date: "2023-06-28 15:19:23"
+date: "2023-06-29 12:36:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ultralight"
@@ -15,7 +15,7 @@ posts: 9
 comments: 29
 weight: 9
 dau: 1
-wau: 4
+wau: 2
 mau: 14
 instances:
 - "lemmy_ml"

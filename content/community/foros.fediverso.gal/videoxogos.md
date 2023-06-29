@@ -3,7 +3,7 @@ title: "Videoxogos"
 name: "videoxogos"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:40"
+date: "2023-06-29 12:34:35"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/videoxogos"

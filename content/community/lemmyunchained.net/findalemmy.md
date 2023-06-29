@@ -3,7 +3,7 @@ title: "Find A Lemmy"
 name: "findalemmy"
 description: "Like r/findareddit"
 type: community
-date: "2023-06-28 15:18:00"
+date: "2023-06-29 12:34:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmyunchained.net/c/findalemmy"
@@ -15,7 +15,7 @@ posts: 1
 comments: 4
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmyunchained_net"

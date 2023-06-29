@@ -3,14 +3,14 @@ title: "/c/bears: The community for Chicago Bears fans"
 name: "bears"
 description: "The home of the Chicago Bears, BEAR DOWN!"
 type: community
-date: "2023-06-28 15:21:14"
+date: "2023-06-29 12:37:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bears"
 host: lemmy.world
 lastmod: "2023-06-09 21:40:33"
 published: "2023-06-09 21:36:45"
-subscribers: 13
+subscribers: 14
 posts: 0
 comments: 0
 weight: 0

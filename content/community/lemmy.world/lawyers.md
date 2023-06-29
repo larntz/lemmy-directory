@@ -3,7 +3,7 @@ title: "Lawyers"
 name: "lawyers"
 description: "Community for licensed attorneys and lawyers from around the world."
 type: community
-date: "2023-06-28 15:20:41"
+date: "2023-06-29 12:38:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lawyers"

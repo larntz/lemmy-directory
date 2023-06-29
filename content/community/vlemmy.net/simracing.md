@@ -3,7 +3,7 @@ title: "Sim Racing"
 name: "simracing"
 description: "A community for all discussion about sim racing. Everyone is welcome."
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/simracing"

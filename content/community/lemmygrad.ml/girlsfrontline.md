@@ -3,14 +3,14 @@ title: "Girls' Frontline "
 name: "girlsfrontline"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-06-29 12:34:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/girlsfrontline"
 host: lemmygrad.ml
 lastmod: "2022-04-15 07:27:32"
 published: "2022-04-15 07:17:57"
-subscribers: 14
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0

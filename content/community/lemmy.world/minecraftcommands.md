@@ -3,7 +3,7 @@ title: "Minecraft Commands"
 name: "minecraftcommands"
 description: "A place for all things about commands, command blocks and data-packs in vanilla Minecraft; to share, to question, to discuss, and more!"
 type: community
-date: "2023-06-28 15:20:39"
+date: "2023-06-29 12:37:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minecraftcommands"
@@ -15,7 +15,7 @@ posts: 0
 comments: 0
 weight: 0
 dau: 1
-wau: 6
+wau: 3
 mau: 6
 instances:
 - "lemmy_world"

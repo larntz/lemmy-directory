@@ -3,7 +3,7 @@ title: "Nitter"
 name: "nitter"
 description: "Github : https://github.com/zedeus/nitterWebsite : https://nitter.net/Matrix : https://matrix.to/#/#nitter:matrix.org"
 type: community
-date: "2023-06-28 15:19:14"
+date: "2023-06-29 12:36:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nitter"

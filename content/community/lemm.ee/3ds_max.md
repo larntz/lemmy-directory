@@ -3,7 +3,7 @@ title: "3D Studio Max"
 name: "3ds_max"
 description: "3D Studio Max"
 type: community
-date: "2023-06-28 15:18:02"
+date: "2023-06-29 12:34:59"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/3ds_max"

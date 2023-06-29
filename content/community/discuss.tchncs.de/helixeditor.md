@@ -3,7 +3,7 @@ title: "Helix Editor"
 name: "helixeditor"
 description: "# Helix, a post-modern **text editor**.Ask all your questions related to Helix, or post relevant content for Helix users.This is a non-official Helix community (tho we'd love to be official!).# Useful linkshttps://helix-editor.com/"
 type: community
-date: "2023-06-28 15:17:43"
+date: "2023-06-29 12:34:37"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/helixeditor"

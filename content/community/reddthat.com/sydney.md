@@ -3,12 +3,12 @@ title: "Sydney"
 name: "sydney"
 description: "Community for Sydney, NSW, Australia"
 type: community
-date: "2023-06-27 16:15:54"
+date: "2023-06-29 12:34:38"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/sydney"
 host: reddthat.com
-lastmod: "2023-06-27 16:15:54"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 02:35:19"
 subscribers: 4
 posts: 0

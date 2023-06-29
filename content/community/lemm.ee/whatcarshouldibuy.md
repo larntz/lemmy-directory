@@ -3,7 +3,7 @@ title: "What car should I buy?"
 name: "whatcarshouldibuy"
 description: "A community for advice and discussion of car buying decisions. Model, price, efficiency, reliability, dealership discussions are acceptable and welcome. First hand experience is valued the most!"
 type: community
-date: "2023-06-28 15:17:59"
+date: "2023-06-29 12:34:55"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/whatcarshouldibuy"

@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "#### Site-wide announcements This community is for MTGZone operational notifications and meta discussion about the site itself."
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-06-29 12:34:39"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/announcements"
