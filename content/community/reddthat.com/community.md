@@ -3,20 +3,20 @@ title: "Reddthat Community"
 name: "community"
 description: "For all chit chat relating to the Reddthat community."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/community"
 host: reddthat.com
-lastmod: "2023-06-15 21:33:45"
+lastmod: "2023-06-30 08:39:06"
 published: "2023-06-15 09:29:58"
-subscribers: 75
-posts: 10
-comments: 78
-weight: 10
-dau: 2
-wau: 17
-mau: 32
+subscribers: 78
+posts: 11
+comments: 82
+weight: 11
+dau: 5
+wau: 14
+mau: 33
 instances:
 - "reddthat_com"
 tags: 

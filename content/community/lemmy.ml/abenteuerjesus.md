@@ -3,12 +3,12 @@ title: "AbenteuerJesusCommunity"
 name: "abenteuerjesus"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:30"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abenteuerjesus"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:30"
+lastmod: "2022-01-10 23:46:07"
 published: "2022-01-10 23:40:44"
 subscribers: 2
 posts: 3

@@ -3,7 +3,7 @@ title: "Red Hot Chili Peppers"
 name: "rhcp"
 description: "This is the place for Red Hot Chili Peppers fans all around the world.We've got peace and love for you somehowPlease follow the rules and be kind. Thanks!Community for John Frusciante: https://lemmy.world/c/frusciante "
 type: community
-date: "2023-06-29 12:37:52"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rhcp"

@@ -3,7 +3,7 @@ title: "Rockhounds"
 name: "rockhounds"
 description: "A public subreddit for the discussion of rock hunting, rock collecting, crystals and mineralogy, geology, lapidary arts and rocks in general. Topics include outings and trips, polishing, tumbling, cabochons, slabs and specimens. Feel free to ask a question or post a picture."
 type: community
-date: "2023-06-28 15:21:01"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rockhounds"

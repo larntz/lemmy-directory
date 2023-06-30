@@ -3,7 +3,7 @@ title: "BraveBrowser"
 name: "brave"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/brave"

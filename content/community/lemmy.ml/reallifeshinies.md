@@ -3,7 +3,7 @@ title: "Shinies, but in real life!"
 name: "reallifeshinies"
 description: "The term shiny originates from Pokémon. It is a term used to describe a pokémon that is a completely different color from all others in their species. We have taken that idea and expanded it to include objects, plants, food, and people! All color morphs are accepted providing they are atypical from the norm of that species, breed, or type."
 type: community
-date: "2023-06-29 12:36:08"
+date: "2023-06-30 13:15:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/reallifeshinies"

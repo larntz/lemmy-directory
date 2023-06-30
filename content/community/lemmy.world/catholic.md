@@ -3,14 +3,14 @@ title: "Catholic"
 name: "catholic"
 description: "The Catholic Community"
 type: community
-date: "2023-06-28 15:20:58"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/catholic"
 host: lemmy.world
-lastmod: "2023-06-28 15:20:58"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-18 03:18:09"
-subscribers: 10
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Lemmy.cat"
 name: "lemmy_cat"
 description: "Qualsevol cosa sobre la instància lemmy.cat."
 type: community
-date: "2023-06-29 12:35:11"
+date: "2023-06-30 13:14:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/lemmy_cat"

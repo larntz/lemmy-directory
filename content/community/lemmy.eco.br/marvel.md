@@ -1,14 +1,14 @@
 ---
 title: "Marvel" 
 name: "marvel"
-description: "Description not available."
+description: "Bem-vindos ao subreddit Marvel Brasil, aqui você poderia compartilhar suas teorias e falar sobre os vazamentos que volta e meia aparecem por aí!"
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/marvel"
 host: lemmy.eco.br
-lastmod: "2023-06-23 15:21:20"
+lastmod: "2023-06-30 11:43:57"
 published: "2023-06-23 15:01:26"
 subscribers: 5
 posts: 0

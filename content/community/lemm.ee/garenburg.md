@@ -3,12 +3,12 @@ title: "Garen Manor"
 name: "garenburg"
 description: "The official Lemmy community for Garenburg and Creatalsoftware Games."
 type: community
-date: "2023-06-27 16:16:11"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/garenburg"
 host: lemm.ee
-lastmod: "2023-06-27 16:16:11"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 06:59:36"
 subscribers: 2
 posts: 1

@@ -3,7 +3,7 @@ title: "Hotline Miami"
 name: "hotlinemiami"
 description: "Everything related to Devolver Digital's cult classic game Hotline Miami and its sequel, Hotline Miami 2: Wrong Number."
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hotlinemiami"

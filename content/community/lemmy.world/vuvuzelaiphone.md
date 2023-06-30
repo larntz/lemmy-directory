@@ -3,7 +3,7 @@ title: "VuvuzelaIphone"
 name: "vuvuzelaiphone"
 description: "Leftist memes and shitposting"
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vuvuzelaiphone"

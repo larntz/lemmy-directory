@@ -3,7 +3,7 @@ title: "Homeschool"
 name: "homeschool"
 description: "A place to post about and discuss homeschooling.Let's keep it chill, eh? Internet blood sports in the homeschooling community just doesn't seem that kosher."
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fbxl.net/c/homeschool"

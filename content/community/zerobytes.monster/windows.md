@@ -3,7 +3,7 @@ title: "Windows"
 name: "windows"
 description: "Welcome to the largest unofficial community for Microsoft Windows, the world's most popular desktop computer operating system!."
 type: community
-date: "2023-06-29 12:35:10"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/windows"

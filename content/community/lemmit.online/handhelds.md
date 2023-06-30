@@ -3,7 +3,7 @@ title: "Handhelds"
 name: "handhelds"
 description: "This is the definitive Reddit source for handheld consoles. Here you can post about old obscure handhelds, but also about new portables that you..."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/handhelds"

@@ -3,7 +3,7 @@ title: "Running Man"
 name: "runningman"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/runningman"

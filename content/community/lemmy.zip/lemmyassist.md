@@ -3,7 +3,7 @@ title: "Lemmy Assist"
 name: "lemmyassist"
 description: "For those who need help with Lemmy"
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/lemmyassist"
@@ -15,7 +15,7 @@ posts: 3
 comments: 4
 weight: 3
 dau: 1
-wau: 5
+wau: 4
 mau: 6
 instances:
 - "lemmy_zip"

@@ -3,7 +3,7 @@ title: "Recap Time Squad's community hub"
 name: "recaptime"
 description: "Welcome to the Recap TIme Squad's Lemmy community on the fediverse."
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/recaptime"

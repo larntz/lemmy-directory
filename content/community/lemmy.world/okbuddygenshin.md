@@ -3,7 +3,7 @@ title: "okbuddygenshin"
 name: "okbuddygenshin"
 description: "ok buddy but for genshin (same rules on reddit apply here)"
 type: community
-date: "2023-06-29 12:38:07"
+date: "2023-06-30 13:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/okbuddygenshin"
@@ -15,7 +15,7 @@ posts: 7
 comments: 6
 weight: 7
 dau: 1
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "lemmy_world"

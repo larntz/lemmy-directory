@@ -3,12 +3,12 @@ title: "WearOS"
 name: "wearos"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wearos"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:31"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 16:06:58"
 subscribers: 18
 posts: 3

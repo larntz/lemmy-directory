@@ -3,7 +3,7 @@ title: "AdGuard"
 name: "adguard"
 description: "Discussion about AdGuard products and features- [Homepage](https://adguard.com)- [Support](https://adguard.com/en/support.html)"
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/adguard"

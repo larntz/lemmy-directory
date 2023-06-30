@@ -3,7 +3,7 @@ title: "Theme Parks"
 name: "themeparks"
 description: "Welcome to /c/ThemeParks a place to discuss all Theme Parks and Rides at amusement parks that include theming. Here's to hoping that all parks continue to embrace theming and make our experiences more immersive. Have fun!"
 type: community
-date: "2023-06-29 12:37:51"
+date: "2023-06-30 13:17:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/themeparks"

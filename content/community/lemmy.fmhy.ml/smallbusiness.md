@@ -3,7 +3,7 @@ title: "SmallBusiness Owners"
 name: "smallbusiness"
 description: "The lemmy alternative for /r/smallbusinessA place for small business owners. "
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/smallbusiness"

@@ -3,14 +3,14 @@ title: "Minecraft Discussion / News"
 name: "minecraft"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:10"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minecraft"
 host: lemmy.ml
 lastmod: "2019-10-16 22:48:11"
 published: "2019-10-16 22:47:40"
-subscribers: 627
+subscribers: 633
 posts: 39
 comments: 45
 weight: 39

@@ -3,7 +3,7 @@ title: "CICO"
 name: "cico"
 description: "Calories In, Calories Out! That's it - welcome to the Lemmy community for calorie counting, the pathway to a healthier life and the ability to plan your own diet. **Rules:**- Respect all users always.- Do not share dangerous fad diets, give medical advice or otherwise instruct an user to ignore their doctors. - Progress pictures are allowed, but mark body shots as NSFW. "
 type: community
-date: "2023-06-29 12:38:09"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cico"

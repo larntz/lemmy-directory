@@ -3,7 +3,7 @@ title: "SimpleX Chat"
 name: "simplex"
 description: "Community of SimpleX Chat users – managed by the team.SimpleX Chat is the first chat platform that is 100% private by design – it has no user identifiers of any kind and no access to your connections graph – it's a more private design than any alternative we know of.Please ask any questions and make feature suggestions. Your ideas and criticism are very welcome!https://github.com/simplex-chat/simplex-chat"
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/simplex"

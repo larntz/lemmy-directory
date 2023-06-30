@@ -3,7 +3,7 @@ title: "World of Warships"
 name: "wows"
 description: "World of Warships community in Lemmy. Created in response to Reddit fall as free for all alternative.Languages: English (and undetermined selected too)."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wows"

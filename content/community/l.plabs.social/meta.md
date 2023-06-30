@@ -3,7 +3,7 @@ title: "Meta (l.plabs.social)"
 name: "meta"
 description: "This is a community for discussion about this particular Lemmy instance."
 type: community
-date: "2023-06-29 12:35:07"
+date: "2023-06-30 13:14:05"
 draft: false
 nsfw: false
 actor_id: "https://l.plabs.social/c/meta"

@@ -3,7 +3,7 @@ title: "Savannah, GA"
 name: "savannahga"
 description: "Welcome to Savannah! If you're looking for news, events or discussions about the beautiful city of Savannah, Georgia, you're in the right spot!Whether you're a Savannah native or just passing through, this community is a place for you to post events, questions or comments.Please keep conversations constructive and civil. We're known for our hospitality, after all."
 type: community
-date: "2023-06-29 12:37:54"
+date: "2023-06-30 13:17:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/savannahga"

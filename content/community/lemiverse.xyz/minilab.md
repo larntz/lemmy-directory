@@ -3,7 +3,7 @@ title: "MiniLab"
 name: "minilab"
 description: "A community to share your own ”SFF” homelabs, where efficiency and small size is a must!"
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:03"
 draft: false
 nsfw: false
 actor_id: "https://lemiverse.xyz/c/minilab"

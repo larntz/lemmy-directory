@@ -3,7 +3,7 @@ title: "test community, pls ignore"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:35:05"
+date: "2023-06-30 13:14:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rat.academy/c/test"

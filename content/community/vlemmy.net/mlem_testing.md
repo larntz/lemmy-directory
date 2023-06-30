@@ -3,7 +3,7 @@ title: "Mlem Test Community"
 name: "mlem_testing"
 description: "This is a test community."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/mlem_testing"

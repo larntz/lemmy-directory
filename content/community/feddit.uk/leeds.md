@@ -3,7 +3,7 @@ title: "Leeds, West Yorkshire, UK"
 name: "leeds"
 description: "Welcome to the City of Leeds community. Let's keep it clean and fun!Looking for another city or want to create your own that is not currently available. Head [here](https://feddit.uk/post/131040) to see what is happening."
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/leeds"

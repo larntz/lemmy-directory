@@ -3,7 +3,7 @@ title: "Bot Test"
 name: "bottest"
 description: "Use this community to test bots. You may want to block this community unless you enjoy bot spam."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/bottest"

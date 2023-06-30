@@ -3,12 +3,12 @@ title: "England"
 name: "england"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:59"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/england"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:59"
+lastmod: "2023-06-19 02:43:23"
 published: "2023-06-18 05:10:52"
 subscribers: 6
 posts: 0

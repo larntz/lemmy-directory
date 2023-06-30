@@ -3,7 +3,7 @@ title: "Elementary School"
 name: "elementaryschool"
 description: "Welcome to Elementary School. Here is a place for teachers and parents to share information and resources that will help all of us enhance our elementary school experience.  Goals and Agreements:1. Agree and/or disagree respectfully2. Be creative3. Be honest4. Be proud of your work5. Share and learn together! "
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/elementaryschool"

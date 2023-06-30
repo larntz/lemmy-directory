@@ -3,14 +3,14 @@ title: "astrology"
 name: "astrology"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:58"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/astrology"
 host: lemmy.world
 lastmod: "2023-06-19 05:59:03"
 published: "2023-06-18 05:06:34"
-subscribers: 11
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

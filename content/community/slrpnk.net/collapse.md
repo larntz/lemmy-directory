@@ -3,7 +3,7 @@ title: "collapse of the old society"
 name: "collapse"
 description: "to discuss news and stuff of the old world dying"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/collapse"

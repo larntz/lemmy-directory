@@ -3,7 +3,7 @@ title: "Padres"
 name: "padres"
 description: "A Fediverse community dedicated to the San Diego Padres baseball organization.Rules:1) Be nice2) Have fun3) LFGSD4) Fuck. The. Dodgers."
 type: community
-date: "2023-06-29 12:37:51"
+date: "2023-06-30 13:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/padres"

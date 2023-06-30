@@ -3,7 +3,7 @@ title: "'80s design"
 name: "80sdesign"
 description: "A subreddit dedicated to preservation and appreciation of art and design from the 1980s."
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/80sdesign"

@@ -3,7 +3,7 @@ title: "France"
 name: "france"
 description: "Pour la discussion des questions relatives au communisme en FranceFor the discussion of issues relating to communism in France."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/france"

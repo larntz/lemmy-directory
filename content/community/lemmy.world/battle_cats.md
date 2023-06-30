@@ -3,7 +3,7 @@ title: "Battlecats"
 name: "battle_cats"
 description: "Post your cattle cats related questions, advice and s posts on this friendly sub with a community of battle cats fans"
 type: community
-date: "2023-06-29 12:37:41"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/battle_cats"

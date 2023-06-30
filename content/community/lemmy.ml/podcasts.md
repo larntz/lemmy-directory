@@ -3,14 +3,14 @@ title: "Podcasts"
 name: "podcasts"
 description: "This is a community for discussing podcast media format and sharing podcasts.Rules:* No NSFW content or podcasts* No hate speech, bigotry, etc or sharing of podcasts that have this property."
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/podcasts"
 host: lemmy.ml
 lastmod: "2021-01-27 01:46:58"
 published: "2020-01-27 20:53:23"
-subscribers: 376
+subscribers: 378
 posts: 48
 comments: 18
 weight: 48

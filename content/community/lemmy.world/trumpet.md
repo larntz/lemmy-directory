@@ -3,7 +3,7 @@ title: "Trumpet"
 name: "trumpet"
 description: "This is a community to discuss how to play, techniques, knowledge on trumpet, etc."
 type: community
-date: "2023-06-29 12:37:40"
+date: "2023-06-30 13:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trumpet"

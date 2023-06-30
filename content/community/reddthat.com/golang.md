@@ -3,12 +3,12 @@ title: "The Go Programming Language"
 name: "golang"
 description: "Ask questions and post articles about the Go programming language and related tools, events etc."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/golang"
 host: reddthat.com
-lastmod: "2023-06-24 09:35:39"
+lastmod: "2023-06-30 12:07:53"
 published: "2023-06-24 09:11:27"
 subscribers: 5
 posts: 1

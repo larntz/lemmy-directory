@@ -3,12 +3,12 @@ title: "noita"
 name: "noita"
 description: "post your skill issues"
 type: community
-date: "2023-06-27 16:16:13"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/noita"
 host: lemm.ee
-lastmod: "2023-06-27 16:16:13"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 20:30:19"
 subscribers: 2
 posts: 0

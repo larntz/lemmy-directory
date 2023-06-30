@@ -3,7 +3,7 @@ title: "GoTink"
 name: "gotink"
 description: "**The open-source physics sandbox.**[Source Code](https://codeberg.org/MarshReaper/GoTink)[Website](https://marshreaper.codeberg.page/GoTink)"
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tf/c/gotink"

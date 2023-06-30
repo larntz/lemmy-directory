@@ -3,14 +3,14 @@ title: "TrueSTL"
 name: "truestl"
 description: "A place for Elder Scrolls ~~lore discussion,~~ schizo and hornyposting"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/truestl"
 host: lemmy.antemeridiem.xyz
 lastmod: "2023-06-10 20:20:01"
 published: "2023-06-10 17:06:58"
-subscribers: 57
+subscribers: 61
 posts: 5
 comments: 0
 weight: 5

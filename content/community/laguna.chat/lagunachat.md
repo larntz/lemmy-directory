@@ -3,7 +3,7 @@ title: "Laguna.chat"
 name: "lagunachat"
 description: "Read the latest news, updates and announcements regarding Laguna.chat. Delivered to you by the administrators of Laguna.chat.---Check out Laguna.chat's [code of conduct and privacy policy](https://laguna.chat/legal)."
 type: community
-date: "2023-06-29 12:34:54"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://laguna.chat/c/lagunachat"

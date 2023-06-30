@@ -3,7 +3,7 @@ title: "N Scale model trains"
 name: "nscalemodeltrains"
 description: "A community for N scale model trains"
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-06-30 13:17:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nscalemodeltrains"

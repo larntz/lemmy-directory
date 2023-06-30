@@ -3,7 +3,7 @@ title: "Kavita Reader"
 name: "kavita"
 description: "# WelcomeThis is a community for the fantastic open-source application Kavita. It's a manga, ebook & comic reader that automatically organizes your files and metadata and let's you track your progress.___To check out the project, visit the  [Github Page](https://github.com/Kareadita/Kavita) and check out the newest  [Releases](https://github.com/Kareadita/Kavita/releases)"
 type: community
-date: "2023-06-29 12:35:17"
+date: "2023-06-30 13:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/kavita"

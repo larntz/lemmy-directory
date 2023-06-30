@@ -3,20 +3,20 @@ title: "San Antonio Spurs"
 name: "nba_spurs"
 description: "Lemmy's community for fans of the San Antonio Spurs"
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/nba_spurs"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 18:36:40"
-subscribers: 33
-posts: 9
+subscribers: 35
+posts: 11
 comments: 2
-weight: 9
-dau: 1
+weight: 11
+dau: 2
 wau: 3
-mau: 4
+mau: 5
 instances:
 - "lemm_ee"
 tags: 

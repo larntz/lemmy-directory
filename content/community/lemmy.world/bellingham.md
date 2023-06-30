@@ -3,7 +3,7 @@ title: "Bellingham, WA"
 name: "bellingham"
 description: "The City of Subdued Excitement48°45′1″N 122°28′30″WPlease be respectful and not post hurtful, violent, or NSFW content. Any moderators of the original subreddit /r/bellingham are welcome to reclaim their spot here."
 type: community
-date: "2023-06-29 12:37:56"
+date: "2023-06-30 13:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bellingham"

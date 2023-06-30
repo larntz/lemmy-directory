@@ -3,7 +3,7 @@ title: "scihub"
 name: "scihub"
 description: "Sci-Hub is a website that provides free access to millions of research papers and books, without regard to copyright, by bypassing publishers' paywalls in various ways. Note, this community is not directly affiliated with Sci-Hub. Visit https://VK.com/sci_hub for the official Sci-Hub community. Telegram: https://t.me/s/nexus_searchRelated: https://annas-archive.org/Official Sci-Hub Mirrors:https://sci-hub.sthttps://sci-hub.sehttps://sci-hub.do"
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/scihub"

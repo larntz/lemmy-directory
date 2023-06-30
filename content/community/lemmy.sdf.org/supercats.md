@@ -3,7 +3,7 @@ title: "it's the super cats channel!"
 name: "supercats"
 description: "The Lemmy home for super cats appreciation. "
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/supercats"

@@ -3,7 +3,7 @@ title: "Töff"
 name: "toeff"
 description: "Töff (m.) ist das Schweizerdeutsche Wort für Motorrad. Dementsprechend geht es hier um Motorräder und um das Motorradfahren in der Schweiz und in der ganzen Welt. Ich wünsche allen gute Fahrt, allzeit Benzin im Tank."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/toeff"

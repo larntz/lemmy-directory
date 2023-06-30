@@ -3,7 +3,7 @@ title: "Algarve"
 name: "algarve"
 description: "A subreddit for anything and everything relating to the Algarve, a region in beautiful southern Portugal. Em Português and in English."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/algarve"

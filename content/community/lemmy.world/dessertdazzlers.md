@@ -3,7 +3,7 @@ title: "Dessert Dazzlers"
 name: "dessertdazzlers"
 description: "Indulge your sweet tooth while pretending to be an avant-garde pastry Picasso.  Join us as we transform edible treats into questionably dazzling masterpieces."
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dessertdazzlers"

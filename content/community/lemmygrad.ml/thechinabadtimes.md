@@ -3,7 +3,7 @@ title: "The China Bad Times Expanded Universe"
 name: "thechinabadtimes"
 description: "r/Chinaevil from reddit revival. A news source that is 100% reliable and posts true news about how bad Xinnie & friends are."
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/thechinabadtimes"

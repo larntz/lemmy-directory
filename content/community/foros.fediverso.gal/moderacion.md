@@ -3,7 +3,7 @@ title: "Moderación"
 name: "moderacion"
 description: "Comunidade especifica para debatir cousas de moderación do fediverso.gal"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/moderacion"

@@ -3,7 +3,7 @@ title: "StockMarket"
 name: "stockmarket"
 description: "Stock market news, Trading, investing, long term, short term traders, daytrading, technical analysis, fundamental analysis and more."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stockmarket"

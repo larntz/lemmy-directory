@@ -3,7 +3,7 @@ title: "Lemmy Help"
 name: "lemmy_help"
 description: "A community to post helpful information about Lemmy. Need some help? @fernchatadmin runs Lemmy with Portainer and Ngnix Proxy Manager."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://fernchat.esotericmonkey.com/c/lemmy_help"

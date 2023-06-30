@@ -3,12 +3,12 @@ title: "Mountain Dew"
 name: "mountaindew"
 description: "Professionally Citrusy"
 type: community
-date: "2023-06-29 12:37:58"
+date: "2023-06-30 13:17:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mountaindew"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:58"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 03:25:37"
 subscribers: 3
 posts: 0

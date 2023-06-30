@@ -3,14 +3,14 @@ title: "Cryptid Lore"
 name: "cryptidlore"
 description: "Stories and art about our favorite hypothetical creatures!"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lem.monster/c/cryptidlore"
 host: lem.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 07:19:11"
-subscribers: 34
+subscribers: 35
 posts: 2
 comments: 8
 weight: 2

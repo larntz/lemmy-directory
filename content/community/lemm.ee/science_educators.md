@@ -3,12 +3,12 @@ title: "Science Educators"
 name: "science_educators"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:59"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/science_educators"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 22:34:18"
 subscribers: 19
 posts: 0

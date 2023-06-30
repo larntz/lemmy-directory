@@ -3,14 +3,14 @@ title: "Personal Finance"
 name: "personalfinance"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:46"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/personalfinance"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:46"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 01:47:32"
-subscribers: 20
+subscribers: 26
 posts: 1
 comments: 0
 weight: 1

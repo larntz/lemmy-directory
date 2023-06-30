@@ -3,7 +3,7 @@ title: "Destiny 2"
 name: "destiny2"
 description: "A community for the Bungie games Destiny and Destiny 2. Post builds, news, memes, and more. [*Icon by @guardian_waitie on Picrew*]"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/destiny2"

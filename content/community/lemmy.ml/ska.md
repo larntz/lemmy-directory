@@ -3,7 +3,7 @@ title: "Ska"
 name: "ska"
 description: "# Ska Never DiedShare your favorite ska music, thoughts, and memes.*Post Guidelines*1. Must be relevant to ska2. Please include artist name and song title3. No bigotry"
 type: community
-date: "2023-06-29 12:36:24"
+date: "2023-06-30 13:15:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ska"

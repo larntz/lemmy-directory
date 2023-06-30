@@ -3,7 +3,7 @@ title: "Lincoln"
 name: "lincoln"
 description: "Lincoln,NE"
 type: community
-date: "2023-06-29 12:38:09"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lincoln"

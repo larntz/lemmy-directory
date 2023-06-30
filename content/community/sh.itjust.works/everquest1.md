@@ -3,7 +3,7 @@ title: "EverQuest"
 name: "everquest1"
 description: "A community for discussing the original EverQuest game. Live servers, TLPs, and emulated server discussions are all welcome."
 type: community
-date: "2023-06-29 12:35:21"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/everquest1"

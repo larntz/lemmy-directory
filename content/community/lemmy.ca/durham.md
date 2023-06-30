@@ -3,7 +3,7 @@ title: "Region of Durham"
 name: "durham"
 description: "Community for Durham region-related news/discussion."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/durham"
@@ -15,7 +15,7 @@ posts: 11
 comments: 19
 weight: 11
 dau: 1
-wau: 3
+wau: 2
 mau: 6
 instances:
 - "lemmy_ca"

@@ -3,7 +3,7 @@ title: "Metroid"
 name: "metroid"
 description: "Welcome to c/Metroid! Feel free to post any* news, questions, art, cosplay or anything else relating to the Metroid franchise!Rules:- 1. Be a decent human being.- 2. Fanart must be credited.- 3. No untagged spoilers of new games."
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/metroid"

@@ -3,7 +3,7 @@ title: "GrayT! Data Hoarders Group"
 name: "grayt"
 description: "Abandoning the sinking reddit shipThis is for members of the GrayT FTPIf you need to contact me please either use the Discord https://discord.gg/9Nm44xMucw  or join the new community here at Lemmy  "
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/grayt"

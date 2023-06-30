@@ -3,7 +3,7 @@ title: "Muse "
 name: "muse"
 description: "A community for the rock band Muse "
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/muse"
@@ -15,8 +15,8 @@ posts: 4
 comments: 2
 weight: 4
 dau: 0
-wau: 0
-mau: 0
+wau: 3
+mau: 3
 instances:
 - "feddit_uk"
 tags: 

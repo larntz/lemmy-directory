@@ -3,12 +3,12 @@ title: "Instagram"
 name: "instagram"
 description: "Discussions related to Instagram- https://instagram.com"
 type: community
-date: "2023-06-29 12:36:30"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/instagram"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:30"
+lastmod: "2023-06-10 01:22:36"
 published: "2020-06-28 23:30:24"
 subscribers: 16
 posts: 5

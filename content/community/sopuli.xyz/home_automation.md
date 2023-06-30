@@ -3,7 +3,7 @@ title: "Home Automation Devices and Softwares"
 name: "home_automation"
 description: "A community for the general discussion of Home Automation Software and Devices"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/home_automation"

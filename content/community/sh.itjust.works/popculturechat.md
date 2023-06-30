@@ -3,7 +3,7 @@ title: "popculturechat"
 name: "popculturechat"
 description: "For serious gossips with a great sense of humor. No bores, no bullies. Come for the gossip, stay for the analysis & community."
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/popculturechat"
@@ -14,7 +14,7 @@ subscribers: 107
 posts: 7
 comments: 10
 weight: 7
-dau: 5
+dau: 1
 wau: 5
 mau: 11
 instances:

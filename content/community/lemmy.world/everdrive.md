@@ -3,7 +3,7 @@ title: "Everdrive"
 name: "everdrive"
 description: "/r/Everdrive Alternative"
 type: community
-date: "2023-06-29 12:37:49"
+date: "2023-06-30 13:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/everdrive"

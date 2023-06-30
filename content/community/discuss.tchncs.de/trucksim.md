@@ -3,7 +3,7 @@ title: "Truck Sim"
 name: "trucksim"
 description: "**Truck Sim** is a community for anyone who enjoys trucking simulators.While SCS's simulators seem to be the most popular, it is not limited to a specific video game. Even IRL truckers are welcome!Share your setups, (IRL) rigs, memes or questions.Have fun!  🚚 "
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/trucksim"

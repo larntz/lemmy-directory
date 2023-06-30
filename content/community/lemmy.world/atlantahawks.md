@@ -3,7 +3,7 @@ title: "AtlantaHawks"
 name: "atlantahawks"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/atlantahawks"
@@ -15,7 +15,7 @@ posts: 3
 comments: 0
 weight: 3
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"

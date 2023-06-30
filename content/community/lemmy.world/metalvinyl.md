@@ -3,7 +3,7 @@ title: "MetalVinyl"
 name: "metalvinyl"
 description: "The first (?) metal vinyl lemmy for you folks. We do not tolerate hatespeech or NS imagery.  This place is for posting your collection, upcoming metal releases and general discussion about metal records."
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/metalvinyl"

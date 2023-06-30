@@ -3,7 +3,7 @@ title: "Oboe"
 name: "oboe"
 description: "A community for oboists and oboe fans. (Also all other instruments from the oboe family are welcome.)"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oboe"

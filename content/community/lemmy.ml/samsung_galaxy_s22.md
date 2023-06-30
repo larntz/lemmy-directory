@@ -3,7 +3,7 @@ title: "Samsung Galaxy S22"
 name: "samsung_galaxy_s22"
 description: "Community dedicated to news, discussion, and questions about the Galaxy S22 series and related Samsung products."
 type: community
-date: "2023-06-29 12:36:24"
+date: "2023-06-30 13:15:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/samsung_galaxy_s22"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "2023-06-18 15:10:28"
 published: "2023-06-18 15:03:15"
 subscribers: 7
-posts: 1
+posts: 0
 comments: 0
-weight: 1
+weight: 0
 dau: 1
 wau: 1
 mau: 1

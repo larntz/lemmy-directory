@@ -3,7 +3,7 @@ title: "Videos"
 name: "videos"
 description: "Post videos that you enjoy and think others should see. Generally short-form content in the style of TikTok and Vine should go elsewhere."
 type: community
-date: "2023-06-29 12:35:13"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/videos"

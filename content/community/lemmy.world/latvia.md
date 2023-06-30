@@ -3,7 +3,7 @@ title: "Latvia"
 name: "latvia"
 description: "All Things Latvian!"
 type: community
-date: "2023-06-29 12:37:55"
+date: "2023-06-30 13:17:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/latvia"
@@ -15,7 +15,7 @@ posts: 1
 comments: 3
 weight: 1
 dau: 1
-wau: 1
+wau: 2
 mau: 3
 instances:
 - "lemmy_world"

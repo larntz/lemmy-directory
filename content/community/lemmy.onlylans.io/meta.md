@@ -3,7 +3,7 @@ title: "Meta (lemmy.onlylans.io)"
 name: "meta"
 description: "Discussions about the lemmy.onlylans.io instance and how to get started with Lemmy.### Attributions:Original Icon: [flaticon.com](https://www.flaticon.com/free-icons/cog)"
 type: community
-date: "2023-06-29 12:34:42"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.onlylans.io/c/meta"
@@ -15,7 +15,7 @@ posts: 4
 comments: 14
 weight: 4
 dau: 1
-wau: 3
+wau: 1
 mau: 4
 instances:
 - "lemmy_onlylans_io"

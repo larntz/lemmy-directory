@@ -3,7 +3,7 @@ title: "moonboot labs"
 name: "mbl"
 description: "General announcements and support community for the moonboot labs Lemmy instance"
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.mbl.social/c/mbl"

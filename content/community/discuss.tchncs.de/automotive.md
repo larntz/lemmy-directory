@@ -3,7 +3,7 @@ title: "Automotive Industry"
 name: "automotive"
 description: "News and discussion about the automotive industry."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/automotive"
@@ -11,9 +11,9 @@ host: discuss.tchncs.de
 lastmod: "2023-06-22 13:35:59"
 published: "2023-06-13 14:57:15"
 subscribers: 44
-posts: 16
+posts: 18
 comments: 4
-weight: 16
+weight: 18
 dau: 1
 wau: 3
 mau: 4

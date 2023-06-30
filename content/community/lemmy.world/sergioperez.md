@@ -3,7 +3,7 @@ title: "Sergio “Checo” Perez"
 name: "sergioperez"
 description: "Community for Mexican Formula 1 driver Sergio “Checo” Perez. // Comunidad para el piloto mexicano de Fórmula 1 Sergio “Checo” Pérez."
 type: community
-date: "2023-06-29 12:38:00"
+date: "2023-06-30 13:17:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sergioperez"

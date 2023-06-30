@@ -3,7 +3,7 @@ title: "Halo"
 name: "halogame"
 description: "Welcome to the Halo Lemmy! Here you can talk about anything related to the 343/Bungie games.Not affiliated with Xbox, 343, Bungie, related communities or any other official party."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/halogame"

@@ -3,7 +3,7 @@ title: "Europe News"
 name: "europe_news"
 description: "For news about Europe. Any other posts will be deleted."
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europe_news"
@@ -15,7 +15,7 @@ posts: 11
 comments: 2
 weight: 11
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_ml"

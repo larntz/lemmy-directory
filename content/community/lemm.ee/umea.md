@@ -3,7 +3,7 @@ title: "Umeå"
 name: "umea"
 description: "Gemenskap för allting Umeå."
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/umea"

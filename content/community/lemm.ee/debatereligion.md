@@ -3,7 +3,7 @@ title: "Debate Religion"
 name: "debatereligion"
 description: "A new place for open-minded people to debate religious claims and questions. "
 type: community
-date: "2023-06-29 12:34:59"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/debatereligion"

@@ -3,7 +3,7 @@ title: "slovakia"
 name: "slovakia"
 description: "Stuff about Slovakia, discussions, politics, memes, advice, help etc."
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/slovakia"

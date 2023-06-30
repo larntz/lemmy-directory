@@ -3,7 +3,7 @@ title: "Vegetarian"
 name: "vegetarian"
 description: "For those that are thinking of cutting down on meat or do have a vegetarian diet."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://no.lastname.nz/c/vegetarian"

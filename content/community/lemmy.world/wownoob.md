@@ -3,7 +3,7 @@ title: "WoW Noob"
 name: "wownoob"
 description: "The original r/wownoob community. Whether you're stepping foot into Azeroth for the first time or are a seasoned veteran, our community is here to offer guidance, support, and a friendly atmosphere.**Join us on [the wownoob Discord](www.discord.gg/wownoob)!**"
 type: community
-date: "2023-06-29 12:37:51"
+date: "2023-06-30 13:17:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wownoob"

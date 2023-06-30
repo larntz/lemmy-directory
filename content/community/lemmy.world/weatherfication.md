@@ -3,7 +3,7 @@ title: "Weatherfication"
 name: "weatherfication"
 description: "Weatherfication: Your new severe weather headquarters!"
 type: community
-date: "2023-06-29 12:37:50"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weatherfication"

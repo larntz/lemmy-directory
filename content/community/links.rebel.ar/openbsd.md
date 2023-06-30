@@ -3,7 +3,7 @@ title: "OpenBSD"
 name: "openbsd"
 description: "Comunidad OpenBSD  "
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://links.rebel.ar/c/openbsd"
@@ -15,7 +15,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "links_rebel_ar"

@@ -3,14 +3,14 @@ title: "Apple"
 name: "inedible_apple"
 description: "# WelcomeA community for everything Apple.## Rules:1. No NSFW Content.2. No Hate Speech or Personal Attacks.3. No Ads / Spamming."
 type: community
-date: "2023-06-29 12:35:09"
+date: "2023-06-30 13:14:08"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/inedible_apple"
 host: discuss.online
 lastmod: "2023-06-26 02:50:34"
 published: "2023-06-19 01:58:41"
-subscribers: 7
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

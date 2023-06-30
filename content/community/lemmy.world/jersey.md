@@ -3,7 +3,7 @@ title: "Jersey (CI)"
 name: "jersey"
 description: "Séyiz les beinv'nus à l'subreddit dé Jèrri! Welcome to the Jersey community!This community is about Jersey, a British island off the coast of France."
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-06-30 13:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jersey"

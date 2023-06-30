@@ -3,14 +3,14 @@ title: "Nerdcore"
 name: "nerdcore"
 description: "A place to share Nerdcore music and related content."
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nerdcore"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 15:01:41"
-subscribers: 12
+subscribers: 13
 posts: 1
 comments: 1
 weight: 1

@@ -3,7 +3,7 @@ title: "Skiing community"
 name: "skiing"
 description: "Placeholder for now. As the community grows, it’ll get cleaned up "
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/skiing"

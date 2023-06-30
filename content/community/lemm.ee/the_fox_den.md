@@ -3,12 +3,12 @@ title: "The Fox Den"
 name: "the_fox_den"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/the_fox_den"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 15:24:16"
 subscribers: 2
 posts: 0

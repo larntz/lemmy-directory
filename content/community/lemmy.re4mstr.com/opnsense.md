@@ -3,7 +3,7 @@ title: "OPNsense"
 name: "opnsense"
 description: "Community for the OPNsense firewall.Mostly updates from the announcement section in the forums.# Links- https://opnsense.org/- https://forum.opnsense.org/"
 type: community
-date: "2023-06-29 12:34:54"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.re4mstr.com/c/opnsense"

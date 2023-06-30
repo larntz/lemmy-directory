@@ -3,7 +3,7 @@ title: "Nuclear Power"
 name: "nuclear_power"
 description: "A community discussing nuclear power, including fission and fusion. The goal is to talk about generated nuclear power, so avoid simply talking about stars or something unless it is relevant.## Rules1. Stay on topic1. Behave yourself1. No trolling, spamming etc.1. Follow lemmy.ml’s code of conduct"
 type: community
-date: "2023-06-29 12:36:27"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nuclear_power"

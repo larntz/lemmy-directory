@@ -3,14 +3,14 @@ title: "The Lemmy Baseball community"
 name: "baseball"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/baseball"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 16:14:54"
-subscribers: 148
+subscribers: 149
 posts: 15
 comments: 20
 weight: 15

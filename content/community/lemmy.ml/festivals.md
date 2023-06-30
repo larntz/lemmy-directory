@@ -3,7 +3,7 @@ title: "Festivals"
 name: "festivals"
 description: "Music festivals of any kind. Feel free to post News, Pictures, Lineups, Upcoming shows, Videos, Ask Questions, etc."
 type: community
-date: "2023-06-29 12:36:23"
+date: "2023-06-30 13:15:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/festivals"

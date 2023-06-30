@@ -3,14 +3,14 @@ title: "Hamsters"
 name: "hamsters"
 description: "This is a community to post cute pics of your hamsters and hamster enclosures and to discuss everything surrounding our favorite pets.Pictures or Posts depicting the abuse or improper care of hamsters are not allowed."
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-06-30 13:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hamsters"
 host: lemmy.world
 lastmod: "2023-06-21 11:38:02"
 published: "2023-06-21 11:31:53"
-subscribers: 11
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

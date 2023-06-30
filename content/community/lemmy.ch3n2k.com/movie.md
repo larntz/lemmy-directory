@@ -3,7 +3,7 @@ title: "影视速递"
 name: "movie"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ch3n2k.com/c/movie"

@@ -3,7 +3,7 @@ title: "Player Pianos"
 name: "playerpiano"
 description: "A community for player piano enthusiasts."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/playerpiano"

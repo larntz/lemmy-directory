@@ -3,7 +3,7 @@ title: " Education Hub"
 name: "educationhub"
 description: "Many Comrades try to get an education at Bourgeoise schools to help better society by learning things like medicine or geography. But things can be tough sometimes, so help each other out if you're struggling in school or university! "
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/educationhub"

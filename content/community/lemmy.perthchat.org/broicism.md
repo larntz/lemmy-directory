@@ -3,7 +3,7 @@ title: "Broicism: Stoicism for Manly Men"
 name: "broicism"
 description: "Stop being a beta cuck and just work out bro. Facts don't care about your feelings bro.Represent your emotions broMade this sub to copy paste people's replies when we/I ask for advice about a questions like my dog just died, how do I stop crying and the Chad users tells me to just work out. But im not really sure the direction, you and me will know it when we see it tm."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/broicism"

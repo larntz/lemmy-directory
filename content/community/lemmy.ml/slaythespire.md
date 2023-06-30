@@ -3,7 +3,7 @@ title: "Slay the Spire"
 name: "slaythespire"
 description: "A place to discuss Slay the Spire the video game"
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/slaythespire"

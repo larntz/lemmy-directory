@@ -3,7 +3,7 @@ title: "Lemmy Bots"
 name: "bots"
 description: "Community to share the development and announcement of new bots for Lemmy as well as helping users to use them."
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bots"

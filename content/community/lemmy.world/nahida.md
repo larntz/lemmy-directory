@@ -3,7 +3,7 @@ title: "Nahida"
 name: "nahida"
 description: "A sub for testing scripts/bots.Currently working on a script that automatically mirrors content from Reddit."
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nahida"

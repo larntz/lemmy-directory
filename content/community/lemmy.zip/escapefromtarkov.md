@@ -3,7 +3,7 @@ title: "Escape from Tarkov"
 name: "escapefromtarkov"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/escapefromtarkov"
@@ -14,7 +14,7 @@ subscribers: 4
 posts: 1
 comments: 2
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

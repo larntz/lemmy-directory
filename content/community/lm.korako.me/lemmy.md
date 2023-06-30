@@ -3,7 +3,7 @@ title: "Lemmyの話題"
 name: "lemmy"
 description: "Lemmyに関する話題をなんでもどうぞ（日本語向け）"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/lemmy"
@@ -15,7 +15,7 @@ posts: 23
 comments: 41
 weight: 23
 dau: 1
-wau: 5
+wau: 4
 mau: 7
 instances:
 - "lm_korako_me"

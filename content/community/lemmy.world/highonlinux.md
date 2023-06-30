@@ -3,14 +3,14 @@ title: "highonlinux"
 name: "highonlinux"
 description: "Everything Linux, a sub for Linux enthusiasts. "
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/highonlinux"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 13:12:50"
-subscribers: 28
+subscribers: 30
 posts: 2
 comments: 0
 weight: 2

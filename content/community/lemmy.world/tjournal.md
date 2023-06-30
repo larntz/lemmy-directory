@@ -3,12 +3,12 @@ title: "TJournal (True_TJ + TJournal_refugees)"
 name: "tjournal"
 description: "Tjournal is an anti-war, pro-Ukraine community formed on the ruins of TJournal.ru, a social website that closed due to pressure from the Russian government."
 type: community
-date: "2023-06-29 12:37:50"
+date: "2023-06-30 13:17:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tjournal"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:50"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 16:44:40"
 subscribers: 6
 posts: 2

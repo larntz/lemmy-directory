@@ -3,7 +3,7 @@ title: "Tactics and Organizing"
 name: "organizing"
 description: "Let's brainstorm ways to be of help in the real world!"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/organizing"

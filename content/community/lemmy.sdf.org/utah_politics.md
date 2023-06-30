@@ -3,7 +3,7 @@ title: "Utah Politics"
 name: "utah_politics"
 description: "Discussions with recommendations how to make Utah better from a progressive bias."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/utah_politics"

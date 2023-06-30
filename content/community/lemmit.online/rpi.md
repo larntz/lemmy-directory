@@ -3,7 +3,7 @@ title: "Rensselaer Polytechnic Institute"
 name: "rpi"
 description: "Welcome to Rensselaer Polytechnic Institute's subreddit. Home of Puckman and the 'Tute Screw."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/rpi"

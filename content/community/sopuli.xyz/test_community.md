@@ -3,7 +3,7 @@ title: "Test community. "
 name: "test_community"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/test_community"
@@ -15,7 +15,7 @@ posts: 22
 comments: 20
 weight: 22
 dau: 1
-wau: 2
+wau: 1
 mau: 20
 instances:
 - "sopuli_xyz"

@@ -3,7 +3,7 @@ title: "Free Speech"
 name: "free_speech"
 description: "Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers."
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/free_speech"

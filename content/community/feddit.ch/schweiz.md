@@ -3,7 +3,7 @@ title: "Schweiz"
 name: "schweiz"
 description: "A community dedicated to photographs of Switzerland. Whether it's cities, mountains, the Patrouille Suisse, forests, Fasnacht, landscapes, 1st of August fireworks, rivers, glaciers, Roger Federer or villages, anything Switzerland is allowed."
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ch/c/schweiz"

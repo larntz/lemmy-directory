@@ -3,7 +3,7 @@ title: "Waukesha"
 name: "waukesha"
 description: "Hopefully this is a welcoming community - please post things about our great city of Waukesha WI!"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/waukesha"

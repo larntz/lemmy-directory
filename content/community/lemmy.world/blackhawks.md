@@ -3,17 +3,17 @@ title: "Chicago Blackhawks"
 name: "blackhawks"
 description: "A community to discuss the Chicago Blackhawks"
 type: community
-date: "2023-06-29 12:37:54"
+date: "2023-06-30 13:17:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blackhawks"
 host: lemmy.world
 lastmod: "2023-06-21 02:03:56"
 published: "2023-06-15 16:30:05"
-subscribers: 19
-posts: 4
+subscribers: 21
+posts: 5
 comments: 11
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 5

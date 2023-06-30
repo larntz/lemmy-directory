@@ -3,7 +3,7 @@ title: "Help"
 name: "help"
 description: "Need help with your user experience? Ask away!"
 type: community
-date: "2023-06-29 12:37:40"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/help"

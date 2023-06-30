@@ -3,7 +3,7 @@ title: "DnD Chat"
 name: "dnd_chat"
 description: "Community for general chatter about Dungeons and Dragons.Strictly zero art posts, Text Only, Super Serious*reserving for future use by /c/dnd*"
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dnd_chat"

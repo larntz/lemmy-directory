@@ -3,7 +3,7 @@ title: "linuxediting"
 name: "linuxediting"
 description: "This is community for editing in GNU/Linux, photo editing, video editing, audio editing, 3D animation, etc. This community will be featuring tools/software which are available for linux natively. Feel free to post your content, tutorial, or any suggestions. "
 type: community
-date: "2023-06-29 12:38:02"
+date: "2023-06-30 13:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/linuxediting"

@@ -3,7 +3,7 @@ title: "Yu-Gi-Oh!"
 name: "yugioh"
 description: "Yu-Gi-Oh! enthusiasts are welcome to post, discuss, and or share content related to the franchise. ---------------------------------------Keep it respectful. NSFW is not permitted since this series is targeted to all ages. Avoid off topic posts or spamming. Credit the artist. Lastly, Advertising must go through moderator approval."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/yugioh"

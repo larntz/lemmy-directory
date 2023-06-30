@@ -3,14 +3,14 @@ title: "mechanicalkeyboards"
 name: "mechanicalkeyboards"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:34"
+date: "2023-06-30 13:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mechanicalkeyboards"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:34"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 16:30:47"
-subscribers: 21
+subscribers: 26
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "sardines"
 name: "sardines"
 description: "This is for the _game_ Sardines, not the fish."
 type: community
-date: "2023-06-29 12:35:12"
+date: "2023-06-30 13:14:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.xcoolgroup.com/c/sardines"

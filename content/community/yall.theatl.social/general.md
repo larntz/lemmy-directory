@@ -3,7 +3,7 @@ title: "general"
 name: "general"
 description: "A little bit of everything."
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:49"
 draft: false
 nsfw: false
 actor_id: "https://yall.theatl.social/c/general"
@@ -15,7 +15,7 @@ posts: 4
 comments: 7
 weight: 4
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "yall_theatl_social"

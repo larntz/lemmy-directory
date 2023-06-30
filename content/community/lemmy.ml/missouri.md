@@ -3,7 +3,7 @@ title: "Missouri | The Show-Me State"
 name: "missouri"
 description: "A place for discussion on all things MO."
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/missouri"

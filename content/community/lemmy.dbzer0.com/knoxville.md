@@ -3,7 +3,7 @@ title: "Knoxville"
 name: "knoxville"
 description: "A community for Knoxville, TN"
 type: community
-date: "2023-06-29 12:35:17"
+date: "2023-06-30 13:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/knoxville"

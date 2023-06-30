@@ -3,7 +3,7 @@ title: "Clacksmith"
 name: "clacksmith"
 description: "A place for all things about dice making. Ask questions,  get advice, show off your creations!"
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-06-30 13:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/clacksmith"

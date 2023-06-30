@@ -3,7 +3,7 @@ title: "Crystal Lang"
 name: "crystal_lang"
 description: "A community to discuss the [Crystal programming language](https://crystal-lang.org).## RulesNothing much for now, just follow sitewide rules and stay on topic. ## Useful Links- [Github Repo](https://github.com/crystal-lang/crystal)- [Standard Library Reference](https://crystal-lang.org/api/1.8.2/)- [Crystal Book](https://crystal-lang.org/reference/latest)- [Crystal Blog](https://crystal-lang.org/blog)- [Official Forum](https://forum.crystal-lang.org)- [Run Crystal Online](https://play.crystal-lang.org/#/cr)- [Awesome Crystal](https://github.com/veelenga/awesome-crystal)"
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crystal_lang"

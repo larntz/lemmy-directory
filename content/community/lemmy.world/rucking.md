@@ -3,7 +3,7 @@ title: "rucking"
 name: "rucking"
 description: "A community for people who enjoy carrying heavy things on their backs for long distances. Blisters and chafing not required.::: spoiler spoiler___:::"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rucking"

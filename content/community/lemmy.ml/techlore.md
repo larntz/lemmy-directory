@@ -3,7 +3,7 @@ title: "Techlore"
 name: "techlore"
 description: "Techlore is a source of awareness and advocacy for spreading privacy and security to the masses. We manage several communities, projects, and other content to fight for a more private world."
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techlore"

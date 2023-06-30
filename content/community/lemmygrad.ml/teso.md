@@ -3,7 +3,7 @@ title: "The Elder Scrolls Online"
 name: "teso"
 description: "A community for the game Elder Scrolls Online, an MMORPG based on Bethesda's Elder Scrolls series, and other things related to the wider Elder Scrolls series."
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/teso"

@@ -3,7 +3,7 @@ title: "Wireless Networking"
 name: "wireless"
 description: "Enterprise WiFi Networking"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/wireless"

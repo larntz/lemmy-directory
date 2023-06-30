@@ -3,7 +3,7 @@ title: "Tales From The Customer"
 name: "talesfromthecustomer"
 description: "A places for customers to vent and rage and even smile about their customer service experiences."
 type: community
-date: "2023-06-29 12:37:47"
+date: "2023-06-30 13:17:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/talesfromthecustomer"

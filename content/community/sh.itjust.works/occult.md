@@ -3,7 +3,7 @@ title: "Occult"
 name: "occult"
 description: "The place for all occult discussion on Lemmy. More coming soon!"
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/occult"

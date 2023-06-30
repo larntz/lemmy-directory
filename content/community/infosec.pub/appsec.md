@@ -3,14 +3,14 @@ title: "appsec"
 name: "appsec"
 description: "A community for all things related to application security."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/appsec"
 host: infosec.pub
 lastmod: "2023-06-16 20:27:02"
 published: "2023-06-15 10:24:17"
-subscribers: 20
+subscribers: 21
 posts: 1
 comments: 0
 weight: 1

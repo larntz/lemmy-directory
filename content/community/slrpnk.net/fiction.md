@@ -3,7 +3,7 @@ title: "Fiction"
 name: "fiction"
 description: "Solarpunk themed fiction. Books, short stories, movies, games... pretty much anything you can dream of!"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/fiction"
@@ -15,7 +15,7 @@ posts: 18
 comments: 55
 weight: 18
 dau: 1
-wau: 11
+wau: 9
 mau: 28
 instances:
 - "slrpnk_net"

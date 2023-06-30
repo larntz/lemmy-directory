@@ -3,7 +3,7 @@ title: ".NET"
 name: "dotnet"
 description: "This community is dedicated to providing a thriving ecosystem for developers, enthusiasts, and learners of .NET. Whether you're a seasoned professional or just starting your journey with .NET, this is the place to connect, share, and expand your knowledge."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/dotnet"

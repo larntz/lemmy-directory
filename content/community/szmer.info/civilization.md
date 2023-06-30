@@ -3,14 +3,14 @@ title: "historie / news / worldwide"
 name: "civilization"
 description: "takie tam anegdoty społeczno-cywilizacyjne ¯_(ツ)_/¯"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/civilization"
 host: szmer.info
 lastmod: "2021-03-20 22:54:05"
 published: "2020-10-13 12:36:55"
-subscribers: 60
+subscribers: 61
 posts: 50
 comments: 36
 weight: 50

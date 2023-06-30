@@ -3,7 +3,7 @@ title: "outdoors"
 name: "outdoors"
 description: "A community about hiking, backpacking and outdoor camping."
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/outdoors"
@@ -15,7 +15,7 @@ posts: 5
 comments: 7
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 7
 instances:
 - "lemmy_ml"

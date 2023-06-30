@@ -3,7 +3,7 @@ title: "Monster Of The Week"
 name: "monsteroftheweek"
 description: "A community for fans of the PbtA RPG Monster of the Week. Together we can discuss our cases, characters, and answer questions!"
 type: community
-date: "2023-06-29 12:37:43"
+date: "2023-06-30 13:17:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/monsteroftheweek"

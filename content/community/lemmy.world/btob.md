@@ -3,7 +3,7 @@ title: "BTOB"
 name: "btob"
 description: "Community for BTOB and Melody."
 type: community
-date: "2023-06-29 12:37:52"
+date: "2023-06-30 13:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/btob"

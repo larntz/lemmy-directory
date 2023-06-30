@@ -3,7 +3,7 @@ title: "Portugal"
 name: "patria"
 description: "Comunidade do lemmy dedicada ao nosso país, onde todos são bem vindos.Promovemos participantes de todas as nacionalidades, desde que o comum seja a lingua Portuguesa, que tenham interesse em assuntos que passem por esta pequena mas grande nação que está no nosso coração! Código de conduta:Sejam simpáticos, não ofendam outros. "
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/patria"

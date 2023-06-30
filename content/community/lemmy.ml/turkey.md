@@ -3,7 +3,7 @@ title: "Turkey | Türkiye"
 name: "turkey"
 description: "This community is for news and discussion about Turkey. Posts both in English and Turkish are welcome. | Bu topluluk Türkiye ile ilgili haber ve sohbet ortamıdır. Türkçe veya İngilizce yazabilirsiniz."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/turkey"

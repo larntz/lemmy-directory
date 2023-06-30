@@ -3,7 +3,7 @@ title: "c/LifeProTips"
 name: "lifeprotips"
 description: "All of us live different lives, but there are aspects of life some of us have endured countless times. What are your life pro tips?********************************************Please Observe Instance Rules:**1. Do not violate any laws, third-party rights, and/or proprietary rights.2. Do not harass others, be abusive, threatening, and/or harmful.3. Do not be needlessly defamatory and/or intentionally misleading.4. Do not upload without marking obscene and/or sensitive content as such.5. Do not promote racism, bigotry, hatred, harm, and violence of any kind."
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://chat.maiion.com/c/lifeprotips"

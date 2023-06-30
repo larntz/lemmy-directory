@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "Community for testing lemmy"
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/test"
@@ -14,7 +14,7 @@ subscribers: 10
 posts: 5
 comments: 18
 weight: 5
-dau: 4
+dau: 1
 wau: 6
 mau: 18
 instances:

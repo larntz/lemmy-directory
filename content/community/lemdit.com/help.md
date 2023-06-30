@@ -3,7 +3,7 @@ title: "Lemmy Help"
 name: "help"
 description: "Share knowledge that will help new users navigate Lemmy and the Fediverse. Lemmy related questions, tips, tricks and guides are all welcome."
 type: community
-date: "2023-06-29 12:35:02"
+date: "2023-06-30 13:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemdit.com/c/help"

@@ -1,22 +1,22 @@
 ---
-title: "Unix porn" 
+title: "Unixporn" 
 name: "unixporn"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unixporn"
 host: lemmy.ml
-lastmod: "2021-02-15 00:49:44"
+lastmod: "2023-06-30 00:29:33"
 published: "2019-05-03 17:46:46"
-subscribers: 5756
-posts: 206
-comments: 765
-weight: 206
+subscribers: 5819
+posts: 208
+comments: 774
+weight: 208
 dau: 8
-wau: 104
-mau: 216
+wau: 103
+mau: 221
 instances:
 - "lemmy_ml"
 tags: 

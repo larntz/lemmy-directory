@@ -3,7 +3,7 @@ title: "Lahore"
 name: "lahore"
 description: "A community for the city of Lahore, Pakistan. Anything goes, as long as it's relevant to the residents of the city.WTB/WTS allowed, but obvious ads disguised as interesting posts are not.Icon by Maxime Amoudruz on Dribbble."
 type: community
-date: "2023-06-29 12:35:17"
+date: "2023-06-30 13:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/lahore"

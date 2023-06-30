@@ -3,14 +3,14 @@ title: "Low poly!"
 name: "low_poly"
 description: "A Lemmy community dedicated to low-poly 3D models! Nothing here just yet"
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/low_poly"
 host: lemmy.world
 lastmod: "2023-06-26 07:41:56"
 published: "2023-06-26 07:40:45"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

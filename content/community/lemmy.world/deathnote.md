@@ -1,14 +1,14 @@
 ---
 title: "Death Note" 
 name: "deathnote"
-description: "**The Death Note community.**Also see alternative instances here:- https://kbin.social/m/deathnote- https://lemmy.world/c/deathnoteFor now, there are no rules. Feel free to post anything that follows the overall instance’s rules. The post must be related to Death Note."
+description: "**The Death Note community.**For now, there are no rules. Feel free to post anything that follows the overall instance’s rules. The post must be related to Death Note."
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/deathnote"
 host: lemmy.world
-lastmod: "2023-06-28 06:21:37"
+lastmod: "2023-06-29 12:41:51"
 published: "2023-06-28 03:01:43"
 subscribers: 5
 posts: 2

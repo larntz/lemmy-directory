@@ -3,12 +3,12 @@ title: "PS4 Homebrew - Hacks and Mods for the PS4!"
 name: "ps4homebrew"
 description: "News, releases, and discussion regarding the PS4 jailbreak, homebrew, and mods."
 type: community
-date: "2023-06-29 12:36:30"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ps4homebrew"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:30"
+lastmod: "2023-06-10 19:06:17"
 published: "2023-06-10 19:04:25"
 subscribers: 9
 posts: 1

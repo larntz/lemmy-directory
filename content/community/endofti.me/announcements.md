@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "Messages from the manglement."
 type: community
-date: "2023-06-29 12:35:04"
+date: "2023-06-30 13:14:05"
 draft: false
 nsfw: false
 actor_id: "https://endofti.me/c/announcements"

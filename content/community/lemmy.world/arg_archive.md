@@ -3,7 +3,7 @@ title: "ARG Archive"
 name: "arg_archive"
 description: "Placeholder.##### What is an ARG?An alternate reality game (ARG) is an interactive networked narrative that uses the real world as a platform and employs transmedia storytelling to deliver a story that may be altered by players' ideas or actions."
 type: community
-date: "2023-06-29 12:37:58"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arg_archive"

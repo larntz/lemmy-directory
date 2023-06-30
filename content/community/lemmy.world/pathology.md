@@ -3,14 +3,14 @@ title: "Pathology"
 name: "pathology"
 description: "A community for interesting things and photos related to pathology!I will be tagging photos of macroscopic pathology with NSFW just in case someone isn't ready to view such photos.  The photos are by no means meant to shock."
 type: community
-date: "2023-06-28 14:06:13"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pathology"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:13"
+lastmod: "2023-06-10 23:32:02"
 published: "2023-06-10 14:21:37"
-subscribers: 41
+subscribers: 44
 posts: 6
 comments: 4
 weight: 6

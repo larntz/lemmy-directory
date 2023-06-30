@@ -3,7 +3,7 @@ title: "ecommurz"
 name: "ecommurz"
 description: "Indo Tech Execs & Workers Community"
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ecommurz"

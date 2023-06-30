@@ -3,7 +3,7 @@ title: "CW Talk"
 name: "cw_talk"
 description: "Any and everything CW### Useful Links- [ARRL: Learning Morse Code](http://www.arrl.org/learning-morse-code)- [Learn CW Online](https://lcwo.net/)- [CW Ops Academy](https://cwops.org/cw-academy/)"
 type: community
-date: "2023-06-29 12:34:41"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/cw_talk"

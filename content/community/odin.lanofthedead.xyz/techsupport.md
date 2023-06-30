@@ -3,7 +3,7 @@ title: "Tech Support"
 name: "techsupport"
 description: "Tech Support for both of those services in the LANoftheDead network and for another other types of questions. Art done by AI with Stable Diffusion."
 type: community
-date: "2023-06-29 12:35:12"
+date: "2023-06-30 13:14:15"
 draft: false
 nsfw: false
 actor_id: "https://odin.lanofthedead.xyz/c/techsupport"

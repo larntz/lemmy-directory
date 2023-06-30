@@ -3,14 +3,14 @@ title: "Hardstyle"
 name: "hardstyle"
 description: "The home of the harder styles."
 type: community
-date: "2023-06-28 14:06:13"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hardstyle"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:13"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 08:28:36"
-subscribers: 14
+subscribers: 16
 posts: 2
 comments: 0
 weight: 2

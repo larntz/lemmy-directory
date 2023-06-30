@@ -3,7 +3,7 @@ title: "Librandu"
 name: "librandu"
 description: "A place for all the libcucks, femoids, salad-eaters, and Macaulayputras of India. Hindutva trans women are welcome."
 type: community
-date: "2023-06-29 12:37:59"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/librandu"

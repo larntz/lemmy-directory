@@ -3,7 +3,7 @@ title: "Comunidad texto-plano.xyz"
 name: "texto_plano_xyz"
 description: "**Texto-plano.xyz** es una comunidad abierta e independiente de habla hispana, que comparte un sistema informático muy pequeño de acceso seguro. Es considerada la primer tilde en castellano y forma parte del *Tildeverso*. Su visión es la de constituirse en un medio de aprendizaje telemático recreativo, cooperativo, minimalista y no comercial. "
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://links.rebel.ar/c/texto_plano_xyz"
@@ -15,7 +15,7 @@ posts: 4
 comments: 3
 weight: 4
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "links_rebel_ar"

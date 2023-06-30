@@ -3,7 +3,7 @@ title: "Mobilität der Zukunft"
 name: "mobilitaet"
 description: "Hier geht es um alles rund um umweltfreundliche und sozialverträgliche Mobilität."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mobilitaet"

@@ -3,7 +3,7 @@ title: "Lemdit Official"
 name: "lemdit"
 description: "This place is for all things Lemdit."
 type: community
-date: "2023-06-29 12:35:02"
+date: "2023-06-30 13:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemdit.com/c/lemdit"

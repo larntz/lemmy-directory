@@ -3,12 +3,12 @@ title: "PokemonTCG"
 name: "pokemontcg"
 description: "A community for players of the Pokemon Trading Card Game to show off pulls and discuss the game.Treat others with respect Stay on topicSealed content must be part of a collection**Dont:** promote, sell/trade/buy, post referrals, beg for codes, beg for authentication help, advocate pack weighing"
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pokemontcg"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:31"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-07 18:07:52"
 subscribers: 8
 posts: 1

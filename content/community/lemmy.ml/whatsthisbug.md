@@ -3,7 +3,7 @@ title: "What's this Bug?"
 name: "whatsthisbug"
 description: "A community for insect, arachnid, myriapod and general bug identification!"
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/whatsthisbug"
@@ -15,7 +15,7 @@ posts: 7
 comments: 11
 weight: 7
 dau: 1
-wau: 6
+wau: 1
 mau: 8
 instances:
 - "lemmy_ml"

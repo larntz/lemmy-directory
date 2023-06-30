@@ -3,7 +3,7 @@ title: "Ambient Music & Creators"
 name: "ambient"
 description: "A place for the broad spectrum of ambient music and ambient music creators to share music they love, their own ambient music, tips, production techniques, etc."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/ambient"

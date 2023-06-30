@@ -3,7 +3,7 @@ title: "Buy It For Life"
 name: "buyitforlife"
 description: "*For practical, durable and quality made products that are made to last.*### Rules1. Please be sure to tag your post based on topic in the post title.    - `[Request]`    - `[Request - answered]`    - `[Discussion]`    - `[Review]`    - `[Repair]`2. No home-made items; items must be purchasable to a wide audience.3. No unreleased products.4. Please be descriptive with your posts."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/buyitforlife"

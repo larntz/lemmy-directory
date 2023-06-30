@@ -3,12 +3,12 @@ title: "Poker"
 name: "poker"
 description: "Home of poker on Lemmy.Share all things poker in here."
 type: community
-date: "2023-06-28 14:06:18"
+date: "2023-06-30 13:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/poker"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:18"
+lastmod: "2023-06-15 05:15:38"
 published: "2023-06-15 04:52:59"
 subscribers: 5
 posts: 1

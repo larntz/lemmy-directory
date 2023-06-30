@@ -3,7 +3,7 @@ title: "Awwnime"
 name: "awwnime"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/awwnime"
@@ -15,7 +15,7 @@ posts: 20
 comments: 6
 weight: 20
 dau: 1
-wau: 2
+wau: 1
 mau: 8
 instances:
 - "lemmy_ml"

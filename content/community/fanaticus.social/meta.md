@@ -3,7 +3,7 @@ title: "meta"
 name: "meta"
 description: "A place for admins, mods, and community members to talk about fanaticus. Let me know what you guys think about the instance, if you have any issues you want to raise publicly, or if you have any feature requests."
 type: community
-date: "2023-06-28 15:18:25"
+date: "2023-06-30 13:14:19"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/meta"

@@ -3,7 +3,7 @@ title: "Nuclear fusion"
 name: "fusion"
 description: "A community for the discussion of current scientific knowledge and technological advancements in the field of nuclear fusion power.[Fusion power](https://en.m.wikipedia.org/wiki/Fusion_power)"
 type: community
-date: "2023-06-29 12:36:19"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fusion"

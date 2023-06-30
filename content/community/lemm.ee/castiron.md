@@ -3,12 +3,12 @@ title: "Cast Iron"
 name: "castiron"
 description: "Cast Iron cookware and cooking related. Restoration, collecting, cooking, and use tips."
 type: community
-date: "2023-06-29 12:34:56"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/castiron"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 20:08:41"
 subscribers: 11
 posts: 0

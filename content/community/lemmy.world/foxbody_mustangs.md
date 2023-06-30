@@ -3,12 +3,12 @@ title: "Foxbody Mustangs"
 name: "foxbody_mustangs"
 description: "Focusing specifically on the models of the Ford Mustang ranging from the years 1979-1993."
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/foxbody_mustangs"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "2023-06-29 02:23:26"
 published: "2023-06-28 21:41:40"
 subscribers: 1
 posts: 0

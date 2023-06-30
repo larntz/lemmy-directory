@@ -3,7 +3,7 @@ title: "Software Gore"
 name: "softwaregore"
 description: "Software gore is when software acts outside its parameters and malfunctions. Software gore cannot be intentional, and it must not be a fault of the design (crappy design)."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:57"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/softwaregore"

@@ -3,7 +3,7 @@ title: "Linux & Open Source"
 name: "linux"
 description: "Linux or open source software"
 type: community
-date: "2023-06-29 12:34:33"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/linux"

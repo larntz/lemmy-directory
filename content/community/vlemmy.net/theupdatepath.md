@@ -3,7 +3,7 @@ title: "theupdatepath"
 name: "theupdatepath"
 description: "A medium to learn"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/theupdatepath"

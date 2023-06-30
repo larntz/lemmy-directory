@@ -3,7 +3,7 @@ title: "SCORPION"
 name: "scorpion"
 description: "Community dedicated to the scorpion.io project.https://github.com/scorpion"
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/scorpion"

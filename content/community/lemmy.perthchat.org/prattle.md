@@ -3,7 +3,7 @@ title: "Prattle - post/talk about anything!"
 name: "prattle"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/prattle"

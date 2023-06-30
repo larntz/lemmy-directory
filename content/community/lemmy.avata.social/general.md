@@ -3,7 +3,7 @@ title: "General"
 name: "general"
 description: "A community for discussion of all topics not covered by local communities. This could get interesting. Adhere to site rules for all content posted."
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.avata.social/c/general"

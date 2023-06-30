@@ -3,14 +3,14 @@ title: "Mumbai"
 name: "mumbai"
 description: "Mumbai"
 type: community
-date: "2023-06-28 15:20:59"
+date: "2023-06-30 13:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mumbai"
 host: lemmy.world
-lastmod: "2023-06-28 15:20:59"
+lastmod: "2023-06-18 16:30:17"
 published: "2023-06-18 16:21:07"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

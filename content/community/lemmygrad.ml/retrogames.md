@@ -3,7 +3,7 @@ title: "Retro Games"
 name: "retrogames"
 description: "A place to talk about Retro Games, preservation of them, emulation, and other things to help with picking up the classics. This sub is mostly about ways to play and emulation, though other content is cool.Keep in mind this is still a communist subcom, so helping with roms and emus is fine by me ;)"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/retrogames"

@@ -3,7 +3,7 @@ title: "CSRRacing2"
 name: "csrracing2"
 description: "For CSR2 and the CSR games-series. Before posting: Please check the rules (on the sidebar and in the pinned post on the front page!) and search for an answer."
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/csrracing2"

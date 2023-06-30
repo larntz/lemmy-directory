@@ -3,12 +3,12 @@ title: "GIFs"
 name: "gifs"
 description: "Pronounced with a hard “J”"
 type: community
-date: "2023-06-29 12:36:32"
+date: "2023-06-30 13:15:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gifs"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:32"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-02-18 14:37:48"
 subscribers: 159
 posts: 6

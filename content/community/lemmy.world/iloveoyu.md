@@ -3,7 +3,7 @@ title: "Frens / Frenwave "
 name: "iloveoyu"
 description: "Ayy ayyy yaaa teh frens::: spoiler spoiler![](https://lemmy.world/pictrs/image/20aab98d-b768-4929-87e8-00bb418da693.png):::"
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iloveoyu"

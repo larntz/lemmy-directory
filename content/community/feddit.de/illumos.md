@@ -3,7 +3,7 @@ title: "illumos"
 name: "illumos"
 description: "A community to discuss topics related to illumos and it's distributions."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/illumos"

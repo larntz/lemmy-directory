@@ -3,7 +3,7 @@ title: "Cats In Pants"
 name: "catsinpants"
 description: "This is a community where you can post pictures of cats in your pants. It's that simple."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/catsinpants"

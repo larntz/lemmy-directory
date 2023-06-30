@@ -3,7 +3,7 @@ title: "The Gang Goes Left"
 name: "theganggoesleft"
 description: "It's always sunny in philly communist memes."
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/theganggoesleft"

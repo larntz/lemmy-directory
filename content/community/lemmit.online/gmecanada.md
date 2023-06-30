@@ -3,7 +3,7 @@ title: "GME discussion for Ape Hosers"
 name: "gmecanada"
 description: "A Canada-specific sub for GME discussion . Beauty, eh? :p -- Please: -- READ THE FAQ! (See link in Lounge) -- Keep politics discussions related..."
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/gmecanada"

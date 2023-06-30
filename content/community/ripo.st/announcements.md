@@ -3,7 +3,7 @@ title: "Ripo.st Announcements"
 name: "announcements"
 description: "Official announcements from the Ripo.st instance. Subscribe to this community or add it to your RSS reader in order to be notified about important updates."
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:04"
 draft: false
 nsfw: false
 actor_id: "https://ripo.st/c/announcements"

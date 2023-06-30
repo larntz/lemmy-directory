@@ -3,7 +3,7 @@ title: "Lain"
 name: "lain"
 description: "Lain Wiki: https://lain.wiki/wiki/Main_Page"
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lain"

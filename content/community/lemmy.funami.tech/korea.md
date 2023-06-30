@@ -3,7 +3,7 @@ title: "한국 Lemmy 커뮤니티 / Korea Lemmy community"
 name: "korea"
 description: "한국에 관심 있는 모두를 위한 공간 / Space for those who are interested in everything Korean"
 type: community
-date: "2023-06-29 12:35:09"
+date: "2023-06-30 13:14:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.funami.tech/c/korea"
@@ -12,11 +12,11 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 06:14:47"
 subscribers: 6
 posts: 3
-comments: 1
+comments: 3
 weight: 3
-dau: 1
-wau: 3
-mau: 5
+dau: 2
+wau: 4
+mau: 6
 instances:
 - "lemmy_funami_tech"
 tags: 

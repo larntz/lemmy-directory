@@ -3,12 +3,12 @@ title: "Bad Religion"
 name: "badreligion"
 description: "Community for the Southern California melodic hardcore punk band Bad Religion"
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/badreligion"
 host: lemm.ee
-lastmod: "2023-06-29 12:34:58"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 12:57:10"
 subscribers: 16
 posts: 3

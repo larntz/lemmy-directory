@@ -3,12 +3,12 @@ title: "Statistics"
 name: "statistics"
 description: "See also [!math@lemmy.ml](/c/math) "
 type: community
-date: "2023-06-29 12:36:30"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/statistics"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:30"
+lastmod: "2023-05-25 17:13:39"
 published: "2020-11-15 10:04:04"
 subscribers: 38
 posts: 4

@@ -3,7 +3,7 @@ title: "Django"
 name: "django"
 description: "DjangoThe web framework for perfectionists with deadlines."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/django"

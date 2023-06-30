@@ -3,7 +3,7 @@ title: "Slashdot dot org (RSS)"
 name: "slashdot"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:53"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.amyjnobody.com/c/slashdot"
@@ -11,9 +11,9 @@ host: lemmy.amyjnobody.com
 lastmod: "2023-06-26 14:20:39"
 published: "2023-06-26 14:17:55"
 subscribers: 4
-posts: 45
+posts: 81
 comments: 0
-weight: 45
+weight: 81
 dau: 0
 wau: 0
 mau: 0

@@ -3,7 +3,7 @@ title: "anarcho-hackers"
 name: "anarcho_hackers"
 description: "are you considered a social anarchist and a computer geek? somehow more into social movements, social justice and anti-capitalism and free/libre software? do you enjoy hacking/security and exploration? do you see the social benefits of technology in a new world? then you are an anarcho-hacker, join us!"
 type: community
-date: "2023-06-29 12:36:27"
+date: "2023-06-30 13:15:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarcho_hackers"

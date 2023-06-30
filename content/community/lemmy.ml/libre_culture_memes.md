@@ -3,14 +3,14 @@ title: "Libre Culture Memes"
 name: "libre_culture_memes"
 description: "You know exactly what this community is about. ( ͡° ͜ʖ ͡°)# **Rules*** **Please show common courtesy**Memes are meant to be enjoyed! * **Please keep posts generally on topic**Microsoft bad!"
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libre_culture_memes"
 host: lemmy.ml
 lastmod: "2019-12-12 04:06:15"
 published: "2019-12-11 23:23:18"
-subscribers: 393
+subscribers: 392
 posts: 13
 comments: 15
 weight: 13

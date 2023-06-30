@@ -3,7 +3,7 @@ title: "Biomedical Science"
 name: "biomed"
 description: "A community for education on biological science."
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/biomed"
@@ -15,7 +15,7 @@ posts: 2
 comments: 28
 weight: 2
 dau: 2
-wau: 7
+wau: 2
 mau: 11
 instances:
 - "lemmygrad_ml"

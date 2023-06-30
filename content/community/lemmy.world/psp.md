@@ -3,7 +3,7 @@ title: "Playstation Portable"
 name: "psp"
 description: "Community that's all about Playstation Portable. All iterations welcome, from PSP 1k to PSP Street 🤲Useful links- [Up to date CFW installation guide](https://lemmy.world/post/345609)"
 type: community
-date: "2023-06-29 12:37:36"
+date: "2023-06-30 13:17:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/psp"

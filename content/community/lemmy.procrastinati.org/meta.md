@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Posts about this server."
 type: community
-date: "2023-06-29 12:34:41"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.procrastinati.org/c/meta"

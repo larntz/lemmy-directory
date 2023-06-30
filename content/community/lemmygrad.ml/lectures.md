@@ -3,7 +3,7 @@ title: "Video Lectures"
 name: "lectures"
 description: "This community is all about video lectures, talks and interesting public speeches. The topics include mathematics, physics, computer science, programming, engineering, biology, medicine, economics, politics, social sciences, and any other subjects!"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/lectures"

@@ -3,7 +3,7 @@ title: "Fighting Game Community"
 name: "fgc"
 description: "All things Fighting Games - with a focus on its community!"
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fgc"
@@ -14,7 +14,7 @@ subscribers: 31
 posts: 6
 comments: 14
 weight: 6
-dau: 2
+dau: 1
 wau: 3
 mau: 5
 instances:

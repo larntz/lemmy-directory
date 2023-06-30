@@ -3,7 +3,7 @@ title: "Prusa Research"
 name: "prusa"
 description: "A Community for discussing all things related to specifically Prusa Researchs 3D Printers like the MK3, MK4, Mini and XL"
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/prusa"

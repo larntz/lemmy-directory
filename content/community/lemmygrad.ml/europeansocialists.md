@@ -3,7 +3,7 @@ title: "EuropeanSocialists"
 name: "europeansocialists"
 description: "A place for socialists/communists of Europe to discuss and exchange opinions on the topic of socialism and the workers movement within the European continent. "
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/europeansocialists"

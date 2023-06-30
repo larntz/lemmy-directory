@@ -3,7 +3,7 @@ title: "Défonce moi le carton !"
 name: "defoncemoilecarton"
 description: "Partagez-nous vos meilleurs photos de défonçage de cartons !**Règles :**1 - Le défonçage de carton doit être mis en évidence sur vos clichés  2 - Si c'est pour reposter une photo, merci d'indiquer l'url du thread source ainsi que l'OP (si disponible)Si un post ne respecte pas ces conditions ça sera retour à l'envoyeur à vos frais  3 - Une boite aux lettres bloquée est aussi autorisée puisqu'il s'agit d'une résultante d'un défonçage de carton flagrant"
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-06-30 13:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/defoncemoilecarton"

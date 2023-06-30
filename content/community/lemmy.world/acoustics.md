@@ -3,7 +3,7 @@ title: "Acoustics"
 name: "acoustics"
 description: "A Lemmy community for the scientific study of sound. "
 type: community
-date: "2023-06-29 12:37:55"
+date: "2023-06-30 13:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/acoustics"

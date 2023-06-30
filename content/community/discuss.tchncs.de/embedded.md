@@ -3,7 +3,7 @@ title: "Embedded"
 name: "embedded"
 description: "This sub is dedicated to discussion and questions about embedded systems: a controller programmed and controlled by a real-time operating system (RTOS) with a dedicated function within a larger mechanical or electrical system, often with real-time computing constraints."
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/embedded"

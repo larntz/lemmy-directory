@@ -3,14 +3,14 @@ title: "Medicine Hat, AB"
 name: "medicinehat"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:04"
+date: "2023-06-30 13:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/medicinehat"
 host: lemmy.world
 lastmod: "2023-06-22 05:26:42"
 published: "2023-06-22 04:48:31"
-subscribers: 1
+subscribers: 2
 posts: 2
 comments: 0
 weight: 2

@@ -3,7 +3,7 @@ title: "Ankündigungen zu dieser Instanz"
 name: "ankuendigungen"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:53"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.works/c/ankuendigungen"
@@ -15,7 +15,7 @@ posts: 1
 comments: 2
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_works"

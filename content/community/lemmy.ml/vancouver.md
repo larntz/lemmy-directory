@@ -3,7 +3,7 @@ title: "Vancouver"
 name: "vancouver"
 description: "# VancouverYour go-to destination for News, People, Sites, Occurrences, Write-ups, and Conversations about Metro Vancouver; the convergence of Sea and Mountains.## Rules* Posts must be relevant to Vancouver or surrounding areas* No misinformation (opinions are fine). Keep headlines from posted articles as they are (even if incorrect). Put more info in comments.* No NSFW content* Be civil, inclusive and awesome to each other."
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vancouver"

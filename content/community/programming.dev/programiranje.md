@@ -3,7 +3,7 @@ title: "Programiranje"
 name: "programiranje"
 description: "Diskusije, deljenje sadržaja na temu programiranja i svega što ima veze sa istim."
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/programiranje"

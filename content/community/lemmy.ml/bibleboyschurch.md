@@ -3,7 +3,7 @@ title: "Bible Boys Church"
 name: "bibleboyschurch"
 description: "Bible Boys Church (twitch.tv/bibleboyschurch) streams a christian church service daily around 8pm-2am. "
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bibleboyschurch"

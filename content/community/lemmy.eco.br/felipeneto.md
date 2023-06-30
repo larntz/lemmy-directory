@@ -1,14 +1,14 @@
 ---
 title: "Felipe Neto" 
 name: "felipeneto"
-description: "Description not available."
+description: "Subreddit do maior idoso da internet brasileira - Felipe Neto. Leia as regras e evite que a moderação fique puddle contigo."
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/felipeneto"
 host: lemmy.eco.br
-lastmod: "2023-06-23 16:11:54"
+lastmod: "2023-06-30 11:47:11"
 published: "2023-06-23 15:03:16"
 subscribers: 4
 posts: 1

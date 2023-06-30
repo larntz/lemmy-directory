@@ -3,12 +3,12 @@ title: "ActivityPub Interop tests"
 name: "mitkocave"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mitkocave"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:31"
+lastmod: "2023-04-08 11:56:13"
 published: "2023-04-08 11:06:07"
 subscribers: 2
 posts: 1

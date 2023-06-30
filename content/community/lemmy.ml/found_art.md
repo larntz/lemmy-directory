@@ -3,7 +3,7 @@ title: "A place to share art you found floating around the web"
 name: "found_art"
 description: "Please, tell us who made it if even remotely possible! A link to where you found it would also be much appreciated."
 type: community
-date: "2023-06-29 12:36:32"
+date: "2023-06-30 13:15:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/found_art"

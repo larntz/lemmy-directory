@@ -3,20 +3,20 @@ title: "childfree"
 name: "childfree"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:53"
+date: "2023-06-30 13:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/childfree"
 host: lemmy.world
-lastmod: "2023-06-13 06:37:16"
+lastmod: "2023-06-30 08:18:49"
 published: "2023-06-11 00:06:59"
-subscribers: 538
-posts: 9
-comments: 61
-weight: 9
-dau: 1
-wau: 7
-mau: 40
+subscribers: 577
+posts: 10
+comments: 65
+weight: 10
+dau: 5
+wau: 9
+mau: 43
 instances:
 - "lemmy_world"
 tags: 

@@ -3,7 +3,7 @@ title: "CryptoTech"
 name: "cryptotech"
 description: "Technology enabled by cryptography, no price talk"
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cryptotech"

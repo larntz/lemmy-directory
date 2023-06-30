@@ -3,14 +3,14 @@ title: "I Love the 90s"
 name: "ilovethe90s"
 description: "Description not available."
 type: community
-date: "2023-06-28 14:06:20"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ilovethe90s"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:20"
+lastmod: "2023-06-19 01:46:45"
 published: "2023-06-18 20:59:25"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

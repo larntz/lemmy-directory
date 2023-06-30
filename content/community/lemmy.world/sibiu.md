@@ -3,7 +3,7 @@ title: "Sibiu"
 name: "sibiu"
 description: "One of the most beautiful cities in Romania"
 type: community
-date: "2023-06-29 12:37:43"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sibiu"

@@ -3,12 +3,12 @@ title: "perfectloops"
 name: "perfectloops"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:59"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/perfectloops"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 17:29:13"
 subscribers: 5
 posts: 0

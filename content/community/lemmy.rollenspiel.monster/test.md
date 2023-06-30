@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "Hier werden die Funktionen getestet"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/test"
@@ -15,7 +15,7 @@ posts: 2
 comments: 11
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_rollenspiel_monster"

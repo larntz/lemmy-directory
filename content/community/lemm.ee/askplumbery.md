@@ -3,12 +3,12 @@ title: "Ask Plumbery"
 name: "askplumbery"
 description: "When it breaks. Gotta ask the plumbers at c/AskPlumbery"
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/askplumbery"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 00:36:56"
 subscribers: 3
 posts: 0

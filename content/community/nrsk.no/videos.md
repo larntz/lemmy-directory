@@ -3,7 +3,7 @@ title: "Videos"
 name: "videos"
 description: "**Videos. All sorts.** No illegal stuff, no gore, not sexy videos. This is the internet, you can find all that practically anywhere else.- Please put video length in title- English speaking or with subtitles only, please. Non-verbal videos are fine, but only if people emote in English. "
 type: community
-date: "2023-06-29 12:35:01"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://nrsk.no/c/videos"

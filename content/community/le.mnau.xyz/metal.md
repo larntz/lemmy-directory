@@ -3,7 +3,7 @@ title: "Metal"
 name: "metal"
 description: "Nejvíc metalová komunita!!!Pravidla:- Žádné odkazy na pirátské stránky- Držte se základních pravidelIkona: [Photo by cottonbro studio from Pexels](https://www.pexels.com/photo/persons-hand-doing-peace-sign-4629630/)"
 type: community
-date: "2023-06-29 12:34:56"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://le.mnau.xyz/c/metal"

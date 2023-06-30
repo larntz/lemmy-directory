@@ -3,14 +3,14 @@ title: "Digital Forensics"
 name: "digital_forensics"
 description: "A community focused on all things digital forensics."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/digital_forensics"
 host: infosec.pub
 lastmod: "2023-06-16 22:18:32"
 published: "2023-06-14 14:07:58"
-subscribers: 82
+subscribers: 84
 posts: 4
 comments: 11
 weight: 4

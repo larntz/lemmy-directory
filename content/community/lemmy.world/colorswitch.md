@@ -3,12 +3,12 @@ title: "Color Switch"
 name: "colorswitch"
 description: "This is an unofficial community for the mobile game Color Switch, Classic Color Switch, and Color Switch 2.  If you're a fan, join! "
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/colorswitch"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "2023-06-28 18:09:59"
 published: "2023-06-28 18:06:57"
 subscribers: 3
 posts: 1

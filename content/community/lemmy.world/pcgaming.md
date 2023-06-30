@@ -3,20 +3,20 @@ title: "PCGaming"
 name: "pcgaming"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:37"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pcgaming"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:37"
+lastmod: "2023-06-17 02:50:13"
 published: "2023-06-11 22:01:14"
-subscribers: 752
-posts: 13
-comments: 25
-weight: 13
+subscribers: 852
+posts: 14
+comments: 26
+weight: 14
 dau: 1
-wau: 12
-mau: 22
+wau: 5
+mau: 24
 instances:
 - "lemmy_world"
 tags: 

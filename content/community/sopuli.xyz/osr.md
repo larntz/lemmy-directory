@@ -3,7 +3,7 @@ title: "Old School Renaissance"
 name: "osr"
 description: "A community for fans of the earliest TTRPGs and their retroclones."
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/osr"

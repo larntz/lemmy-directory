@@ -3,7 +3,7 @@ title: "Computer Science"
 name: "compsci"
 description: "A community dedicated for computer science topics; Everyone's welcomed from student, lecturer, teacher to hobbyist!"
 type: community
-date: "2023-06-29 12:36:27"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/compsci"

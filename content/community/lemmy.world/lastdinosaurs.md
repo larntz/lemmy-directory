@@ -3,7 +3,7 @@ title: "Last Dinosaurs"
 name: "lastdinosaurs"
 description: "A community for discussion, news and fan creations centered around the Australian band Last Dinosaurs."
 type: community
-date: "2023-06-29 12:37:50"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lastdinosaurs"

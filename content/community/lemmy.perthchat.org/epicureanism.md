@@ -3,7 +3,7 @@ title: "Epicureanism"
 name: "epicureanism"
 description: "Epicureanism is a philosophical school of thought that emphasizes the pursuit of simple pleasures such as friendship, basic needs being met, and tranquility. Epicureans do not believe in excessive indulgence and view death as simply the end of existence without pain or suffering. The philosophy encourages individuals to live in the present moment and find contentment in life.NOT THE CUSINARY ART"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.perthchat.org/c/epicureanism"

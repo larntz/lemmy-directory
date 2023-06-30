@@ -3,7 +3,7 @@ title: "WindowsOnDeck"
 name: "windowsondeck"
 description: "This is a place for Steam Deck owners to chat about using Windows on Deck. Feel free to share gaming benchmarks and troubleshoot issues here. Have..."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/windowsondeck"

@@ -3,7 +3,7 @@ title: "CryptoTCG"
 name: "cryptotcg"
 description: "A community to discuss anything related to physical Crypto TCG's or digital Crypto TCG's. More to come shortly"
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cryptotcg"

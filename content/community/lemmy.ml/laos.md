@@ -3,7 +3,7 @@ title: "Laos ລາວ"
 name: "laos"
 description: "# Laos----Community dedicated to discuss everything related to Laos. Its culture, its language, its politics and its people.----#### Rules:1. Posts must be in Laotian or in English.2. Add a flair in the title of every post.**List of flairs:**    [News] [Culture] [Discussion]    [Question] [Request] [Guide]----# ປະເທດລາວ----ຊຸມຊົນອຸທິດຕົນເພື່ອສົນທະນາທຸກຢ່າງທີ່ກ່ຽວຂ້ອງກັບລາວ. ວັດທະນະທໍາ, ພາສາ, ການເມືອງແລະປະຊາຊົນຂອງຕົນ.----#### ກົດລະບຽບ:1. ໂພສຕ້ອງເປັນພາສາລາວຫຼືເປັນພາສາອັງກິດ.2. ເພີ່ມຄວາມຫຼູຫຼາໃນຫົວຂໍ້ຂອງທຸກ post ໂພສ.** ບັນຊີລາຍຊື່ຂອງ flairs: **    [ຂ່າວ] [ວັດທະນະທໍາ] [ສົນທະນາ]    [ຄໍາຖາມ] [ຄໍາຮ້ອງຂໍ] [ຄໍາແນະນໍາ]"
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/laos"

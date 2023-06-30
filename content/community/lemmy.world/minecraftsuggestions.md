@@ -3,12 +3,12 @@ title: "Minecraft Suggestions"
 name: "minecraftsuggestions"
 description: "A possible replacement for r/MinecraftSuggestions on Reddit."
 type: community
-date: "2023-06-28 15:20:59"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minecraftsuggestions"
 host: lemmy.world
-lastmod: "2023-06-28 15:20:59"
+lastmod: "2023-06-17 13:23:52"
 published: "2023-06-17 13:11:12"
 subscribers: 9
 posts: 3

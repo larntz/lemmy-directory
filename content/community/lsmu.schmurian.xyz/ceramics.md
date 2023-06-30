@@ -3,7 +3,7 @@ title: "ceramics"
 name: "ceramics"
 description: "A community dedicated to ceramic art and pottery.# RulesNo bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia.Be respectful, especially when disagreeing.Everyone should feel welcome here.No Porn.No Ads / Spamming."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://lsmu.schmurian.xyz/c/ceramics"

@@ -3,7 +3,7 @@ title: "Perfect Fit!"
 name: "perfectfit"
 description: "Welcome to /c/PerfectFit!This is a place to post things that surprisingly and satisfyingly fit perfectly into each other.Reposts from external sources are allowed but original posts are definitely appreciated!"
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-06-30 13:17:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/perfectfit"

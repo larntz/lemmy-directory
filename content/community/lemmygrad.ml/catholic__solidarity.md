@@ -3,7 +3,7 @@ title: "Catholic Solidarity"
 name: "catholic__solidarity"
 description: "Welcome to the Catholic Solidarity Movement. Here are our core values:- A commitment to providing a Christ-centered witness in the public square- Marxism-Leninism- Mao Zedong Thought- Catholic Solidarity"
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/catholic__solidarity"

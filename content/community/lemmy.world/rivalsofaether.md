@@ -3,7 +3,7 @@ title: "Rivals of Aether"
 name: "rivalsofaether"
 description: "Community dedicated to discussion of the indie platform fighter Rivals of Aether!"
 type: community
-date: "2023-06-29 12:38:08"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rivalsofaether"

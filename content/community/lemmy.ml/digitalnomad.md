@@ -3,7 +3,7 @@ title: "Digital Nomad "
 name: "digitalnomad"
 description: "A place for digital Nomad to discuss travel, strategy, and their live on the road"
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/digitalnomad"

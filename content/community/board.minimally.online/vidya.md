@@ -3,7 +3,7 @@ title: "Vidya"
 name: "vidya"
 description: "A place to post about vidya games"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/vidya"

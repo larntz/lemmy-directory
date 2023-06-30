@@ -3,7 +3,7 @@ title: "PSP Hacks - Reviving Portables since 2016"
 name: "psphacks"
 description: "Welcome!This subreddit is a product of a community working to revive the PSP Hacking scene in order to unleash the potential of one of the world's most renown handheld consoles developed by Sony.Things You Should Know Before Posting1. This subreddit is dedicated to the modification of PSP hardware and software. As such, posts including mods and hacks are generally welcomed into the sublemmy, PS Vita modifications are welcome as well.DO NOT post anything related to PSP piracy here.No advertising or selling, including links to external marketplaces.All content must be PSP related"
 type: community
-date: "2023-06-29 12:36:19"
+date: "2023-06-30 13:15:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/psphacks"

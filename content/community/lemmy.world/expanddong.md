@@ -3,7 +3,7 @@ title: "Expand Dong"
 name: "expanddong"
 description: "ohhh bananaCommunity for posting humorous photoshops (or even better mspaint edits) of text to say things that they did not originally"
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/expanddong"

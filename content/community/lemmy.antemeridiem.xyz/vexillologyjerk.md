@@ -3,17 +3,17 @@ title: "Vexillology circlejerk"
 name: "vexillologyjerk"
 description: "A place for funny flagsCheck out [!vexillology@lemmy.world](/c/vexillology@lemmy.world) for serious flagposting"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/vexillologyjerk"
 host: lemmy.antemeridiem.xyz
 lastmod: "2023-06-11 12:39:54"
 published: "2023-06-10 17:15:24"
-subscribers: 239
-posts: 20
-comments: 70
-weight: 20
+subscribers: 248
+posts: 22
+comments: 72
+weight: 22
 dau: 5
 wau: 6
 mau: 28

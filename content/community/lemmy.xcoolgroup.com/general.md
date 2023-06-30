@@ -3,7 +3,7 @@ title: "General Discussion"
 name: "general"
 description: "Great group for testing or having discussions, without worrying about it being off topic or the community having a questionable name."
 type: community
-date: "2023-06-29 12:35:12"
+date: "2023-06-30 13:14:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.xcoolgroup.com/c/general"

@@ -3,7 +3,7 @@ title: "test"
 name: "test"
 description: "This is test text[](/redball/standings)AL East Standings--------|Team|Wins|Losses|GB||:--|:-:|:-:|:-:||[Rays](/c/tampabayrays@fanaticus.social)|53|27|-||[Orioles](/c/orioles@fanaticus.social)|46|29|4.5||[Yankees](/c/nyyankees@fanaticus.social)|42|35|9.5||[Blue Jays](/c/torontobluejays@fanaticus.social)|42|36|10.0||[Red Sox](/c/redsox@fanaticus.social)|40|38|12.0|Updated: 2023-06-24 21:20[](/redball/standings)"
 type: community
-date: "2023-06-28 15:18:26"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/test"

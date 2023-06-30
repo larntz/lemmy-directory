@@ -3,7 +3,7 @@ title: "Music and Magic"
 name: "music"
 description: "Examples of good vibrations for setting the mood - or supporting - magical / spiritual work"
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:51"
 draft: false
 nsfw: false
 actor_id: "https://occult.social/c/music"

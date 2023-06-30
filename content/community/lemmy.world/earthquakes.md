@@ -3,7 +3,7 @@ title: "Earthquakes"
 name: "earthquakes"
 description: "Discussion of earthquakes and seismology. Also hopefully soon enough the same earthquake reporting bot used on Reddit's r/Earthquakes will be deployed."
 type: community
-date: "2023-06-29 12:38:07"
+date: "2023-06-30 13:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/earthquakes"

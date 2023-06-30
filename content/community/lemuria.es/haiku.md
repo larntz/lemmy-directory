@@ -3,7 +3,7 @@ title: "Haiku"
 name: "haiku"
 description: "Comunidad Lemmy sobre el sistema operativo Haiku. Un sistema operativo moderno software libre heredero espiritual de BeOS."
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemuria.es/c/haiku"

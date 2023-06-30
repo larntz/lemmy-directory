@@ -3,7 +3,7 @@ title: "Hockey"
 name: "hockey"
 description: "Discuss the NHL, AHL, PHF, IIHF, KHL, and every other hockey league you can think of!#Rules```- No porn.- No bigotry, hate speech.- No ads / spamming.- Harassment/Excessive Trolling```"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/hockey"

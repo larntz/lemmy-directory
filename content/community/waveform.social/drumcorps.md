@@ -3,7 +3,7 @@ title: "Drum Corps"
 name: "drumcorps"
 description: "All things drum corps!"
 type: community
-date: "2023-06-29 12:35:11"
+date: "2023-06-30 13:14:11"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/drumcorps"

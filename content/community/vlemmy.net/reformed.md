@@ -3,7 +3,7 @@ title: "Reformed Christianity"
 name: "reformed"
 description: "A community to discuss Reformed Christianity "
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/reformed"

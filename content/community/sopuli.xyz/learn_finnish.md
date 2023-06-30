@@ -3,7 +3,7 @@ title: "Learn Finnish"
 name: "learn_finnish"
 description: "A community for learning Finnish."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/learn_finnish"

@@ -3,7 +3,7 @@ title: "A place for analyzing the takeover of institutions by woke ideology"
 name: "not_woke"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/not_woke"

@@ -3,7 +3,7 @@ title: "Gentoo"
 name: "gentoolinux"
 description: "Gentoo rolling release linux distro aimed at modularity, customization, and compiling source code with portage package management.https://en.m.wikipedia.org/wiki/Gentoo_Linux"
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/gentoolinux"

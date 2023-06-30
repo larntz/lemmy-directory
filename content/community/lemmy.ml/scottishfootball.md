@@ -3,7 +3,7 @@ title: "Scottish Football"
 name: "scottishfootball"
 description: "Official Lemmy community for the exodus of Reddit's /r/scottishfootball"
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scottishfootball"

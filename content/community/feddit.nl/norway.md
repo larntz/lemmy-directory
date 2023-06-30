@@ -3,7 +3,7 @@ title: "Norway"
 name: "norway"
 description: "English language community for everything related to Norway"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/norway"

@@ -3,14 +3,14 @@ title: "Hold My Cosmo"
 name: "holdmycosmo"
 description: "In the same vein as hold my beer, this is the female equivilent of showing off in a good or bad way.###### Rules#* Submissions should be of only females.* Submissions should be an action of poor judgement."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmyverse.org/c/holdmycosmo"
 host: lemmyverse.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 22:11:00"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2

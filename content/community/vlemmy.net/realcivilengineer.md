@@ -3,7 +3,7 @@ title: "Real Civil Engineer BOOOSH!!!"
 name: "realcivilengineer"
 description: "the place to BOOOSH those dirty architects"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/realcivilengineer"

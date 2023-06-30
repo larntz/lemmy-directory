@@ -1,14 +1,14 @@
 ---
 title: "Flintshire" 
 name: "flintshire"
-description: "A community for Flintshire folk."
+description: "A community for Flintshire folk.Banner image: [Adam Tas](https://www.flickr.com/photos/adamtasimages/19443945376/) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/flintshire"
 host: feddit.uk
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-30 12:57:18"
 published: "2023-06-28 14:18:19"
 subscribers: 1
 posts: 0

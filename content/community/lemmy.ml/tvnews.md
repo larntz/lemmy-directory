@@ -3,7 +3,7 @@ title: "TV News"
 name: "tvnews"
 description: "The place for discussion articles regarding TV schedules, renewals, cancelations, greenlights, etc."
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tvnews"

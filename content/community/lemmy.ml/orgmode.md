@@ -3,7 +3,7 @@ title: "Org-mode"
 name: "orgmode"
 description: "[Org-mode](http://orgmode.org/) is an Emacs major mode for taking notes, managing to-do lists, planning projects, authoring documents, literate programming and devops, and more, using a fast and effective plain-text system. This is a sister community of 1. [/c/emacs](https://lemmy.ml/c/emacs)2. [/c/planetemacs](https://lemmy.ml/c/planetemacs)3. [/c/spacemacs](https://lemmy.ml/c/spacemacs) 4. [/c/doomemacs](https://lemmy.ml/c/doomemacs)"
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/orgmode"

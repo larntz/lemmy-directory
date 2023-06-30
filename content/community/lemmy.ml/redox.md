@@ -3,7 +3,7 @@ title: "Redox OS Community"
 name: "redox"
 description: "Operating system currently under development. Being written in Rust. Check out https://redox-os.org"
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/redox"

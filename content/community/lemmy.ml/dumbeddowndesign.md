@@ -3,7 +3,7 @@ title: "Dumbed Down Design"
 name: "dumbeddowndesign"
 description: "This community is to share articles, examples and content about tech becoming dumb and dumber to make it more user friendly to the point that it's actually condescending."
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dumbeddowndesign"

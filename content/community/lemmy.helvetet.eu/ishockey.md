@@ -3,7 +3,7 @@ title: "Ishockey"
 name: "ishockey"
 description: "Svensk gemenskap för svensk ishockey"
 type: community
-date: "2023-06-29 12:35:09"
+date: "2023-06-30 13:14:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.helvetet.eu/c/ishockey"

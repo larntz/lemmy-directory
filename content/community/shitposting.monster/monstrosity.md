@@ -3,7 +3,7 @@ title: "Monstrosity"
 name: "monstrosity"
 description: "A meta-community to discuss this Lemmy instance."
 type: community
-date: "2023-06-29 12:35:08"
+date: "2023-06-30 13:14:06"
 draft: false
 nsfw: false
 actor_id: "https://shitposting.monster/c/monstrosity"

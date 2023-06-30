@@ -3,7 +3,7 @@ title: "Chicago"
 name: "chicago"
 description: "Community for folks in/about Chicago."
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/chicago"

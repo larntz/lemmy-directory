@@ -3,12 +3,12 @@ title: "Inland Empire"
 name: "inland_empire"
 description: "From Pomona to Beaumont, Rancho Cucamonga to Temecula, a community for all things Inland Empire."
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/inland_empire"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-29 01:36:09"
 subscribers: 1
 posts: 1

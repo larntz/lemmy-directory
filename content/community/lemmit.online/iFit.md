@@ -3,7 +3,7 @@ title: "iFit Community - Discussion • Support"
 name: "iFit"
 description: "A community for users of iFit app and workout equipment."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/iFit"

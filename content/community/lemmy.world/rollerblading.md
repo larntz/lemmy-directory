@@ -3,7 +3,7 @@ title: "Rollerblading"
 name: "rollerblading"
 description: "Lemmy's premiere destination for rollerbladers."
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rollerblading"

@@ -3,7 +3,7 @@ title: "Call to educate!"
 name: "educatinglibs"
 description: "This community is dedicated to Marxism-Leninism-Keyboard_Warriorism!If you need help educating and spreading knwoledge in instances outside of Lemmygrad, link them and we'll help!Besides the sitewide rules there are these to this community:- Calling to trolling and wrecking other instances is prohibited.- Post in the style of Look at these stupid liberals 🤣 are prohibited and belong elsewhere as this community is for educating; not for pointing and laughing.- Posts must link to other posts that *can* be used to spread class conciousness, help people realize the horrors of imperialism and in general spread knowledge.- *We must never stop explaining* — Thomas Sankara- Remember this is no alternative to real organizing."
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/educatinglibs"
@@ -14,7 +14,7 @@ subscribers: 10
 posts: 1
 comments: 9
 weight: 1
-dau: 4
+dau: 2
 wau: 5
 mau: 5
 instances:

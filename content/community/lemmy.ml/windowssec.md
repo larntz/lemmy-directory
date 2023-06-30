@@ -3,7 +3,7 @@ title: "Windows Security"
 name: "windowssec"
 description: "Community focused on hardening windows.These topics are not allowed:- FUD.- Badness enumeration/AVs.- Insecure versions like AME.- Insecure software — this includes insecure operating systems like Linux and most BSDs.- Security theater.- Privacy.Telegram: [windowssec_group](https://t.me/windowssec_group)   Matrix:  [#windowssec](https://app.element.io/#/room/#windowssec:grapheneos.org)"
 type: community
-date: "2023-06-29 12:36:22"
+date: "2023-06-30 13:15:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/windowssec"

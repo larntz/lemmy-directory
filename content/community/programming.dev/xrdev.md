@@ -3,7 +3,7 @@ title: "XR dev "
 name: "xrdev"
 description: "A community for discussing all things relevant to developing games and applications for augmented reality (AR), virtual reality (VR), and mixed reality (MR)."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/xrdev"

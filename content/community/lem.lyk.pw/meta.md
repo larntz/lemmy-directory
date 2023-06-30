@@ -3,12 +3,12 @@ title: "Meta"
 name: "meta"
 description: "Information on Lem Lyk Pw and what it will be doing"
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:51"
 draft: false
 nsfw: false
 actor_id: "https://lem.lyk.pw/c/meta"
 host: lem.lyk.pw
-lastmod: "2023-06-29 12:34:49"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-28 23:10:14"
 subscribers: 1
 posts: 1

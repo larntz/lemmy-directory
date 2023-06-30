@@ -3,7 +3,7 @@ title: "street_literature"
 name: "street_literature"
 description: "This is meant to be a community focused on communist tracts, pamphlets, and handouts.  Specifically: How to create them, who has existing pamphlets to link, pamphlets and their use in the past.  This is an ML community, but anarchist material is acceptable for related subjects."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/street_literature"

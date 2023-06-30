@@ -3,7 +3,7 @@ title: "Couriers of the Fedi"
 name: "couriers"
 description: "Whether you deliver people, packages or food, here's the place to hang out and talk shop."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/couriers"

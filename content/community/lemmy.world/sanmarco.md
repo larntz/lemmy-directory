@@ -3,7 +3,7 @@ title: "San Marco"
 name: "sanmarco"
 description: "The San Marco Community of Jacksonville, Florida.Local News, Updates and Other Stuff."
 type: community
-date: "2023-06-29 12:38:04"
+date: "2023-06-30 13:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sanmarco"

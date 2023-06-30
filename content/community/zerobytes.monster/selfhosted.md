@@ -3,7 +3,7 @@ title: "Self-Hosted Alternatives to Popular Services"
 name: "selfhosted"
 description: "A place to share, discuss, discover, assist with, gain assistance for, and critique self-hosted alternatives to our favorite web apps, web..."
 type: community
-date: "2023-06-29 12:35:10"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/selfhosted"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 06:45:08"
 subscribers: 1
-posts: 207
+posts: 235
 comments: 0
-weight: 207
+weight: 235
 dau: 1
 wau: 1
 mau: 1

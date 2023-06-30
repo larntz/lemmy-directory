@@ -3,20 +3,20 @@ title: "Classical Music"
 name: "classicalmusic"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:38"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/classicalmusic"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 18:41:42"
-subscribers: 55
-posts: 2
+subscribers: 56
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
 wau: 1
-mau: 2
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

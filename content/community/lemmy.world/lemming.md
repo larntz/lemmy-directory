@@ -3,7 +3,7 @@ title: "Lemming"
 name: "lemming"
 description: "A free Lemmy iOS App in developpement since june 2023.-------------------------Github link coming soon"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemming"

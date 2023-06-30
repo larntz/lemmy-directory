@@ -3,7 +3,7 @@ title: "World News"
 name: "worldnews"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:35:14"
+date: "2023-06-30 13:14:14"
 draft: false
 nsfw: false
 actor_id: "https://invariant-marxism.red/c/worldnews"

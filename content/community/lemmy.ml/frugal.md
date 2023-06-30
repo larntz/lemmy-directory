@@ -3,14 +3,14 @@ title: "Frugal Living: Waste Less, Gain More!"
 name: "frugal"
 description: "Frugal Discussion"
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/frugal"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 23:26:58"
-subscribers: 153
+subscribers: 154
 posts: 9
 comments: 17
 weight: 9

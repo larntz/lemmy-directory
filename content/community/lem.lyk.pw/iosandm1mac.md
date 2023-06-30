@@ -3,7 +3,7 @@ title: "iOS and M1 Mac"
 name: "iosandm1mac"
 description: "iOS and M1 Mac"
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://lem.lyk.pw/c/iosandm1mac"

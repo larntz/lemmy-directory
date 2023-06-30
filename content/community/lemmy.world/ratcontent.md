@@ -3,7 +3,7 @@ title: "Rat Content"
 name: "ratcontent"
 description: "This is mostly for crossposting from https://mstdn.party/@ratcontent, but I am happy if other people post too!Focus is on rats or mice in movies and TV shows. Videogames are ok if there's a cutscene that can be clipped.This isn't for posting pet rats, there's other better places for that."
 type: community
-date: "2023-06-29 12:37:58"
+date: "2023-06-30 13:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ratcontent"

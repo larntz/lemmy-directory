@@ -3,14 +3,14 @@ title: "Was letzte Preis?"
 name: "wasletztepreis"
 description: "Deutschsprachige Community zum Austauschen von Kleinanzeigen-Fails"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wasletztepreis"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 10:34:20"
-subscribers: 433
+subscribers: 438
 posts: 6
 comments: 30
 weight: 6

@@ -3,7 +3,7 @@ title: "D̶̫̉i̶̥̅ș̷̐c̴͍̕o̸̘͠r̴̘̊d̸̡̅i̷͚̒a̶̡͌n̶̻̄i�
 name: "discordianism"
 description: "a place for discordian meems nd DIScu5hin"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/discordianism"
@@ -11,9 +11,9 @@ host: lemmy.world
 lastmod: "2023-06-27 17:04:30"
 published: "2023-06-27 15:35:54"
 subscribers: 4
-posts: 2
+posts: 3
 comments: 9
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

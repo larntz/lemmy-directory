@@ -3,7 +3,7 @@ title: "Gemstones & Jewelry "
 name: "gemstones"
 description: "A place to discuss gemstones and gemstone jewelry. Lab made or mined, clear or colored stones—if it shines and sparkles, show us! "
 type: community
-date: "2023-06-29 12:37:47"
+date: "2023-06-30 13:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gemstones"

@@ -3,14 +3,14 @@ title: "Minnesota Vikings"
 name: "minnesotavikings"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/minnesotavikings"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-01 23:01:46"
-subscribers: 20
+subscribers: 22
 posts: 1
 comments: 0
 weight: 1

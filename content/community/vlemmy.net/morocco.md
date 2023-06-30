@@ -3,7 +3,7 @@ title: "Morocco"
 name: "morocco"
 description: "All things Moroccan. Tout ce qui concerne le Maroc. كل شيئ عن المغرب"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/morocco"

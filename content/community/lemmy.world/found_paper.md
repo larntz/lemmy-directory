@@ -3,7 +3,7 @@ title: "Found Paper"
 name: "found_paper"
 description: "Rules:1. Post pictures of paper only.2. Paper must be paper that was found in some manner.3. Remove or blur out sensitive personal details if any are visible."
 type: community
-date: "2023-06-29 12:37:54"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/found_paper"

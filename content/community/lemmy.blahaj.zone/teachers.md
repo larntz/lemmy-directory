@@ -3,7 +3,7 @@ title: "teachers"
 name: "teachers"
 description: "This aims to be a place where teachers all around the world can chat and support each other"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/teachers"
@@ -15,8 +15,8 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_blahaj_zone"
 tags: 

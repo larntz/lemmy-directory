@@ -3,7 +3,7 @@ title: "Play Pinball "
 name: "pinball"
 description: "This is a place for pinball news and discussion.RULES: - Be civil- Help others- Posts must be pinball relatedCurrent Pinball Manufactures:North America- [American](https://www.american-pinball.com)- [Chicago Gaming](https://www.chicago-gaming.com/) - [Dutch](https://www.dutchpinball.com/)- [Spooky](https://www.spookypinball.com/)- [Stern](https://sternpinball.com/)Europe- [Haggis](https://haggispinball.com/)- [Jersey Jack](https://www.jerseyjackpinball.com/)- [Multimorphic](https://www.multimorphic.com/)- [Pawlowski](https://www.pawlowskipinball.com/)- [Penny K](https://www.pennykpinball.com/)- [Quetzal](http://www.quetzalpinball.com/)- [Team](https://teampinball.com/)China- [HomePin](https://www.homepin.com/)"
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/pinball"

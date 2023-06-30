@@ -3,7 +3,7 @@ title: "Notesnook - Your private note taking space"
 name: "notesnook"
 description: "A fully open source & end-to-end encrypted note taking alternative to Evernote. "
 type: community
-date: "2023-06-29 12:38:04"
+date: "2023-06-30 13:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/notesnook"

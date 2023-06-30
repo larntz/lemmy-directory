@@ -3,7 +3,7 @@ title: "Fediverse.cc (Meta)"
 name: "meta"
 description: "A community to discuss federate.cc itself, as well as our Lemmy instance. Great place to raise technical issues, discuss site policies, etc."
 type: community
-date: "2023-06-29 12:35:09"
+date: "2023-06-30 13:14:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.federate.cc/c/meta"

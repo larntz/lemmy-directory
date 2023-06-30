@@ -3,7 +3,7 @@ title: "Rust users discussions"
 name: "rustaceans"
 description: "For those of us that use this fairly new fast and memory-safe multi-platform language"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/rustaceans"

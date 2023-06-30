@@ -3,14 +3,14 @@ title: "okbuddybaka"
 name: "okbuddybaka"
 description: "ohayou gozaimasu post stupid anime memes baka"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/okbuddybaka"
 host: lemmy.antemeridiem.xyz
 lastmod: "2023-06-13 16:33:38"
 published: "2023-06-10 17:29:01"
-subscribers: 179
+subscribers: 180
 posts: 30
 comments: 39
 weight: 30

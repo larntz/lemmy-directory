@@ -3,7 +3,7 @@ title: "Francophonie"
 name: "francophonie"
 description: "Espace dédié aux francophones du monde entier. Bienvenue\u00a0!La francophonie représente **321\u00a0millions** de personnes soit **4\u00a0%** de la population mondiale. C'est la **5^e^** langue la plus parlée dans le monde.Pour en savoir plus, rendez-vous sur\u00a0[www.francophonie.org](https://www.francophonie.org/)"
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/francophonie"

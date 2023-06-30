@@ -3,7 +3,7 @@ title: "A Cappella"
 name: "a_cappella"
 description: "Music made with your mouth"
 type: community
-date: "2023-06-29 12:37:52"
+date: "2023-06-30 13:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/a_cappella"

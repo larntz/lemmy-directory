@@ -3,7 +3,7 @@ title: "The Linux Cafe"
 name: "linuxcafe"
 description: "Linux Café promotes free and open source software (FOSS). Its goal is to create a welcoming environment and give a comfortable space for all Linux and tech enthusiasts to come together in a professional manner. We discuss anything tech related but mainly Linux. Despite the name, we welcome users of any OS and device.Discord: https://discord.gg/YY4zrNRMatrix: https://matrix.to/#/+linuxcafegroup:linuxcafe.chatTelegram: https://t.me/joinchat/Mn4RpxM6KrSLQMBL78yloQReddit: https://reddit.com/r/linuxcafeCodeberg: https://codeberg.org/org/LinuxCafeFederation/dashboardGithub: https://github.com/LinuxCafeFederationGitlab: https://gitlab.com/linuxcafefederation"
 type: community
-date: "2023-06-29 12:36:22"
+date: "2023-06-30 13:15:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxcafe"

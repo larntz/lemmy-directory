@@ -3,14 +3,14 @@ title: "Judas Priest"
 name: "judaspriest"
 description: "You've got another thing coming**Other Communities:**[Metal](https://lemmy.world/c/metal@lemmy.world)"
 type: community
-date: "2023-06-28 15:21:05"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/judaspriest"
 host: lemmy.world
 lastmod: "2023-06-25 00:53:03"
 published: "2023-06-12 16:22:37"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

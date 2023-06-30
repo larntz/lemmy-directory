@@ -3,7 +3,7 @@ title: "Fashion India"
 name: "fashion_india"
 description: "A community for Indian fashionistas, influences, models and photographers to express."
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fashion_india"

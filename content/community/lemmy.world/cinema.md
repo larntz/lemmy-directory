@@ -3,7 +3,7 @@ title: "Cinema"
 name: "cinema"
 description: "A place to discuss the breadth of film. "
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cinema"

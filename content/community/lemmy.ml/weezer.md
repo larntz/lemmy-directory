@@ -3,7 +3,7 @@ title: "Weezer"
 name: "weezer"
 description: "A community for the American alt-rock band Weezer."
 type: community
-date: "2023-06-29 12:36:10"
+date: "2023-06-30 13:15:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/weezer"

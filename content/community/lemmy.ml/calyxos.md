@@ -3,14 +3,14 @@ title: "CalyxOS"
 name: "calyxos"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/calyxos"
 host: lemmy.ml
 lastmod: "2021-04-04 18:37:18"
 published: "2021-04-04 18:32:06"
-subscribers: 63
+subscribers: 64
 posts: 2
 comments: 2
 weight: 2

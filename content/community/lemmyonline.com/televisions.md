@@ -3,7 +3,7 @@ title: "Televisions"
 name: "televisions"
 description: "Discussion of all things related to TV's "
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/televisions"

@@ -3,7 +3,7 @@ title: "Breaking Bad, Better Call Saul & El Camino shitposting community"
 name: "okbuddychicanery"
 description: "Lemmy's equivalent to r/okbuddychicanery subreddit. A place to share brain damaged memes about the Vinceverse."
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/okbuddychicanery"

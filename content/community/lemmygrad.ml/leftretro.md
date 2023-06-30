@@ -3,7 +3,7 @@ title: "LeftRetro"
 name: "leftretro"
 description: "Welcome to LeftRetro! The first retro community for communists & socialists! (Anything retro is allowed!)x86 emulator (PCem and 86Box) is allowed here!"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftretro"

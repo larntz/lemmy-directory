@@ -3,7 +3,7 @@ title: "Ableton User Group"
 name: "abletonusergroup"
 description: "Ableton community meant for asking questions, sharing advice, and collectively improving our knowledge.Not for self promotion.This is not an official Ableton page."
 type: community
-date: "2023-06-29 12:36:27"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abletonusergroup"

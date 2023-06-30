@@ -3,14 +3,14 @@ title: "Denmark"
 name: "denmark"
 description: "Community of danish people"
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/denmark"
 host: lemmy.ml
 lastmod: "2023-06-09 12:50:44"
 published: "2020-06-01 23:25:14"
-subscribers: 24
+subscribers: 25
 posts: 1
 comments: 0
 weight: 1

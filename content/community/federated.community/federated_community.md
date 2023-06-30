@@ -3,7 +3,7 @@ title: "Federated Community"
 name: "federated_community"
 description: "The official Lemmy community for [federated.community](https://federated.community).Moderated by the Federated Community staff."
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://federated.community/c/federated_community"

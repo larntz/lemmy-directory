@@ -3,7 +3,7 @@ title: "science fiction 科幻小组"
 name: "scifi"
 description: "交流各类科幻小说、影片、图片等等---规定：请遵守 geddit.social 的相关规定。请善用“剧透折叠”+“内容警告”功能。请尽量在回复中删除 @sci-fi ，减少对大家的打扰。It's better to use Chinese & English so everyone could take part."
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:04"
 draft: false
 nsfw: false
 actor_id: "https://geddit.social/c/scifi"
@@ -15,7 +15,7 @@ posts: 2
 comments: 0
 weight: 2
 dau: 0
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "geddit_social"

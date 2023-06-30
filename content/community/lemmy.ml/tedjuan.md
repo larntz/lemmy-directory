@@ -3,7 +3,7 @@ title: "DIYElectronics"
 name: "tedjuan"
 description: "Writer, Tech Enthusiast #Raspberry_Pi #Arduino #DIYElectronics"
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tedjuan"

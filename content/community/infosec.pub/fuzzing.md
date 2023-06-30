@@ -3,14 +3,14 @@ title: "Fuzzing"
 name: "fuzzing"
 description: "Fuzzing: tools, papers, articles, ideas.Occasional rabbits are welcome."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/fuzzing"
 host: infosec.pub
 lastmod: "2023-06-16 14:45:22"
 published: "2023-06-16 11:40:05"
-subscribers: 36
+subscribers: 37
 posts: 8
 comments: 1
 weight: 8

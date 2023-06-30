@@ -3,14 +3,14 @@ title: "VBA"
 name: "vba"
 description: "All about VBA coding."
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vba"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-10-17 11:34:24"
-subscribers: 10
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

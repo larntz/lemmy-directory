@@ -1,0 +1,25 @@
+---
+title: "Astronomy" 
+name: "astronomy"
+description: "Description not available."
+type: community
+date: "2023-06-30 13:17:36"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/astronomy"
+host: lemmy.world
+lastmod: "2023-06-30 13:17:36"
+published: "2023-06-10 19:19:48"
+subscribers: 46
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---

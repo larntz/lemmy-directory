@@ -3,7 +3,7 @@ title: "Cozy Games"
 name: "cozygames"
 description: "A place to post recommendations, requests,and reviews for cozy games.##### Rules* Be excellent to each other."
 type: community
-date: "2023-06-29 12:37:59"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cozygames"

@@ -3,7 +3,7 @@ title: "Cookie Clicker"
 name: "cookieclicker"
 description: "A lemmy instance for the idle game Cookie Clicker.Discussion of cheating and autoclickers are allowed, have fun!::: spoiler autoclicker disclaimerSharing of malware will be removed, and the user will be banned.:::"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/cookieclicker"

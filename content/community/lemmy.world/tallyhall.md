@@ -3,7 +3,7 @@ title: "For the people who want a banana"
 name: "tallyhall"
 description: "Post about the band tally hall!"
 type: community
-date: "2023-06-29 12:38:07"
+date: "2023-06-30 13:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tallyhall"

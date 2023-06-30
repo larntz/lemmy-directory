@@ -3,12 +3,12 @@ title: "Tascam"
 name: "tascam"
 description: "Tascam Discussion Group"
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/tascam"
 host: lemmy.ca
-lastmod: "2023-06-29 12:34:44"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 16:55:53"
 subscribers: 1
 posts: 0

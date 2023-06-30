@@ -3,12 +3,12 @@ title: "What car should I buy?"
 name: "whatcarshouldibuy"
 description: "A community for advice and discussion of car buying decisions. Model, price, efficiency, reliability, dealership discussions are acceptable and welcome. First hand experience is valued the most!"
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:14:02"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/whatcarshouldibuy"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 16:10:01"
 subscribers: 5
 posts: 1

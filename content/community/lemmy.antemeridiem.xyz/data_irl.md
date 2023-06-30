@@ -3,7 +3,7 @@ title: "Data irl"
 name: "data_irl"
 description: "home of funny graphs"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/data_irl"

@@ -3,20 +3,20 @@ title: "Moin"
 name: "moin"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:49"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/moin"
 host: feddit.de
-lastmod: "2023-06-29 12:34:44"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-29 08:35:34"
-subscribers: 2
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 4
+posts: 2
+comments: 11
+weight: 2
+dau: 8
+wau: 8
+mau: 8
 instances:
 - "feddit_de"
 tags: 

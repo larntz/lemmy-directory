@@ -3,7 +3,7 @@ title: "Servers"
 name: "servers"
 description: "All about (computer) servers!"
 type: community
-date: "2023-06-29 12:35:10"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/servers"

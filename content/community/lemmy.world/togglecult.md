@@ -3,7 +3,7 @@ title: "Toggle Cult"
 name: "togglecult"
 description: "All hail the toggle!Founded by a codfish, a chicken, and a chuckwallaCousin to the app Memmy, a Lemmy client currently in open beta via TestFlight (sorry, gk)"
 type: community
-date: "2023-06-29 12:38:02"
+date: "2023-06-30 13:17:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/togglecult"

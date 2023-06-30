@@ -3,7 +3,7 @@ title: "Robin Hanson"
 name: "robin_hanson"
 description: "A place to talk about all the cool things Robin Hansonis up to.Links:- [Twitter](https://twitter.com/robinhanson)- [Blog](https://www.overcomingbias.com/)"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://toast.ooo/c/robin_hanson"

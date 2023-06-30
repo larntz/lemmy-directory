@@ -3,7 +3,7 @@ title: "vb aka VoidGNU/Linux"
 name: "vb_aka_void_linux"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vb_aka_void_linux"

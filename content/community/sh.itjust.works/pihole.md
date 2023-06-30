@@ -3,7 +3,7 @@ title: "Pi-hole"
 name: "pihole"
 description: "The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software."
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/pihole"

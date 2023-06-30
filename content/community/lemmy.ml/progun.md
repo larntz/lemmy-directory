@@ -3,7 +3,7 @@ title: "Civilized discussion on responsible gun ownership"
 name: "progun"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/progun"

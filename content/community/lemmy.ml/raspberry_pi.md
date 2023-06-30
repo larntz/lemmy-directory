@@ -3,14 +3,14 @@ title: "Raspberry Pi"
 name: "raspberry_pi"
 description: "All things related to raspberry pi!Related engineering communities:- [c/embedded](https://lemmy.ml/c/embedded)- [c/ece](https://lemmy.ml/c/ece)- [c/askelectronics](https://lemmy.ml/c/askelectronics)- [c/fpga](https://lemmy.ml/c/fpga)- [c/chipdesign](https://lemmy.ml/c/chipdesign)- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)- [c/dsp](https://lemmy.ml/c/dsp)- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)- [c/cprogramming](https://lemmy.ml/c/cprogramming)"
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/raspberry_pi"
 host: lemmy.ml
 lastmod: "2023-06-09 06:26:05"
 published: "2023-06-06 21:24:36"
-subscribers: 165
+subscribers: 168
 posts: 19
 comments: 0
 weight: 19

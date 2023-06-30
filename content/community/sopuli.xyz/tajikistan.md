@@ -3,7 +3,7 @@ title: "Tajikistan"
 name: "tajikistan"
 description: "## Хуш ОмадедАхбор, гап, музиқӣ, суратҳо, ва ҳазору як майда чуйда оид ба Тоҷикистон. Ҳама марҳамат!## WelcomeNews, discussion, music, pictures, and various other things related to Tajikistan. Everyone is welcome!"
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/tajikistan"

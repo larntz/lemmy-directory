@@ -3,7 +3,7 @@ title: "Nikon"
 name: "nikon"
 description: "For discussion of Nikon cameras and gear."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/nikon"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 2
 comments: 1
 weight: 2
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

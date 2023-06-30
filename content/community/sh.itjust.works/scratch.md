@@ -3,7 +3,7 @@ title: "Scratch - Imagine, Program, Share"
 name: "scratch"
 description: "Scratch is the world’s largest coding community for children and a coding language with a simple visual interface that allows young people to create digital stories, games, and animations. Scratch is designed, developed, and moderated by the Scratch Foundation, a nonprofit organization."
 type: community
-date: "2023-06-29 12:35:18"
+date: "2023-06-30 13:14:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/scratch"

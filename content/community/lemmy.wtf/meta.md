@@ -3,16 +3,16 @@ title: "lemmy.wtf meta"
 name: "meta"
 description: "Anything about the [lemmy.wtf](https://lemmy.wtf) instance and its moderation.For discussion about the Lemmy software project, go to [c/lemmy](https://lemmy.wtf/c/lemmy@lemmy.ml)."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.wtf/c/meta"
 host: lemmy.wtf
 lastmod: "2023-06-11 22:32:39"
 published: "2023-06-11 20:55:47"
-subscribers: 13
+subscribers: 14
 posts: 6
-comments: 23
+comments: 25
 weight: 6
 dau: 1
 wau: 3

@@ -3,7 +3,7 @@ title: "Double Reed Woodwind Instruments"
 name: "doublereed"
 description: "Community for all double reed instrument players and fans:- oboe- bassoon- bagpipe- bombard- zūrnā- shawm- shehnai- gralla- etc... "
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/doublereed"

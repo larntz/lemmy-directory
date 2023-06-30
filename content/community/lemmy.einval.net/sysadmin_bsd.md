@@ -3,7 +3,7 @@ title: "Systems Administration (BSD)"
 name: "sysadmin_bsd"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:35:07"
+date: "2023-06-30 13:14:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/sysadmin_bsd"

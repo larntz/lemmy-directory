@@ -3,14 +3,14 @@ title: "anbernic"
 name: "anbernic"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/anbernic"
 host: lemmy.world
 lastmod: "2023-06-20 21:02:20"
 published: "2023-06-20 20:59:13"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

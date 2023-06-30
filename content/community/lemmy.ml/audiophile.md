@@ -3,7 +3,7 @@ title: "Audiophile"
 name: "audiophile"
 description: "Community for people interested in good sounds!"
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/audiophile"

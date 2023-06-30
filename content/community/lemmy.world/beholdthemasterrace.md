@@ -3,7 +3,7 @@ title: "Behold the master race "
 name: "beholdthemasterrace"
 description: "Supremacists of any type displaying their supremacy"
 type: community
-date: "2023-06-29 12:37:35"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/beholdthemasterrace"

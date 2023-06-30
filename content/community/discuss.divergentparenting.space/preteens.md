@@ -1,14 +1,14 @@
 ---
 title: "Preteens" 
 name: "preteens"
-description: "Description not available."
+description: "A place to talk about parenting preteens."
 type: community
-date: "2023-06-29 12:34:56"
+date: "2023-06-30 13:13:57"
 draft: false
 nsfw: false
 actor_id: "https://discuss.divergentparenting.space/c/preteens"
 host: discuss.divergentparenting.space
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-29 21:55:57"
 published: "2023-06-25 20:25:03"
 subscribers: 2
 posts: 0

@@ -3,7 +3,7 @@ title: "No Dumb Questions Podcast"
 name: "nodumbquestions"
 description: "A podcast where a science guy and a humanities guy discuss deep questions with varying levels of maturity."
 type: community
-date: "2023-06-29 12:37:45"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nodumbquestions"

@@ -3,7 +3,7 @@ title: "Victoriana"
 name: "victoriana"
 description: "A place for anything from the long 19th century (1789-1914)! "
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/victoriana"

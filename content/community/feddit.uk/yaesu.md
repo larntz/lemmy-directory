@@ -3,7 +3,7 @@ title: "Yaesu Amateur Radio"
 name: "yaesu"
 description: "**A home for Yaesu radio fans and friends.**Come chat about anything yaesu related. Other ham related communities include. * [!icom@feddit.uk](https://feddit.uk/c/icom) * [!hamradio@lemmy.ml](https://lemmy.ml/c/hamradio) * [!amateur_radio@sh.itjust.works](https://sh.itjust.works/c/amateur_radio) We also have* [!cbradio@feddit.uk](https://feddit.uk/c/cbradio) Please let me know if you find anymore."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/yaesu"

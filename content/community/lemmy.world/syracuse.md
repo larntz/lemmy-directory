@@ -3,14 +3,14 @@ title: "Syracuse"
 name: "syracuse"
 description: "A community for the city of Syracuse, NY"
 type: community
-date: "2023-06-28 14:06:24"
+date: "2023-06-30 13:17:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/syracuse"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:24"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-11 13:24:22"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

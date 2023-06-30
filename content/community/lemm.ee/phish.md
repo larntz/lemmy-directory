@@ -3,14 +3,14 @@ title: "Phish"
 name: "phish"
 description: "The home of Phish on Lemmy"
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/phish"
 host: lemm.ee
 lastmod: "2023-06-22 18:03:52"
 published: "2023-06-22 17:54:04"
-subscribers: 4
+subscribers: 5
 posts: 2
 comments: 1
 weight: 2

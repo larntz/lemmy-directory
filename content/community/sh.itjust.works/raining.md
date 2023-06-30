@@ -3,7 +3,7 @@ title: "Raining"
 name: "raining"
 description: "All things related to rain are welcome. Want to post a weather forecast? A puddle? A raindrop on a window? Does it look like it might rain soon? Or it just finished? We love the rain, and we welcome it all."
 type: community
-date: "2023-06-29 12:35:18"
+date: "2023-06-30 13:14:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/raining"
@@ -15,7 +15,7 @@ posts: 38
 comments: 16
 weight: 38
 dau: 1
-wau: 10
+wau: 7
 mau: 17
 instances:
 - "sh_itjust_works"

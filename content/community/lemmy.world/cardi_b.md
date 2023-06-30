@@ -3,7 +3,7 @@ title: "Cardi B"
 name: "cardi_b"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:45"
+date: "2023-06-30 13:17:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cardi_b"

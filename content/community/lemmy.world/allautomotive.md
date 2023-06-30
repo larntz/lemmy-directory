@@ -3,7 +3,7 @@ title: "All Automotive"
 name: "allautomotive"
 description: "A place to discuss any and all things automotive."
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-06-30 13:17:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/allautomotive"

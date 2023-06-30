@@ -3,7 +3,7 @@ title: "Watch"
 name: "watch"
 description: "Community dedicated to watches and the passion we have for them. Sharing experiences are classics, or new trends, even smartwatches, all are welcome to the community.Code of Condute: Be Excellent to Each Other"
 type: community
-date: "2023-06-29 12:36:10"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/watch"

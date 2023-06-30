@@ -3,7 +3,7 @@ title: "Money"
 name: "money"
 description: "Banking News, Macro, Crypto and CBDC"
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://hoodratshit.org/c/money"
@@ -11,9 +11,9 @@ host: hoodratshit.org
 lastmod: "2023-06-28 02:56:59"
 published: "2023-06-28 02:56:06"
 subscribers: 3
-posts: 2
-comments: 3
-weight: 2
+posts: 3
+comments: 6
+weight: 3
 dau: 0
 wau: 0
 mau: 0

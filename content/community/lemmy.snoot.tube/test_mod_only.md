@@ -3,7 +3,7 @@ title: "(test) moderators only club"
 name: "test_mod_only"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:42"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.snoot.tube/c/test_mod_only"

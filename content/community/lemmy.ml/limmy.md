@@ -3,7 +3,7 @@ title: "Limmy on Lemmy - fan community"
 name: "limmy"
 description: "Brian Limmy Limond is a comedian based in Glasgow."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/limmy"

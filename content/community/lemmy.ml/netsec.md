@@ -3,7 +3,7 @@ title: "NetSec"
 name: "netsec"
 description: "A community for technical news and discussion of information security and closely related topics."
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/netsec"

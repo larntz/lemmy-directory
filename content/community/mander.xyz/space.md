@@ -3,14 +3,14 @@ title: "Space & Astronomy"
 name: "space"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/space"
 host: mander.xyz
 lastmod: "2022-08-20 10:43:18"
 published: "2022-08-20 10:42:30"
-subscribers: 186
+subscribers: 187
 posts: 7
 comments: 3
 weight: 7

@@ -3,18 +3,18 @@ title: "Space Engine"
 name: "space_engine"
 description: "A place for discussion about the Universe sim Space Engine, and for sharing screenshots, coordinates, plugins, addons, and general info!https://spaceengine.org/"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/space_engine"
 host: mander.xyz
 lastmod: "2023-06-20 16:01:23"
 published: "2023-06-19 00:34:25"
-subscribers: 15
+subscribers: 16
 posts: 7
 comments: 7
 weight: 7
-dau: 4
+dau: 1
 wau: 4
 mau: 5
 instances:

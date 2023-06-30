@@ -3,7 +3,7 @@ title: "RYM/Sonemic"
 name: "rateyourmusic"
 description: "Discussion about rateyourmusic.com"
 type: community
-date: "2023-06-29 12:37:35"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rateyourmusic"

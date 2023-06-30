@@ -3,7 +3,7 @@ title: "Bielsko-Biała"
 name: "podbeskidzie"
 description: "Informacje, wiadomości oraz dyskusje dotyczące miasta Bielsko-Biała i regionu. "
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/podbeskidzie"

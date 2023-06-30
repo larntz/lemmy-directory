@@ -3,7 +3,7 @@ title: "Everything in Moderation "
 name: "moderation"
 description: "We are (almost?) all busking it a bit when it comes to creating communities here on Feddit.uk so I thought somewhere where the moderators could ask questions would be handy. The answers may also be generally useful to the wider Feddiverse so everyone is welcome.Elsewhere:*  [moderators@lemmy.world](/c/moderators@lemmy.world)"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/moderation"
@@ -14,9 +14,9 @@ subscribers: 7
 posts: 5
 comments: 6
 weight: 5
-dau: 0
-wau: 0
-mau: 0
+dau: 1
+wau: 2
+mau: 2
 instances:
 - "feddit_uk"
 tags: 

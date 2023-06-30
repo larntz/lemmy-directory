@@ -3,7 +3,7 @@ title: "Manual Coffee Brewing"
 name: "manualcoffeebrewing"
 description: "v60, French Press, Moka Pot, Aeropress. Anything Manual Brewing here!"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/manualcoffeebrewing"

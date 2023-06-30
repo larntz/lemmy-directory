@@ -3,7 +3,7 @@ title: "연합우주 / 별무리"
 name: "fediverse"
 description: "연합우주 / 별무리 / ActivityPub 등의 탈중앙 분산망과 관련된 내용을 올려주세요."
 type: community
-date: "2023-06-29 12:35:09"
+date: "2023-06-30 13:14:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.funami.tech/c/fediverse"

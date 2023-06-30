@@ -3,7 +3,7 @@ title: "Vancouver Whitecaps"
 name: "whitecaps"
 description: "For Fans of the Vancouver Whitecaps MLS Team"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/whitecaps"

@@ -3,12 +3,12 @@ title: "Lounge Rat Meta"
 name: "meta"
 description: "Meta discussion about the loungerat instance"
 type: community
-date: "2023-06-29 12:34:53"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.loungerat.io/c/meta"
 host: lemmy.loungerat.io
-lastmod: "2023-06-29 12:34:53"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 07:30:14"
 subscribers: 1
 posts: 0

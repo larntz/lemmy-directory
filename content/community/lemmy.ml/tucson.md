@@ -3,7 +3,7 @@ title: "Tucson"
 name: "tucson"
 description: "All things to do with the city of Tucson, AZ"
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tucson"
@@ -15,7 +15,7 @@ posts: 6
 comments: 9
 weight: 6
 dau: 1
-wau: 2
+wau: 1
 mau: 5
 instances:
 - "lemmy_ml"

@@ -3,14 +3,14 @@ title: "Final Fantasy XIV"
 name: "finalfantasyxiv"
 description: "Please no spoilers. This exists is not a spoiler, but giving enough context that people can guess a twist is."
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/finalfantasyxiv"
 host: lemmy.ml
 lastmod: "2021-02-15 02:33:20"
 published: "2021-02-15 00:21:37"
-subscribers: 87
+subscribers: 88
 posts: 5
 comments: 4
 weight: 5

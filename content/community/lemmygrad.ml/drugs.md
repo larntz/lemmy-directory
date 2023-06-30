@@ -3,7 +3,7 @@ title: "Drugs"
 name: "drugs"
 description: "Community for discussion about drugs, including addiction, safety of drugs, their harms and benefits, criminalization of drugs, drug policy, drug trafficking, relationships between social class and drug use, legalisation of drugs etc.  This can include both legal and illegal drugs in any country, as well as tobacco, alcohol, and drugs prescribed by a doctor.  "
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/drugs"

@@ -3,7 +3,7 @@ title: "GME Meltdown"
 name: "gmemeltdown"
 description: "Well… you know how it goes. Now we don’t have the rules of Reddit so we are more free to post what we want"
 type: community
-date: "2023-06-29 12:38:06"
+date: "2023-06-30 13:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gmemeltdown"

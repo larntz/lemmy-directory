@@ -3,7 +3,7 @@ title: "Today I Learned"
 name: "til"
 description: "Tell us what you learned today! Prefix with 'TIL'."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/til"

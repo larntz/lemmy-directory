@@ -3,7 +3,7 @@ title: "Québec"
 name: "quebec"
 description: "Bienvenue dans la communauté pour le Québec, cette communauté est entièrement en Français à-propos du Québec. Les Memes , les articles de journaux , les revues scientifiques, etc. sont acceptée dans cette communauté. Cette communauté est aussi pour la libération des tribus autochtones du Canada et pour l'indépendance du PaysRèglement:-Minimisé l'anglais si possible AKA NO ENGLISH-Pas de bigoterie (racisme, sexisme, etc.)-Resté sur le sujet du QuébecLiens utiles:Le partie Communiste du Québec-https://particommunisteduquebec.ca/a-propos/pcq-pcc/Le partie Communiste du Canada-http://communist-party.ca/La ligue pour les jeune communistes-http://ycl-ljc.ca/Vive Le Québec Libre!"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/quebec"

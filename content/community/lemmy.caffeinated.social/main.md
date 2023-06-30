@@ -3,7 +3,7 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-29 12:35:02"
+date: "2023-06-30 13:14:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.caffeinated.social/c/main"

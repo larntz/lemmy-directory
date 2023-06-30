@@ -3,7 +3,7 @@ title: "Indie Games"
 name: "indiegames"
 description: "We all love a good indie game don't we?Fantastically unique experiences, spiritual successors to old classics, new and interesting takes on a known formula?Indies can do it all, and nowadays seem to have more polish than the most expensive AAAs.This community is to discuss the best indie games, maybe you'll find a new hidden gem?"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/indiegames"

@@ -3,7 +3,7 @@ title: "Entry Point"
 name: "entrypoint"
 description: "**A community dedicated to discussing the Roblox game Entry Point.**We made this community due to Reddit's unprofessional and controversial business decisions. Moderators are the same as on r/entrypoint"
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/entrypoint"

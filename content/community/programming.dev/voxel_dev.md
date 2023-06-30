@@ -3,14 +3,14 @@ title: "Voxel Game Dev"
 name: "voxel_dev"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/voxel_dev"
 host: programming.dev
 lastmod: "2023-06-22 14:16:58"
 published: "2023-06-14 12:56:01"
-subscribers: 39
+subscribers: 40
 posts: 8
 comments: 0
 weight: 8

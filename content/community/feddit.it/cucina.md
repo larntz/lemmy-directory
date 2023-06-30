@@ -3,7 +3,7 @@ title: "Cucina e ricette"
 name: "cucina"
 description: "Ciao a tutti, benvenuti nella comunità feddit.it dedicata alla cucina!Qui potete condividere **ricette**, chiedere consigli riguardo a piatti e ingredienti che intendete usare. Ovviamente le foto del cibo sono benvenute (se con ricetta al seguito sono anche meglio).Vi invitiamo innanzitutto a dare un’occhiata al post “Guida all’utilizzo di Feddit” che trovate a questo link:https://feddit.it/post/6"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.it/c/cucina"

@@ -3,7 +3,7 @@ title: "EVE Echoes"
 name: "echoes"
 description: "The Echoes community on Lemmy.world! Reddit refugees welcome. Don’t be a dick. Fights will be settled by rap battle or on grid."
 type: community
-date: "2023-06-29 12:38:08"
+date: "2023-06-30 13:17:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/echoes"

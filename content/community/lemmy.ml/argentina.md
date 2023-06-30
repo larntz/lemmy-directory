@@ -3,14 +3,14 @@ title: "Argentina"
 name: "argentina"
 description: ""
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/argentina"
 host: lemmy.ml
 lastmod: "2021-09-02 18:33:10"
 published: "2020-01-17 20:16:24"
-subscribers: 53
+subscribers: 54
 posts: 19
 comments: 7
 weight: 19

@@ -3,7 +3,7 @@ title: "Dublin"
 name: "dublin"
 description: "Temporary c/Dublin community while the mods from r/Dublin don't officially move to Lemmy."
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dublin"

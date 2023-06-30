@@ -3,14 +3,14 @@ title: "Mittelhessen"
 name: "mittelhessen"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/mittelhessen"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2022-09-26 06:52:20"
-subscribers: 22
+subscribers: 23
 posts: 0
 comments: 0
 weight: 0

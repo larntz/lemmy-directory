@@ -3,7 +3,7 @@ title: "Environment"
 name: "environment"
 description: "Environment:The totality of the natural world, often excluding humans.A subset of the natural world; an ecosystem.The combination of external physical conditions that affect and influence the growth, development, behavior, and survival of organisms."
 type: community
-date: "2023-06-28 15:18:28"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/environment"
@@ -14,7 +14,7 @@ subscribers: 10
 posts: 10
 comments: 1
 weight: 10
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

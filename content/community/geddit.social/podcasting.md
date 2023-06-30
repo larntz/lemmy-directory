@@ -3,7 +3,7 @@ title: "Podcasting"
 name: "podcasting"
 description: "A conversation about podcasting.1. No spamming2. Some promo is allowed don't over do it3. Be helpful4. Share tips and tricks"
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:04"
 draft: false
 nsfw: false
 actor_id: "https://geddit.social/c/podcasting"
@@ -15,7 +15,7 @@ posts: 5
 comments: 12
 weight: 5
 dau: 2
-wau: 3
+wau: 2
 mau: 11
 instances:
 - "geddit_social"

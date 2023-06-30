@@ -3,7 +3,7 @@ title: "Política Argentina"
 name: "politicaargentina"
 description: "debates sobre la política de la República Argentina. Recordá cumplir con las reglas.No se admite propaganda política de ningún partido."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://links.rebel.ar/c/politicaargentina"
@@ -15,7 +15,7 @@ posts: 2
 comments: 6
 weight: 2
 dau: 6
-wau: 6
+wau: 4
 mau: 6
 instances:
 - "links_rebel_ar"

@@ -3,14 +3,14 @@ title: "UCLA"
 name: "ucla"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:07"
+date: "2023-06-30 13:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ucla"
 host: lemmy.world
 lastmod: "2023-06-19 03:51:17"
 published: "2023-06-18 05:16:05"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

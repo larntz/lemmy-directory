@@ -3,7 +3,7 @@ title: "Delft University of Technology"
 name: "tudelft"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/tudelft"

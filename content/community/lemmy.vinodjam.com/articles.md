@@ -3,7 +3,7 @@ title: "Articles"
 name: "articles"
 description: "Interesting articles/blog posts etc/non video content"
 type: community
-date: "2023-06-29 12:35:02"
+date: "2023-06-30 13:14:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vinodjam.com/c/articles"

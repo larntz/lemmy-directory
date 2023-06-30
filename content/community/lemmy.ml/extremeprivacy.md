@@ -3,7 +3,7 @@ title: "Extreme Privacy"
 name: "extremeprivacy"
 description: "It's a community where you can talk about privacy at the extremism level.If you're here it's because you definitely cares about YOUR privacy.- In this community you won't be censored by the moderators, except if you violate a private property."
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/extremeprivacy"

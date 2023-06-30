@@ -3,7 +3,7 @@ title: "Printers"
 name: "printers"
 description: "A community for troubleshooting printers, as well as share tips and tricks."
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/printers"

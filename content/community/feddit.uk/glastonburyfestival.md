@@ -3,7 +3,7 @@ title: "Glastonbury Festival"
 name: "glastonburyfestival"
 description: "As it's this weekend, it makes sense to get things rolling.Volunteers for moderators welcome."
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/glastonburyfestival"
@@ -15,8 +15,8 @@ posts: 12
 comments: 22
 weight: 12
 dau: 0
-wau: 0
-mau: 0
+wau: 6
+mau: 7
 instances:
 - "feddit_uk"
 tags: 

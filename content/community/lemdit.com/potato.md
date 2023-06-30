@@ -3,7 +3,7 @@ title: "Potato Powered"
 name: "potato"
 description: "This is a place to discuss DIY tech solutions, projects, self hosting, gadget hacking, etc."
 type: community
-date: "2023-06-29 12:35:02"
+date: "2023-06-30 13:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemdit.com/c/potato"

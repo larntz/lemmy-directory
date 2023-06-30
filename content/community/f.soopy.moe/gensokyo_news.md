@@ -3,7 +3,7 @@ title: "Gensokyo News"
 name: "gensokyo_news"
 description: "News for services and stuff on *.soopy.moe"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://f.soopy.moe/c/gensokyo_news"

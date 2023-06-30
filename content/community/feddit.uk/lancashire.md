@@ -3,12 +3,12 @@ title: "Lancashire - the correct side of the Pennines"
 name: "lancashire"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/lancashire"
 host: feddit.uk
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 14:47:38"
 subscribers: 2
 posts: 0

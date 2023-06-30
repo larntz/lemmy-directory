@@ -3,7 +3,7 @@ title: "Canada's federal public service / La fonction publique fédérale du Can
 name: "canadapublicservants"
 description: "Unofficial community for employees and former employees of the Federal Public Service of Canada. / Communauté non-officiel pour les employés et anciens employés de la Fonction Publique Fédérale du Canada."
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-06-30 13:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/canadapublicservants"

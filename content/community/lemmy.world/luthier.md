@@ -3,14 +3,14 @@ title: "Luthier"
 name: "luthier"
 description: "Dedicated to the craft of lutherie, the making of string instruments, and all those who practice it, admire it, or wish to learn about it."
 type: community
-date: "2023-06-28 15:20:56"
+date: "2023-06-30 13:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/luthier"
 host: lemmy.world
 lastmod: "2023-06-12 05:25:02"
 published: "2023-06-12 05:24:19"
-subscribers: 56
+subscribers: 58
 posts: 4
 comments: 12
 weight: 4

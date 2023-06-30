@@ -3,7 +3,7 @@ title: "The Culture"
 name: "localchat"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:48"
 draft: false
 nsfw: false
 actor_id: "https://theculture.social/c/localchat"

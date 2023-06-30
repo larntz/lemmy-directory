@@ -3,12 +3,12 @@ title: "Brampton"
 name: "brampton"
 description: "A place to discuss what's happening in Brampton, Ontario"
 type: community
-date: "2023-06-27 16:16:05"
+date: "2023-06-30 13:13:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/brampton"
 host: lemmy.ca
-lastmod: "2023-06-27 16:16:05"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 04:09:07"
 subscribers: 9
 posts: 2

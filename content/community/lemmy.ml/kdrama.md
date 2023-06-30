@@ -3,7 +3,7 @@ title: "Lemmy Kdrama Community"
 name: "kdrama"
 description: "Lemmy community for Korean drama related content. Rules: 1. Be nice. 2. If you're posting news, then try to post an English article which links to the original source. If that's not available, then at least post a translation. 3. Do not post rumors/misinformationUse the following tags for specific posts :  - [News] - News posts - [Discussion] - Discussion, question/answer, looking for a kdrama - [Review] - For kdrama reviews or links to a review - [Meme] - For memes and shitposts - [Recommendation] - If you're recommending a kdrama - [Recommendation Request] - If you're looking for kdrama recommendations"
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kdrama"
@@ -14,8 +14,8 @@ subscribers: 3
 posts: 2
 comments: 6
 weight: 2
-dau: 2
-wau: 4
+dau: 1
+wau: 3
 mau: 4
 instances:
 - "lemmy_ml"

@@ -3,7 +3,7 @@ title: "Miku Fan Club"
 name: "vocalbots"
 description: "vocaloid discussion nexus# rule:1. world is miku's"
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://board.minimally.online/c/vocalbots"

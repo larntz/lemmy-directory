@@ -3,7 +3,7 @@ title: "You are and idiot."
 name: "yaai"
 description: "Only the finest trolling on the intertubes"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/yaai"

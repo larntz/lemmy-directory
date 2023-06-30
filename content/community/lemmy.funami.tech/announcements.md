@@ -3,7 +3,7 @@ title: "YuruLemmy Announcements/공지사항"
 name: "announcements"
 description: "Announcements for YuruLemmy / YuruLemmy 공지사항"
 type: community
-date: "2023-06-29 12:35:09"
+date: "2023-06-30 13:14:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.funami.tech/c/announcements"

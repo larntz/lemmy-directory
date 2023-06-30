@@ -3,7 +3,7 @@ title: "The Tripods"
 name: "thetripods"
 description: "The TripodsAll about our favorite 80s Tellyseries!Official Forums: https://forum.diedreibeinigenherrscher.de/"
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/thetripods"

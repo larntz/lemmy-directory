@@ -3,7 +3,7 @@ title: "The ye Community"
 name: "kanyewest"
 description: "The ye Community; successor of r/Kanye, r/kanyewest and r/WestSubEver"
 type: community
-date: "2023-06-29 12:37:35"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kanyewest"

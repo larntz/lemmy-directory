@@ -3,7 +3,7 @@ title: "Home Networking"
 name: "homenetworking"
 description: "Questions tips and other stuff related to your home or small office network."
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:03"
 draft: false
 nsfw: false
 actor_id: "https://lemiverse.xyz/c/homenetworking"

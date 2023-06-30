@@ -3,17 +3,17 @@ title: "poke fun at nasty software"
 name: "softwaregore"
 description: "poke fun at nasty software."
 type: community
-date: "2023-06-28 15:18:14"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/softwaregore"
 host: zerobytes.monster
-lastmod: "2023-06-28 15:18:14"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 06:34:33"
 subscribers: 1
-posts: 204
+posts: 292
 comments: 0
-weight: 204
+weight: 292
 dau: 1
 wau: 1
 mau: 1

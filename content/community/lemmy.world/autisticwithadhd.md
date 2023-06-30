@@ -3,14 +3,14 @@ title: "AutisticWithADHD"
 name: "autisticwithadhd"
 description: "This is a community for autistic people with ADHD to seek advice and find support.###### Rules1. Be civil. Be polite to others.2. No spam or self-promotion."
 type: community
-date: "2023-06-29 12:37:35"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/autisticwithadhd"
 host: lemmy.world
 lastmod: "2023-06-24 12:50:19"
 published: "2023-06-24 12:02:30"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

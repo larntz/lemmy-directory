@@ -3,7 +3,7 @@ title: "Ex-Conservative"
 name: "ex_conservative"
 description: "for communists who were conservative (or right of liberal) before radicalizing. "
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ex_conservative"

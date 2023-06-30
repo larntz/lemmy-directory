@@ -3,7 +3,7 @@ title: "El hogar de los venezolanos en el mundo federado"
 name: "venezuela"
 description: "Este es el lugar para hablar entre venezolanos o sobre Venezuela.Bienvenidos los refugiados de reddit!/r/vzlaLas reglas son simples:1. Sea amable.2. No se admite el spam.3. Hay una fina linea entre el chalequeo y la discriminación.4. La arepa es venezolana."
 type: community
-date: "2023-06-28 15:20:54"
+date: "2023-06-30 13:17:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/venezuela"

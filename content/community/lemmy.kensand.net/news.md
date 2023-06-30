@@ -3,17 +3,17 @@ title: "News"
 name: "news"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.kensand.net/c/news"
 host: lemmy.kensand.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 19:54:54"
-subscribers: 1
-posts: 842
+subscribers: 3
+posts: 940
 comments: 0
-weight: 842
+weight: 940
 dau: 1
 wau: 1
 mau: 1

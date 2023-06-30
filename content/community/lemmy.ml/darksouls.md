@@ -3,14 +3,14 @@ title: "DarkSouls"
 name: "darksouls"
 description: "discussion about dark souls :)."
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/darksouls"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-02-13 21:49:28"
-subscribers: 74
+subscribers: 77
 posts: 6
 comments: 0
 weight: 6

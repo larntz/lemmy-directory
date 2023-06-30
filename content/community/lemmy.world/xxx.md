@@ -3,7 +3,7 @@ title: "Death & Disease"
 name: "xxx"
 description: "I created this community then realized I should just use c/paranormal, not c/xxx, so that people actually find this community."
 type: community
-date: "2023-06-29 12:38:06"
+date: "2023-06-30 13:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xxx"

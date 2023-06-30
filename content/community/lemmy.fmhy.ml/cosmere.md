@@ -3,7 +3,7 @@ title: "Cosmere"
 name: "cosmere"
 description: "A place to discuss anything and everything related to Brandon Sanderson's Comere. Similar fantasy topics are also appreciated. "
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/cosmere"

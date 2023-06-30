@@ -3,7 +3,7 @@ title: "PostgreSQL"
 name: "postgresql"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:09"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/postgresql"
@@ -15,7 +15,7 @@ posts: 5
 comments: 3
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 4
 instances:
 - "lemmy_ml"

@@ -3,7 +3,7 @@ title: "Özgür Yazılım"
 name: "ozgur_yazilim"
 description: "**Özgür yazılım** (Libre Software) ile ilgili Türkçe paylaşım yapılabilecek topluluk.# Özgür yazılım nedir?**Özgür yazılım**, kullanıcıların özgürlüğüne ve topluluğa saygı duyan yazılım demektir. Kullanıcıların bir yazılımı çalıştırma, kopyalama, dağıtma, inceleme, değiştirme ve geliştirme özgürlüğüne sahip olduğu yazılım türüdür. Sıklıkla açık kaynak yazılım kavramı ile karıştırılmaktadır. Her özgür yazılım zaten açık kaynaktır. Ancak açık kaynak bir yazılım özgür olmayabilir. [Daha fazla bilgi...](https://www.gnu.org/philosophy/free-sw.tr.html)# Kurallar- Topluluk amacına sadık kal.- Kaba olma! Nazik ol!- Önyargılı olma!# İlgili topluluklar- [Libre Culture](https://lemmy.ml/c/libre_culture) - [Libre Software](https://lemmy.ml/c/libre_software) "
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ozgur_yazilim"

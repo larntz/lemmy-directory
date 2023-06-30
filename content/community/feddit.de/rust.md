@@ -3,7 +3,7 @@ title: "The Rust Programming Language"
 name: "rust"
 description: "A place for all things related to the Rust programming language—an open-source systems language that emphasizes performance, reliability, and productivity."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/rust"

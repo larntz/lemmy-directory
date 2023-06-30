@@ -3,7 +3,7 @@ title: "HVAC/R technicians and affiliated trades"
 name: "hvac"
 description: "This is intended to be for hvac technicians and with hvac technicians in mind. Please refer to c/hvacadvice for out of the trade conversation, requests for help and whatnot."
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hvac"
@@ -15,7 +15,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 4
 instances:
 - "lemmy_ml"

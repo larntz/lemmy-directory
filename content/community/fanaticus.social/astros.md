@@ -3,17 +3,17 @@ title: "Astros"
 name: "astros"
 description: "Cloned from [r/Astros](https://old.reddit.com/r/Astros)# Looking for mods!"
 type: community
-date: "2023-06-28 15:18:26"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/astros"
 host: fanaticus.social
 lastmod: "2023-06-12 16:43:07"
 published: "2023-06-09 17:02:41"
-subscribers: 11
-posts: 25
-comments: 59
-weight: 25
+subscribers: 12
+posts: 30
+comments: 61
+weight: 30
 dau: 1
 wau: 5
 mau: 5

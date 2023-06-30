@@ -3,7 +3,7 @@ title: "The International Department of Citizenship"
 name: "idc1"
 description: "The International Department of Citizenship is an organizing body dedicated to empowering citizen projects which lay the groundwork for revolution and allow workers to control the means of production in a democratic & decentralized world. https://1.joinidc.co/"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/idc1"

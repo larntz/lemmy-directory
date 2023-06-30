@@ -3,12 +3,12 @@ title: "Russel Crow"
 name: "russel_crow"
 description: "Posts about Russel the Crow"
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/russel_crow"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "2023-06-28 20:38:17"
 published: "2023-06-28 20:36:47"
 subscribers: 1
 posts: 0

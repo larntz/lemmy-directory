@@ -3,7 +3,7 @@ title: "technology"
 name: "technology"
 description: "General technology discussion"
 type: community
-date: "2023-06-29 12:34:57"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://wirebase.org/c/technology"

@@ -3,7 +3,7 @@ title: "Break Dancing"
 name: "breaking"
 description: "A community for anyone interested in break dancing. Post your tutorials, favorite dances, worn out shoes, or your favorite source for cardboard."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bringdaruck.us/c/breaking"

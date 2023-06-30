@@ -3,7 +3,7 @@ title: "Vaping Australia"
 name: "vapingaus"
 description: "A community of Aussies discussing Electronic Cigarettes and their use in Australia. **18+ ONLY!****Posts or comments asking where to purchase illegal and/or black-market products (disposables, etc) will result in an immediate ban.**"
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/vapingaus"

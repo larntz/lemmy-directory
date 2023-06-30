@@ -3,7 +3,7 @@ title: "c/ommunity"
 name: "ommunity"
 description: "Just a place to get to know others in this community"
 type: community
-date: "2023-06-28 15:20:54"
+date: "2023-06-30 13:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ommunity"

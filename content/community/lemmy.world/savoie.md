@@ -3,7 +3,7 @@ title: "Savoie et Haute-Savoie"
 name: "savoie"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/savoie"

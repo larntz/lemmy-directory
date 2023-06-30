@@ -3,7 +3,7 @@ title: "techsupport"
 name: "techsupport"
 description: "**Having tech problems?**Ask other users, and try to help others with their problems as well. **Guidelines**Please include your system specs, such as Windows/Linux/Mac version/build, model numbers, troubleshooting steps, symptoms, etc. "
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/techsupport"

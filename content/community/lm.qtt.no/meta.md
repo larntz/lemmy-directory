@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Discussion about the server itself."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://lm.qtt.no/c/meta"

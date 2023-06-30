@@ -3,7 +3,7 @@ title: "Solo Travel "
 name: "solotravel"
 description: "Inspired by [/r/solotravel](https://www.reddit.com/r/solotravel/)See also: * [One Bag](https://wayfarershaven.eu/c/onebag)* [Her One Bag](https://wayfarershaven.eu/c/heronebag)* [Many Bags](https://wayfarershaven.eu/c/manybaggers)* [Solo Travel](https://wayfarershaven.eu/c/solotravel)Image credit: [Alex Azabache](https://unsplash.com/images/travel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/solotravel"

@@ -3,7 +3,7 @@ title: "Fire Emblem Shitposters Unite!"
 name: "shitpostemblem"
 description: "For all your Fire Emblem shitposting needs.1. **Be respectful**. No racism, sexism or other offensive content.2. **No adult content**. No explicit content"
 type: community
-date: "2023-06-29 12:35:05"
+date: "2023-06-30 13:14:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fromshado.ws/c/shitpostemblem"

@@ -3,7 +3,7 @@ title: "Techno"
 name: "techno"
 description: "Lemmy dedicado a discussão sobre notícias, festivais e sets de techno/EDM no Brasil ou de artistas brasileiras. "
 type: community
-date: "2023-06-29 12:34:57"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/techno"

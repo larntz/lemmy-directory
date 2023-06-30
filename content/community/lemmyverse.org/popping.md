@@ -3,7 +3,7 @@ title: "Popping"
 name: "popping"
 description: "A community all about pimples, cysts, boils and abscesses.  It can be on humans and animals alike.###### Rules- Must be a video or picture of a pop.- No hate commenting on the appearance, phsique or hygiene of a person.#"
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmyverse.org/c/popping"

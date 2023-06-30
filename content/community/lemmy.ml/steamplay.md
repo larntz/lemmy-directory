@@ -3,14 +3,14 @@ title: "Steam Play - Proton"
 name: "steamplay"
 description: "A community for all topics related to Steam Play and the Proton compatibility layer for Linux Gaming."
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/steamplay"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-05-31 10:52:57"
-subscribers: 151
+subscribers: 153
 posts: 5
 comments: 4
 weight: 5

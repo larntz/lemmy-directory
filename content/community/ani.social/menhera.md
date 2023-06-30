@@ -3,7 +3,7 @@ title: "!menhera"
 name: "menhera"
 description: "A community dedicated to the cute and quirky Kurumi from the Menhera Shoujo Kurumi-chan manga."
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:48"
 draft: false
 nsfw: false
 actor_id: "https://ani.social/c/menhera"

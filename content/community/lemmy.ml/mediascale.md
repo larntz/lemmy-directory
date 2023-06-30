@@ -3,7 +3,7 @@ title: "Media Application Scaling"
 name: "mediascale"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:09"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mediascale"
@@ -12,7 +12,7 @@ lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 14:18:26"
 subscribers: 7
 posts: 4
-comments: 11
+comments: 12
 weight: 4
 dau: 1
 wau: 1

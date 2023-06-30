@@ -3,7 +3,7 @@ title: "Libertarian Discussion"
 name: "libertarian"
 description: "Place for discussion from a Libertarian perspective, meaning less top-down control and more individual liberty. In general, the intent is discussion about issues and not a discussion on libertarianism itself or any of its branches.Be sure to respect the instance rules, and please keep discussion civil and backed by high quality sources where possible."
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/libertarian"
@@ -14,7 +14,7 @@ subscribers: 37
 posts: 6
 comments: 33
 weight: 6
-dau: 3
+dau: 1
 wau: 4
 mau: 9
 instances:

@@ -3,7 +3,7 @@ title: "Austin FC"
 name: "austinfc"
 description: "A community for everything related to the Austin FC.Related communities:* [!austin@lemmy.world](https://lemmy.world/c/austin) "
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/austinfc"
@@ -15,7 +15,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

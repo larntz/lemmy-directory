@@ -3,14 +3,14 @@ title: "Garmin"
 name: "garmin"
 description: "Everything Garmin."
 type: community
-date: "2023-06-29 12:37:57"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/garmin"
 host: lemmy.world
 lastmod: "2023-06-16 12:14:12"
 published: "2023-06-16 12:11:51"
-subscribers: 41
+subscribers: 44
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Raspberry Pi ideas / projects"
 name: "raspberrypi"
 description: "Ideas/demos for hardware / software integration on raspberry pi"
 type: community
-date: "2023-06-29 12:34:33"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/raspberrypi"
 host: quex.cc
 lastmod: "2023-06-13 01:09:11"
 published: "2023-06-06 17:53:10"
-subscribers: 49
+subscribers: 50
 posts: 9
 comments: 12
 weight: 9

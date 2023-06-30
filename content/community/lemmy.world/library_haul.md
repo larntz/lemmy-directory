@@ -3,7 +3,7 @@ title: "Library Haul"
 name: "library_haul"
 description: "A community for people who use and love libraries! This is a place to post library hauls and discuss all things related to libraries."
 type: community
-date: "2023-06-29 12:37:41"
+date: "2023-06-30 13:17:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/library_haul"

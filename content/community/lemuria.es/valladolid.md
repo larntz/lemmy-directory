@@ -3,7 +3,7 @@ title: "Valladolid"
 name: "valladolid"
 description: "Comunidad en Lemmy dedicada a temas de la ciudad de Valladolid y su provincia"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemuria.es/c/valladolid"

@@ -3,7 +3,7 @@ title: "The Great Hall"
 name: "main"
 description: "This is just the main page. General topics and discussions. Avoid being a dick. Or if you do... **be funny**. "
 type: community
-date: "2023-06-29 12:35:03"
+date: "2023-06-30 13:14:02"
 draft: false
 nsfw: false
 actor_id: "https://lm.halfassmart.net/c/main"

@@ -3,7 +3,7 @@ title: "Libraries"
 name: "libraries"
 description: "Another place to discuss all aspects of libraries and library work."
 type: community
-date: "2023-06-29 12:37:44"
+date: "2023-06-30 13:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/libraries"

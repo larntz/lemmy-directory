@@ -3,7 +3,7 @@ title: "Pricefield"
 name: "pricefield"
 description: "Max & Chloe ♥ 4 ever"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://pricefield.org/c/pricefield"
@@ -11,9 +11,9 @@ host: pricefield.org
 lastmod: "2023-06-26 07:23:15"
 published: "2023-06-23 14:16:39"
 subscribers: 9
-posts: 19
+posts: 21
 comments: 20
-weight: 19
+weight: 21
 dau: 1
 wau: 12
 mau: 12

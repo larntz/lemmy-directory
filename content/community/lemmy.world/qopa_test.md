@@ -3,7 +3,7 @@ title: "qopa-test"
 name: "qopa_test"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/qopa_test"
@@ -14,7 +14,7 @@ subscribers: 1
 posts: 1
 comments: 1
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

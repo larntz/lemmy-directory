@@ -3,7 +3,7 @@ title: "LeftieLitAnalysis "
 name: "leftielitanalysis"
 description: "WELCOME to Leftist Literature Analysis, this is a place for analysis of leftist themes in otherwise non leftist works of literature, feel free to contribute!"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/leftielitanalysis"

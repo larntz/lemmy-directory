@@ -3,7 +3,7 @@ title: "Tampere"
 name: "tampere"
 description: "News and discussion related to the City of Tampere, in both Finnish and English. News, events, travel and more. Can't find information? Ask a Tamperite! Tampere's nicknames include Manse, Mansesteri or Tampesteri."
 type: community
-date: "2023-06-29 12:36:10"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tampere"

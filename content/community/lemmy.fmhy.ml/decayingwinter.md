@@ -3,7 +3,7 @@ title: "Decaying Winter"
 name: "decayingwinter"
 description: "A community for the Roblox game [Decaying Winter](https://web.roblox.com/games/13438553315/Decaying-Winter)No NSFW allowed, if you want to post that make a c/decayingwinternsfw or something"
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/decayingwinter"

@@ -3,7 +3,7 @@ title: "Yerba Mate"
 name: "yerbamate"
 description: "A community to discuss all things yerba mate!"
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/yerbamate"

@@ -1,14 +1,14 @@
 ---
 title: "YunoHost" 
 name: "yunohost"
-description: "https://yunohost.org/ With YunoHost, you can easily manage a server for your friends, association or enterprise."
+description: "With YunoHost, you can easily manage a server for your friends, association or enterprise.https://yunohost.org/IRC: [#yunohost on libera.chat](https://web.libera.chat/#yunohost)  Matrix: [#yunohost-space:matrix.org](https://matrix.to/#/#yunohost-space:matrix.org)  XMPP: support@conference.yunohost.org"
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yunohost"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-29 14:55:01"
 published: "2020-06-21 12:07:59"
 subscribers: 42
 posts: 13

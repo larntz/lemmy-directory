@@ -3,7 +3,7 @@ title: "Grimdank Memes from the 41st millenium"
 name: "grimdank"
 description: "Your central hub for the dankest memes from the 41st millennium and the Mortal Realms."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/grimdank"
@@ -11,9 +11,9 @@ host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-22 03:55:59"
 subscribers: 4
-posts: 306
+posts: 347
 comments: 0
-weight: 306
+weight: 347
 dau: 0
 wau: 0
 mau: 0

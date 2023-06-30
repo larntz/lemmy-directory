@@ -3,7 +3,7 @@ title: "The chip is back"
 name: "chiptunes"
 description: "A community dedicated to music that gets the most out of the least. Music in the style of old games, eg, C64, Atari, NES, Gameboy, Sega Genesis, Adlib, OPM, MOD, etc."
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chiptunes"

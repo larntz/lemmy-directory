@@ -3,7 +3,7 @@ title: "Playground"
 name: "playground"
 description: "Use this community to test lemmy functionality and speed through posts and comments. No rules except site rules"
 type: community
-date: "2023-06-29 12:35:17"
+date: "2023-06-30 13:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/playground"

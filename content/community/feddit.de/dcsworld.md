@@ -3,7 +3,7 @@ title: "DCS"
 name: "dcsworld"
 description: "Lemmy community for the flight simulator DCS World by Eagle Dynamics. No Affiliation to ED**Great Guides for DCS Modules**https://chucksguides.com/Rules:**I am the Law**-"
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dcsworld"
@@ -15,7 +15,7 @@ posts: 25
 comments: 34
 weight: 25
 dau: 1
-wau: 5
+wau: 3
 mau: 12
 instances:
 - "feddit_de"

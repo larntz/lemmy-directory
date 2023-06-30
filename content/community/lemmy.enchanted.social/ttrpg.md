@@ -3,7 +3,7 @@ title: "Tabletop Roleplaying Games"
 name: "ttrpg"
 description: "A community for discussing the general topic of tabletop roleplaying games. This includes games like D&D, Pathfinder RPG, and Shadowrun to name a few."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.enchanted.social/c/ttrpg"

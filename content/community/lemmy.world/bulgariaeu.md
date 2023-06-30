@@ -3,7 +3,7 @@ title: "Bulgaria - България"
 name: "bulgariaeu"
 description: "Bulgarian lemmy page dedicated to Bulgarian traditions, culture, history, news and discussions. This lemmy sub is bilingual. This lemmy sub is alternative of our reddit. Българската леми страница, побратима на съб [леми София](https://lemmy.world/c/sofia)."
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bulgariaeu"

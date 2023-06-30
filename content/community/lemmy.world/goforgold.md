@@ -3,12 +3,12 @@ title: "GoForGold"
 name: "goforgold"
 description: "Description not available."
 type: community
-date: "2023-06-28 14:06:21"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goforgold"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:21"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 22:34:33"
 subscribers: 1
 posts: 0

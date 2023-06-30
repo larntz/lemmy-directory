@@ -3,7 +3,7 @@ title: "Trivial - Gehitu galdera bat!"
 name: "trivial"
 description: "# TrivialHezkuntza munduan erabiltzeko, kultura orokorreko **milaka galdera bilduko ditugu** foro honetan. Ikastetxeetan, euskaltegietan, irakasle jendeari jolasak antolatzeko aukera osoa, hementxe. Komunitateak eskainitako oparia.**Galdera irekiak** emango ditugu, ez besterik; ez ditugu hemen erantzuteko ohiko lau aukerak eskainiko. (Erantzuna jakin nahi duenak, jo dezala euskarazko *eu.Wikipedia.org* horretara!)**Iruzkin izango balira bezala gehituko ditugu galdera berriak.** (Horrela zenbat galdera dagoen erakutsiko digu iruzkinak zenbatzeko dagoen sistema automatikoak).::: spoiler spoiler**EZ DITUGU** HEMEN **ERANTZUNAK IDATZIKO**.**Helburua**:  Kultura orokorreko **galdera** ez oso zail **asko biltzea** eta ikastetxeetan, euskaltegietan, etxeetan, Trivial estiloko jolasa prestatzeko materialak musu truk eskaintzea.  # Kategoriak:**Geografia** (Urdina)**Ikuskizunak** (Arrosa)**Historia** (Horia)**Artea eta Literatura** (Marroia)**Zientziak eta Natura** (Berdea)**Aisialdia eta Kirola** (Laranja)"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/trivial"

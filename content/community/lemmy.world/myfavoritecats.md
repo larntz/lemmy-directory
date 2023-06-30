@@ -3,7 +3,7 @@ title: "myfavoritecats"
 name: "myfavoritecats"
 description: "A c/ to share cute cats with my wife."
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/myfavoritecats"
@@ -15,7 +15,7 @@ posts: 5
 comments: 2
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_world"

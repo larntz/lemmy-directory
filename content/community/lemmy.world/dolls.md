@@ -3,7 +3,7 @@ title: "dolls"
 name: "dolls"
 description: "Community for all types of dolls: fashion dolls, ball-jointed dolls, hinge-jointed dolls."
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dolls"

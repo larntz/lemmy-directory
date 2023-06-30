@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "For dev"
 type: community
-date: "2023-06-29 12:35:01"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://mesita.link/c/test"

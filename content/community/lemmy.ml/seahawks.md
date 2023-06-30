@@ -3,14 +3,14 @@ title: "Seattle Seahawks"
 name: "seahawks"
 description: "This is a Community for the fans of the Seattle Seahawks. We discuss news, stats and other Seahawks topics."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/seahawks"
 host: lemmy.ml
 lastmod: "2023-06-11 14:53:29"
 published: "2023-06-11 02:52:28"
-subscribers: 55
+subscribers: 56
 posts: 7
 comments: 13
 weight: 7

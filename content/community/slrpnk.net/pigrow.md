@@ -3,7 +3,7 @@ title: "Pigrow"
 name: "pigrow"
 description: "Pigrow Growbox control software is an opensource project designed to make it easier to monitor and control your growspace.  Guide         -  https://github.com/Pragmatismo/Pigrow/wiki video guides  - https://www.youtube.com/@robogromo3904 Support       -  https://www.patreon.com/Pigrow"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/pigrow"

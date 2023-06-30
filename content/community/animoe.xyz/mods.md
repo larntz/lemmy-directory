@@ -3,7 +3,7 @@ title: "Mods"
 name: "mods"
 description: "[This community is used to make announcements about this server as mod]()"
 type: community
-date: "2023-06-29 12:34:59"
+date: "2023-06-30 13:13:59"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/mods"

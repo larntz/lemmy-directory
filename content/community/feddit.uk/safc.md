@@ -3,7 +3,7 @@ title: "SAFC"
 name: "safc"
 description: "A place to discuss all things Sunderland AFC! Ha'way the Lads!"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/safc"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "feddit_uk"

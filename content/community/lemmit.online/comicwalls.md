@@ -3,7 +3,7 @@ title: "Comic/Cartoon themed wallpapers for desktop and mobile"
 name: "comicwalls"
 description: "This is the place for wallpapers (both desktop and mobile) related to comic books, comic strips, cartoons & comic-related movies/television..."
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/comicwalls"

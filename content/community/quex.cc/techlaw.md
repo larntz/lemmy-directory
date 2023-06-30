@@ -3,14 +3,14 @@ title: "Technology Policy & Law"
 name: "techlaw"
 description: "Technology Policy & Law"
 type: community
-date: "2023-06-29 12:34:33"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://quex.cc/c/techlaw"
 host: quex.cc
 lastmod: "2023-06-26 12:02:51"
 published: "2023-06-26 11:51:57"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

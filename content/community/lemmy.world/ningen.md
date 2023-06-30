@@ -3,7 +3,7 @@ title: "Ningen"
 name: "ningen"
 description: "DB Memes"
 type: community
-date: "2023-06-29 12:38:00"
+date: "2023-06-30 13:17:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ningen"
@@ -15,7 +15,7 @@ posts: 3
 comments: 5
 weight: 3
 dau: 1
-wau: 4
+wau: 1
 mau: 4
 instances:
 - "lemmy_world"

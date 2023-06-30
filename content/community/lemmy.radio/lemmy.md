@@ -3,7 +3,7 @@ title: "Lemmy talk"
 name: "lemmy"
 description: "Chat/Questions about our Lemmy instance or Lemmy in general### Useful Links- [Fediverse Explained](https://i.imgur.io/b2QuYAR_d.webp?maxwidth=640&shape=thumb&fidelity=medium)"
 type: community
-date: "2023-06-29 12:34:41"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.radio/c/lemmy"

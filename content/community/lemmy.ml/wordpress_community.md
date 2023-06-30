@@ -3,7 +3,7 @@ title: "WordPress - Create a Free Website or Blog"
 name: "wordpress_community"
 description: "WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.# Rules  -  No harassment   - No spamming   - Stay friendly   - Follow the lemmy.ml instance rules   - No blog advertising   - Use the flags [Help], [Question], [Advice], [Other]# Similar Communities- [!webdev@lemmy.ml](https://lemmy.ml/c/webdev) - [!personalwebsites@lemmy.ml](https://lemmy.ml/c/personalwebsites) - [!frontend@lemmy.ml](https://lemmy.ml/c/frontend) "
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wordpress_community"

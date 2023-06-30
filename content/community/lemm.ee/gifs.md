@@ -3,12 +3,12 @@ title: "gifs"
 name: "gifs"
 description: "Funny, animated GIFs: Your favorite computer file type! Officially pronounced with a hard G."
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/gifs"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 17:21:05"
 subscribers: 10
 posts: 0

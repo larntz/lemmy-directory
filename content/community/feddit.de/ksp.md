@@ -3,7 +3,7 @@ title: "Kerbal Space Program"
 name: "ksp"
 description: "[Kerbal Space Program](https://www.kerbalspaceprogram.com/) is a game where you can manage your own space agency, build your rockets or planes and then can fly them too.[Kerbal Space Program 2](https://www.kerbalspaceprogram.com/games-kerbal-space-program-2) is currently in early access."
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/ksp"
@@ -15,7 +15,7 @@ posts: 3
 comments: 3
 weight: 3
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "feddit_de"

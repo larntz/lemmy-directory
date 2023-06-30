@@ -3,7 +3,7 @@ title: "feddit.ch Instance Announcements"
 name: "announcements"
 description: "The only purpose for this community is to give the instance users information about the current state of the instance. Only moderators can post to this community."
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ch/c/announcements"

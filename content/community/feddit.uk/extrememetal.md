@@ -3,7 +3,7 @@ title: "Extreme Metal"
 name: "extrememetal"
 description: "Blasts and Skrams!Death Metal/Black Metal/Grindcore/Powerviolence/Fastcore/Hardcore PunkThis is an inclusive commuity, no nazi/nsbm stuff please."
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/extrememetal"
@@ -15,7 +15,7 @@ posts: 20
 comments: 5
 weight: 20
 dau: 1
-wau: 5
+wau: 1
 mau: 5
 instances:
 - "feddit_uk"

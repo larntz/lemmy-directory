@@ -3,7 +3,7 @@ title: "Botany"
 name: "botany"
 description: "The science of plant life and a branch of biology."
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/botany"

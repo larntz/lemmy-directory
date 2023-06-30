@@ -3,7 +3,7 @@ title: "US Economy"
 name: "useconomy"
 description: "Discussion about the state of the United States economy"
 type: community
-date: "2023-06-29 12:37:43"
+date: "2023-06-30 13:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/useconomy"

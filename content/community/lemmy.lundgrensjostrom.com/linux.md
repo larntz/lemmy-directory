@@ -3,7 +3,7 @@ title: "Linux test community"
 name: "linux"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.lundgrensjostrom.com/c/linux"

@@ -3,7 +3,7 @@ title: "for testing purposes"
 name: "another_test_forum"
 description: ""
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/another_test_forum"

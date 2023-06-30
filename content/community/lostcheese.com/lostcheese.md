@@ -3,7 +3,7 @@ title: "Lost Cheese Community"
 name: "lostcheese"
 description: "what is this place"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lostcheese.com/c/lostcheese"
@@ -15,7 +15,7 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lostcheese_com"

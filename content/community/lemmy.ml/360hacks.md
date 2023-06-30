@@ -3,7 +3,7 @@ title: "Xbox 360 Hacking and Modding"
 name: "360hacks"
 description: "Anything related to Xbox 360 hacks, mods, homebrew, or scene news.News:*** [Se7enSins](http://www.se7ensins.com/)* [Wololo](http://wololo.net/)"
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/360hacks"

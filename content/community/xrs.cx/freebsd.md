@@ -3,7 +3,7 @@ title: "FreeBSD"
 name: "freebsd"
 description: "FreeBSD admins, coders, enthusiasts, whatever."
 type: community
-date: "2023-06-29 12:35:14"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://xrs.cx/c/freebsd"

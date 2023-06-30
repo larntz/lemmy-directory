@@ -3,7 +3,7 @@ title: "Dynavap"
 name: "dynavap"
 description: "Welcome to Dynavap! The community for the best battery-free TED (Thermal Extraction Device) on the market. We are an unofficial, fan-driven community of connoisseurs."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.beyondcombustion.net/c/dynavap"

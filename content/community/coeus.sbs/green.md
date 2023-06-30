@@ -3,7 +3,7 @@ title: "Green"
 name: "green"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://coeus.sbs/c/green"
@@ -15,7 +15,7 @@ posts: 2
 comments: 22
 weight: 2
 dau: 2
-wau: 4
+wau: 3
 mau: 4
 instances:
 - "coeus_sbs"

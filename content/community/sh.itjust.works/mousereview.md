@@ -3,14 +3,14 @@ title: "Computer Mice and Mousepads"
 name: "mousereview"
 description: "Where computer mice enthusiasts meet.**Placeholder for /r/MouseReview, contact me if you're a mod.**"
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mousereview"
 host: sh.itjust.works
 lastmod: "2023-06-11 20:19:38"
 published: "2023-06-11 19:55:37"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 1
 weight: 1

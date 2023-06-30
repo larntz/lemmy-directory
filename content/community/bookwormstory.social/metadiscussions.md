@@ -3,7 +3,7 @@ title: "Lemmy / Site Discussions"
 name: "metadiscussions"
 description: "**Navigation Links:**- [Web Novel](/c/aobwebnovel@bookwormstory.social)- [PrePub](/c/aobprepub@bookwormstory.social)- [Light Novel](/c/aoblightnovel@bookwormstory.social)- [Manga](/c/aobmanga@bookwormstory.social)- [Anime](/c/aobanime@bookwormstory.social)- **Lemmy / Site Discussions**Got any ideas to make the instance better? Any issue with federating from your home instance? Post it here."
 type: community
-date: "2023-06-29 12:34:43"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://bookwormstory.social/c/metadiscussions"
@@ -14,7 +14,7 @@ subscribers: 20
 posts: 13
 comments: 69
 weight: 13
-dau: 2
+dau: 1
 wau: 10
 mau: 14
 instances:

@@ -3,7 +3,7 @@ title: "Lucid Dreaming"
 name: "luciddreaming"
 description: "All about Lucid Dreams. Learn and share how to induction methods & techniques, post questions, challenges, articles, resources, and scientific news.Please take discussions of the paranormal such as astral projection someplace else. Binaural beats are also inappropriate. Let's keep this in the realm of science."
 type: community
-date: "2023-06-29 12:36:19"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/luciddreaming"

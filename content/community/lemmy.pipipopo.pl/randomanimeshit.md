@@ -3,7 +3,7 @@ title: "#randomanimeshit"
 name: "randomanimeshit"
 description: "#randomanimeshit"
 type: community
-date: "2023-06-29 12:35:05"
+date: "2023-06-30 13:14:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pipipopo.pl/c/randomanimeshit"
@@ -15,7 +15,7 @@ posts: 6
 comments: 1
 weight: 6
 dau: 1
-wau: 3
+wau: 2
 mau: 3
 instances:
 - "lemmy_pipipopo_pl"

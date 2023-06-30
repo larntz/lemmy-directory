@@ -3,12 +3,12 @@ title: "Brawl Stars - by Supercell!"
 name: "brawlstars"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/brawlstars"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "2023-06-29 07:33:02"
 published: "2023-06-28 19:12:52"
 subscribers: 2
 posts: 0

@@ -3,7 +3,7 @@ title: "cubing"
 name: "cubing"
 description: "Community revolving around cubing - the activity of solving Rubik's-cube like puzzles on time or just for fun"
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cubing"

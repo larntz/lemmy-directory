@@ -3,7 +3,7 @@ title: "Tokyo 東京都"
 name: "tokyo"
 description: "For all things in and around Tokyo for residents."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tokyo"

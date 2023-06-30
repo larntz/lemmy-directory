@@ -3,7 +3,7 @@ title: "Rooster Teeth"
 name: "roosterteeth"
 description: "A community for content regarding Rooster Teeth Productions, including Red vs. Blue, Achievement Hunter, RWBY, Rooster Teeth Podcast, etc.[Rooster Teeth Schedule](https://roosterteeth.com/schedule)"
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-06-30 13:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/roosterteeth"

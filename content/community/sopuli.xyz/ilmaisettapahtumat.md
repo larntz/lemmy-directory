@@ -3,7 +3,7 @@ title: "Ilmaiset tapahtumat Helsingissä"
 name: "ilmaisettapahtumat"
 description: "Tänne voi laittaa tietoa Helsingissä ja lähiseudulla olevista maksuttomista tapahtumista, kuten juhlista, konserteista ja kursseista!Huom! Aloita otsikko tapahtuman päivämäärällä (ja kellonajalla). Esim. 1.5.2026 klo 15.00 - Aprillijuhla Kiasmassa.(Logo: AI, Kansikuva: Rucksack magazine /CC0)"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/ilmaisettapahtumat"

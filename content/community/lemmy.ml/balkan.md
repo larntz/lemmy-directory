@@ -3,7 +3,7 @@ title: "Balkan"
 name: "balkan"
 description: "Welcome to all the people from fediverse."
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/balkan"

@@ -1,22 +1,22 @@
 ---
 title: "nextcloud" 
 name: "nextcloud"
-description: "Talk about Nextcloud. Nextcloud has its own forums, but I am not super keen on Discourse based forums.Hopefully here we can share information and find mutual tech aid."
+description: "Nextcloud is a suite of client-server software for creating and using file hosting services.  https://nextcloud.comhttps://github.com/nextcloudIRC: [#nextcloud on libera.chat](https://web.libera.chat/#nextcloud)  Matrix: [#Nextcloud:matrix.org](https://matrix.to/#/#Nextcloud:matrix.org)"
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nextcloud"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-29 14:51:09"
 published: "2020-06-07 15:14:30"
-subscribers: 300
+subscribers: 302
 posts: 12
 comments: 7
 weight: 12
-dau: 3
-wau: 6
-mau: 8
+dau: 1
+wau: 7
+mau: 9
 instances:
 - "lemmy_ml"
 tags: 

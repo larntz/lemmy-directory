@@ -3,7 +3,7 @@ title: "mckservice updates"
 name: "mckservice"
 description: "a place to recieve and report issues with McKservices"
 type: community
-date: "2023-06-29 12:35:14"
+date: "2023-06-30 13:14:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.quad442.com/c/mckservice"

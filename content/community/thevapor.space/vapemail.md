@@ -3,7 +3,7 @@ title: "Vape Mail"
 name: "vapemail"
 description: "Show off your latest haul here!"
 type: community
-date: "2023-06-29 12:35:07"
+date: "2023-06-30 13:14:06"
 draft: false
 nsfw: false
 actor_id: "https://thevapor.space/c/vapemail"

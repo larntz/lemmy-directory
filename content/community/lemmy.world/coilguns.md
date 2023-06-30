@@ -3,7 +3,7 @@ title: "Coilguns"
 name: "coilguns"
 description: "All about that magnetic acceleration. For all things related to real world sci-fi weaponry, theory, or hobbyist projects. "
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-06-30 13:17:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/coilguns"

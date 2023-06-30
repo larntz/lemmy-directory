@@ -3,14 +3,14 @@ title: "Sigmarxism"
 name: "sigmarxism"
 description: "Because Warhammer is cool and reactionaries shouldn't get to have all the fun."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sigmarxism"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-08-24 13:18:18"
-subscribers: 135
+subscribers: 136
 posts: 11
 comments: 59
 weight: 11

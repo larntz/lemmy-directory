@@ -3,7 +3,7 @@ title: "J-Cloud Server"
 name: "jcloud"
 description: "*Just a space for anything related to this server*"
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://feedly.j-cloud.uk/c/jcloud"

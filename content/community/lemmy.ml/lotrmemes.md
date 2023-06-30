@@ -3,7 +3,7 @@ title: "Memes about the Lord of the Rings universe"
 name: "lotrmemes"
 description: "The beautiful universe of J.R.R. Tolkien"
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lotrmemes"

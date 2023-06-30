@@ -3,14 +3,14 @@ title: "Unterhaltung"
 name: "unterhaltung"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/unterhaltung"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2022-06-18 12:03:07"
-subscribers: 42
+subscribers: 44
 posts: 33
 comments: 6
 weight: 33

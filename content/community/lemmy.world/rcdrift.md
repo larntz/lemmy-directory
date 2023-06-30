@@ -3,7 +3,7 @@ title: "RC Drifting"
 name: "rcdrift"
 description: "For all things RC drift relatedRules :1. Only RC Drift content.2. No NSFW content at all.3. Please remember the human and be polite to others4. No bigotry.Send it!"
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rcdrift"

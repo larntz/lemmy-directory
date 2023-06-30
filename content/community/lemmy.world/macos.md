@@ -3,14 +3,14 @@ title: "macOS"
 name: "macos"
 description: "The home for all things macOS on LW.**Rules:**- No NSFW Content.- No hate speech or personal attacks.- No Ads / Spamming."
 type: community
-date: "2023-06-29 12:37:47"
+date: "2023-06-30 13:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macos"
 host: lemmy.world
 lastmod: "2023-06-16 01:39:13"
 published: "2023-06-16 01:39:00"
-subscribers: 129
+subscribers: 140
 posts: 3
 comments: 5
 weight: 3

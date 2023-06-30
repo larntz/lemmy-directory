@@ -3,20 +3,20 @@ title: "Android Homescreens"
 name: "android_homescreens"
 description: "A community for posting android homescreens"
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/android_homescreens"
 host: lemmy.ml
 lastmod: "2021-02-12 22:53:41"
 published: "2021-02-12 22:51:29"
-subscribers: 154
-posts: 15
-comments: 21
-weight: 15
-dau: 1
-wau: 1
-mau: 9
+subscribers: 157
+posts: 17
+comments: 23
+weight: 17
+dau: 4
+wau: 4
+mau: 13
 instances:
 - "lemmy_ml"
 tags: 

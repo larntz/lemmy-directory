@@ -3,7 +3,7 @@ title: "Age of Empires"
 name: "ageofempires"
 description: "Welcome to the Age of Empires lemmy community, where we can discuss all of the Age of Empires game series.Please tag your title accordingly.For example:- [META] This is a test- [AoE1] This is a test- [AoE2] This is a test- [AoE3] This is a test- [AoE4] This is a test"
 type: community
-date: "2023-06-29 12:38:05"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ageofempires"

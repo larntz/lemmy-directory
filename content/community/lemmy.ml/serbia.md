@@ -3,7 +3,7 @@ title: "Serbia"
 name: "serbia"
 description: "Dobro došli na c/serbia, najveći srpski kutak na ~~redditu~~. Upoznajte zemlju fascinantne prirode, dobrog provoda i još boljih ljudi.-----Welcome to c/serbia, the largest Serbian community on ~~reddit~~. Explore a country of incredible nature, great parties and even better people."
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/serbia"

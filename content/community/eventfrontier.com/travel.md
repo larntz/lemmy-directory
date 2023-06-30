@@ -3,7 +3,7 @@ title: "Travel"
 name: "travel"
 description: "A community about everything travel! Questions, experiences, stories, advice, news, and more are welcome. Basically anything travel related, this is the place."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://eventfrontier.com/c/travel"
@@ -11,12 +11,12 @@ host: eventfrontier.com
 lastmod: "2023-06-17 22:43:35"
 published: "2023-06-12 21:54:09"
 subscribers: 3
-posts: 0
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "eventfrontier_com"
 tags: 

@@ -3,7 +3,7 @@ title: "Jizz Moppers Union"
 name: "jmu"
 description: "A UPB deeplore and goose fanfic repository."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blugatch.tube/c/jmu"

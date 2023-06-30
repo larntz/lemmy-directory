@@ -3,7 +3,7 @@ title: "bpf"
 name: "bpf"
 description: "simply bpf goodies"
 type: community
-date: "2023-06-29 12:34:33"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/bpf"

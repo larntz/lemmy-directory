@@ -3,7 +3,7 @@ title: "Meme From The Future"
 name: "meme_from_the_future"
 description: "Memes from tomorrow... today:trade mark: :smiling face with sunglasses: "
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/meme_from_the_future"

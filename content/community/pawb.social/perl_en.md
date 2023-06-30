@@ -3,7 +3,7 @@ title: "Perl"
 name: "perl_en"
 description: "English-language programmers' community for those who use the Perl and/or Raku programming languagesPlease treat  [pawb.social's rules](https://pawb.social/post/100) as though they were the rules of this community, even if you're posting from another instance!"
 type: community
-date: "2023-06-29 12:34:33"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/perl_en"

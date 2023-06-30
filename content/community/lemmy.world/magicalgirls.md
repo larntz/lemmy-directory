@@ -3,7 +3,7 @@ title: "magicalgirls"
 name: "magicalgirls"
 description: "A Lemmy for fans of Magical Girl/Mahou Shoujo. Please remember to read the rules in the sidebar:- Respect One Another. Super Simple Stuff Here.- No Hate Speech. - No NSFW/Porn/Hentai.- No Pirating Material.- Credit Fanworks."
 type: community
-date: "2023-06-29 12:37:50"
+date: "2023-06-30 13:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/magicalgirls"

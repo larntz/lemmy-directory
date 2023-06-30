@@ -3,7 +3,7 @@ title: "Lume Haters"
 name: "lumhtrs"
 description: "A subreddit turned community for people to rant about Lume and its products. Please read the rules before posting"
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:57"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/lumhtrs"

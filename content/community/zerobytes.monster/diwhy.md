@@ -3,7 +3,7 @@ title: "DiWHY"
 name: "diwhy"
 description: "Ever try fixing things on your own? Didn't come out the way they were supposed to? Do you stand there questioning your whole life? If so, post..."
 type: community
-date: "2023-06-29 12:35:10"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/diwhy"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 10:34:22"
 subscribers: 1
-posts: 57
+posts: 65
 comments: 0
-weight: 57
+weight: 65
 dau: 1
 wau: 1
 mau: 1

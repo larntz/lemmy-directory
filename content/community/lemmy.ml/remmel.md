@@ -3,7 +3,7 @@ title: "Remmel for Lemmy"
 name: "remmel"
 description: "Native iOS Client to Lemmy. [AppStore](https://apps.apple.com/us/app/remmel-for-lemmy/id1547988171)[Github](https://github.com/uuttff8/Lemmy-ios)"
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/remmel"

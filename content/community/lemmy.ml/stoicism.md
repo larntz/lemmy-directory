@@ -3,7 +3,7 @@ title: "Stoicism"
 name: "stoicism"
 description: "What a better place to discuss the Stoic philosophy than on an ethical FOSS platform.[Matrix](https://matrix.to/#/!WVvbtvzYEwDaIXpqev:matrix.org?via=matrix.org&via=mikaelgron.se)"
 type: community
-date: "2023-06-29 12:36:28"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stoicism"

@@ -3,7 +3,7 @@ title: "Food and Wine"
 name: "foodwine"
 description: "A place for food and wine enthusiasts to share meals, recipes, and good vibes"
 type: community
-date: "2023-06-29 12:36:25"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/foodwine"

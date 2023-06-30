@@ -3,7 +3,7 @@ title: "GURPS"
 name: "gurps"
 description: "A community dedicated to GURPS, the Generic Universal RolePlaying System created by Steve Jackson in 1986."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/gurps"

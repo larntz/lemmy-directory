@@ -3,7 +3,7 @@ title: "VRChat"
 name: "vrchat"
 description: "Discussion related to VRChat"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vrchat-dev.tech/c/vrchat"
@@ -11,9 +11,9 @@ host: lemmy.vrchat-dev.tech
 lastmod: "2023-06-29 03:06:34"
 published: "2023-06-05 21:57:22"
 subscribers: 37
-posts: 25
+posts: 27
 comments: 7
-weight: 25
+weight: 27
 dau: 1
 wau: 2
 mau: 2

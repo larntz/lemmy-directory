@@ -3,7 +3,7 @@ title: "3D Printed Miniatures"
 name: "3dprintedminis"
 description: "A community dedicated to the art of 3D modeling and 3D printing miniatures (FDM and resin) and related terrain and accessories for tabletop gaming."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/3dprintedminis"

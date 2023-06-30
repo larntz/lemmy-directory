@@ -3,7 +3,7 @@ title: "Gestion Libre de Parc Informatique"
 name: "glpi"
 description: "Welcome to the GLPI Lemmy community!"
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/glpi"

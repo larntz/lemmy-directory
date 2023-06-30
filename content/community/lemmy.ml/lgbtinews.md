@@ -3,7 +3,7 @@ title: "LGBTI News"
 name: "lgbtinews"
 description: "Lesbian, Gay, Bisexual, Transgender & Intersex News around the world."
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lgbtinews"

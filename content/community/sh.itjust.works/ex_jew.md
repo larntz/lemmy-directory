@@ -3,7 +3,7 @@ title: "Exjew"
 name: "ex_jew"
 description: "Another community of formerly religious Jews for discussing all that comes with the territory of leaving Judaism behind. For those of us who chap the chutzpah of organized religion!"
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/ex_jew"

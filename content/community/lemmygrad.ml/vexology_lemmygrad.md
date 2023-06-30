@@ -3,7 +3,7 @@ title: "Vexillology - The Study of Flags"
 name: "vexology_lemmygrad"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/vexology_lemmygrad"
@@ -16,7 +16,7 @@ comments: 55
 weight: 27
 dau: 1
 wau: 1
-mau: 5
+mau: 2
 instances:
 - "lemmygrad_ml"
 tags: 

@@ -3,7 +3,7 @@ title: "Apple Card"
 name: "applecard"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:58"
+date: "2023-06-30 13:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/applecard"

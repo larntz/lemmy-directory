@@ -3,14 +3,14 @@ title: "Infrapolitics"
 name: "infrapolitics"
 description: "Infrapolitics is to politics what infrared is to light. Its domain encompasses the acts, gestures, and thoughts that are not quite political enough to be perceived as such."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/infrapolitics"
 host: slrpnk.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-02-23 12:07:07"
-subscribers: 44
+subscribers: 45
 posts: 7
 comments: 1
 weight: 7

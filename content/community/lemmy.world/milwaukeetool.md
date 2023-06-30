@@ -3,7 +3,7 @@ title: "Milwaukee Tool"
 name: "milwaukeetool"
 description: "The ultimate community for tradespeople, DIY enthusiasts, and fans of Milwaukee power tools!"
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/milwaukeetool"

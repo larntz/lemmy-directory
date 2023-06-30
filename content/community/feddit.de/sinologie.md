@@ -3,7 +3,7 @@ title: "Sinologie"
 name: "sinologie"
 description: "Zum Thema China, Chinesisch, chinesische Kultur, Philosophie und Geschichte …關於中國、中國話、中國文化、哲學、歷史等 …"
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/sinologie"

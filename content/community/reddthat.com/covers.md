@@ -3,7 +3,7 @@ title: "Cover Age"
 name: "covers"
 description: "This is a place to share covers. Not ones you've created (that's the other covers community's stated purpose), but ones you've found on FunkWhale, YouTube, Pixelfed and elsewhere. Transformative covers are preferred, let's see what new spin artists come up with for existing songs.While actually files can be shared, this is expected to be primarily a link share group."
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/covers"

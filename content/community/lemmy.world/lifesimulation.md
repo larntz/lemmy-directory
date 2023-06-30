@@ -3,7 +3,7 @@ title: "Life Simulation Games"
 name: "lifesimulation"
 description: "A community for fans of life simulation games, including the Sims series and the upcoming Paralives and Life by You."
 type: community
-date: "2023-06-29 12:37:46"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lifesimulation"

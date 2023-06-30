@@ -3,7 +3,7 @@ title: "Marching Band"
 name: "marchingband"
 description: "A place where people in Marching Band can meet and discuss, help each other out. Even share memes."
 type: community
-date: "2023-06-29 12:38:08"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/marchingband"

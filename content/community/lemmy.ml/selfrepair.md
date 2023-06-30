@@ -3,7 +3,7 @@ title: "Self Repair - Right to repair"
 name: "selfrepair"
 description: "A community to help each other on fixing anything tech related.Laptops, Desktops, Smartphones, toasters or even monitors!"
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/selfrepair"

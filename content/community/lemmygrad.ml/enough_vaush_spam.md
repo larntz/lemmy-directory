@@ -3,7 +3,7 @@ title: "Enough_Vaush_Spam"
 name: "enough_vaush_spam"
 description: " A place to mock and meme about the radical liberal Vaush and his dumbass fans.Rule 1: Posts must have some relation to VaushRule 2: Maintain left unityRule 3: No VaushitsRule 4: No bigotry"
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/enough_vaush_spam"

@@ -3,7 +3,7 @@ title: "Crust Club"
 name: "garagerock"
 description: "Dedicated to the ever expanding Garage Rock genre. From The Sonics to Oblivians, Seeds to Thee Oh Sees, freaks and geeks dig the now sound. Adjacent sub-genres are welcome as well. Such as Garage Punk, Surf Punk, etc.Crust Club refers to the singles club offered by the influential USA based label Estrus Records."
 type: community
-date: "2023-06-29 12:38:09"
+date: "2023-06-30 13:17:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/garagerock"

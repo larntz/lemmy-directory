@@ -3,7 +3,7 @@ title: "TranscribersOfLemmy"
 name: "transcribersoflemmy"
 description: "This is a community for transcribers to help make Lemmy more accessible."
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/transcribersoflemmy"

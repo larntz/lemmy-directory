@@ -3,7 +3,7 @@ title: "Baltic SSRs"
 name: "balticssrs"
 description: "Subreddit dedicated to the Estonian, Latvian and Lithuanian SSRs, their culture, science and revolutionary history. Здраствуй, товарищ! Это уютное сообщество посвящено прибалтийским Советским республикам (ЭССР, ЛатССР, ЛитССР), их культуре, науке и революционной истории."
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/balticssrs"

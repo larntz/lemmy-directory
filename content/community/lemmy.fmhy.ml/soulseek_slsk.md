@@ -3,7 +3,7 @@ title: "Soulseek"
 name: "soulseek_slsk"
 description: "A community for users of the Soulseek peer-to-peer file-sharing network. Anything Soulseek-related is fair game EXCEPT for requests for specific files/artists/albums."
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/soulseek_slsk"

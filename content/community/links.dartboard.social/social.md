@@ -3,7 +3,7 @@ title: "Social"
 name: "social"
 description: "The generic / catch-all message board for Dartboard"
 type: community
-date: "2023-06-29 12:35:13"
+date: "2023-06-30 13:14:14"
 draft: false
 nsfw: false
 actor_id: "https://links.dartboard.social/c/social"
@@ -15,7 +15,7 @@ posts: 8
 comments: 4
 weight: 8
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "links_dartboard_social"

@@ -3,7 +3,7 @@ title: "Genshin Impact"
 name: "genshin_impact"
 description: ""
 type: community
-date: "2023-06-29 12:35:09"
+date: "2023-06-30 13:14:08"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/genshin_impact"

@@ -3,7 +3,7 @@ title: "Cidade de Aveiro"
 name: "aveiro"
 description: "The aveiro community on Reddit. Reddit gives you the best of the internet in one place."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/aveiro"

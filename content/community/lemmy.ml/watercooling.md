@@ -3,7 +3,7 @@ title: "watercooling"
 name: "watercooling"
 description: "Watercooling PC pictures and questions!"
 type: community
-date: "2023-06-29 12:36:23"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/watercooling"
@@ -15,7 +15,7 @@ posts: 5
 comments: 6
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 3
 instances:
 - "lemmy_ml"

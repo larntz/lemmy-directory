@@ -3,14 +3,14 @@ title: "chat"
 name: "chat"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/chat"
 host: dmv.social
 lastmod: "2023-06-16 01:46:43"
 published: "2023-06-12 02:01:13"
-subscribers: 11
+subscribers: 12
 posts: 1
 comments: 4
 weight: 1

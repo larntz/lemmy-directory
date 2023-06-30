@@ -3,14 +3,14 @@ title: "Enlisted"
 name: "enlisted"
 description: "For the video game Enlisted "
 type: community
-date: "2023-06-27 16:15:52"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/enlisted"
 host: lemmy.blahaj.zone
-lastmod: "2023-06-27 16:15:52"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 21:52:21"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

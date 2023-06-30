@@ -3,7 +3,7 @@ title: "Psiquiatria, Psicologia e Áreas Correlatas"
 name: "psicologia"
 description: "Uma comunidade no Reddit para compartilhar e discutir material psicológico baseado em ciência. r/PsicologiaBR. Leia nossa wiki antes de enviar uma submissão!"
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/psicologia"
@@ -15,7 +15,7 @@ posts: 0
 comments: 0
 weight: 0
 dau: 2
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_eco_br"

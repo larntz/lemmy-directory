@@ -3,7 +3,7 @@ title: "Tibet"
 name: "tibet"
 description: "A community to discuss everything Tibetan. Long sho!Rules:1. Please add a flair in the title of every post. Example: [News] Tibet just exploded, [Culture] Two Yaks relaxing, [Question] How many people speak Tibetan today?List of flairs:[News], [Culture], [Discussion], [Question], [Request], [Guide]. More will be added as time goes on.2. Follow the Lemmy Rules of Conduct."
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tibet"

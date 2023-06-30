@@ -3,7 +3,7 @@ title: "Armchair Leftists"
 name: "armchairsocialist"
 description: "We're like c/socialism, but while lemmy is largely closeted armchair socialists, we're overt armchair socialists. Downvote anything that will actually help achieve socialism like direct action, meet ups, protests etc. Upvote content that will do bugger all. "
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/armchairsocialist"

@@ -3,12 +3,12 @@ title: "The County of Devon"
 name: "devon"
 description: "The County of Devon"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/devon"
 host: feddit.uk
-lastmod: "2023-06-29 12:34:46"
+lastmod: "2023-06-28 16:08:10"
 published: "2023-06-28 16:03:06"
 subscribers: 1
 posts: 0

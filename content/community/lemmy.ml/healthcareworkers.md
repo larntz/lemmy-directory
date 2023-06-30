@@ -3,7 +3,7 @@ title: "Healthcare Workers"
 name: "healthcareworkers"
 description: "A community for doctors, nurses, and various healthcare assistants and technicians.**Remember not to post identifying information (text, photos, ect) of your patients OR yourself.** [ICON](https://commons.wikimedia.org/wiki/File:Rod_of_Asclepius_vector.svg) - [BANNER](https://unsplash.com/photos/6pcGTJDuf6M)"
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/healthcareworkers"

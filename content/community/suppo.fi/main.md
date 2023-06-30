@@ -3,14 +3,14 @@ title: "Supon pääkanava"
 name: "main"
 description: ""
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/main"
 host: suppo.fi
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 21:16:24"
-subscribers: 20
+subscribers: 21
 posts: 7
 comments: 16
 weight: 7

@@ -3,7 +3,7 @@ title: "Mortal Kombat 1"
 name: "mortalkombat"
 description: "Welcome to the Mortal Kombat Kommunity on Lemmy. Discuss all things Mortal Kombat. Mortal Kombat 1 arrives September 19 to Xbox Series S|X, PS5, Nintendo Switch, and PC."
 type: community
-date: "2023-06-29 12:36:22"
+date: "2023-06-30 13:15:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mortalkombat"

@@ -3,7 +3,7 @@ title: "Ellen Degeneres"
 name: "ellen_degeneres"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:38:07"
+date: "2023-06-30 13:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ellen_degeneres"

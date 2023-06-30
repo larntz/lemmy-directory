@@ -3,7 +3,7 @@ title: "Iceraven"
 name: "iceraven"
 description: "Iceraven Browser is a web browser for Android, based on Mozilla's Fenix version of Firefox, GeckoView and Mozilla Android Components.Related communities: c/linux, c/opensource, c/privacy, c/firefox, c/security, c/librewolf, c/ublockorigin"
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iceraven"

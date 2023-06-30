@@ -3,7 +3,7 @@ title: "KingstonOntario"
 name: "kingston_ontario"
 description: "old.reddit.com/r/KingstonOntario lives on now on lemmy.ca"
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/kingston_ontario"
@@ -16,7 +16,7 @@ comments: 20
 weight: 10
 dau: 2
 wau: 6
-mau: 6
+mau: 7
 instances:
 - "lemmy_ca"
 tags: 

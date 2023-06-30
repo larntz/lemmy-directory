@@ -3,7 +3,7 @@ title: "Python"
 name: "python"
 description: "News about the programming language Python. If you have something to teach others post here. If you have questions or are a newbie use r/learnpython."
 type: community
-date: "2023-06-29 12:35:10"
+date: "2023-06-30 13:14:12"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/python"

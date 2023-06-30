@@ -3,7 +3,7 @@ title: "Autechre"
 name: "autechre"
 description: "A community for fans of the English electronic music duo, Autechre"
 type: community
-date: "2023-06-29 12:35:11"
+date: "2023-06-30 13:14:12"
 draft: false
 nsfw: false
 actor_id: "https://waveform.social/c/autechre"

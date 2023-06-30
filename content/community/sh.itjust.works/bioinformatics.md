@@ -3,12 +3,12 @@ title: "Bioinformatics"
 name: "bioinformatics"
 description: "## A community to discuss the intersection of computers and biology. ------ A community dedicated to bioinformatics, computational genomics and systems biology."
 type: community
-date: "2023-06-29 12:35:18"
+date: "2023-06-30 13:14:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/bioinformatics"
 host: sh.itjust.works
-lastmod: "2023-06-29 12:35:18"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 01:32:22"
 subscribers: 1
 posts: 0

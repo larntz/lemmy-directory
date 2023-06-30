@@ -3,7 +3,7 @@ title: "Golden Kamuy"
 name: "goldenkamuy"
 description: "A community all about the manga and anime Golden Kamuy by Noda Satoru."
 type: community
-date: "2023-06-29 12:37:38"
+date: "2023-06-30 13:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goldenkamuy"

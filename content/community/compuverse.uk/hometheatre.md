@@ -3,7 +3,7 @@ title: "Home Theatre"
 name: "hometheatre"
 description: "A community for your own home theatre.Projectors and TVs, speakers and soundbars, all perfect fits for this community."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/hometheatre"

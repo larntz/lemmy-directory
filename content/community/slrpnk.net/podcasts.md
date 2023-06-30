@@ -3,14 +3,14 @@ title: "Podcasts"
 name: "podcasts"
 description: "A place for all podcast lovers to come together and discuss the medium, find recommendations and talk about podcasts they have created."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/podcasts"
 host: slrpnk.net
 lastmod: "2023-06-08 14:40:08"
 published: "2023-06-08 14:23:26"
-subscribers: 101
+subscribers: 102
 posts: 9
 comments: 21
 weight: 9

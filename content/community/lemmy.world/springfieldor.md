@@ -3,7 +3,7 @@ title: "Springfield, Oregon"
 name: "springfieldor"
 description: "A mirror for r/SpringfieldORFor all things about or happening in/near Springfield Oregon. This can include surrounding small communities such as Creswell, Cottage Grove, Goshen, Mohawk, Marcola, Sweet Home, Blue River, Vida, McKenzie River, Walterville, Deer Horn, Leaburg, McKenzie Bridge. Jasper/Lowell, and Oakridge. We are welcoming, friendly and equal opportunity around here."
 type: community
-date: "2023-06-29 12:37:45"
+date: "2023-06-30 13:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/springfieldor"

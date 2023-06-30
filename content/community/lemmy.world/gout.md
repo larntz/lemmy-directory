@@ -3,7 +3,7 @@ title: "Gout"
 name: "gout"
 description: "Got the gout? This a community to migrate from /r/gout"
 type: community
-date: "2023-06-29 12:37:40"
+date: "2023-06-30 13:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gout"

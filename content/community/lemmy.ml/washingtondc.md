@@ -3,7 +3,7 @@ title: "Washington, DC"
 name: "washingtondc"
 description: "A community for locals of the DC Metro area"
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/washingtondc"

@@ -3,12 +3,12 @@ title: "Communauté Lemmy Grenobloise"
 name: "grenoble"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:41"
+date: "2023-06-30 13:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/grenoble"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:41"
+lastmod: "2023-06-26 11:35:01"
 published: "2023-06-10 19:42:51"
 subscribers: 3
 posts: 1

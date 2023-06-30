@@ -3,7 +3,7 @@ title: "Outros temas"
 name: "offtopic"
 description: "Comunidade para debatir e falar de temas que non teñan que ver co fediverso.**AVISO**: Pregase non usar esta comunidade para facer **spam**"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/offtopic"

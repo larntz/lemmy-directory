@@ -3,7 +3,7 @@ title: "Surf, Kite, Wing, Wind"
 name: "kiteboarding"
 description: "A community for surfing, kitesurfing, wingsurfing, windsurfing and all similiar types of sport."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/kiteboarding"

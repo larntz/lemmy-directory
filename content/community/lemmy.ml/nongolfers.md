@@ -3,7 +3,7 @@ title: "Golfers are literally Hitler"
 name: "nongolfers"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nongolfers"

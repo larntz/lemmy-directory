@@ -3,7 +3,7 @@ title: "Manchester"
 name: "manchester"
 description: "The community for Manchester, UK.One of the driest places on the planet -- Professor Brian Cox"
 type: community
-date: "2023-06-29 12:37:41"
+date: "2023-06-30 13:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/manchester"

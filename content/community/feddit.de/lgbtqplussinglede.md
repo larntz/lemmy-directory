@@ -3,7 +3,7 @@ title: "LGBTQ+ Singles DE"
 name: "lgbtqplussinglede"
 description: "Für LGBTQ+ Singles im Deutschsprachigen Raum.Wer suchet, der findet.In erster Linie dient diese Community dazu, seine große liebe zu finden. Jedoch kann man auch nach freunden etc. Ausschau halten.Stell Dich einfach vor und mal sehen ob sich dein passendes Gegenstück meldet.Ein höfliches benehmen wird vorausgesetzt.Selfies erlaubt, doch keine Nacktheit."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/lgbtqplussinglede"

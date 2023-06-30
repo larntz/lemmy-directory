@@ -3,14 +3,14 @@ title: "Home Assistant "
 name: "homesssistant"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/homesssistant"
 host: feddit.de
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 10:07:26"
-subscribers: 31
+subscribers: 32
 posts: 3
 comments: 0
 weight: 3

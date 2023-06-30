@@ -3,7 +3,7 @@ title: "Monero"
 name: "monero"
 description: "# **What is Monero?**Monero is an open-source cryptocurrency created in April 2014 with a focus on privacy, fungibility and decentralization.## **Some resources** - The official Monero [website](https://getmonero.org) - CCS funding [proposals](https://ccs.getmonero.org) - Kovri [website](https://kovri.io) - OpenAlias [website](https://openalias.org)## **Some rules**  - Posts must be somehow related to Monero or other cryptocurrencies related to it"
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/monero"

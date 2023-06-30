@@ -3,7 +3,7 @@ title: "Harry Potter: Magic Awakened"
 name: "hp_magic_awakened"
 description: "Unofficial community for Harry Potter: Magic Awakened on MobileMMOHub.com"
 type: community
-date: "2023-06-29 12:34:57"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://mobilemmohub.com/c/hp_magic_awakened"

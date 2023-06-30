@@ -3,7 +3,7 @@ title: "History of Computer Hardware"
 name: "hoch"
 description: "a place for links and discussion about historic computing hardware"
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hoch"

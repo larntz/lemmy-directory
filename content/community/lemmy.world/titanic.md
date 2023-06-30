@@ -3,7 +3,7 @@ title: "Titanic"
 name: "titanic"
 description: "Community to discuss Titanic history and news."
 type: community
-date: "2023-06-29 12:37:41"
+date: "2023-06-30 13:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/titanic"

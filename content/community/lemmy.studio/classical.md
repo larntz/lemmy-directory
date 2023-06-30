@@ -3,7 +3,7 @@ title: "Classical Music"
 name: "classical"
 description: "A community for discussion of classical music, composition, everything from Bach to Penderecki and John Adams. Feel free to post your compositions, ask about orchestration techniques, feedback, anything!"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/classical"

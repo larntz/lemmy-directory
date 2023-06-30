@@ -3,7 +3,7 @@ title: "Common Lisp"
 name: "commonlisp"
 description: "Common Lisp, the programmable programming language!* [HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/Contents.htm)* [Quicklisp](https://www.quicklisp.org/)* [Getting Started](https://cliki.net/Getting%20Started)* [Wiki](https://cliki.net/)* [Planet Lisp](https://planet.lisp.org/)* [Common-Lisp.net](https://common-lisp.net/)"
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/commonlisp"

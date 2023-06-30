@@ -3,7 +3,7 @@ title: "Prolific Studies"
 name: "prolific"
 description: "A lemmy community dedicated to the website, prolific.acUnlike the subreddit, this community is for the users, ran by the users. Feel free to post, share and even vent about studies, prolific itself and anything related. "
 type: community
-date: "2023-06-29 12:38:05"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prolific"

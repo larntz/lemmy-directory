@@ -3,7 +3,7 @@ title: "Hearing Aids"
 name: "hearingaids"
 description: "A community to discuss hearing aids, life with them, and life as a hard of hearing person"
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hearingaids"

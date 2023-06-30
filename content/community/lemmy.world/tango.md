@@ -3,7 +3,7 @@ title: "Argentine Tango"
 name: "tango"
 description: "A place for discussion and content related to the Argentine Tango and those who partake."
 type: community
-date: "2023-06-29 12:37:56"
+date: "2023-06-30 13:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tango"

@@ -3,7 +3,7 @@ title: "Ultramarathon "
 name: "ultramarathon"
 description: "For those of us crazy or stupid enough to love ultra running. Saw that there wasn't an ultra specific running community yet and figured I'd start one up. "
 type: community
-date: "2023-06-29 12:38:07"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ultramarathon"

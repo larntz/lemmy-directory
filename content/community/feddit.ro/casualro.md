@@ -3,7 +3,7 @@ title: "CasualRO"
 name: "casualro"
 description: "Comunitate pentru conversații ocazionale. Împărtășește o anecdotă, o poveste sau o experiență!1. Fără politică2. Nu atacați alți utilizatori3. Nu tolerăm discriminarea, intoleranța sau promovarea violenței4. Doar conținut românesc5. Discuții captivante"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/casualro"

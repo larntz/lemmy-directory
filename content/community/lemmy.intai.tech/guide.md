@@ -3,7 +3,7 @@ title: "Artificial Intelligence - Guides | How To"
 name: "guide"
 description: "### Instance NotesPlease review our community rules and introduce yourself!- [Welcome!](https://lemmy.intai.tech/post/1511)- [Introduce yourself](https://lemmy.intai.tech/post/2710)- [Rules](https://lemmy.intai.tech/post/76)### Useful links- [AI Tools and Bot List](https://lemmy.intai.tech/post/2484)- [Machine Learning Communities](https://lemmy.intai.tech/post/2182)- [Fediverse Observer](https://lemmy.fediverse.observer/)- [Lemmy Community Browser](https://browse.feddit.de/)"
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/guide"
@@ -11,9 +11,9 @@ host: lemmy.intai.tech
 lastmod: "2023-06-20 20:46:15"
 published: "2023-06-13 01:58:24"
 subscribers: 25
-posts: 17
+posts: 18
 comments: 1
-weight: 17
+weight: 18
 dau: 1
 wau: 1
 mau: 3

@@ -3,7 +3,7 @@ title: "Learn Icelandic"
 name: "learnicelandic"
 description: "A community to learn and practice Icelandic. Ask questions, write short stories, whatever.Resources:[Dictionary at UoW](https://digicoll.library.wisc.edu/IcelOnline/Search.TEId.html) [Declensions at BÍN](https://bin.arnastofnun.is/)Munið: Þetta reddast!"
 type: community
-date: "2023-06-29 12:37:46"
+date: "2023-06-30 13:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/learnicelandic"

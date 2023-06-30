@@ -3,7 +3,7 @@ title: "Costa Rica"
 name: "costarica"
 description: "Comunidad en Español y Inglés sobre Costa Rica.Community in Spanish and English about Costa Rica."
 type: community
-date: "2023-06-29 12:36:09"
+date: "2023-06-30 13:15:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/costarica"

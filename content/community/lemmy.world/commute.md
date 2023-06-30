@@ -3,7 +3,7 @@ title: "On-the-Go Banter: Lemmy Mobile Chatters"
 name: "commute"
 description: "🚗 Welcome to the Lemmy Commute Community! 🚆Join us and share your daily journey as we chat, vent, and laugh together about the ups and downs of our commutes. Whether you're stuck in traffic, squeezing into a packed train, or navigating the chaos of public transportation, this is the place to connect with fellow commuters and swap stories, rants, and musings. Hop on board and let's make the most out of our travel time! 🚀"
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/commute"

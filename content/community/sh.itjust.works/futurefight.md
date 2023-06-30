@@ -3,7 +3,7 @@ title: "Marvel Future Fight"
 name: "futurefight"
 description: "An attempt at an open spot for the game"
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/futurefight"

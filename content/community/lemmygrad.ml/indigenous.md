@@ -3,7 +3,7 @@ title: "Indigenous"
 name: "indigenous"
 description: "Talk about indigenous communities such as those in the Americas, Europe, Asia, Africa, and Australia! Bring relevant news and political analysis!"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/indigenous"

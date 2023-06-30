@@ -3,7 +3,7 @@ title: "Idiots In Cars"
 name: "IdiotsInCars"
 description: "When idiots get behind the wheel of a vehicle, shit gets funny."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/IdiotsInCars"

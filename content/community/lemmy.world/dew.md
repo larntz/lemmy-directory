@@ -3,7 +3,7 @@ title: "Mountain Dew"
 name: "dew"
 description: "Welcome to the !dew community hosted on lemmy.world! We are a fan-run community that is not affiliated with PepsiCo, here to discuss Mountain Dew!Other Dew communities:- [Dew Drinker Discord](https://discord.gg/dew)- [r/mountaindew](https://reddit.com/r/mountaindew)- [@dew@kbin.social](https://lemmy.world/c/dew@kbin.social)"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dew"

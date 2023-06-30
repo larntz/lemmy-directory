@@ -3,7 +3,7 @@ title: "Plant Based Recipes "
 name: "plantbasedrecipes"
 description: "Post recipes with absolutely no animal products (no meat, dairy, eggs, honey). "
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/plantbasedrecipes"

@@ -3,7 +3,7 @@ title: "Amateur Radio"
 name: "amateur_radio"
 description: "A Lemmy Community to share links about and for amateur (ham) radio. This community IS NOT for CB, GMRS, MURS, FRS, etc topics unless they are related to ham radio in some way."
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/amateur_radio"
@@ -15,7 +15,7 @@ posts: 18
 comments: 80
 weight: 18
 dau: 1
-wau: 28
+wau: 27
 mau: 46
 instances:
 - "sh_itjust_works"

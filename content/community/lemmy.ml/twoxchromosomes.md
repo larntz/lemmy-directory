@@ -3,14 +3,14 @@ title: "twoxchromosomes"
 name: "twoxchromosomes"
 description: "All people are welcome here"
 type: community
-date: "2023-06-29 12:36:09"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/twoxchromosomes"
 host: lemmy.ml
 lastmod: "2023-06-15 08:03:10"
 published: "2023-06-13 21:25:34"
-subscribers: 29
+subscribers: 30
 posts: 1
 comments: 2
 weight: 1

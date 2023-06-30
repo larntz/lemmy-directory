@@ -3,7 +3,7 @@ title: "Xenoblade Chronicles"
 name: "xenobladechronicles"
 description: "**About**  Lemmy community (lemmy.world) for Xenoblade Chronicles**Posting Guidelines**  1. Be nice.2. No explicit NSFW.More posting guidelines will be added depending on community involvement."
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xenobladechronicles"

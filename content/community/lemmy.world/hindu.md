@@ -3,7 +3,7 @@ title: "hindu"
 name: "hindu"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:06"
+date: "2023-06-30 13:17:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hindu"

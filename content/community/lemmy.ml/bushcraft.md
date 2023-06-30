@@ -3,12 +3,12 @@ title: "Bushcraft"
 name: "bushcraft"
 description: "Survival essentials"
 type: community
-date: "2023-06-29 12:36:30"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bushcraft"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:30"
+lastmod: "2021-07-31 09:03:37"
 published: "2021-07-31 09:01:12"
 subscribers: 107
 posts: 15

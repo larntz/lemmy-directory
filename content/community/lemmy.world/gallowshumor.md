@@ -3,7 +3,7 @@ title: "Gallows Humor"
 name: "gallowshumor"
 description: "Gallows Humor:     1. Humorous treatment of a grave or dire situation.2. Comedy that still manages to be funny in the face of, and in response to, a horrible, deathly, tragic, dramatic, perfectly hopeless situation.Rules for posts:1. Follow the rules [defined for lemmy.world](https://mastodon.world/about) 2. Your post needs to meet the definition of gallows humor above. Otherwise you should post it in [Jokes](https://lemmy.world/c/jokes), [Dad Jokes](https://lemmy.world/c/dadjokes) or another community. "
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gallowshumor"

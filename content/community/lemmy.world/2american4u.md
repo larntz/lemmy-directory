@@ -3,7 +3,7 @@ title: "2american4u"
 name: "2american4u"
 description: "Ultranationalistic ironic memes American people would agree with unironically."
 type: community
-date: "2023-06-29 12:37:41"
+date: "2023-06-30 13:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/2american4u"

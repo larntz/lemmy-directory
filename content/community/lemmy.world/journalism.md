@@ -3,7 +3,7 @@ title: "Journalism"
 name: "journalism"
 description: "A community focused on the practice and industry of journalism."
 type: community
-date: "2023-06-29 12:37:57"
+date: "2023-06-30 13:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/journalism"

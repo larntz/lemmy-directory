@@ -3,12 +3,12 @@ title: "graffiti"
 name: "graffiti"
 description: "This is a place for all things related to graffiti.Please keep it civil. No trolling, spamming, or harassment.Please be sure that content meets the intent of this magazine."
 type: community
-date: "2023-06-29 12:34:59"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/graffiti"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 13:32:43"
 subscribers: 6
 posts: 0

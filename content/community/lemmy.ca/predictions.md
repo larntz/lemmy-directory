@@ -3,7 +3,7 @@ title: "Predictions"
 name: "predictions"
 description: "What do you think will happen in the future? Share it here "
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/predictions"
@@ -15,8 +15,8 @@ posts: 11
 comments: 8
 weight: 11
 dau: 1
-wau: 1
-mau: 4
+wau: 2
+mau: 5
 instances:
 - "lemmy_ca"
 tags: 

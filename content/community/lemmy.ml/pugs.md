@@ -3,7 +3,7 @@ title: "squishy faces, curly tails, and compulsive lickers"
 name: "pugs"
 description: "For Pug owners and enthusiasts.  Please post images of your lil guys/gals."
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pugs"

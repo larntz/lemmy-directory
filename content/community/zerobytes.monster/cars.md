@@ -3,7 +3,7 @@ title: "r/Cars - For Car Enthusiasts"
 name: "cars"
 description: "r/Cars is the largest automotive enthusiast community on the Internet. We're Reddit's central hub for vehicle-related discussion, industry news,..."
 type: community
-date: "2023-06-29 12:35:10"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/cars"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 06:56:45"
 subscribers: 1
-posts: 145
+posts: 166
 comments: 0
-weight: 145
+weight: 166
 dau: 1
 wau: 1
 mau: 1

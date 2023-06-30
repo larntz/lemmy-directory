@@ -3,7 +3,7 @@ title: "Scotch"
 name: "scotch"
 description: "a community for Scotch enthusiasts of all walks of life and of all levels of knowledge on anything Scotch Whisky related."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/scotch"

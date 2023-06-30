@@ -3,7 +3,7 @@ title: "Hypixel"
 name: "hypixel"
 description: "Unofficial Lemmy community for Hypixel, a Minecraft networkhttps://hypixel.net#hypixel #minecraft"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://toast.ooo/c/hypixel"

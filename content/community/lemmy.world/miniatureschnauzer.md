@@ -3,7 +3,7 @@ title: "Mini Schnauzers"
 name: "miniatureschnauzer"
 description: "Share your pics. Share your stories. Need some breed advice? Have any advice to offer? This is the place.  We’re here because we love them 🥰"
 type: community
-date: "2023-06-29 12:38:07"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/miniatureschnauzer"

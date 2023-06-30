@@ -3,14 +3,14 @@ title: "Buffalo Bills"
 name: "bills"
 description: "A community for Buffalo Bills fans."
 type: community
-date: "2023-06-29 12:38:07"
+date: "2023-06-30 13:17:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bills"
 host: lemmy.world
 lastmod: "2023-06-09 20:48:19"
 published: "2023-06-09 20:00:11"
-subscribers: 66
+subscribers: 67
 posts: 13
 comments: 36
 weight: 13

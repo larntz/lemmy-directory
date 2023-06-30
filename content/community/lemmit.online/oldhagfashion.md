@@ -3,7 +3,7 @@ title: "OldHagFashion"
 name: "oldhagfashion"
 description: "This subreddit has gone private in protest to the planned Reddit API changes. Please see this link more..."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/oldhagfashion"

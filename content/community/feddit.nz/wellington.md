@@ -3,7 +3,7 @@ title: "Wellington"
 name: "wellington"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nz/c/wellington"

@@ -3,7 +3,7 @@ title: "⚄︎ Perchance - Create a Random Text Generator"
 name: "perchance"
 description: "perchance.org is an engine for building random text generators. Feel free to ask for help, share your generators, and start friendly discussions..."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/perchance"

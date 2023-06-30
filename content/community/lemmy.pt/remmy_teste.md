@@ -3,7 +3,7 @@ title: "testes remmy"
 name: "remmy_teste"
 description: "Comunidade de testes para a biblioteca [remmy](https://sr.ht/~tmpod/remmy)."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pt/c/remmy_teste"

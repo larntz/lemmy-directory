@@ -3,7 +3,7 @@ title: "ESP32"
 name: "esp32"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:30"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/esp32"

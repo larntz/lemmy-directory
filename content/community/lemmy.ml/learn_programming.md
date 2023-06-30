@@ -3,7 +3,7 @@ title: "Learn Programming"
 name: "learn_programming"
 description: "A place to learn programming.  Share free resources here.  Ask questions on heapoverflow.ml[Python docs](https://docs.python.org/library/index.html) ([tutorial](https://docs.python.org/tutorial/index.html))  [Javascript docs (node)](https://nodejs.org/docs/latest/api/synopsis.html)  [Hard challenges (Project Euler)](https://projecteuler.net/archives)  "
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/learn_programming"

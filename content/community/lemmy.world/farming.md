@@ -3,7 +3,7 @@ title: "Farming"
 name: "farming"
 description: "A replacement for the subreddit r/farming."
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/farming"

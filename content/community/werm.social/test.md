@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "Testing"
 type: community
-date: "2023-06-29 12:35:12"
+date: "2023-06-30 13:14:12"
 draft: false
 nsfw: false
 actor_id: "https://werm.social/c/test"

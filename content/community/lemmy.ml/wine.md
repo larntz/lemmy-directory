@@ -3,7 +3,7 @@ title: "Wine"
 name: "wine"
 description: "WINE is a free and open-source compatibility layer that aims to allow application software and computer games developed for Microsoft Windows to run on Unix-like operating systems.https://www.winehq.org/"
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wine"

@@ -3,7 +3,7 @@ title: "Books"
 name: "books"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/books"
@@ -15,7 +15,7 @@ posts: 3
 comments: 8
 weight: 3
 dau: 1
-wau: 3
+wau: 1
 mau: 7
 instances:
 - "monero_town"

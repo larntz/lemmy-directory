@@ -3,14 +3,14 @@ title: "Iron Maiden"
 name: "ironmaiden"
 description: "Up the Irons!**Other Communities:**[Metal](https://lemmy.world/c/metal@lemmy.world)"
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ironmaiden"
 host: lemmy.world
 lastmod: "2023-06-24 23:02:47"
 published: "2023-06-12 00:42:57"
-subscribers: 25
+subscribers: 26
 posts: 2
 comments: 4
 weight: 2

@@ -3,7 +3,7 @@ title: "WallStreetBets"
 name: "wallstreetbets"
 description: "Half of it is loss porn the other half is to the moon. Welcome, fellow inverse Cramer traders. "
 type: community
-date: "2023-06-29 12:35:13"
+date: "2023-06-30 13:14:14"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/wallstreetbets"

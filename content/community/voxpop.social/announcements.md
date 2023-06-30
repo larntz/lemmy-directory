@@ -3,7 +3,7 @@ title: "VoxPop Announcements"
 name: "announcements"
 description: "Welcome to VoxPop Announcements! This is your hub for the latest updates, improvements, and changes across VoxPop. "
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://voxpop.social/c/announcements"

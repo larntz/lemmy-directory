@@ -3,20 +3,20 @@ title: "Europe"
 name: "europe"
 description: "Europa"
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/europe"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-10-17 21:39:08"
-subscribers: 2428
-posts: 858
-comments: 1637
-weight: 858
-dau: 9
-wau: 37
-mau: 128
+subscribers: 2444
+posts: 863
+comments: 1644
+weight: 863
+dau: 7
+wau: 32
+mau: 130
 instances:
 - "lemmy_ml"
 tags: 

@@ -3,7 +3,7 @@ title: "Privacy Tools"
 name: "privacytools"
 description: "Non official community dedicated to the discussion of news, events, or anything related to the organization that focuses on recommending privacy respecting software and services.Useful links:Official PrivacyGuides instance: https://lemmy.ml/c/privacyguides@lemmy.one[Official website](https://privacytools.io/)[GitHub repository](https://github.com/privacytools/privacytools.io)[Matrix room](#privacy:privacytools.io)"
 type: community
-date: "2023-06-29 12:36:10"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/privacytools"

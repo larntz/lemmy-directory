@@ -3,12 +3,12 @@ title: "Wownero"
 name: "wownero"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://monero.town/c/wownero"
 host: monero.town
-lastmod: "2023-06-29 12:34:44"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 10:14:05"
 subscribers: 1
 posts: 0

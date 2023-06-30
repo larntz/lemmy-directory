@@ -3,7 +3,7 @@ title: "midjourney"
 name: "midjourney"
 description: "An official subreddit for Midjourney related content."
 type: community
-date: "2023-06-28 15:18:14"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/midjourney"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 06:34:37"
 subscribers: 1
-posts: 174
+posts: 240
 comments: 0
-weight: 174
+weight: 240
 dau: 1
 wau: 1
 mau: 1

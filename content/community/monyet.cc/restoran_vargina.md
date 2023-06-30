@@ -3,7 +3,7 @@ title: "Restoran Vargina"
 name: "restoran_vargina"
 description: "![](https://monyet.cc/pictrs/image/fc710d6d-908f-4b2e-90fb-cfa84128f2d8.png)---A place to document Restoran Vargina and other F&B establishments that makes you double-take.**The Golden Rule**  Respect the premise owners. Do not dox or harrass them."
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:05"
 draft: false
 nsfw: false
 actor_id: "https://monyet.cc/c/restoran_vargina"

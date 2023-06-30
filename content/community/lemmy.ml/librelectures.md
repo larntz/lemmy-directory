@@ -3,7 +3,7 @@ title: "Libre Lectures - Freeing knowledge from exploitative platforms"
 name: "librelectures"
 description: "MISSIONTo provide a platform where public domain video material of interviews, lectures and courses can be shared and discussed.RULES- All Lemmy rules apply- Only links to video content of interviews, lectures and courses- No videos edited or cut from longer source material- Only material free of royalty, in the public domain, with CC license, etc- Only videos that are hosted on libre respecting platforms such as peer.tube- Content in other language is welcomed, but only with English subtitlesTITLE FORMAT[main lecturer] - YYYY - Title - [length in minutes]"
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/librelectures"

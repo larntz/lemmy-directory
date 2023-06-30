@@ -3,14 +3,14 @@ title: "Firefly"
 name: "firefly"
 description: "For fans of the unforgivably short-lived GOAT space western. Browncoats unite!"
 type: community
-date: "2023-06-29 12:37:51"
+date: "2023-06-30 13:17:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/firefly"
 host: lemmy.world
 lastmod: "2023-06-12 08:19:58"
 published: "2023-06-12 05:59:22"
-subscribers: 97
+subscribers: 98
 posts: 2
 comments: 3
 weight: 2

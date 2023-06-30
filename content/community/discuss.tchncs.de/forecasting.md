@@ -3,7 +3,7 @@ title: "forecasting"
 name: "forecasting"
 description: "Forecasting is the process of making predictions based on past and present data. Any decision we make is based on a prediction what will happen. Here we study and discuss how to do that well.Related community: [!predictions@lemmy.ca](https://lemmy.ca/c/predictions)Forecasting can be about economics, marketing, products, finance, technology, policies, demographics, energy, climate, crime, politics, or whatever."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/forecasting"

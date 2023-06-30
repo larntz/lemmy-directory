@@ -3,7 +3,7 @@ title: "Christianity"
 name: "christianity"
 description: "A place to discuss Christianity and aspects of Christian life."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/christianity"
@@ -15,7 +15,7 @@ posts: 11
 comments: 13
 weight: 11
 dau: 1
-wau: 4
+wau: 2
 mau: 5
 instances:
 - "lemmy_ml"

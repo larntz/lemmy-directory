@@ -3,7 +3,7 @@ title: "Brawlhalla"
 name: "brawlhalla"
 description: "Federated brawlhalla community!"
 type: community
-date: "2023-06-29 12:37:40"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/brawlhalla"

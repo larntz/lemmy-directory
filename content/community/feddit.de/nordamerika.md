@@ -3,7 +3,7 @@ title: "Nordamerika"
 name: "nordamerika"
 description: "Alles rund um Nordamerika🛡 Falls du Lust hast beim Moderieren dieser Community zu helfen, schick [mir](https://feddit.de/u/nachtigall) einfach eine Nachricht.::: spoiler Attribution___Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com)___:::"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/nordamerika"

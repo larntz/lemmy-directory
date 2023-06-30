@@ -3,7 +3,7 @@ title: "Human Scale"
 name: "humanscale"
 description: "A place to discuss about all aspects of life at a human scale"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://communick.news/c/humanscale"

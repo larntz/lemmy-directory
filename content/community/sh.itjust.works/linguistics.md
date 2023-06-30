@@ -3,14 +3,14 @@ title: "Linguistics"
 name: "linguistics"
 description: "For topics pertaining to phonetics, phonology, morphology, syntax, pragmatics, semantics, etymology, historical linguistics and more.  "
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/linguistics"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 04:11:57"
-subscribers: 27
+subscribers: 28
 posts: 4
 comments: 1
 weight: 4

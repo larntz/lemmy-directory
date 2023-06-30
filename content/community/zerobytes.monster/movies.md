@@ -3,7 +3,7 @@ title: "Movie News and Discussion"
 name: "movies"
 description: "The goal of /r/Movies is to provide an inclusive place for discussions and news about films with major releases. Submissions should be for the..."
 type: community
-date: "2023-06-29 12:35:10"
+date: "2023-06-30 13:14:14"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/movies"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 06:02:54"
 subscribers: 1
-posts: 277
+posts: 316
 comments: 0
-weight: 277
+weight: 316
 dau: 1
 wau: 1
 mau: 1

@@ -3,7 +3,7 @@ title: "about_lsmu@lsmu.schmurian.xyz"
 name: "about_lsmu"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://lsmu.schmurian.xyz/c/about_lsmu"

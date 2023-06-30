@@ -3,7 +3,7 @@ title: "Die drei ???"
 name: "dreifragezeichen"
 description: "Die Community für alles über das Detektivtrio aus Rocky Beach. **Die drei Detektive ???**- Erster Detektiv: Justus Jonas  - Zweiter Detektiv: Peter Shaw  - Recherchen und Archiv: Bob Andrews "
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/dreifragezeichen"

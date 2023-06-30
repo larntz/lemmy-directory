@@ -3,7 +3,7 @@ title: "Belgique"
 name: "belgique"
 description: "Discussions sur la Belgique, principalement en français"
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/belgique"
@@ -12,7 +12,7 @@ lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 09:48:21"
 subscribers: 8
 posts: 13
-comments: 1
+comments: 2
 weight: 13
 dau: 1
 wau: 1

@@ -3,7 +3,7 @@ title: "Stone Temple Pilots"
 name: "stp"
 description: "![](https://lemmy.world/pictrs/image/d5054253-cad6-4fe4-863b-517c08e1493e.jpeg)A community for everything and anything related to the band Stone Temple Pilots (STP).**Rules:**- Be kind- No SPAM or trolling- Only relevant posts- No links to pirated content  "
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stp"

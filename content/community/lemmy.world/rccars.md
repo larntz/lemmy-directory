@@ -3,7 +3,7 @@ title: "RC Cars"
 name: "rccars"
 description: "A place to discuss all things RC!"
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rccars"

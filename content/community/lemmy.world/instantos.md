@@ -3,12 +3,12 @@ title: "instantOS"
 name: "instantos"
 description: "a lemmy community for the linux distribution instantOS"
 type: community
-date: "2023-06-29 12:37:54"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/instantos"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:54"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-14 08:49:53"
 subscribers: 4
 posts: 1

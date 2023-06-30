@@ -3,7 +3,7 @@ title: "JoJo's Bizarre Adventure"
 name: "jjba"
 description: "A place for discussion, memes, and other posts about Hirohiko Araki's series *JoJo's Bizarre Adventure*.Please **mark spoilers** for Part 9: The JojoLands.  Keep posts and comments civil. Those acting poorly risk upsetting Jotaro."
 type: community
-date: "2023-06-29 12:35:18"
+date: "2023-06-30 13:14:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/jjba"

@@ -3,7 +3,7 @@ title: "VLC"
 name: "vlc"
 description: "One of the best FOSS video players on the market. Created by VideoLAN."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vlc"

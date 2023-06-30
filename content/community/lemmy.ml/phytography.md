@@ -3,14 +3,14 @@ title: "Phytography"
 name: "phytography"
 description: "A place to share plant pictures!"
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/phytography"
 host: lemmy.ml
 lastmod: "2023-06-02 00:45:35"
 published: "2023-06-02 00:04:38"
-subscribers: 22
+subscribers: 23
 posts: 12
 comments: 1
 weight: 12

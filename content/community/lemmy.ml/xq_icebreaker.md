@@ -3,7 +3,7 @@ title: "xq_icebreaker"
 name: "xq_icebreaker"
 description: "iq-rq_knowledge-managementhttps://matrix.to/#/#xq_icebreaker:matrix.orghttps://matrix.to/#/#xq-oqo_icebreaker:matrix.orghttps://social.coop/@indieterminacyhttps://git.sr.ht/~indieterminacy"
 type: community
-date: "2023-06-29 12:36:28"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xq_icebreaker"

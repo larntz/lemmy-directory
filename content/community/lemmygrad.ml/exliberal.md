@@ -3,7 +3,7 @@ title: "Ex-Liberal"
 name: "exliberal"
 description: "**A community for people who converted from being a liberal or social democrat to a leftist.**# Rules* This community is for liberal to leftist only. No liberal to conservative!* Be respectful. * Follow Lemmygrad rules.# Related Communities* [!shitliberalssay@lemmygrad.ml](https://lemmygrad.ml/c/shitliberalssay) * [!exanarchist@lemmygrad.ml](https://lemmygrad.ml/c/exanarchist) * [!communism101@lemmygrad.ml](https://lemmygrad.ml/c/communism101) "
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/exliberal"

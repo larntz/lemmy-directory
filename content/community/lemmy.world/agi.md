@@ -3,7 +3,7 @@ title: "Artificial Intelegence"
 name: "agi"
 description: " AGI, AI  discussions"
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/agi"

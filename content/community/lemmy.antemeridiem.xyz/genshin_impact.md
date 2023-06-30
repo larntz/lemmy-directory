@@ -3,7 +3,7 @@ title: "Genshin Impact"
 name: "genshin_impact"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/genshin_impact"

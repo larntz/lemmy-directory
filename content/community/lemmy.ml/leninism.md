@@ -3,7 +3,7 @@ title: "Marxist-Leninists of Lemmy"
 name: "leninism"
 description: "The community of Marxist-Leninists on Lemmy."
 type: community
-date: "2023-06-29 12:36:25"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/leninism"

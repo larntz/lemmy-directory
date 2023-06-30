@@ -3,7 +3,7 @@ title: "dell"
 name: "dell"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/dell"

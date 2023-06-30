@@ -3,7 +3,7 @@ title: "Journaling"
 name: "journaling"
 description: "Dedicated to those who keep a written Journal. Share photos of your writing, ask questions, and find inspiration here with like-minded people. Whatever you need, we're a happy bunch, ready to grab a cup of coffee and write!"
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/journaling"

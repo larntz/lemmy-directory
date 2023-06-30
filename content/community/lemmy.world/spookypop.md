@@ -3,12 +3,12 @@ title: "SpookyPOP - by Supercell!"
 name: "spookypop"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spookypop"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "2023-06-29 03:55:27"
 published: "2023-06-29 03:55:23"
 subscribers: 2
 posts: 0

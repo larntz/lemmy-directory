@@ -3,7 +3,7 @@ title: "DeltaQuack"
 name: "deltaquack"
 description: "DeltaQuack is a small indie game development studio in Hamar, Norway. We are currently working on Gun & Buckler, a game about frogs and violence.# Links- https://deltaquack.com### Steam Game Store Links- Gun & Bucker: https://store.steampowered.com/app/1016900/"
 type: community
-date: "2023-06-29 12:34:54"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.re4mstr.com/c/deltaquack"

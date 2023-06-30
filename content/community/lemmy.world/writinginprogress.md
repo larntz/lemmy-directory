@@ -3,7 +3,7 @@ title: "Writing In Progress"
 name: "writinginprogress"
 description: "A place for some simple stories and writings that may change as experience grows. Natural and AI assisted talent welcome here. Stories that grow strongly encouraged."
 type: community
-date: "2023-06-29 12:38:01"
+date: "2023-06-30 13:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/writinginprogress"

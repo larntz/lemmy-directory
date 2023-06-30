@@ -3,7 +3,7 @@ title: "UI, UX and usability"
 name: "userexperience"
 description: "Post anything related to these topics. Discuss design trends, show off your work to improve UX, etc. For asking about particular design problems https://ux.stackexchange.com/ is probably a better site."
 type: community
-date: "2023-06-29 12:36:20"
+date: "2023-06-30 13:15:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/userexperience"

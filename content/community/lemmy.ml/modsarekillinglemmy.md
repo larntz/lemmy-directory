@@ -3,7 +3,7 @@ title: "All The *removed by mod* Things"
 name: "modsarekillinglemmy"
 description: "Stop killing Lemmy.STOP KILL-*removed by mod*"
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/modsarekillinglemmy"

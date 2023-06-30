@@ -3,7 +3,7 @@ title: "A community for fan's of the great Devin Townsend! "
 name: "devintownsend"
 description: "The mad professor of metal"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/devintownsend"

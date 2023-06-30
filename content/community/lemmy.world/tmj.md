@@ -3,7 +3,7 @@ title: "TMJ"
 name: "tmj"
 description: "A thread for people to discuss about TMJ and symptoms related to it"
 type: community
-date: "2023-06-28 15:21:01"
+date: "2023-06-30 13:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tmj"

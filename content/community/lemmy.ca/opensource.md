@@ -3,7 +3,7 @@ title: "Sub moved"
 name: "opensource"
 description: "Use https://beehaw.org/c/foss instead"
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/opensource"

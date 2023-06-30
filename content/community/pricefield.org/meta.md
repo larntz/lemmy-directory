@@ -3,7 +3,7 @@ title: "Pricefield.org Meta"
 name: "meta"
 description: "Suggestions, technical issues, complaints, anything concerning the instance"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://pricefield.org/c/meta"

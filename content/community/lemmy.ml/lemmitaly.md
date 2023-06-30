@@ -3,7 +3,7 @@ title: "Lemmy Italian Community"
 name: "lemmitaly"
 description: "**Work in progress**Vorrei evitare di fare un listone di regole (tutte uguali) da seguire, affidatevi semplicemente al senso civico e alle comuni regole di convivenza sana.I think there's no need for a list of rules (always the same) to follow, just use common sense and the same rules for civil cohabitation."
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmitaly"

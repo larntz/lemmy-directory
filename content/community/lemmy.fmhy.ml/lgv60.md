@@ -3,12 +3,12 @@ title: "LGV60"
 name: "lgv60"
 description: "A place to talk about LG V60 smartphone."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/lgv60"
 host: lemmy.fmhy.ml
-lastmod: "2023-06-29 12:34:38"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 08:13:18"
 subscribers: 1
 posts: 0

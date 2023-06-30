@@ -3,7 +3,7 @@ title: "Quitting Smoking"
 name: "quittingsmoking"
 description: "Recommended website: https://www.whyquit.com/Recommended youtube videso: Search Joel SpitzerRecommended book: The Easy Way to Quit Smoking by Allen Carr"
 type: community
-date: "2023-06-29 12:37:45"
+date: "2023-06-30 13:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/quittingsmoking"

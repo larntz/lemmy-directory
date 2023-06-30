@@ -3,7 +3,7 @@ title: "hello world testing"
 name: "helloworld"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:56"
+date: "2023-06-30 13:13:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.management/c/helloworld"

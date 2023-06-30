@@ -3,19 +3,19 @@ title: "Videos"
 name: "videos"
 description: "Community for posting videos.Yhteisö videoille.Please include the video length in the title!Example: Really interesting video [6:09]Laita videon pituus otsikkoon!"
 type: community
-date: "2023-06-28 15:17:49"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/videos"
 host: sopuli.xyz
 lastmod: "2023-06-24 17:59:30"
 published: "2023-02-09 20:26:43"
-subscribers: 358
+subscribers: 369
 posts: 64
 comments: 28
 weight: 64
-dau: 2
-wau: 6
+dau: 1
+wau: 4
 mau: 15
 instances:
 - "sopuli_xyz"

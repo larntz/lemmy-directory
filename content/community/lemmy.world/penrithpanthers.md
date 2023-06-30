@@ -3,7 +3,7 @@ title: "Penrith Panthers"
 name: "penrithpanthers"
 description: "From Chocolate Soldiers to Licorice All Sorts to back-to-back premiers"
 type: community
-date: "2023-06-29 12:38:05"
+date: "2023-06-30 13:17:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/penrithpanthers"

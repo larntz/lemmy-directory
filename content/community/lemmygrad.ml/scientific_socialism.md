@@ -3,7 +3,7 @@ title: "scientific socialism"
 name: "scientific_socialism"
 description: "a  broad forum for discussing Marxism and science rules * no sexism * no Ableism * no transphobia* no racism * no homophobia * keep things SFW "
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/scientific_socialism"

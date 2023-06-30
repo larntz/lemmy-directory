@@ -3,7 +3,7 @@ title: "Living in Korea"
 name: "livinginkorea"
 description: "To discuss life as an expat in Korea."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/livinginkorea"

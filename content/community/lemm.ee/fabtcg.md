@@ -3,12 +3,12 @@ title: "Flesh and Blood TCG"
 name: "fabtcg"
 description: "A place to chill and discuss the game of Flesh and Blood."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:57"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/fabtcg"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 19:17:36"
 subscribers: 4
 posts: 7

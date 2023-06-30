@@ -3,7 +3,7 @@ title: "Lemmy"
 name: "lemmy"
 description: "Discussions about the lemmy.studio instance, troubleshooting, suggestions, etc."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/lemmy"

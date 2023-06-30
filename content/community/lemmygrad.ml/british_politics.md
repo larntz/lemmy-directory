@@ -3,7 +3,7 @@ title: "British Politics"
 name: "british_politics"
 description: "Discussion Community for talking about British Politics from a left wing view"
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/british_politics"

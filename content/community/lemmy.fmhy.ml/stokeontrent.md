@@ -3,7 +3,7 @@ title: "Stoke-on-Trent"
 name: "stokeontrent"
 description: "A place to chat about the lovely city of Stoke-on-Trent in England along with anything about North Staffordshire and the surrounding areas"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/stokeontrent"

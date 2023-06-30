@@ -3,7 +3,7 @@ title: "MemesITA"
 name: "memesita"
 description: "Il successore dei subreddit di meme in Italiano."
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/memesita"

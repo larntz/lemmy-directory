@@ -3,7 +3,7 @@ title: "AnimeMemes"
 name: "animemes"
 description: "[Anime memes]()**Rules:**- Follow the site rules.- Must be a meme but that should be obvious.- No text-only memes."
 type: community
-date: "2023-06-29 12:34:59"
+date: "2023-06-30 13:13:59"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/animemes"

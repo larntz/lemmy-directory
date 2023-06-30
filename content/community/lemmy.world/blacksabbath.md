@@ -3,7 +3,7 @@ title: "Black Sabbath"
 name: "blacksabbath"
 description: "Sabbath bloody Sabbath!All eras of Sabbath Welcome.**Other Communities:**[Ozzy Osbourne](/c/ozzy@lemmy.world)[Dio](/c/dio@lemmy.world)[Metal](/c/metal@lemmy.world)"
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-06-30 13:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blacksabbath"

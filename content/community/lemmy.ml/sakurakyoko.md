@@ -3,7 +3,7 @@ title: "Sakura Kyoko"
 name: "sakurakyoko"
 description: "A place for everything Kyoko. She is the best girl and my Waifu. Love her the most. *Love you Kyoko.***Rules :**1. Don't post anything illegal.2. Don't be immoral and try not to cause anyone any serious trouble.3. Spam, harassment, brigading, doxxing and similar misconducts bother the users, mods and everyone else. Don't be a dick.4. Let this community be a healthy and safe one.5. NSFW is allowed.6. Have fun.Break rules and get ban."
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sakurakyoko"

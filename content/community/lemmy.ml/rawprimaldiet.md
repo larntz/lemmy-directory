@@ -3,7 +3,7 @@ title: "Raw Primal Diet by Aajonus Vonderplanitz"
 name: "rawprimaldiet"
 description: "Discussion of raw primal diet and related topics"
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rawprimaldiet"

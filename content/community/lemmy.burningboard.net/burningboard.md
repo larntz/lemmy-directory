@@ -3,7 +3,7 @@ title: "lemmy.Burningboard.net"
 name: "burningboard"
 description: "In dieser Community geht es ausschließlich um alles rund um die Instanz!"
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.burningboard.net/c/burningboard"

@@ -3,14 +3,14 @@ title: "brasilivre"
 name: "brasilivre"
 description: "Um espaço para conversas amigáveis."
 type: community
-date: "2023-06-29 12:37:52"
+date: "2023-06-30 13:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/brasilivre"
 host: lemmy.world
 lastmod: "2023-06-12 00:08:09"
 published: "2023-06-12 00:05:10"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

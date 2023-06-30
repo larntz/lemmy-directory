@@ -3,7 +3,7 @@ title: "European Federalists"
 name: "europeanfederalists"
 description: "A subreddit for those who are dedicated to the establishment of a democratic and federal European Union."
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/europeanfederalists"
@@ -14,7 +14,7 @@ subscribers: 10
 posts: 4
 comments: 2
 weight: 4
-dau: 2
+dau: 1
 wau: 3
 mau: 3
 instances:

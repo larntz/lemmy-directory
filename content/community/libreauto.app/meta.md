@@ -3,7 +3,7 @@ title: "Meta (libreauto.app)"
 name: "meta"
 description: "For discussions about the [Libre Automation Lemmy Server](https://libreauto.app) itself"
 type: community
-date: "2023-06-29 12:34:43"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://libreauto.app/c/meta"

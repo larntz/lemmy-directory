@@ -3,7 +3,7 @@ title: "waxpen"
 name: "waxpen"
 description: "A community for the discussion of electronic devices that vaporize cannabis concentrates. Please feel free to post pictures, stories, reviews, new devices, interesting questions, and what you love about vaping concentrates!"
 type: community
-date: "2023-06-29 12:37:35"
+date: "2023-06-30 13:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/waxpen"

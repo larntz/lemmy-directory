@@ -1,22 +1,22 @@
 ---
 title: "Faune Sauvage" 
 name: "faunesauvage"
-description: "La faune sauvage et à la biodiversité."
+description: "La faune sauvage et la biodiversité.# Règles- Restez respectueux avec les autres, même s'ils ne partagent pas votre opinion.- Restez dans le sujet de la communauté.- Évitez de publier du contenu déjà publié.- Le partage délibéré de fausses informations est interdit.- Spamming et trolling interdit."
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/faunesauvage"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "2023-06-29 16:07:25"
 published: "2023-06-28 19:03:49"
 subscribers: 2
-posts: 2
-comments: 0
-weight: 2
-dau: 1
-wau: 1
-mau: 1
+posts: 11
+comments: 1
+weight: 11
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

@@ -3,20 +3,20 @@ title: "klemmy"
 name: "klemmy"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:35:11"
+date: "2023-06-30 13:14:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.khorne.me/c/klemmy"
 host: lemmy.khorne.me
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-30 08:57:54"
 published: "2023-06-27 14:42:11"
 subscribers: 2
-posts: 0
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_khorne_me"
 tags: 

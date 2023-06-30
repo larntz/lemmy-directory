@@ -3,7 +3,7 @@ title: "Neovim"
 name: "neovim"
 description: "Everything Neovim. Configs. Questions. Tips. Announcements. Rices."
 type: community
-date: "2023-06-29 12:36:25"
+date: "2023-06-30 13:15:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/neovim"

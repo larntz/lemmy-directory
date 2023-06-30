@@ -3,7 +3,7 @@ title: "Aviation Maintenace - Est 1903 "
 name: "aviationmaintenance"
 description: "This subreddit is for all aviation maintenance technicians and enthusiasts of the inner workings of aircraft."
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aviationmaintenance"

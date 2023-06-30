@@ -3,7 +3,7 @@ title: "Hardstyle"
 name: "hardstyle"
 description: ""
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://iusearchlinux.fyi/c/hardstyle"
@@ -14,7 +14,7 @@ subscribers: 3
 posts: 2
 comments: 2
 weight: 2
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

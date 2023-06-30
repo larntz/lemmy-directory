@@ -3,7 +3,7 @@ title: "footy"
 name: "footy"
 description: "Discussion of all things related to football."
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/footy"
@@ -15,7 +15,7 @@ posts: 14
 comments: 46
 weight: 14
 dau: 2
-wau: 3
+wau: 2
 mau: 10
 instances:
 - "lemmy_sdf_org"

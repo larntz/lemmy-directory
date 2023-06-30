@@ -3,7 +3,7 @@ title: "Thomas' blog discussion "
 name: "blog"
 description: "Discussion for my blog posts  [blog](https://blog.thomasdouwes.co.uk)"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/blog"

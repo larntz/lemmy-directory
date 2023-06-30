@@ -3,7 +3,7 @@ title: "Composting"
 name: "composting"
 description: "Anything related to composting, vermicomposting, bokashi, etc.Ask any question, or show us your black gold or your family of wigglers!"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/composting"
@@ -15,7 +15,7 @@ posts: 15
 comments: 72
 weight: 15
 dau: 1
-wau: 8
+wau: 6
 mau: 34
 instances:
 - "slrpnk_net"

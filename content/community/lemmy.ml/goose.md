@@ -3,7 +3,7 @@ title: "Goose The Band"
 name: "goose"
 description: "For discussion of Goose the Band. Come be kind and have some Hot Tea. "
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/goose"

@@ -3,7 +3,7 @@ title: "Outside - an RPG with more than 8 billion players"
 name: "outside_rpg"
 description: "Welcome to Outside - an MMORPG with more than 8 billion players.This community is about discussing real-life in RPG/gaming terms."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/outside_rpg"

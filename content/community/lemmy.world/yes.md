@@ -3,7 +3,7 @@ title: "yes"
 name: "yes"
 description: "yet another leftist shitposting community"
 type: community
-date: "2023-06-29 12:37:40"
+date: "2023-06-30 13:17:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/yes"
@@ -15,7 +15,7 @@ posts: 2
 comments: 2
 weight: 2
 dau: 1
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "lemmy_world"

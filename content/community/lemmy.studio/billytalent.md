@@ -3,7 +3,7 @@ title: "Billy Talent"
 name: "billytalent"
 description: "# Welcome! This is an unofficial community for all things Billy Talent, the band. --- ## We are looking for moderators! ---##  Official links- [billytalent.com](https://billytalent.com)- [Billy Talent's linktree](https://linktr.ee/BillyTalent)"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/billytalent"

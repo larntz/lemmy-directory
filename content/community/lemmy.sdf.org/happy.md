@@ -3,14 +3,14 @@ title: "Happy"
 name: "happy"
 description: "Post stuff that makes you happy. :) Share with us what brings you joy in life."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/happy"
 host: lemmy.sdf.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 16:02:01"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

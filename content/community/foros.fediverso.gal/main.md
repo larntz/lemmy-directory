@@ -3,7 +3,7 @@ title: "fediverso.gal"
 name: "main"
 description: "A comunidade do [fediverso.gal](https://foros.fediverso.gal)"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://foros.fediverso.gal/c/main"
@@ -12,11 +12,11 @@ lastmod: "2022-12-01 09:58:39"
 published: "2022-11-27 22:20:05"
 subscribers: 28
 posts: 7
-comments: 31
+comments: 32
 weight: 7
 dau: 1
-wau: 4
-mau: 5
+wau: 5
+mau: 6
 instances:
 - "foros_fediverso_gal"
 tags: 

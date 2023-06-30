@@ -3,7 +3,7 @@ title: "Concrete: The material of our age. Products, Techniques, News"
 name: "concrete"
 description: "All things concrete.  "
 type: community
-date: "2023-06-29 12:36:08"
+date: "2023-06-30 13:15:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/concrete"

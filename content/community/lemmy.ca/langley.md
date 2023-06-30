@@ -3,12 +3,12 @@ title: "Langley, British Columbia"
 name: "langley"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:16:05"
+date: "2023-06-30 13:13:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/langley"
 host: lemmy.ca
-lastmod: "2023-06-27 16:16:05"
+lastmod: "2023-06-12 23:19:33"
 published: "2023-06-12 13:58:10"
 subscribers: 8
 posts: 2

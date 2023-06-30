@@ -3,7 +3,7 @@ title: "Dreamcatcher"
 name: "dreamcatcher"
 description: "The first Lemmy community about k-pop, pop rock, alt rock korean girl group Dreamcatcher."
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dreamcatcher"

@@ -3,12 +3,12 @@ title: "Trolley Memes"
 name: "trolley_memes"
 description: "The best genre there is."
 type: community
-date: "2023-06-29 12:36:30"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trolley_memes"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:30"
+lastmod: "2022-06-16 18:12:41"
 published: "2022-06-15 14:46:36"
 subscribers: 12
 posts: 12

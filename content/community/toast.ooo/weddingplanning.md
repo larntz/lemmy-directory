@@ -3,7 +3,7 @@ title: "Wedding Planning"
 name: "weddingplanning"
 description: "A community about wedding planning.  An alternative during the reddit blackout."
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://toast.ooo/c/weddingplanning"

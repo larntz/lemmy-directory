@@ -3,7 +3,7 @@ title: "OpenTTD"
 name: "openttd"
 description: "The unofficial successor to **r/OpenTTD**.The Canadian branches are on the [sh.itjust.works](https://sh.itjust.works/c/openttd) and [lemmy.ca](https://lemmy.ca/c/openttd) instances, you can subscribe on lemmy.zip by using [this page](https://lemmy.zip/c/openttd@sh.itjust.works) and [this page](https://lemmy.zip/c/openttd@lemmy.ca)!"
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/openttd"

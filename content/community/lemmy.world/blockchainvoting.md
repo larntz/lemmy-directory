@@ -3,7 +3,7 @@ title: " Blockchain Voting"
 name: "blockchainvoting"
 description: "A federated community centering on the discussion, use, and creation of public ledger technologies that help us to implement liquid democracy in an free, open-source, decentralized manner."
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blockchainvoting"

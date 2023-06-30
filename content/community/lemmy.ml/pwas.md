@@ -3,7 +3,7 @@ title: "Progressive Web Apps"
 name: "pwas"
 description: "PWAs: the future of web apps - cross-platform, installable, and engaging. This is a place to share experiences and ask for advice about them."
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pwas"

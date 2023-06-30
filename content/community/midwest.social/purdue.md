@@ -3,7 +3,7 @@ title: "Purdue"
 name: "purdue"
 description: "A community for alums and current students to hang out, discuss current events, see Purdue news and meet new people!"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/purdue"

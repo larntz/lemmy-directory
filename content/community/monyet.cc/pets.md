@@ -3,7 +3,7 @@ title: "Pets"
 name: "pets"
 description: "A place to show off the pictures of your pets! Show off your cats, dogs, geckos, snake, and even your tarantula hawk and earthworm!Rules:    -Pets for adoption is welcome    -NO pets selling and buying, you will be insta-banned    -be nice to reptile and insect pets"
 type: community
-date: "2023-06-29 12:35:07"
+date: "2023-06-30 13:14:05"
 draft: false
 nsfw: false
 actor_id: "https://monyet.cc/c/pets"
@@ -15,7 +15,7 @@ posts: 15
 comments: 32
 weight: 15
 dau: 4
-wau: 11
+wau: 8
 mau: 11
 instances:
 - "monyet_cc"

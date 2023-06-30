@@ -3,7 +3,7 @@ title: "Asterisk"
 name: "asterisk"
 description: "A community dedicated to Asterisk, the popular open source telephony system"
 type: community
-date: "2023-06-29 12:36:22"
+date: "2023-06-30 13:15:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/asterisk"

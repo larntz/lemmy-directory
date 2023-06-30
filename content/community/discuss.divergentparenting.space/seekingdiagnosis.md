@@ -1,14 +1,14 @@
 ---
 title: "Seeking A Diagnosis" 
 name: "seekingdiagnosis"
-description: "Description not available."
+description: "A place to talk about your undiagnosed child and the process around getting a diagnosis and/or investigating possible diagnoses."
 type: community
-date: "2023-06-29 12:34:56"
+date: "2023-06-30 13:13:57"
 draft: false
 nsfw: false
 actor_id: "https://discuss.divergentparenting.space/c/seekingdiagnosis"
 host: discuss.divergentparenting.space
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-29 21:52:59"
 published: "2023-06-25 20:17:17"
 subscribers: 2
 posts: 0

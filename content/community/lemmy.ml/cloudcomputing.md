@@ -3,7 +3,7 @@ title: "Cloud Computing"
 name: "cloudcomputing"
 description: "Welcome to Cloud Computing Community. Share articles projects or anything related to cloud computing . Could be micro service , kubernetes and many moreSimilar to [Kubernetes](/c/kubernetes) & [Docker](/c/docker) crosspost welcomed "
 type: community
-date: "2023-06-29 12:36:28"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cloudcomputing"

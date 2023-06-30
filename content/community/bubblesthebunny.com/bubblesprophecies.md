@@ -3,7 +3,7 @@ title: "Bubbles' Prophecies"
 name: "bubblesprophecies"
 description: "Rules:No proselytizing except in praise of the rain godNo bigotry"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://bubblesthebunny.com/c/bubblesprophecies"

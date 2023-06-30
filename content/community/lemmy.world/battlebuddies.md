@@ -3,12 +3,12 @@ title: "Battle Buddies - by Supercell!"
 name: "battlebuddies"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/battlebuddies"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "2023-06-28 21:13:48"
 published: "2023-06-28 19:38:17"
 subscribers: 2
 posts: 0

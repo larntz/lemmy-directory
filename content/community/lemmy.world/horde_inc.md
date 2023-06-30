@@ -3,7 +3,7 @@ title: "Horde Incoming!"
 name: "horde_inc"
 description: "A community for fans of multiplayer horde shooters, including (but not limited to) Left 4 Dead, Vermintide, Darktide, Back 4 Blood, Deep Rock Galactic, and Aliens: Fireteam Elite.Rules: Be chill, don't spam/repost, don't be a bigot, and most importantly, don't be the reason I have to make stricter rules."
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/horde_inc"

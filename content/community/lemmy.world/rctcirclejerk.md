@@ -3,12 +3,12 @@ title: "RCTCirclejerk"
 name: "rctcirclejerk"
 description: "Community for all your RCT-related meme needsBasically no rules but we'll still remove offensive, NSFW or *very* non-RCT-related content."
 type: community
-date: "2023-06-29 12:37:58"
+date: "2023-06-30 13:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rctcirclejerk"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:58"
+lastmod: "2023-06-13 06:17:40"
 published: "2023-06-13 03:36:01"
 subscribers: 7
 posts: 2

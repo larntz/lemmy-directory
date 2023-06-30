@@ -3,7 +3,7 @@ title: "VFX"
 name: "vfx"
 description: "A general community of VFX industry professionals, students, and hobbyists. Share your favorite video clips, articles, news, breakdowns, and more!"
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graphics/c/vfx"

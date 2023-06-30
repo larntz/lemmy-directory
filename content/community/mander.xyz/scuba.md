@@ -3,7 +3,7 @@ title: "Scuba Diving"
 name: "scuba"
 description: "For all things related to recreational **scuba diving** - gear, safety, training, travel. Wanting to learn, new divers, experienced divers, professionals and technical divers. Underwater photography and videos are also welcome![Tend to avoid commercial diving and freediving topics]"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/scuba"

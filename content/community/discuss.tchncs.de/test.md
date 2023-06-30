@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "Test community"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/test"
@@ -14,8 +14,8 @@ subscribers: 14
 posts: 14
 comments: 30
 weight: 14
-dau: 3
-wau: 12
+dau: 1
+wau: 11
 mau: 44
 instances:
 - "discuss_tchncs_de"

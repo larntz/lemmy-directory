@@ -3,7 +3,7 @@ title: "of Montreal"
 name: "of_montreal"
 description: "Discuss the band of Montreal, fronted by Kevin Barnes."
 type: community
-date: "2023-06-29 12:36:11"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/of_montreal"

@@ -3,7 +3,7 @@ title: "Microbiology"
 name: "microbiology"
 description: "Wee beasties and the scientists who love them- microbiology- virology- microbial ecology - microbiomes- pathogens"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/microbiology"

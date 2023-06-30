@@ -3,7 +3,7 @@ title: "Offgrid"
 name: "offgrid"
 description: "Sustainable and Off-Grid living."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://krabb.org/c/offgrid"

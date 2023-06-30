@@ -3,7 +3,7 @@ title: "Science"
 name: "science"
 description: "Interesting scientific articles and videos."
 type: community
-date: "2023-06-29 12:35:08"
+date: "2023-06-30 13:14:06"
 draft: false
 nsfw: false
 actor_id: "https://shitposting.monster/c/science"

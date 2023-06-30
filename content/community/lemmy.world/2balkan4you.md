@@ -3,7 +3,7 @@ title: "2balkan4you"
 name: "2balkan4you"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:38:09"
+date: "2023-06-30 13:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/2balkan4you"

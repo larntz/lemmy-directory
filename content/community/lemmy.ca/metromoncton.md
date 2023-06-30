@@ -3,7 +3,7 @@ title: "Metro Moncton, New Brunswick"
 name: "metromoncton"
 description: "Moncton, New Brunswick and surrounding communities (Dieppe, Riverview, etc)"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/metromoncton"

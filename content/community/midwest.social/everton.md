@@ -3,7 +3,7 @@ title: "Everton Football Club"
 name: "everton"
 description: "Welcome to Everton, the community for all things Everton Football Club."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/everton"

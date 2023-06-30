@@ -3,7 +3,7 @@ title: "Liraglutide "
 name: "liraglutide"
 description: "Community for patients using the weight loss drug Liraglutide (Saxenda, Victoza and similar GLP-1 agonists."
 type: community
-date: "2023-06-29 12:35:18"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/liraglutide"

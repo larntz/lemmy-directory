@@ -3,14 +3,14 @@ title: "/f/Latinoamerica"
 name: "latinoamerica"
 description: "Toda información relevante  en la región"
 type: community
-date: "2023-06-29 12:36:27"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/latinoamerica"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-01-31 10:51:27"
-subscribers: 48
+subscribers: 50
 posts: 28
 comments: 0
 weight: 28

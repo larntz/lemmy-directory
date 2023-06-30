@@ -3,7 +3,7 @@ title: "Lemmy India Community"
 name: "india"
 description: "##### Welcome to /c/india*India, officially the Republic of India, is a country in South Asia. It is the second-most populous country, the seventh-largest country by area, and the most populous democracy in the world.*   ~- Wikipedia, the free encyclopedia~ "
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/india"
@@ -11,9 +11,9 @@ host: lemmy.ml
 lastmod: "2021-03-15 12:43:07"
 published: "2019-10-28 15:03:40"
 subscribers: 190
-posts: 76
+posts: 77
 comments: 98
-weight: 76
+weight: 77
 dau: 1
 wau: 1
 mau: 14

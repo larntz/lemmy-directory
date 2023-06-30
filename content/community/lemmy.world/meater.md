@@ -3,7 +3,7 @@ title: "MEATER Wireless Meat Thermometer"
 name: "meater"
 description: "The unofficial group dedicated to fans and friends of MEATER. Share your favorite tips and tricks, recipes, and maybe a cook graph or two."
 type: community
-date: "2023-06-29 12:38:01"
+date: "2023-06-30 13:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/meater"

@@ -3,7 +3,7 @@ title: "Help"
 name: "help"
 description: "A community focused around getting started with Lemmy. "
 type: community
-date: "2023-06-28 15:18:09"
+date: "2023-06-30 13:14:02"
 draft: false
 nsfw: false
 actor_id: "https://bigfoot.ninja/c/help"

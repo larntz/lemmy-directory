@@ -3,7 +3,7 @@ title: "Letterboxd"
 name: "letterboxd"
 description: "A community to discuss all things related to films and Letterboxd.com! Please read the rules before you post or comment.*This community is not affiliated with Letterboxd.com.*"
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/letterboxd"

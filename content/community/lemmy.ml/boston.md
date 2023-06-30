@@ -3,7 +3,7 @@ title: "a community for the city of boston"
 name: "boston"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/boston"

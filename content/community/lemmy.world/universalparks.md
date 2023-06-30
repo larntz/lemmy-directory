@@ -3,7 +3,7 @@ title: "Universal Theme Parks & Resorts"
 name: "universalparks"
 description: "A place to talk about all Universal Theme Parks and resorts as well as any new entertainment options they offer."
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/universalparks"

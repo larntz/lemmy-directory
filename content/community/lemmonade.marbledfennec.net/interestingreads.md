@@ -1,19 +1,19 @@
 ---
 title: "Interesting Reads" 
 name: "interestingreads"
-description: "A place to post things of a technical nature or take that are kind of interesting to read."
+description: "A place to post things of a mixed nature that are kind of interesting to read. Currently there is no set topic for this space, so expect a bit of randomness."
 type: community
-date: "2023-06-29 12:35:05"
+date: "2023-06-30 13:14:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmonade.marbledfennec.net/c/interestingreads"
 host: lemmonade.marbledfennec.net
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-29 20:22:08"
 published: "2023-06-23 14:30:38"
 subscribers: 2
-posts: 0
+posts: 3
 comments: 0
-weight: 0
+weight: 3
 dau: 1
 wau: 1
 mau: 1

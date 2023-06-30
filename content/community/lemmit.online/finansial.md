@@ -3,7 +3,7 @@ title: "Diskusi, berita dan pertanyaan segala macam tentang keuangan & perencana
 name: "finansial"
 description: "Diskusi, berita dan pertanyaan segala macam tentang keuangan & perencanaan Check our wiki at r/finansial/wiki/index."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/finansial"

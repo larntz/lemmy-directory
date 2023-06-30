@@ -3,7 +3,7 @@ title: "corru.observer"
 name: "corru"
 description: "A c/ for the fans of the free web-game [corru.observer](https://corru.observer/) by [corru.works](https://corru.works/)"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/corru"

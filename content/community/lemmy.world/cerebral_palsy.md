@@ -3,7 +3,7 @@ title: "Cerebral Palsy"
 name: "cerebral_palsy"
 description: "This is a community in the Fediverse for individuals who have Cerebral Palsy."
 type: community
-date: "2023-06-29 12:37:43"
+date: "2023-06-30 13:17:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cerebral_palsy"

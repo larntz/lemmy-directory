@@ -3,7 +3,7 @@ title: "cannabis_cultivation"
 name: "cannabis_cultivation"
 description: "To discuss all styles of growing marijuana "
 type: community
-date: "2023-06-28 15:21:03"
+date: "2023-06-30 13:17:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cannabis_cultivation"

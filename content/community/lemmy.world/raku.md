@@ -3,7 +3,7 @@ title: "Raku Programming Language"
 name: "raku"
 description: "A powerful, feature-rich, multi-paradigm programming language- Website: https://raku.org- Alternative website: https://www.raku-lang.ir/en- Docs: https://docs.raku.org- Modules: https://raku.land"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/raku"

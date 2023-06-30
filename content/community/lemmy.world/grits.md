@@ -3,7 +3,7 @@ title: "grits - Load-sharing software for Lemmy"
 name: "grits"
 description: "(See the initial post)"
 type: community
-date: "2023-06-28 15:21:03"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/grits"
@@ -15,7 +15,7 @@ posts: 2
 comments: 15
 weight: 2
 dau: 1
-wau: 4
+wau: 3
 mau: 6
 instances:
 - "lemmy_world"

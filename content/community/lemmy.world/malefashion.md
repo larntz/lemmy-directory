@@ -3,14 +3,14 @@ title: "malefashion"
 name: "malefashion"
 description: "if you are zacheadams message me and this place is yours :) "
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/malefashion"
 host: lemmy.world
 lastmod: "2023-06-23 02:08:58"
 published: "2023-06-23 02:06:16"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

@@ -3,12 +3,12 @@ title: "bakersfield"
 name: "bakersfield"
 description: "Bakersfield news and happenings"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://fig.systems/c/bakersfield"
 host: fig.systems
-lastmod: "2023-06-29 12:34:36"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 18:26:06"
 subscribers: 2
 posts: 0

@@ -3,7 +3,7 @@ title: "RollenspielMonster News"
 name: "rm_news"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/rm_news"
@@ -15,7 +15,7 @@ posts: 31
 comments: 35
 weight: 31
 dau: 1
-wau: 5
+wau: 1
 mau: 5
 instances:
 - "lemmy_rollenspiel_monster"

@@ -3,14 +3,14 @@ title: "Imaginary Explosions/Destruction"
 name: "imaginaryexplosions"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:17:45"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/imaginaryexplosions"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-24 21:37:30"
 published: "2023-06-24 20:14:36"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

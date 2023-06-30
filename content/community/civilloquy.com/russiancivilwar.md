@@ -3,7 +3,7 @@ title: "Russian Civil War"
 name: "russiancivilwar"
 description: "For discussion of the unfolding events of the 2023 Russian Civil War between the Russian government and PMC Wagner Group.Discussion of how it affects the Russian invasion of Ukraine is acceptable as well.Unconfirmed speculation should clearly be stated as such."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://civilloquy.com/c/russiancivilwar"

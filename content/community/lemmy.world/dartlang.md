@@ -3,7 +3,7 @@ title: "Dart Programming Language"
 name: "dartlang"
 description: "This sublemmy is a place for everything related to the Dart programming language and its tools besides Flutter (use [!flutter@programming.dev](https://lemmy.world/c/flutter@programming.dev) for that)"
 type: community
-date: "2023-06-29 12:37:51"
+date: "2023-06-30 13:17:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dartlang"

@@ -3,7 +3,7 @@ title: "Black Caps"
 name: "blackcaps"
 description: "News and discussion the New Zealand national cricket team known as the Black Caps"
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nz/c/blackcaps"

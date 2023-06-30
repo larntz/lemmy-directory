@@ -3,7 +3,7 @@ title: "Color"
 name: "color"
 description: "Color theory, palettes, fun uses of color, psychology, etc."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/color"

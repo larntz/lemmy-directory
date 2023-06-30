@@ -3,7 +3,7 @@ title: "Standard ML"
 name: "sml"
 description: "For the programming language SML. "
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sml"

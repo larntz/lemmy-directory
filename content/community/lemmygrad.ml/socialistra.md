@@ -3,7 +3,7 @@ title: "Socialist Rifle Association"
 name: "socialistra"
 description: "Placeholder. Not sure if/when this community will be in use."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/socialistra"

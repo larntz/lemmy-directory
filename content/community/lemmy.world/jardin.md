@@ -3,7 +3,7 @@ title: "jardin"
 name: "jardin"
 description: "Un espace paisible au jardin : jardinage, potager, balcon, plantes d'intérieur, barbecue, etc."
 type: community
-date: "2023-06-29 12:37:46"
+date: "2023-06-30 13:17:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jardin"
@@ -14,8 +14,8 @@ subscribers: 52
 posts: 12
 comments: 13
 weight: 12
-dau: 2
-wau: 4
+dau: 1
+wau: 3
 mau: 7
 instances:
 - "lemmy_world"

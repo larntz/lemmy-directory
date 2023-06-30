@@ -3,7 +3,7 @@ title: "Tales of Computing"
 name: "tales_of_computing"
 description: "Good stories, bad hacks, interesting hardware/software, and the quirky people behind it all. Let's sit back and enjoy this weird and wonderful vocation."
 type: community
-date: "2023-06-29 12:36:32"
+date: "2023-06-30 13:15:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tales_of_computing"

@@ -3,14 +3,14 @@ title: "trees"
 name: "trees"
 description: "This is a community for cannabis and all related products. "
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/trees"
 host: lemmy.ml
 lastmod: "2020-06-02 21:02:36"
 published: "2020-06-01 21:40:44"
-subscribers: 165
+subscribers: 166
 posts: 8
 comments: 7
 weight: 8

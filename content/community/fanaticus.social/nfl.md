@@ -3,17 +3,17 @@ title: "NFL"
 name: "nfl"
 description: "A place for NFL fans and their team communities!# Looking for mods!"
 type: community
-date: "2023-06-28 15:18:26"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/nfl"
 host: fanaticus.social
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 03:31:52"
-subscribers: 49
-posts: 26
+subscribers: 51
+posts: 33
 comments: 25
-weight: 26
+weight: 33
 dau: 2
 wau: 5
 mau: 5

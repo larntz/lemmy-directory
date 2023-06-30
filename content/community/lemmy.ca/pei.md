@@ -3,7 +3,7 @@ title: "Prince Edward Island"
 name: "pei"
 description: "Just a small place for residents of Prince Edward Island to talk about the news and issues facing our province, share photos, suggest places to eat and anything else PEI related you'd like to post"
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/pei"

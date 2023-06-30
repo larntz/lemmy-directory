@@ -3,7 +3,7 @@ title: "Last.fm"
 name: "lastfm"
 description: "Last.fm communities already exists over on feddit.de and lemmy.world.Unless you have the instances blocked, you should go play over at either [!scrobble@feddit.de](/c/scrobble@feddit.de) or [!lastfm@lemmy.world](/c/lastfm@lemmy.world)"
 type: community
-date: "2023-06-29 12:34:41"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/lastfm"

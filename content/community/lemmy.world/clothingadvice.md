@@ -3,7 +3,7 @@ title: "Clothing Advice"
 name: "clothingadvice"
 description: "Y'all I need some! All I have are these T-shirts with funny sayings on them.  Help!"
 type: community
-date: "2023-06-29 12:37:53"
+date: "2023-06-30 13:17:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/clothingadvice"

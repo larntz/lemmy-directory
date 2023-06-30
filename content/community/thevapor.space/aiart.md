@@ -3,7 +3,7 @@ title: "AI Art"
 name: "aiart"
 description: "Rules:1. All posts must be generative/AI art or questions/tutorials about generating art using AI tools.2. Do not post pornographic, erotic, violent, or gory images."
 type: community
-date: "2023-06-29 12:35:07"
+date: "2023-06-30 13:14:05"
 draft: false
 nsfw: false
 actor_id: "https://thevapor.space/c/aiart"

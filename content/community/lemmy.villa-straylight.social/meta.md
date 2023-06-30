@@ -3,7 +3,7 @@ title: "Chatsubo"
 name: "meta"
 description: "A place for general chat and things of interest to this instance."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/meta"

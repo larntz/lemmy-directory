@@ -3,7 +3,7 @@ title: "House of Leaves"
 name: "houseofleaves"
 description: "A home for r/houseofleaves; a discussion group for the universe of Mark Z. Danielewski’s books **House of Leaves** and **The Whalestoe Letters**, and Poe’s companion album **Haunted**"
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/houseofleaves"

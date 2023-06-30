@@ -3,7 +3,7 @@ title: "KDE Desktop und Apps "
 name: "kdedesktop"
 description: "Rund um den KDE Desktop und seinen Anwendungen."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/kdedesktop"

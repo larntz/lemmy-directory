@@ -3,12 +3,12 @@ title: "Find A Lemmy"
 name: "findalemmy"
 description: "Like r/findareddit"
 type: community
-date: "2023-06-29 12:34:53"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmyunchained.net/c/findalemmy"
 host: lemmyunchained.net
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 09:24:47"
 subscribers: 2
 posts: 1

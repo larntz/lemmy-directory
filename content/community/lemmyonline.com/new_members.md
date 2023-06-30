@@ -3,20 +3,20 @@ title: "New Member Welcomes"
 name: "new_members"
 description: "## New member welcomesAll new members are required to submit a welcome post in this forum.This, is to hopefully further prove you are a human."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/new_members"
 host: lemmyonline.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 14:57:54"
-subscribers: 3
-posts: 3
-comments: 3
-weight: 3
-dau: 1
-wau: 4
-mau: 4
+subscribers: 4
+posts: 4
+comments: 5
+weight: 4
+dau: 2
+wau: 5
+mau: 5
 instances:
 - "lemmyonline_com"
 tags: 

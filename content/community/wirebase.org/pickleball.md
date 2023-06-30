@@ -3,7 +3,7 @@ title: "Pickleball"
 name: "pickleball"
 description: "General discussion on Pickleball"
 type: community
-date: "2023-06-29 12:34:57"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://wirebase.org/c/pickleball"
@@ -15,8 +15,8 @@ posts: 3
 comments: 2
 weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "wirebase_org"
 tags: 

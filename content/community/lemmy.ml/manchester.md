@@ -3,7 +3,7 @@ title: "Manchester"
 name: "manchester"
 description: "A community for Greater Manchester, UK."
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/manchester"

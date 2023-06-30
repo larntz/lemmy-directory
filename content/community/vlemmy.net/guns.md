@@ -3,7 +3,7 @@ title: "Guns"
 name: "guns"
 description: "Anything to do with guns or politics surrounding guns, but keep it civil. Follow all applicable State/Federal laws"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/guns"

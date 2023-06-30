@@ -3,7 +3,7 @@ title: "Dongistan"
 name: "dongistan"
 description: "This is a shitposting sub about all kinds of niche things on the internet.We're a Marxist-Leninist Community. We uphold Imran khan’s ba’athist republic of Libya.TG Branch: https://t.me/+Gu8Q61tzlfwzYzM0"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/dongistan"

@@ -3,7 +3,7 @@ title: "People Fucking Dying"
 name: "peoplefuckingdying"
 description: "Videos and GIFs of people (figuratively) fucking dying."
 type: community
-date: "2023-06-29 12:35:10"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/peoplefuckingdying"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 09:57:55"
 subscribers: 1
-posts: 85
+posts: 91
 comments: 0
-weight: 85
+weight: 91
 dau: 1
 wau: 1
 mau: 1

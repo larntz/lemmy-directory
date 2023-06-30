@@ -3,14 +3,14 @@ title: "St. Louis, MO | Gateway to the West"
 name: "stlouis"
 description: "A place for all things STL."
 type: community
-date: "2023-06-29 12:37:55"
+date: "2023-06-30 13:17:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stlouis"
 host: lemmy.world
 lastmod: "2023-06-18 14:28:29"
 published: "2023-06-07 23:13:18"
-subscribers: 45
+subscribers: 50
 posts: 4
 comments: 2
 weight: 4

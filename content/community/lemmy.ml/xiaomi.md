@@ -3,7 +3,7 @@ title: "Xiaomi"
 name: "xiaomi"
 description: "Unofficial Community for All Things Xiaomi!"
 type: community
-date: "2023-06-29 12:36:09"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xiaomi"
@@ -12,10 +12,10 @@ lastmod: "2023-06-10 11:43:31"
 published: "2023-06-10 11:32:49"
 subscribers: 24
 posts: 14
-comments: 4
+comments: 5
 weight: 14
 dau: 1
-wau: 1
+wau: 2
 mau: 3
 instances:
 - "lemmy_ml"

@@ -3,14 +3,14 @@ title: "La Quadrature Du Net"
 name: "quadraturedunet"
 description: "https://www.laquadrature.net/en/https://www.laquadrature.net/es/https://www.laquadrature.net//?lang=fr"
 type: community
-date: "2023-06-29 12:36:23"
+date: "2023-06-30 13:15:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/quadraturedunet"
 host: lemmy.ml
 lastmod: "2021-06-23 20:44:50"
 published: "2021-06-10 13:30:43"
-subscribers: 16
+subscribers: 17
 posts: 15
 comments: 0
 weight: 15

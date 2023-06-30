@@ -3,7 +3,7 @@ title: "zlibrary"
 name: "zlibrary"
 description: "# Contributions and Suggestions**DO NOT USE THE FOLLOWING SITES!** - z-lib is **Official Links**:- zlibrary Official Tor (.onion) Linkhttp://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/- zlibrary Pirate Library Torrents, Tor (.onion) Linkhttp://2urmf2mk2dhmz4km522u4yfy2ynbzkbejf2cvmpcbzhpffvcuksrz6ad.onion/zlib-downloads.html**Best zlibrary Alternatives**- https://libgen.is/- https://www.pdfdrive.com/- https://www.lbryworm.com/**Official Tor Project Download**- https://www.torproject.org/download/"
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/zlibrary"

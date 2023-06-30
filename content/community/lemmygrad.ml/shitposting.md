@@ -3,20 +3,20 @@ title: "shitposting"
 name: "shitposting"
 description: "For the dankest of all memes"
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/shitposting"
 host: lemmygrad.ml
 lastmod: "2023-03-10 22:02:27"
 published: "2023-01-30 22:49:00"
-subscribers: 477
-posts: 199
-comments: 726
-weight: 199
-dau: 2
-wau: 14
-mau: 71
+subscribers: 482
+posts: 200
+comments: 735
+weight: 200
+dau: 7
+wau: 20
+mau: 74
 instances:
 - "lemmygrad_ml"
 tags: 

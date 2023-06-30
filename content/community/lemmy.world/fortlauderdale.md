@@ -3,7 +3,7 @@ title: "Fort Lauderdale and Broward County, Florida 🇺🇸"
 name: "fortlauderdale"
 description: "A community to discuss all things relevant to South Florida, Broward County, and of course, Fort Lauderdale in particular. Residents and visitors alike are welcome."
 type: community
-date: "2023-06-29 12:37:50"
+date: "2023-06-30 13:17:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fortlauderdale"

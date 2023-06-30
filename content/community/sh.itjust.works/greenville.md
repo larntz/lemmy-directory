@@ -3,7 +3,7 @@ title: "Greenville, SC"
 name: "greenville"
 description: "Community for Greenville, SC"
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/greenville"
@@ -15,7 +15,7 @@ posts: 11
 comments: 1
 weight: 11
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "sh_itjust_works"

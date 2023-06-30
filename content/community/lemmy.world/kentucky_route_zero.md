@@ -3,7 +3,7 @@ title: "Kentucky Route Zero"
 name: "kentucky_route_zero"
 description: "For discussion & questions of the magical realism point-and-click adventure game, Kentucky Route Zero.Developed by Cardboard Computer & published by Annapurna Interactive."
 type: community
-date: "2023-06-29 12:38:00"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kentucky_route_zero"

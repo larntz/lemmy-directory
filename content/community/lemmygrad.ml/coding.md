@@ -3,7 +3,7 @@ title: "For all your programming needs"
 name: "coding"
 description: "A community to discuss programming and or related topics"
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/coding"

@@ -3,7 +3,7 @@ title: "Shitty Law"
 name: "shittylaw"
 description: "A place to expose shitty laws."
 type: community
-date: "2023-06-29 12:36:25"
+date: "2023-06-30 13:15:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shittylaw"

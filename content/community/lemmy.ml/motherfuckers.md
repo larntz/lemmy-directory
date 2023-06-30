@@ -3,7 +3,7 @@ title: "MFs"
 name: "motherfuckers"
 description: "We are **MFs**. Problems, we fuck your mother."
 type: community
-date: "2023-06-29 12:36:26"
+date: "2023-06-30 13:15:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/motherfuckers"

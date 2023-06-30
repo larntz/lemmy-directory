@@ -3,7 +3,7 @@ title: "Comic Books"
 name: "comics"
 description: "Another place to complain about Zeb Wells.If you're here from another server, this is [!comics@midwest.social](/c/comics@midwest.social) - add us to your subscriptions.Rules: 1) Be kind to each other2) Keep it sfw3) No torrents or scans"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/comics"

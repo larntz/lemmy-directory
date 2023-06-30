@@ -3,7 +3,7 @@ title: "Darknets"
 name: "darknets"
 description: "*A dark net or darknet is an overlay network within the Internet that can only be accessed with specific software, configurations, or authorization, and often uses a unique customized communication protocol. Two typical darknet types are social networks and anonymity proxy networks such as Tor via an anonymized series of connections.*"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.toot.pt/c/darknets"

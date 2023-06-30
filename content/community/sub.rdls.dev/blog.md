@@ -3,7 +3,7 @@ title: "Blog"
 name: "blog"
 description: "Comunicados do adm"
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:52"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/blog"

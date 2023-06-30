@@ -3,7 +3,7 @@ title: "Azores"
 name: "azores"
 description: "Discuss the Azores (Mid-Atlantic Islands) in English"
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/azores"

@@ -3,14 +3,14 @@ title: "OpenLemmy"
 name: "openlemmy"
 description: "Community for the OpenLemmy distribution of openlemmy.com"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/openlemmy"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-30 11:39:57"
 published: "2023-06-27 15:16:24"
-subscribers: 4
+subscribers: 6
 posts: 2
 comments: 1
 weight: 2

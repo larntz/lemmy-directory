@@ -3,7 +3,7 @@ title: "Ramen 🍜"
 name: "ramen"
 description: "A place to share photos of Ramen, homemade or bought. A place to share recipes, restaurant locations, generally a safe place for you to share your love about Ramen!WelcomeNo Racism No NSFWGood Vibes and Ramen Only!"
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ramen"

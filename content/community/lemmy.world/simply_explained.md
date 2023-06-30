@@ -1,14 +1,14 @@
 ---
 title: "Simply Explained" 
 name: "simply_explained"
-description: "Description not available."
+description: "Place to discuss latest Simply Explained content.Websites:* [simplyexplained.com](https://simplyexplained.com)* [Newsletter](https://newsletter.simplyexplained.com)"
 type: community
-date: "2023-06-29 12:37:43"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/simply_explained"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-29 13:01:20"
 published: "2023-06-14 12:37:52"
 subscribers: 23
 posts: 0

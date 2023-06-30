@@ -3,7 +3,7 @@ title: "Guix"
 name: "guix"
 description: "Guix is an advanced distribution of the GNU operating system developed by the GNU Project"
 type: community
-date: "2023-06-29 12:36:10"
+date: "2023-06-30 13:15:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guix"

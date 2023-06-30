@@ -3,7 +3,7 @@ title: "CX-5"
 name: "cx5"
 description: "Mazda CX-5"
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/cx5"

@@ -3,14 +3,14 @@ title: "Webtoons"
 name: "webtoons"
 description: "Place to discuss webtoons and webtoon related news and content.# RulesNo Piracy# Icon and Banner SourceIcon is from [Dear X](https://www.webtoons.com/en/thriller/dearx/list?title_no=2503)"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/webtoons"
 host: lemmy.world
 lastmod: "2023-06-27 03:56:06"
 published: "2023-06-27 02:33:07"
-subscribers: 8
+subscribers: 9
 posts: 3
 comments: 1
 weight: 3

@@ -3,18 +3,18 @@ title: "Paradox Games"
 name: "paradox"
 description: "For all our Paradox games"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://gekinzuku.com/c/paradox"
 host: gekinzuku.com
-lastmod: "2023-06-29 12:34:52"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 16:49:03"
 subscribers: 2
 posts: 1
 comments: 2
 weight: 1
-dau: 2
+dau: 1
 wau: 2
 mau: 2
 instances:

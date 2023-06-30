@@ -3,7 +3,7 @@ title: "Los Angeles"
 name: "los_angeles"
 description: "Lemmy instance for Los Angeles natives and visitors alike!! Feel free to post anything related to LA, including attractions, food, weather, county wide alerts/incidents, and more."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/los_angeles"

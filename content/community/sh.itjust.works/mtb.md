@@ -3,7 +3,7 @@ title: "Mountain Biking"
 name: "mtb"
 description: "For all things mountain biking. If it's pedal powered (or even pedal assisted), goes on two wheels, and belongs in the dirt, it's welcome here.What isn't welcome: Hate speech, bigotry, assholery, road bikes..."
 type: community
-date: "2023-06-29 12:35:19"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mtb"

@@ -3,7 +3,7 @@ title: "Mahjong Soul / じゃんたま"
 name: "majsoul"
 description: "A community for discussion with regard to Mahjong Soul / じゃんたま, the Mahjong game.No off-topic or hate speech allowed, and please avoid pure politics. Instance rules from metapowers.org apply.麻雀ゲーム「じゃんたま」に関するコミュニティーです。「じゃんたま」に無関係や政治的な話題はご遠慮してください。このコミュニティーにはmetapowers.orgのルールが適用です。"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://metapowers.org/c/majsoul"

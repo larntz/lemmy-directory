@@ -3,7 +3,7 @@ title: "Aquarium - Die deutschsprachige Aquarium Community"
 name: "aquarium"
 description: "Die deutschsprachige Aquarium Community."
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://discuss.dizl.de/c/aquarium"

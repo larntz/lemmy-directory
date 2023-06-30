@@ -3,7 +3,7 @@ title: "Pioneer"
 name: "pioneer"
 description: "**Pioneer format discussion.**Pioneer is a nonrotating format features sets from Return to Ravnica, forward. It aims to be more powerful than Standard but less powerful than Modern or Legacy.Read more at [Pioneer's official website](https://magic.wizards.com/en/formats/pioneer)."
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/pioneer"

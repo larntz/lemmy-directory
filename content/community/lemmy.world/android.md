@@ -3,20 +3,20 @@ title: "Android"
 name: "android"
 description: "A home on LW for Android users. **RULES**While this is s community focused on Android, some of us have devices from the Android, Apple, Windows and Linux worlds, etc. We may *prefer* Android, but overzealous and obsessive **adherence to Android as some sort of infallible platform won't be tolerated long here.**That said, **being critical of brands is fine.** Android is frustrating in some ways, just like iOS and so forth. Let's be upfront about that. **Be thoughtful and helpful,** even with 'stupid' questions. Otherwise, as ya mama said, *say nothing at all.* The world won't be made better or worse by snarky dudes schooling naive newcomers on Lemmy. "
 type: community
-date: "2023-06-29 12:38:06"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/android"
 host: lemmy.world
 lastmod: "2023-06-28 08:37:52"
 published: "2023-06-10 12:56:39"
-subscribers: 10750
-posts: 159
-comments: 4765
-weight: 159
-dau: 208
-wau: 1171
-mau: 2384
+subscribers: 11156
+posts: 171
+comments: 5026
+weight: 171
+dau: 207
+wau: 1169
+mau: 2509
 instances:
 - "lemmy_world"
 tags: 

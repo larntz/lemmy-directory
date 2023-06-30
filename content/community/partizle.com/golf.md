@@ -3,14 +3,14 @@ title: "Golf"
 name: "golf"
 description: "A place to discuss golf, I guess?"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://partizle.com/c/golf"
 host: partizle.com
 lastmod: "2023-06-14 20:45:10"
 published: "2023-06-09 19:16:10"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 2
 weight: 1

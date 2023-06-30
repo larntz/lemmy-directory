@@ -3,7 +3,7 @@ title: "Comedic Tunes"
 name: "comedic_tunes"
 description: "A community for sharing songs with a funny bone. Be it parodies, sarcasm, satire or just plain corny. "
 type: community
-date: "2023-06-29 12:35:07"
+date: "2023-06-30 13:14:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.mildgrim.com/c/comedic_tunes"

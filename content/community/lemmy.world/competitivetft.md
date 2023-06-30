@@ -3,7 +3,7 @@ title: "Competitive TFT"
 name: "competitivetft"
 description: "A hub for all things about competitive Teamfight Tactics. Ranked help and discussion, Tournament information, eSports news, and more."
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/competitivetft"

@@ -3,7 +3,7 @@ title: "Sports & Fitness"
 name: "fitness_sports"
 description: "A place for the pursuit of physical fitness goals and your fav sports"
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:05"
 draft: false
 nsfw: false
 actor_id: "https://monyet.cc/c/fitness_sports"

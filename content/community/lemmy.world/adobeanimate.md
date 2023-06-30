@@ -3,7 +3,7 @@ title: "Adobe Animate: for all things Flash, Present and Future!"
 name: "adobeanimate"
 description: "Welcome! This is a place for all things Adobe Animate! This group is for general discussion, showing off your designs, questions, tricks, techniques, troubleshooting and so forth. Give by helping others learn and improve their skills, critique and receive critique on the latest user designs, or simply sit back and enjoy casual discussion Animate related!"
 type: community
-date: "2023-06-29 12:38:05"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/adobeanimate"

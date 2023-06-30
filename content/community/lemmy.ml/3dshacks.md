@@ -3,14 +3,14 @@ title: "3DS Hacks and Homebrew"
 name: "3dshacks"
 description: "Nintendo 3DS hacking and homebrew. We are not affiliated with Nintendo or the 3DS brand."
 type: community
-date: "2023-06-29 12:36:27"
+date: "2023-06-30 13:15:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/3dshacks"
 host: lemmy.ml
 lastmod: "2023-06-08 06:53:33"
 published: "2023-06-08 06:53:03"
-subscribers: 169
+subscribers: 174
 posts: 5
 comments: 7
 weight: 5

@@ -3,7 +3,7 @@ title: "aromantic community"
 name: "aromantic"
 description: "# Welcome to !aromantic,Since there wasn't an aromantic community here I created one.As Lemmy has a small userbase it seems reasonable to not split up different aro content in different communities (i.e. one for memes and another one) so all aro content is welcome here. Have fun.# Rules- no discrimination in any form- this is an antifascist community so don't be a fascist"
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aromantic"

@@ -3,7 +3,7 @@ title: "Midwest Chess"
 name: "midwest_chess"
 description: "Do you like to Play chess?  Are you new to chess? Looking for sparring partners?  Chess news? "
 type: community
-date: "2023-06-29 12:34:41"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/midwest_chess"

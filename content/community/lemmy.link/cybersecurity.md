@@ -1,14 +1,14 @@
 ---
 title: "Cybersecurity" 
 name: "cybersecurity"
-description: "Description not available."
+description: "- [KrebsOnSecurity](https://krebsonsecurity.com/feed/)- [The Hacker News](https://feeds.feedburner.com/TheHackersNews)- [Threatpost](https://threatpost.com/feed/)"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.link/c/cybersecurity"
 host: lemmy.link
-lastmod: "2023-06-28 01:03:10"
+lastmod: "2023-06-30 00:56:24"
 published: "2023-06-26 19:35:16"
 subscribers: 7
 posts: 41

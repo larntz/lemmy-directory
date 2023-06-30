@@ -3,14 +3,14 @@ title: "IAmA"
 name: "iama"
 description: "Ask Me Anything"
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iama"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-27 21:33:35"
-subscribers: 45
+subscribers: 46
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "announcements"
 name: "announcements"
 description: "Lemmy.fail server announcements"
 type: community
-date: "2023-06-29 12:35:11"
+date: "2023-06-30 13:14:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fail/c/announcements"

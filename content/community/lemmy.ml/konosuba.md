@@ -3,7 +3,7 @@ title: "KonoSuba!"
 name: "konosuba"
 description: "A community dedicated to Kono Subarashii Sekai Ni Shukufuku Wo! lovers, either from manga, anime or light novel, everyone is welcome!Rules:- No intolerance- No homophobia- No racism- No porn- No hentai (only draw lewds)- No harassmentif someone breaks any of these, report it as soon as possible."
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/konosuba"

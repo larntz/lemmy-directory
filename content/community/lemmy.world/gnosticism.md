@@ -3,14 +3,14 @@ title: "Gnosticism "
 name: "gnosticism"
 description: "A community dedicated to the study of gnostic ideas and beliefs."
 type: community
-date: "2023-06-28 15:20:54"
+date: "2023-06-30 13:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gnosticism"
 host: lemmy.world
 lastmod: "2023-06-13 19:52:49"
 published: "2023-06-13 19:45:12"
-subscribers: 12
+subscribers: 16
 posts: 4
 comments: 0
 weight: 4

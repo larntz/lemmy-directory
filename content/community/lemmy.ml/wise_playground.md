@@ -3,7 +3,7 @@ title: "The Conversation Community Wise Playground for Collaborative Intelligenc
 name: "wise_playground"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:23"
+date: "2023-06-30 13:15:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/wise_playground"

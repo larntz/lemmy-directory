@@ -3,7 +3,7 @@ title: "snakekeeping"
 name: "snakekeeping"
 description: "Welcome!. The goal is to make a place where all kinds of snake keepers can talk about and share pictures of our snakes. Whether you have a single pet corn snake, or you're a large scale ball python breeder, let's grow this community together!Rules:- Please prefix the title of your post with the species and morph of snake you will be posting about in brackets [ ]. ie: [Albino Ball Python] OR [Cinder Corn].- Be excellent to each other. The Fediverse is full of pretty chill people who are willing to have laid back conversations about stuff, lets extend that to this community.- Keep the content snake related (obviously). - Share some content! the more stuff people share, the better the community will be."
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/snakekeeping"

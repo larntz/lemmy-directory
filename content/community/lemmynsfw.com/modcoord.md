@@ -3,20 +3,20 @@ title: "Mod Coordination"
 name: "modcoord"
 description: "Community for moderators."
 type: community
-date: "2023-06-29 12:34:43"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/modcoord"
 host: lemmynsfw.com
 lastmod: "2023-06-21 05:07:50"
 published: "2023-06-12 18:25:02"
-subscribers: 112
+subscribers: 120
 posts: 13
-comments: 137
+comments: 138
 weight: 13
-dau: 1
-wau: 35
-mau: 54
+dau: 2
+wau: 36
+mau: 56
 instances:
 - "lemmynsfw_com"
 tags: 

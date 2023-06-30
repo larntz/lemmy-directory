@@ -3,20 +3,20 @@ title: "homelab"
 name: "homelab"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homelab"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:31"
+lastmod: "0001-01-01 00:00:00"
 published: "2020-07-27 17:45:38"
-subscribers: 2010
-posts: 40
-comments: 280
-weight: 40
+subscribers: 2054
+posts: 41
+comments: 283
+weight: 41
 dau: 3
-wau: 48
-mau: 148
+wau: 43
+mau: 152
 instances:
 - "lemmy_ml"
 tags: 

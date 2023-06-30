@@ -3,7 +3,7 @@ title: "Hot Wheels"
 name: "hotwheels"
 description: "Discussing anything Hot Wheels and diecast related"
 type: community
-date: "2023-06-29 12:36:22"
+date: "2023-06-30 13:15:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hotwheels"

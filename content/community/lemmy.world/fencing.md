@@ -3,7 +3,7 @@ title: "Fencing"
 name: "fencing"
 description: "Everything to do with the sport of fencing (epee, saber, foil)"
 type: community
-date: "2023-06-29 12:37:53"
+date: "2023-06-30 13:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fencing"

@@ -3,12 +3,12 @@ title: "masterhacker"
 name: "masterhacker"
 description: "This is where you put those kids that can ddos you because you logged into the hacked code main frame on javascript youtube c++ servers."
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/masterhacker"
 host: infosec.pub
-lastmod: "2023-06-29 12:34:35"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 10:31:51"
 subscribers: 1
 posts: 0

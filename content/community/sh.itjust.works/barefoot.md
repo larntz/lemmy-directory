@@ -3,7 +3,7 @@ title: "barefoot"
 name: "barefoot"
 description: "Community for those who like to walk life unshod. No fetish content."
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:21"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/barefoot"
@@ -12,7 +12,7 @@ lastmod: "2023-06-10 15:43:45"
 published: "2023-06-09 14:45:45"
 subscribers: 55
 posts: 14
-comments: 29
+comments: 32
 weight: 14
 dau: 1
 wau: 4

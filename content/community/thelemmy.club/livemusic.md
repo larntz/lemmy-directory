@@ -3,7 +3,7 @@ title: "Live Music"
 name: "livemusic"
 description: "Share your favourite live performances. "
 type: community
-date: "2023-06-29 12:35:12"
+date: "2023-06-30 13:14:13"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/livemusic"

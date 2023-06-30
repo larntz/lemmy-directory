@@ -3,7 +3,7 @@ title: "Call Of Duty Warzone"
 name: "codwarzone"
 description: "Call of Duty: Warzone is a first-person shooter video game series developed by Infinity Ward and Raven Software, and published by Activision. r/CODWarzone is a developer-recognized community focused on the series."
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/codwarzone"

@@ -3,14 +3,14 @@ title: "Crazy fucking videos"
 name: "crazyfuckingvideos"
 description: "Crazy videos"
 type: community
-date: "2023-06-29 12:36:27"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/crazyfuckingvideos"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-19 03:02:27"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

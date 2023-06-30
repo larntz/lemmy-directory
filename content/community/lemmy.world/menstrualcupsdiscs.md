@@ -3,7 +3,7 @@ title: "Menstrual Cups and Discs"
 name: "menstrualcupsdiscs"
 description: "All things menstrual cups and discs!Rules:- Don't be rude- No bigotry- Don't spread misinformation"
 type: community
-date: "2023-06-29 12:37:46"
+date: "2023-06-30 13:17:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/menstrualcupsdiscs"

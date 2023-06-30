@@ -3,7 +3,7 @@ title: "Chicago News and Discussion"
 name: "chicago"
 description: "Chicago News and Discussion"
 type: community
-date: "2023-06-29 12:36:29"
+date: "2023-06-30 13:15:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chicago"

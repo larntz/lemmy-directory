@@ -3,7 +3,7 @@ title: "It's pro wrestling, but people in the know call it 'graps'"
 name: "graps"
 description: "Something something we talk about pro wrestling: wwe, AEW, NJPW, AJPW, Noah, WxW, ROH, NXT blahblahvlah no tribalism no hate speech, you know what I mean don't be a dick yadda yadda"
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-06-30 13:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/graps"
@@ -15,7 +15,7 @@ posts: 4
 comments: 3
 weight: 4
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "lemmy_world"

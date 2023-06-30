@@ -3,7 +3,7 @@ title: "Main Community"
 name: "main"
 description: "Discuss about any topic"
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://fedibb.ml/c/main"

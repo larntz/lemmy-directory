@@ -3,7 +3,7 @@ title: "(sub)urban and container gardening in Atlanta"
 name: "gardening"
 description: "Between the hard clay and the persistent shade, small gardens in Atlanta can be difficult. Share your tips and successes here."
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:49"
 draft: false
 nsfw: false
 actor_id: "https://yall.theatl.social/c/gardening"

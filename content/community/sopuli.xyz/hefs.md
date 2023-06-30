@@ -3,7 +3,7 @@ title: "Holopro English Fan Server"
 name: "hefs"
 description: "An unofficial community for the Discord server HEFS (Holopro English Fan Server)Pending authorization from the owner to turn it official."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/hefs"

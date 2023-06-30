@@ -3,7 +3,7 @@ title: "A Song of Ice and Fire"
 name: "asoiaf"
 description: "A community for fans of the fantasy series 'A song of Ice and Fire' by author George RR Martin. All book and show discussions allowed.Banner Credits: [drekkydrimm](https://www.deviantart.com/drekkydrimm/gallery)You can read George RR Martin's Blog [Here](https://georgerrmartin.com/notablog/)"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/asoiaf"

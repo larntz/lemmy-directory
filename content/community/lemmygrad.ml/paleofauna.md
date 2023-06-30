@@ -3,7 +3,7 @@ title: "Paleofauna "
 name: "paleofauna"
 description: "This is a community for all things Paleo. Scientific articles, discussion or just pictures of neat creatures from Earth's past."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/paleofauna"

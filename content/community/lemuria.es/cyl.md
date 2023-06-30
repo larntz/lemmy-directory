@@ -3,7 +3,7 @@ title: "Castilla y León"
 name: "cyl"
 description: "Comunidad Lemmy para temas de la comunidad autónoma de Castilla y León"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemuria.es/c/cyl"

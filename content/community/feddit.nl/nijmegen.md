@@ -3,7 +3,7 @@ title: "Nijmegen"
 name: "nijmegen"
 description: "**A Fedditsub dedicated to the oldest city in the Netherlands.**"
 type: community
-date: "2023-06-29 12:34:35"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/nijmegen"

@@ -3,7 +3,7 @@ title: "Gerbils"
 name: "gerbils"
 description: "To share and discuss all things Gerbil. All content must be (at least tangibly) connected to or about Gerbils and their care. "
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gerbils"

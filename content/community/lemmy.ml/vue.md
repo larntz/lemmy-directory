@@ -3,7 +3,7 @@ title: "Vue.js"
 name: "vue"
 description: "A community all about the Vue.js framework. Version 2 / 3, Vuex,  Router, Nuxt. Learning and mastering this framework."
 type: community
-date: "2023-06-29 12:36:24"
+date: "2023-06-30 13:15:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vue"

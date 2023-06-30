@@ -3,7 +3,7 @@ title: "Guilded"
 name: "guilded"
 description: "Guilded Rules1. Be respectful2. No NSFW / NSFL content3. No Spam4. Keep profanity to a minimum5. Limit self-promotion6. Stay on-topic7. No politics8. No sharing private information9. No witch hunting10. No support requests"
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/guilded"

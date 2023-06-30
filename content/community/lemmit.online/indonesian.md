@@ -3,7 +3,7 @@ title: "Bahasa Indonesia"
 name: "indonesian"
 description: "A place for people who want to learn Indonesian."
 type: community
-date: "2023-06-29 12:34:50"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/indonesian"

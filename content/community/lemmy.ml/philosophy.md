@@ -3,7 +3,7 @@ title: "Philosophy"
 name: "philosophy"
 description: "All about Philosophy. "
 type: community
-date: "2023-06-29 12:36:23"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/philosophy"
@@ -15,7 +15,7 @@ posts: 54
 comments: 19
 weight: 54
 dau: 1
-wau: 3
+wau: 2
 mau: 10
 instances:
 - "lemmy_ml"

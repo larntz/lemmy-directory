@@ -3,7 +3,7 @@ title: "Detroit Lions"
 name: "detroitlions"
 description: "The first and only Lemmy community for the Detroit Lions! 1957 NFL champions!"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/detroitlions"

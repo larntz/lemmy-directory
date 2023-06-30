@@ -3,14 +3,14 @@ title: "Full Egoism"
 name: "fullegoism"
 description: "max stirnerfunny memeswhat else?ah right, spooks begone"
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/fullegoism"
 host: sh.itjust.works
 lastmod: "2023-06-14 22:30:25"
 published: "2023-06-14 22:18:01"
-subscribers: 11
+subscribers: 13
 posts: 11
 comments: 4
 weight: 11

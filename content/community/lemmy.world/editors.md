@@ -3,7 +3,7 @@ title: "Editors"
 name: "editors"
 description: "A lemmy centered around post-production, professional VIDEO editing, and everything in between. Geared for professionals (people making a living) in this field."
 type: community
-date: "2023-06-29 12:37:49"
+date: "2023-06-30 13:17:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/editors"

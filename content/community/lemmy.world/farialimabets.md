@@ -3,7 +3,7 @@ title: "farialimabets"
 name: "farialimabets"
 description: "Subdesenvolvimento, agora também no mercado financeiro. Aqui é psicopata, ladrão, bandido, cheirador, vendedor de droga, polícia maluco, polícia assaltante, aqui tem a porra toda, meu irmão. Isso aqui é r/farialimabets."
 type: community
-date: "2023-06-29 12:37:41"
+date: "2023-06-30 13:17:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/farialimabets"

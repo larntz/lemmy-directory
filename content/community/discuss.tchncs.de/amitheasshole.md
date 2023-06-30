@@ -3,7 +3,7 @@ title: "Am I the Asshole? "
 name: "amitheasshole"
 description: "A catharsis for the frustrated moral philosopher in all of us, and a place to finally find out if you were wrong in an argument that's been bothering you. Tell us about any non-violent conflict you have experienced; give us both sides of the story, and find out if you're right, or you're the asshole. NOW ON LEMMY"
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/amitheasshole"

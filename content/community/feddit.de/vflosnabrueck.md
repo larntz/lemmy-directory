@@ -3,7 +3,7 @@ title: "VfL Osnabrück"
 name: "vflosnabrueck"
 description: "Die Community zum VfL Osnabrück"
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:51"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/vflosnabrueck"

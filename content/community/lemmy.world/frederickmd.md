@@ -3,7 +3,7 @@ title: "Frederick, MD"
 name: "frederickmd"
 description: "We are a  community for those who live, or have lived in Frederick County, MD and welcome guests."
 type: community
-date: "2023-06-29 12:38:09"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/frederickmd"

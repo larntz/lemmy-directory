@@ -3,7 +3,7 @@ title: "Left-handed southpaws"
 name: "lefthanded"
 description: "If being left is wrong, I don't want to be rightInspired by [/r/southpaws](https://www.reddit.com/r/southpaws/)What adventures, frustrations, or cool tools have you found as a southpaw?"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://wayfarershaven.eu/c/lefthanded"

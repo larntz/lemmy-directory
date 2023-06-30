@@ -3,7 +3,7 @@ title: "Delta"
 name: "delta"
 description: "The place for all things Delta Air Lines!### RulesFollow the general server rules.Be nice/civil/kind to each other. Do not demean, harass, or generally be a jerk to others.Please keep posts related to the topic of Delta Air Lines. Off-topic posts will be removed at mods’ discretion.### Tags[News] [Discussion] [Image/Video] [Help/Advice] [Satire]"
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.avata.social/c/delta"

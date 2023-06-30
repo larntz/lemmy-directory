@@ -3,12 +3,12 @@ title: "Weather.gov (RSS) "
 name: "weathergov"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:53"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.amyjnobody.com/c/weathergov"
 host: lemmy.amyjnobody.com
-lastmod: "2023-06-29 12:34:53"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 17:50:16"
 subscribers: 3
 posts: 0

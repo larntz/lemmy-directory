@@ -3,12 +3,12 @@ title: "Chess Humor"
 name: "anarchychess"
 description: "Chess humor, the uprising on lemmy.ml"
 type: community
-date: "2023-06-29 12:36:30"
+date: "2023-06-30 13:15:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarchychess"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:30"
+lastmod: "2023-06-08 22:34:16"
 published: "2023-06-08 22:32:24"
 subscribers: 53
 posts: 2

@@ -3,7 +3,7 @@ title: "JavaScript"
 name: "javascript"
 description: "A community to discuss all things JavaScript (and related areas, i.e. TypeScript)"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/javascript"

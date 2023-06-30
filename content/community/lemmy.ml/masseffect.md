@@ -3,7 +3,7 @@ title: "Mass Effect"
 name: "masseffect"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/masseffect"
@@ -15,7 +15,7 @@ posts: 12
 comments: 18
 weight: 12
 dau: 1
-wau: 4
+wau: 2
 mau: 14
 instances:
 - "lemmy_ml"

@@ -3,7 +3,7 @@ title: "Tech Support"
 name: "techsupport"
 description: "Community for sharing support articles for issues related to technology."
 type: community
-date: "2023-06-29 12:36:09"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techsupport"

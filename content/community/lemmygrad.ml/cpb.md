@@ -3,7 +3,7 @@ title: "Communist Party of Britain"
 name: "cpb"
 description: "Official lemmy community for the Communist Party of Britain.Official website: https://www.communistparty.org.uk/"
 type: community
-date: "2023-06-29 12:34:53"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/cpb"

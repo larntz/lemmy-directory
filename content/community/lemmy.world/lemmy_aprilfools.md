@@ -3,7 +3,7 @@ title: "Lemmy April Fools"
 name: "lemmy_aprilfools"
 description: "A place to **discuss and organize April Fools and Community Events on the Fediverse**.*r/Place was better? Time to change that.*Be kind and respect others opinions. Insults, NSFW or discrimination aren't allowed here."
 type: community
-date: "2023-06-29 12:38:02"
+date: "2023-06-30 13:17:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemmy_aprilfools"

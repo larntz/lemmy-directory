@@ -3,7 +3,7 @@ title: "NixOS"
 name: "nixos"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:38:04"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nixos"

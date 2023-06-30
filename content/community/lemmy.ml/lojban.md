@@ -3,7 +3,7 @@ title: "lojban"
 name: "lojban"
 description: "Lojban is an invented human language. it is syntactically unambiguous and reflects the principles of logic.        ##### Related communities[esperanto](https://lemmy.ml/c/esperanto)    [afrihili](https://lemmy.ml/community/17094)   [constructed languages](https://lemmy.ml/c/conlang)"
 type: community
-date: "2023-06-29 12:36:12"
+date: "2023-06-30 13:15:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lojban"

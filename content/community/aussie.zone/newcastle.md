@@ -3,7 +3,7 @@ title: "Newcastle"
 name: "newcastle"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/newcastle"
@@ -14,7 +14,7 @@ subscribers: 43
 posts: 14
 comments: 32
 weight: 14
-dau: 4
+dau: 1
 wau: 7
 mau: 14
 instances:

@@ -3,7 +3,7 @@ title: "Darktable"
 name: "darktable"
 description: "A Federated, Unofficial place for questions, discussions, tutorials, workflows and possible bug discussions about darktable."
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/darktable"

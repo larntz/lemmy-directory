@@ -3,7 +3,7 @@ title: "Indian Muslims"
 name: "indianmuslims"
 description: "##### A community of Muslims from India.^currently^ ^mirroring^ [^/r/indianmuslims^](https://www.reddit.com/r/indianmuslims/)^banner^ ^credit:^ [^@starline^](http://fb.com/starlineart)"
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indianmuslims"

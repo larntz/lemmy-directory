@@ -3,7 +3,7 @@ title: "Blunder Years: pictures from a regrettable past."
 name: "blunderyears"
 description: "Do you still cringingly remember Fuck drugs and government, the hardcore hit of your 15 year self? Have you just found your old myspace..."
 type: community
-date: "2023-06-29 12:34:49"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/blunderyears"
@@ -11,9 +11,9 @@ host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-25 23:11:44"
 subscribers: 4
-posts: 54
+posts: 63
 comments: 0
-weight: 54
+weight: 63
 dau: 0
 wau: 0
 mau: 0

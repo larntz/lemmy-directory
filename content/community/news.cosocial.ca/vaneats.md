@@ -3,7 +3,7 @@ title: "VanEats"
 name: "vaneats"
 description: "A community dedicated to eating in Vancouver, inspired by the legendary VanEats."
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://news.cosocial.ca/c/vaneats"
@@ -14,7 +14,7 @@ subscribers: 6
 posts: 8
 comments: 11
 weight: 8
-dau: 3
+dau: 2
 wau: 5
 mau: 5
 instances:

@@ -3,14 +3,14 @@ title: "Clash Heroes - by Supercell!"
 name: "clashheroes"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:29"
+date: "2023-06-30 13:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/clashheroes"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:29"
+lastmod: "2023-06-29 07:19:24"
 published: "2023-06-29 03:52:55"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

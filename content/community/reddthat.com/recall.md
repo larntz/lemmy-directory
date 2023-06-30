@@ -3,7 +3,7 @@ title: "Recall Alerts"
 name: "recall"
 description: "A place to post product recalls.Recalls can be national or local, even just one store down the street. Nor are they limited to one country, if a product is declared unsafe by the government or the maker, share it here.Title should reflect what's being recalled, body should say where and/or have a link to the announcement."
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/recall"

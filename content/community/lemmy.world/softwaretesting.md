@@ -3,14 +3,14 @@ title: "Software Testing"
 name: "softwaretesting"
 description: "This community is geared towards software testing, quality assurance, and software development engineering in test environments"
 type: community
-date: "2023-06-28 15:21:00"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/softwaretesting"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-21 13:22:50"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

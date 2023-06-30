@@ -3,7 +3,7 @@ title: "Nerf"
 name: "nerf"
 description: "This is one of several candidates to be an alternative or replacement for the subreddit /r/nerf, either permanently or temporarily during the protest. It's still under construction. Posts are closed for now. "
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/nerf"

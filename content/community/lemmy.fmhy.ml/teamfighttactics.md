@@ -3,14 +3,14 @@ title: "TFT: Teamfight Tactics"
 name: "teamfighttactics"
 description: "Teamfight Tactics (TFT) is an auto battler game developed and published by Riot Games. The game is a spinoff of League of Legends and is based on Dota Auto Chess.Rules- Follow the instance policy, found from the sidebar on the homepage (just like how you found this)"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/teamfighttactics"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-26 13:25:36"
 published: "2023-06-14 11:58:35"
-subscribers: 20
+subscribers: 21
 posts: 11
 comments: 2
 weight: 11

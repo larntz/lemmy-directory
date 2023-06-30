@@ -3,7 +3,7 @@ title: "Only The Punchline"
 name: "onlythepunchline"
 description: "Memes/jokes that contain only the punchline with no context or setup"
 type: community
-date: "2023-06-29 12:37:33"
+date: "2023-06-30 13:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onlythepunchline"
@@ -15,7 +15,7 @@ posts: 40
 comments: 6
 weight: 40
 dau: 1
-wau: 5
+wau: 3
 mau: 6
 instances:
 - "lemmy_world"

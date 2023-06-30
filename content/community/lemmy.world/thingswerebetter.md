@@ -3,7 +3,7 @@ title: "Things Were Better"
 name: "thingswerebetter"
 description: "A community for discussing things we think were better in bygone eras, or for yearning for times you never lived through. Golden Age thinking and nostalgia are openly encouraged here.Rules: 1. No politics. Keep it to yourself.2. No debating aspects of past culture through the lens of the present.3. No harassment ."
 type: community
-date: "2023-06-28 15:20:42"
+date: "2023-06-30 13:17:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thingswerebetter"

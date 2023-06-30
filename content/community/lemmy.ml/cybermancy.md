@@ -3,7 +3,7 @@ title: "E.Ψ.Ǝ: Divine Cybermancy"
 name: "cybermancy"
 description: "Hello fellow culters and fucking jians.Buy this with your brouzouf on [Steam](https://store.steampowered.com/app/91700/) and watch out for your legs.my legs are OK"
 type: community
-date: "2023-06-29 12:36:17"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cybermancy"

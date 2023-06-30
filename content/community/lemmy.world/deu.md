@@ -3,7 +3,7 @@ title: "Deutschsprachige Raum"
 name: "deu"
 description: "Deutschsprachige Raum auf Lemmy. DACH. Wie /r/de auf *redacted*"
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/deu"

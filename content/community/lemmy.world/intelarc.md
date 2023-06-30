@@ -3,14 +3,14 @@ title: "Intel Arc"
 name: "intelarc"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/intelarc"
 host: lemmy.world
 lastmod: "2023-06-26 13:35:12"
 published: "2023-06-26 13:32:15"
-subscribers: 11
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2

@@ -3,14 +3,14 @@ title: "White People Twitter"
 name: "whitepeopletwitter"
 description: "People tweeting stuff. We allow tweets from anyone."
 type: community
-date: "2023-06-29 12:35:18"
+date: "2023-06-30 13:14:19"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/whitepeopletwitter"
 host: sh.itjust.works
 lastmod: "2023-06-22 19:55:50"
 published: "2023-06-22 19:55:01"
-subscribers: 96
+subscribers: 102
 posts: 9
 comments: 23
 weight: 9

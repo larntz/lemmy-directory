@@ -3,7 +3,7 @@ title: "Kali Linux"
 name: "hacking"
 description: "Thought this would be beneficial for those looking to pursue CEH status and/or attain a OSCP or other ethical hacking cert. This community can be a knowledge hub for those setting up and getting started with Kali, using the tools, building out and customization, and virtualization of Kali. 🐉"
 type: community
-date: "2023-06-29 12:34:57"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://wirebase.org/c/hacking"

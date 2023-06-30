@@ -3,14 +3,14 @@ title: "Tcl"
 name: "tcl"
 description: "A community for discussions on the Tcl programming language"
 type: community
-date: "2023-06-28 14:06:13"
+date: "2023-06-30 13:17:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tcl"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:13"
+lastmod: "2023-06-10 13:18:13"
 published: "2023-06-10 12:15:48"
-subscribers: 5
+subscribers: 6
 posts: 3
 comments: 2
 weight: 3

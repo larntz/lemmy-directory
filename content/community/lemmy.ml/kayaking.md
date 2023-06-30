@@ -3,7 +3,7 @@ title: "Kayaking: all varieties welcome!"
 name: "kayaking"
 description: "A place to share your thoughts, questions, trip reports for all sorts of kayaking: Whitewater, Sea Kayaking, Rock Gardening, Fishing, Surfing, Squirt, etc"
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kayaking"

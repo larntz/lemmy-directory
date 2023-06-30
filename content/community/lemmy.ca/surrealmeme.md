@@ -3,7 +3,7 @@ title: "Surreal meme"
 name: "surrealmeme"
 description: "Only surreal meme"
 type: community
-date: "2023-06-29 12:34:45"
+date: "2023-06-30 13:13:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/surrealmeme"
@@ -15,8 +15,8 @@ posts: 12
 comments: 2
 weight: 12
 dau: 1
-wau: 2
-mau: 3
+wau: 1
+mau: 4
 instances:
 - "lemmy_ca"
 tags: 

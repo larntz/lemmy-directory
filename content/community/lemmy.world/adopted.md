@@ -3,7 +3,7 @@ title: "Adopted"
 name: "adopted"
 description: "Being adopted is a unique experience that can be difficult for others to understand and/or relate to. Whether you have known you were adopted your whole life or you just found out earlier today we would love to hear about your experience.Questions, comments, needed venting, and trying to find birth parents are all encouraged here."
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/adopted"

@@ -3,20 +3,20 @@ title: "Black Metal"
 name: "black_metal"
 description: "A community for sharing, discussing, and discovering Black Metal music.Rules:1. [The most important one](https://www.youtube.com/watch?v=iyc62g7YQM0)2. Be kind3. Share music4. Discuss music and artists5. [Sopuli](https://sopuli.xyz) rules also apply here.Languages: English and Finnish"
 type: community
-date: "2023-06-29 12:34:48"
+date: "2023-06-30 13:13:47"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/black_metal"
 host: sopuli.xyz
 lastmod: "2023-06-14 18:53:39"
 published: "2023-06-13 21:31:52"
-subscribers: 38
-posts: 14
+subscribers: 39
+posts: 15
 comments: 20
-weight: 14
-dau: 2
-wau: 4
-mau: 10
+weight: 15
+dau: 1
+wau: 5
+mau: 11
 instances:
 - "sopuli_xyz"
 tags: 

@@ -3,7 +3,7 @@ title: "Mechanic Advice"
 name: "mechanicadvice"
 description: "This community is for getting help with vehicle or other mechanical problems.Remember, there are no stupid questions, we want everyone to feel welcome.  If you don't want to answer a question that you think is silly, then just move on and keep it to yourself.Rules:1. Don't be a dickThat is all."
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mechanicadvice"

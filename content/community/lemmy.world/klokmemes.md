@@ -3,14 +3,14 @@ title: "Klok Memes"
 name: "klokmemes"
 description: "Een man van cultuur drinkt zijn Klok op kamertemperatuur"
 type: community
-date: "2023-06-28 15:20:59"
+date: "2023-06-30 13:17:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/klokmemes"
 host: lemmy.world
 lastmod: "2023-06-12 08:18:49"
 published: "2023-06-12 08:15:02"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 2
 weight: 1

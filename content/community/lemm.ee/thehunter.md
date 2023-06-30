@@ -3,7 +3,7 @@ title: "thehunter"
 name: "thehunter"
 description: "A spot for discussion about The Hunter: Call of the Wild and The Hunter Classic. A hunting game available on PC, Xbox, and PS."
 type: community
-date: "2023-06-29 12:35:00"
+date: "2023-06-30 13:14:01"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/thehunter"

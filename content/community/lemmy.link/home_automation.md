@@ -3,7 +3,7 @@ title: "Home Automation"
 name: "home_automation"
 description: "#### Feeds- [Home Assistant](https://www.home-assistant.io/atom.xml)- [Tech Crunch](https://techcrunch.com/tag/home-automation/feed/)"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.link/c/home_automation"

@@ -3,7 +3,7 @@ title: "Hampton Roads, Virginia"
 name: "hamptonroads"
 description: "A community for the Hampton Roads/Tidewater, Virginia area. Share and discuss all things 7 Cities related - Chesapeake, Hampton, Newport News, Norfolk, Portsmouth, Suffolk, and Virginia Beach and more including Williamsburg, Poquoson, James City County, and York County."
 type: community
-date: "2023-06-29 12:37:39"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hamptonroads"

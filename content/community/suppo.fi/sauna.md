@@ -3,7 +3,7 @@ title: "Sauna"
 name: "sauna"
 description: "Saunaposting  A place to discuss saunas."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:38"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/sauna"

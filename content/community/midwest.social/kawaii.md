@@ -3,7 +3,7 @@ title: "All things kawaii!"
 name: "kawaii"
 description: "A place for all things kawaii! From characters like Hello Kitty and Pusheen to art, cosplay, and aesthetics…this is home to it all! Rules:Please keep content SFW."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/kawaii"

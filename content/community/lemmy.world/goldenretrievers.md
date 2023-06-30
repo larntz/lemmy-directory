@@ -3,7 +3,7 @@ title: "Golden Retrievers"
 name: "goldenretrievers"
 description: "A place to appreciate our golden balls of sunshine and happiness."
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goldenretrievers"

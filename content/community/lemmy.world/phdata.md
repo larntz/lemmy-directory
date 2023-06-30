@@ -3,7 +3,7 @@ title: "PH Data"
 name: "phdata"
 description: "All about data in the PH - data engineering, data science, data analytics, databases, etc."
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phdata"

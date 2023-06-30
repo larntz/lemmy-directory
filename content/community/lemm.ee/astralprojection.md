@@ -3,12 +3,12 @@ title: "Astral Projection"
 name: "astralprojection"
 description: "A community for Astral Projection"
 type: community
-date: "2023-06-28 15:18:04"
+date: "2023-06-30 13:14:00"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/astralprojection"
 host: lemm.ee
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 04:41:16"
 subscribers: 11
 posts: 2

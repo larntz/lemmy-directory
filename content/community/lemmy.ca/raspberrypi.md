@@ -3,7 +3,7 @@ title: "Raspberry Pi"
 name: "raspberrypi"
 description: "Welcome to the Raspberry Pi community at Lemmy.ca!Please read the rules of the Lemmy.ca instance before contributing.Consider posting German-language content and discussion to  [!raspberrypi@feddit.de](https://feddit.de/c/raspberrypi).Thank you for your attention."
 type: community
-date: "2023-06-29 12:34:44"
+date: "2023-06-30 13:13:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/raspberrypi"

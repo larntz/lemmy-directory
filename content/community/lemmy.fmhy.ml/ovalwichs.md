@@ -3,7 +3,7 @@ title: "Ovalwichs"
 name: "ovalwichs"
 description: "Möge der Geist von r/Ovalwichs weiter leben.(Inoffizielle Fortsetzung von r/Ovalwichs)"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/ovalwichs"

@@ -3,7 +3,7 @@ title: "Food what’s good to cook"
 name: "recipes"
 description: "* If you've made a recipe you're linking to, feel free to call that out and tell us how it went* Eventually this can be split into vegan_recipes, cheap_recipes, date_night_recipes, bread_recipes or whatnot* Some people like links to a blog post with story or analysis. Some people like linking directly to ingredients and instructions. Neither is objectively superior. You can mention in the title if you've done the latter, but don't complain in the comments either way. "
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/recipes"

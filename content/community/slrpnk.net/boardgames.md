@@ -3,7 +3,7 @@ title: "Board Games"
 name: "boardgames"
 description: "Board games, board games, board games. Particularly any investigating themes regarding climate change/resiliency, which use less wasteful manufacturing, or are otherwise just groovy and thought provoking."
 type: community
-date: "2023-06-29 12:34:34"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://slrpnk.net/c/boardgames"

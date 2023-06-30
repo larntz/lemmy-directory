@@ -3,7 +3,7 @@ title: "Bend"
 name: "bend"
 description: "Welcoming all posts regarding the happenings in Bend, Oregon!"
 type: community
-date: "2023-06-29 12:37:59"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bend"

@@ -3,14 +3,14 @@ title: "Male Living Spaces: Fediverse Edition 🛋️"
 name: "malelivingspace"
 description: "**Male Living Spaces: Fediverse Edition***Where men can live*This community features fully-fledged DIY basement mancaves, unhinged temporary-moving-house setups, and everything in between!"
 type: community
-date: "2023-06-27 16:19:34"
+date: "2023-06-30 13:17:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/malelivingspace"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:34"
+lastmod: "2023-06-12 20:55:09"
 published: "2023-06-12 20:14:35"
-subscribers: 83
+subscribers: 95
 posts: 1
 comments: 3
 weight: 1

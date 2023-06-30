@@ -3,7 +3,7 @@ title: "JurassicPark"
 name: "jurassicpark"
 description: "Jurassic Park movie and discussion"
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jurassicpark"

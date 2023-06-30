@@ -3,7 +3,7 @@ title: "Vintage Watches"
 name: "vintagewatches"
 description: "A community dedicated to vintage watches. All brands are welcome. Feel free to post pictures of your vintage collections, questions about what to buy, advice on servicing old movements, or anything else related to vintage watches."
 type: community
-date: "2023-06-29 12:37:37"
+date: "2023-06-30 13:18:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vintagewatches"

@@ -3,7 +3,7 @@ title: "Gekinzuku News"
 name: "gekinzuku"
 description: "News about the best community everWe don't report the news, we scream it!"
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://gekinzuku.com/c/gekinzuku"

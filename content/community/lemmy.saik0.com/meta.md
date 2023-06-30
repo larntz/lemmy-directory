@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "This community is for public discussion about this lemmy instance itself. "
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.saik0.com/c/meta"

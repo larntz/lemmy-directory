@@ -3,7 +3,7 @@ title: "Home"
 name: "home"
 description: "Home is where the memes are"
 type: community
-date: "2023-06-29 12:34:57"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.alexland.ca/c/home"

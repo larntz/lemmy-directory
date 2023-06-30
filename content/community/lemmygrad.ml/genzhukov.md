@@ -3,7 +3,7 @@ title: "Socialism"
 name: "genzhukov"
 description: "Welcome to the community of the former subreddit GenZhukov. Our community is primarily focused on the history of AES states, as well as things related to them (culture, politics etc.), but also education on Marxism, memes, and other things regarding Marxism.Rules:1. Behave well. Back down if someone feels attacked. Do not break the aforementioned rule.2. No reactionarism (liberalism, fascism, conservatism etc.)3. Discrimination such as racism, misogyny, homophobia and transphobia are strictly forbidden.4. When debating, always state your sources. No investigation-no right to speak.5. Keep the community true to it's purpose."
 type: community
-date: "2023-06-29 12:34:51"
+date: "2023-06-30 13:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzhukov"

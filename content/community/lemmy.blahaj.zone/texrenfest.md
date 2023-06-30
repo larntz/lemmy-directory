@@ -3,7 +3,7 @@ title: "Texas Renaissance Festival"
 name: "texrenfest"
 description: "A landing place for all things related to the Texas Renaissance Festival in Todd Mission, TX (North West of Houston)."
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/texrenfest"

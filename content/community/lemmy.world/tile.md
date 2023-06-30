@@ -3,7 +3,7 @@ title: "Tile"
 name: "tile"
 description: "Like r/tile. Post you’re tile pics and questions. "
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-06-30 13:17:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tile"

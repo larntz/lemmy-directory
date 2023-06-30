@@ -3,14 +3,14 @@ title: "Fauxmoi"
 name: "fauxmoi"
 description: "The Lemmy gossip sub."
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/fauxmoi"
 host: sh.itjust.works
-lastmod: "2023-06-29 12:35:20"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 05:29:20"
-subscribers: 56
+subscribers: 57
 posts: 4
 comments: 0
 weight: 4

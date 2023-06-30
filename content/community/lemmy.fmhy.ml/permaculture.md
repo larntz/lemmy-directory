@@ -3,14 +3,14 @@ title: "Permaculture "
 name: "permaculture"
 description: "What permaculture projects are you working on?  Any cool designs you've seen recently?"
 type: community
-date: "2023-06-29 12:34:40"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/permaculture"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 21:05:25"
-subscribers: 22
+subscribers: 23
 posts: 4
 comments: 1
 weight: 4

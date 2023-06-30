@@ -3,7 +3,7 @@ title: "Moderator Recruit"
 name: "mod_recruit"
 description: "to recruit moderator for communities"
 type: community
-date: "2023-06-29 12:37:32"
+date: "2023-06-30 13:17:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mod_recruit"

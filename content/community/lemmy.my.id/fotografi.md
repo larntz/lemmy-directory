@@ -3,14 +3,14 @@ title: "Fotografi"
 name: "fotografi"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.my.id/c/fotografi"
 host: lemmy.my.id
-lastmod: "2023-06-29 12:34:39"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 05:22:14"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

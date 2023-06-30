@@ -3,7 +3,7 @@ title: "Lem Editor"
 name: "lem"
 description: "Lem is the editor/IDE well-tuned for Common Lisp"
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:42"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/lem"

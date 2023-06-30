@@ -3,7 +3,7 @@ title: "Clash of Clans"
 name: "clash_of_clans"
 description: "Unofficial Community for the Clash of Clans game on MobileMMOHub.com"
 type: community
-date: "2023-06-29 12:34:57"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://mobilemmohub.com/c/clash_of_clans"

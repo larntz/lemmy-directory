@@ -3,7 +3,7 @@ title: "Ice Nine Kills"
 name: "iceninekills"
 description: "This is a community for fans of Ice Nine Kills. All hail the Sematary!"
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/iceninekills"

@@ -3,14 +3,14 @@ title: "Hungary"
 name: "hungary"
 description: "A magyar dev.lemmy közösség."
 type: community
-date: "2023-06-29 12:36:10"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hungary"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-10-19 13:59:24"
-subscribers: 15
+subscribers: 16
 posts: 5
 comments: 0
 weight: 5

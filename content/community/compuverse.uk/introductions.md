@@ -3,7 +3,7 @@ title: "Introductions"
 name: "introductions"
 description: "A community for introducing yourself, and letting know people what makes *you* tick!A throwback to the forums of yesteryear."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:39"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/introductions"
@@ -14,7 +14,7 @@ subscribers: 6
 posts: 8
 comments: 18
 weight: 8
-dau: 2
+dau: 1
 wau: 2
 mau: 11
 instances:

@@ -3,7 +3,7 @@ title: "Web Design"
 name: "webdesign"
 description: "A community for sharing Web Design, be it your own or examples you find interesting."
 type: community
-date: "2023-06-29 12:34:52"
+date: "2023-06-30 13:13:54"
 draft: false
 nsfw: false
 actor_id: "https://gekinzuku.com/c/webdesign"

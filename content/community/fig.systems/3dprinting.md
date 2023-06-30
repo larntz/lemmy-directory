@@ -3,12 +3,12 @@ title: "3D Printing"
 name: "3dprinting"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:34:36"
+date: "2023-06-30 13:13:40"
 draft: false
 nsfw: false
 actor_id: "https://fig.systems/c/3dprinting"
 host: fig.systems
-lastmod: "2023-06-29 12:34:36"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 20:07:33"
 subscribers: 2
 posts: 1

@@ -3,14 +3,14 @@ title: "Public Domain"
 name: "publicdomain"
 description: "Share and discuss writing, music, film, and other files, documents, and stories that are in the public domain."
 type: community
-date: "2023-06-29 12:38:06"
+date: "2023-06-30 13:17:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/publicdomain"
 host: lemmy.world
 lastmod: "2023-06-08 15:47:27"
 published: "2023-06-08 15:45:52"
-subscribers: 131
+subscribers: 135
 posts: 2
 comments: 2
 weight: 2

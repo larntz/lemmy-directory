@@ -3,7 +3,7 @@ title: "Ford Ranger - All Generations"
 name: "ranger"
 description: "Lemmy Community for Ford Ranger enthusiasts "
 type: community
-date: "2023-06-29 12:37:56"
+date: "2023-06-30 13:17:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ranger"
@@ -15,7 +15,7 @@ posts: 5
 comments: 11
 weight: 5
 dau: 2
-wau: 3
+wau: 2
 mau: 5
 instances:
 - "lemmy_world"

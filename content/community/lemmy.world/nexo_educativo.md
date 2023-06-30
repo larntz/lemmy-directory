@@ -3,7 +3,7 @@ title: "Nexo Educativo"
 name: "nexo_educativo"
 description: "Una comunidad para informar e intercambiar ideas sobre la educación en México.Por favor evita:- Politizar la conversación- Ser ofensivo con los demás"
 type: community
-date: "2023-06-29 12:37:30"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nexo_educativo"

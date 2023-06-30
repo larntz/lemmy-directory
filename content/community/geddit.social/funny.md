@@ -3,7 +3,7 @@ title: "Funny"
 name: "funny"
 description: "## Funny!Just LOL.**Basic community rules:**- No spreading of fake news or misinformation.- Sexually explicit or violent media must be marked as sensitive when posting.- No racism, sexism, homophobia, transphobia, xenophobia, or casteism.- No incitement of violence or promotion of violent ideologies.- No harassment, dogpiling or doxxing of other users.- No illegal content."
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-06-30 13:14:04"
 draft: false
 nsfw: false
 actor_id: "https://geddit.social/c/funny"

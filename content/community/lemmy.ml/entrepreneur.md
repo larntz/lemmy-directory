@@ -3,7 +3,7 @@ title: "Entrepreneur"
 name: "entrepreneur"
 description: "A community of individuals who seek to solve problems, network professionally, collaborate on projects and make the world a better place. Be professional, humble, and open to new ideas."
 type: community
-date: "2023-06-29 12:36:16"
+date: "2023-06-30 13:15:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/entrepreneur"

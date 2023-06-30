@@ -3,7 +3,7 @@ title: "RiscV"
 name: "riscv"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:51"
+date: "2023-06-30 13:17:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/riscv"

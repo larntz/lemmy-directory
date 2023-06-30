@@ -3,7 +3,7 @@ title: "Diablo"
 name: "diablo"
 description: "Anything related to Blizzard's Diablo series."
 type: community
-date: "2023-06-29 12:34:47"
+date: "2023-06-30 13:13:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pwzle.com/c/diablo"

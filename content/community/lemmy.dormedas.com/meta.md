@@ -3,12 +3,12 @@ title: "Meta"
 name: "meta"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:35:14"
+date: "2023-06-30 13:14:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dormedas.com/c/meta"
 host: lemmy.dormedas.com
-lastmod: "2023-06-29 12:35:14"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-28 16:55:08"
 subscribers: 2
 posts: 1

@@ -3,14 +3,14 @@ title: "ENLIGHTENEDCENTRISM"
 name: "enlightenedcentrism"
 description: "The goal of this community is to point out the hypocrisy of the centrist types who often align with (sometimes extreme) right wing views."
 type: community
-date: "2023-06-29 12:37:54"
+date: "2023-06-30 13:18:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/enlightenedcentrism"
 host: lemmy.world
 lastmod: "2023-06-17 21:34:06"
 published: "2023-06-16 02:16:34"
-subscribers: 51
+subscribers: 54
 posts: 3
 comments: 9
 weight: 3

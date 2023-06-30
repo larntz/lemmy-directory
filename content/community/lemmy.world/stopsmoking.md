@@ -3,7 +3,7 @@ title: "Stop Smoking"
 name: "stopsmoking"
 description: "A place to document your journey to a smoke free life and for users to support each other."
 type: community
-date: "2023-06-29 12:38:05"
+date: "2023-06-30 13:18:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stopsmoking"

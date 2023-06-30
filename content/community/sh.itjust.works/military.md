@@ -3,14 +3,14 @@ title: "Military"
 name: "military"
 description: "A place to discuss military topics."
 type: community
-date: "2023-06-28 15:18:27"
+date: "2023-06-30 13:14:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/military"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 18:47:12"
-subscribers: 12
+subscribers: 13
 posts: 2
 comments: 1
 weight: 2

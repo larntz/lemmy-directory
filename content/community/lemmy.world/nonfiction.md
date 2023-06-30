@@ -3,7 +3,7 @@ title: "Nonfiction"
 name: "nonfiction"
 description: "A sublemmy for nonfiction text discussion - all kinds of nonfiction welcome no matter the topic or format. Basic rules of good-faith acting apply. With nonfiction things could get contentious but please be respectful during disagreements. "
 type: community
-date: "2023-06-29 12:38:01"
+date: "2023-06-30 13:17:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nonfiction"
@@ -15,7 +15,7 @@ posts: 5
 comments: 17
 weight: 5
 dau: 1
-wau: 7
+wau: 3
 mau: 8
 instances:
 - "lemmy_world"

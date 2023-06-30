@@ -3,7 +3,7 @@ title: "Magic: The Gathering Arena"
 name: "magic_tga"
 description: "Unofficial community for Magic: The Gathering Arena game on MobileMMOHub.com"
 type: community
-date: "2023-06-29 12:34:58"
+date: "2023-06-30 13:13:58"
 draft: false
 nsfw: false
 actor_id: "https://mobilemmohub.com/c/magic_tga"

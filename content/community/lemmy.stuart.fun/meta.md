@@ -3,14 +3,14 @@ title: "Stuart Meta"
 name: "meta"
 description: "Stuart instance Meta posts"
 type: community
-date: "2023-06-28 15:18:19"
+date: "2023-06-30 13:14:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.stuart.fun/c/meta"
 host: lemmy.stuart.fun
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 19:28:15"
-subscribers: 1
+subscribers: 2
 posts: 3
 comments: 1
 weight: 3

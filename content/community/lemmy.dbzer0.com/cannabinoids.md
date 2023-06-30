@@ -3,7 +3,7 @@ title: "cannabinoids"
 name: "cannabinoids"
 description: "A place to discuss cannabinoids."
 type: community
-date: "2023-06-29 12:35:17"
+date: "2023-06-30 13:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/cannabinoids"

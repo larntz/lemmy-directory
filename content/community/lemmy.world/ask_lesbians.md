@@ -3,7 +3,7 @@ title: "Ask Lesbians"
 name: "ask_lesbians"
 description: "Like Ask Women, or Ask Men, but for asking Lesbians.Also please check out our sister communities:- [!saffic@lemmy.world](/c/saffic@lemmy.world) - [!actuallesbians@lemmy.world](/c/actuallesbians@lemmy.world) - [!wlw_memes@lemmy.world](/c/wlw_memes@lemmy.world) "
 type: community
-date: "2023-06-29 12:38:05"
+date: "2023-06-30 13:17:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ask_lesbians"

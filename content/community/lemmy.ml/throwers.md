@@ -3,7 +3,7 @@ title: "Yoyos"
 name: "throwers"
 description: "Yoyo discussionAny yoyo or other skill toy related content is welcome, especially old obscure youtube videos from talented players. "
 type: community
-date: "2023-06-29 12:36:10"
+date: "2023-06-30 13:15:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/throwers"

@@ -3,7 +3,7 @@ title: "Elder Dragon Highlander"
 name: "edh"
 description: "placeholder community for /r/EDH if reddit ever goes tits up"
 type: community
-date: "2023-06-29 12:36:21"
+date: "2023-06-30 13:15:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/edh"

@@ -3,7 +3,7 @@ title: "xbdv"
 name: "xbdv"
 description: "Discuss topics surrounding this server instance"
 type: community
-date: "2023-06-29 12:34:57"
+date: "2023-06-30 13:13:57"
 draft: false
 nsfw: false
 actor_id: "https://xbdv.com/c/xbdv"
@@ -11,12 +11,12 @@ host: xbdv.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-27 00:34:41"
 subscribers: 5
-posts: 2
-comments: 1
-weight: 2
-dau: 1
-wau: 3
-mau: 3
+posts: 3
+comments: 2
+weight: 3
+dau: 2
+wau: 4
+mau: 4
 instances:
 - "xbdv_com"
 tags: 

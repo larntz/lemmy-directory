@@ -3,7 +3,7 @@ title: "La francofourrure"
 name: "furry_france"
 description: "Tout ceux qui sont fourrus dans la francophonie.Régles a venir selon les besoins"
 type: community
-date: "2023-06-29 12:34:33"
+date: "2023-06-30 13:13:37"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/furry_france"

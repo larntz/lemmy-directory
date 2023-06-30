@@ -3,7 +3,7 @@ title: "NextDNS"
 name: "nextdns"
 description: "Discussion about NextDNS service with ad and tracking protection.- [Homepage](https://nextdns.io)- [Help](https://help.nextdns.io) "
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nextdns"

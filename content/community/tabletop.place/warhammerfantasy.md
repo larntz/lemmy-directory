@@ -3,7 +3,7 @@ title: "Warhammer Fantasy Battles"
 name: "warhammerfantasy"
 description: "A community dedicated to the mass-battle wargame, Warhammer Fantasy Battle, by Games Workshop, as well as its upcoming spiritual successor, Warhammer: The Old World, and various fan supplements."
 type: community
-date: "2023-06-29 12:34:55"
+date: "2023-06-30 13:13:56"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/warhammerfantasy"

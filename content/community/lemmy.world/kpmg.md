@@ -3,7 +3,7 @@ title: "KPMG"
 name: "kpmg"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:37"
+date: "2023-06-30 13:17:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kpmg"

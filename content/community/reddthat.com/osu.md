@@ -3,7 +3,7 @@ title: "osu!"
 name: "osu"
 description: "osu! - Rhythm is just a *click* away!"
 type: community
-date: "2023-06-29 12:34:39"
+date: "2023-06-30 13:13:44"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/osu"

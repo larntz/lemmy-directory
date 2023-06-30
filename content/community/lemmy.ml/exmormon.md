@@ -3,14 +3,14 @@ title: "ExMormon"
 name: "exmormon"
 description: "Place for ex-mormons, or other exitors, to support each other."
 type: community
-date: "2023-06-29 12:36:18"
+date: "2023-06-30 13:15:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/exmormon"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 21:48:49"
-subscribers: 28
+subscribers: 30
 posts: 4
 comments: 8
 weight: 4

@@ -3,7 +3,7 @@ title: "Chicago Bears"
 name: "chicago_bears"
 description: "Chicago Bears"
 type: community
-date: "2023-06-29 12:37:31"
+date: "2023-06-30 13:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chicago_bears"

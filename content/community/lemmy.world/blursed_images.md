@@ -3,14 +3,14 @@ title: "Blursed Images"
 name: "blursed_images"
 description: "For that images that hit just the sweetspot"
 type: community
-date: "2023-06-29 12:37:57"
+date: "2023-06-30 13:17:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blursed_images"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-13 11:09:31"
-subscribers: 54
+subscribers: 56
 posts: 2
 comments: 0
 weight: 2

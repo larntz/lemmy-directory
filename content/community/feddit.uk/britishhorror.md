@@ -3,7 +3,7 @@ title: "British Horror"
 name: "britishhorror"
 description: "From Horace Walpole and Mary Shelley to Clive Barker and Garth Marenghi. From *The Haunted Curiosity Shop* to *Shaun of the Dead*. British horror has revolutionised and revitalised the genre. This is the community to celebrate this. Local horror for local people, no-tails also welcome.For general horror see:* [horror@lemmy.ml](/c/horror@lemmy.ml) Rules:* Don't be a dick."
 type: community
-date: "2023-06-29 12:34:46"
+date: "2023-06-30 13:13:45"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/britishhorror"
@@ -16,7 +16,7 @@ comments: 0
 weight: 4
 dau: 0
 wau: 0
-mau: 0
+mau: 1
 instances:
 - "feddit_uk"
 tags: 

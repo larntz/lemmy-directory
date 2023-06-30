@@ -3,7 +3,7 @@ title: "Witches vs Patriarchy"
 name: "witchesvspatriarchy"
 description: "r/WitchesVsPatriarchy is a nonbinary-centered sub with a witchy twist, aimed at healing, supporting, and uplifting one another through humor and magic.The goal is to at once embrace, and poke fun at, the mystical aspects of androgyny that have been previously demonized and/or devalued by the Patriarchy.This subreddit is a Safe Space for Trans, Nonbinary, Gay, A/Bisexual, Intersex, and GNC people and BIPOC. We are Siblings, not Cisters. If you do not consider yourself an ally, then this subreddit is not for you."
 type: community
-date: "2023-06-29 12:36:13"
+date: "2023-06-30 13:15:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/witchesvspatriarchy"

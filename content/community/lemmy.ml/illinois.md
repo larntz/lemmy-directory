@@ -3,7 +3,7 @@ title: "Illinois"
 name: "illinois"
 description: "A community for people in Illinois or people who are interested in/have questions about or want to discuss something in Illinois. Basically, everyone is welcome, but posts should involve Illinois in some way."
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-06-30 13:15:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/illinois"

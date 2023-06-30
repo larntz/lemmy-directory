@@ -3,7 +3,7 @@ title: "OkBuddyBocchi"
 name: "okbuddybocchi"
 description: "stupid non-serious bocchi the rock shitposting  # Rules- Take fanart and discussion about the anime/manga over to [!bocchitherock@sopuli.xyz](https://sopuli.xyz/c/bocchitherock) instead  - Don't break the instance rules"
 type: community
-date: "2023-06-29 12:34:37"
+date: "2023-06-30 13:13:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.antemeridiem.xyz/c/okbuddybocchi"

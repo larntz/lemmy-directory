@@ -3,7 +3,7 @@ title: "YUROP"
 name: "yurop"
 description: "YUROP is a shrine to the awesomeness of the continent, islands, regions, member and non-member states of Her Greatest Europa, the progressive Union of Peace, home of the freest health care, the finest food and the diversest and liberalest of them all."
 type: community
-date: "2023-06-29 12:35:17"
+date: "2023-06-30 13:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/yurop"
