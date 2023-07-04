@@ -1,0 +1,25 @@
+---
+title: "Mealtime Videos" 
+name: "mealtimevideos"
+description: "Not too short, not too long. Videos to last through your meal.  Rules:- Submissions must link directly to a video between 5 minutes and 1 hour long.- Use a duration in your title such as [9:27].- Be mindful that some people will be watching this while eating. No 'gross' content, no NSFL, racism, bigotry, etc.- Use a title that is descriptive of the actual video without editorializing, telling how the video made you feel, or your past experiences. Videos must stand on their own merit without the use of an editorialized title."
+type: community
+date: "2023-07-03 20:22:42"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/mealtimevideos"
+host: lemmy.world
+lastmod: "2023-06-26 19:47:07"
+published: "2023-06-22 20:37:08"
+subscribers: 149
+posts: 23
+comments: 8
+weight: 23
+dau: 1
+wau: 8
+mau: 18
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---

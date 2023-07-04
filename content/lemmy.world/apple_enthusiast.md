@@ -1,0 +1,25 @@
+---
+title: "Apple" 
+name: "apple_enthusiast"
+description: "##### Welcome            to the largest Apple community on Lemmy. This is the place where we talk about everything Apple, from iOS to the exciting upcoming Apple Vision Pro. Feel free to join the discussion!##### Rules:  - No NSFW Content  - No Hate Speech or Personal Attacks  - No Ads / Spamming   [Lemmy Code of Conduct](https://join-lemmy.org/docs/code_of_conduct.html)##### Communities of Interest:  Apple Hardware      [Apple TV](https://lemmy.world/c/appletv)      [Apple Watch  ](https://lemmy.world/c/applewatch)      [iPad ](https://lemmy.world/c/ipad)       [iPhone ](https://lemmy.world/c/iphone_community)      [Mac](https://lemmy.world/c/mac_community)     [Vintage Apple](https://lemmy.world/c/vintage_apple)Apple Software        [iOS](https://lemmy.world/c/ios_community)      [iPadOS](https://lemmy.world/c/ipados)     [macOS](https://lemmy.world/c/macos)     [tvOS](https://lemmy.world/c/tvos)   [watchOS](https://lemmy.world/c/watchos)     [Shortcuts](https://lemmy.world/c/shortcuts)  [Xcode](https://lemmy.world/c/xcode)            "
+type: community
+date: "2023-07-03 20:22:53"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.world/c/apple_enthusiast"
+host: lemmy.world
+lastmod: "2023-06-30 03:08:08"
+published: "2023-06-09 19:17:21"
+subscribers: 9088
+posts: 121
+comments: 2243
+weight: 121
+dau: 161
+wau: 762
+mau: 1234
+instances:
+- "lemmy_world"
+tags: 
+- "lemmy_world"
+
+---

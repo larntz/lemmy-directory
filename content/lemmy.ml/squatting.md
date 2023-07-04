@@ -1,0 +1,25 @@
+---
+title: "Squatting" 
+name: "squatting"
+description: "[Wikipedia article about squatting](https://en.wikipedia.org/wiki/Squatting)"
+type: community
+date: "2023-07-03 20:17:13"
+draft: false
+nsfw: false
+actor_id: "https://lemmy.ml/c/squatting"
+host: lemmy.ml
+lastmod: "2023-06-24 12:27:10"
+published: "2023-06-16 17:55:55"
+subscribers: 2
+posts: 0
+comments: 0
+weight: 0
+dau: 0
+wau: 0
+mau: 0
+instances:
+- "lemmy_ml"
+tags: 
+- "lemmy_ml"
+
+---
