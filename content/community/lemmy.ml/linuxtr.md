@@ -3,7 +3,7 @@ title: "LinuxTR"
 name: "linuxtr"
 description: "Türkler ve Türkçe konuşucuları için oluşturulmuş **LINUX** topluluğu.**LINUX**,  **GNU/Linux**, **Özgür Yazılım** hakkında her türlü konuyu konuşabileceğiniz, tartışabileceğiniz, yardımlaşabileceğiniz topluluk.*Linux for Human Beings*"
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/linuxtr"

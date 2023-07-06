@@ -3,14 +3,14 @@ title: "Quads"
 name: "quads"
 description: "A community to talk about FPV drones and other multirotors."
 type: community
-date: "2023-06-30 13:13:47"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/quads"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-22 21:11:07"
 published: "2023-06-22 21:10:21"
-subscribers: 2
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

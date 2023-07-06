@@ -3,14 +3,14 @@ title: "Memes relating to Libertarianism"
 name: "libertarianmeme"
 description: "Like /c/libertarian, but for memes"
 type: community
-date: "2023-06-30 13:15:20"
+date: "2023-07-03 20:17:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/libertarianmeme"
 host: lemmy.ml
 lastmod: "2020-06-05 21:50:29"
 published: "2020-06-05 21:50:04"
-subscribers: 26
+subscribers: 28
 posts: 2
 comments: 2
 weight: 2

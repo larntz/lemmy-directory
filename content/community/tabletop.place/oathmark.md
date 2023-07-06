@@ -3,7 +3,7 @@ title: "Oathmark"
 name: "oathmark"
 description: "A community dedicated to Oathmark, a fantasy mass-battle wargame by Joseph A. McCullough."
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://tabletop.place/c/oathmark"

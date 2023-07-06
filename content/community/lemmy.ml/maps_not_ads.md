@@ -3,7 +3,7 @@ title: "Maps Not Ads"
 name: "maps_not_ads"
 description: "#### A place for people who love making/sharing maps with a focus on *non-commercial* maps of all kinds. From historical-based (real or alternative) to Fantasy to Sci-Fi maps. No commercial posts will be tolerated. There are numerous other communities that allow commercial posts. Commercial includes links to commercial sites* or maps with commercial logos*. No Commission offers or requests. No advertising of *any kind!* * includes: Patreon, Ko-Fi, DMsGuild or ANY other paid site/service"
 type: community
-date: "2023-06-30 13:15:28"
+date: "2023-07-03 20:17:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/maps_not_ads"

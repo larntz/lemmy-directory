@@ -3,7 +3,7 @@ title: "Electric Vehicle (EV)"
 name: "electricvehicle"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-07-01 17:10:22"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/electricvehicle"

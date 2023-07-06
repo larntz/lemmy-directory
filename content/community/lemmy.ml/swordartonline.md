@@ -3,14 +3,14 @@ title: "SwordArtOnline"
 name: "swordartonline"
 description: "Discussion about Sword Art Online"
 type: community
-date: "2023-06-30 13:15:20"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/swordartonline"
 host: lemmy.ml
 lastmod: "2022-05-04 22:15:43"
 published: "2022-02-11 03:15:01"
-subscribers: 16
+subscribers: 22
 posts: 2
 comments: 2
 weight: 2

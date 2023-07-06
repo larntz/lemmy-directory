@@ -1,21 +1,21 @@
 ---
-title: "TᕼE ᑭIᖇᗩTE EᗰᑭOᖇIO" 
+title: "The Pirate Emporio" 
 name: "the_pirate_emporio"
 description: "A queer anarchist space to discuss everything about One Piece"
 type: community
-date: "2023-06-30 13:14:17"
+date: "2023-07-04 20:52:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/the_pirate_emporio"
 host: lemmy.dbzer0.com
-lastmod: "2023-06-27 15:06:17"
+lastmod: "2023-07-02 22:18:20"
 published: "2023-06-27 14:28:27"
-subscribers: 10
-posts: 2
+subscribers: 16
+posts: 5
 comments: 1
-weight: 2
+weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_dbzer0_com"

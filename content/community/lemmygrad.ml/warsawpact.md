@@ -3,14 +3,14 @@ title: "Warsaw Pact"
 name: "warsawpact"
 description: "A lemmygrad community dedicated to debunking myths about the Warsaw Pact"
 type: community
-date: "2023-06-30 13:13:54"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/warsawpact"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-10-04 23:20:48"
-subscribers: 21
+subscribers: 25
 posts: 3
 comments: 4
 weight: 3

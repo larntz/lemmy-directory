@@ -1,14 +1,14 @@
 ---
 title: "Freenet" 
 name: "freenet"
-description: "https://freenet.org/"
+description: "https://www.hyphanet.org/  https://freenet.org/"
 type: community
-date: "2023-06-30 13:15:14"
+date: "2023-07-03 20:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/freenet"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-30 14:22:34"
 published: "2023-06-16 17:37:01"
 subscribers: 4
 posts: 0

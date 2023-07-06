@@ -3,20 +3,20 @@ title: "Trumpet"
 name: "trumpet"
 description: "This is a community to discuss how to play, techniques, knowledge on trumpet, etc."
 type: community
-date: "2023-06-30 13:17:40"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trumpet"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 05:28:13"
-subscribers: 10
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 20
+posts: 2
+comments: 3
+weight: 2
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

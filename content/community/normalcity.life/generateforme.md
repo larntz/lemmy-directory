@@ -1,16 +1,16 @@
 ---
 title: "Generate for Me" 
 name: "generateforme"
-description: "A community dedicated to fulfilling requests for artwork created with generative tools.### Rules:This community follows the [instance-wide rules](https://normalcity.life/post/972)."
+description: "A community dedicated to fulfilling requests for artwork created with generative tools.### Rules:This community follows [EP's Unified Community Rules](https://normalcity.life/post/48697)."
 type: community
-date: "2023-06-30 13:13:53"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://normalcity.life/c/generateforme"
 host: normalcity.life
-lastmod: "2023-06-18 03:47:08"
+lastmod: "2023-07-03 02:35:34"
 published: "2023-06-18 03:46:29"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

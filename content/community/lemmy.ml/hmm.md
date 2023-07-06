@@ -3,14 +3,14 @@ title: "Hmm"
 name: "hmm"
 description: "A place for things that are perplexing or confounding in nature (clone of r/hmm)"
 type: community
-date: "2023-06-30 13:15:31"
+date: "2023-07-03 20:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hmm"
 host: lemmy.ml
 lastmod: "2023-06-04 15:58:43"
 published: "2023-06-04 15:28:45"
-subscribers: 29
+subscribers: 38
 posts: 4
 comments: 0
 weight: 4

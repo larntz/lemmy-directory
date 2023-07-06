@@ -3,7 +3,7 @@ title: "Tauri"
 name: "tauri"
 description: "# InfoCommunity to discuss the Tauri framework toolkit.- Build an optimized, secure, and frontend-independent application for multi-platform deployment.# Links- https://tauri.app/- https://github.com/tauri-apps/tauri"
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-06-30 20:59:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.re4mstr.com/c/tauri"

@@ -3,20 +3,20 @@ title: "Snacks"
 name: "snacks"
 description: "Insider*innen empfehlen die besten Snacks."
 type: community
-date: "2023-06-30 13:13:52"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/snacks"
 host: feddit.de
 lastmod: "2023-06-16 08:48:00"
 published: "2023-06-16 07:51:19"
-subscribers: 34
-posts: 4
-comments: 10
-weight: 4
-dau: 4
-wau: 1
-mau: 7
+subscribers: 41
+posts: 5
+comments: 14
+weight: 5
+dau: 3
+wau: 3
+mau: 10
 instances:
 - "feddit_de"
 tags: 

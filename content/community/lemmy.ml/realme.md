@@ -3,14 +3,14 @@ title: "Realme"
 name: "realme"
 description: "For realme peeps!"
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/realme"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-05-14 13:20:17"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

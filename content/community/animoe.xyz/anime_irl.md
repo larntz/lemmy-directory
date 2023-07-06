@@ -3,7 +3,7 @@ title: "AnimeIRL"
 name: "anime_irl"
 description: "[Relatable anime moments]()**Rules:**- Follow the site rules.- Must be relatable.- Title must be: anime_irl doesn't matter if it's uppercase or lowercase."
 type: community
-date: "2023-06-30 13:13:59"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/anime_irl"

@@ -1,22 +1,22 @@
 ---
 title: "Poolside" 
 name: "poolside"
-description: "### Instance NotesPlease review our community rules and introduce yourself!- [Welcome!](https://lemmy.intai.tech/post/1511)- [Introduce yourself](https://lemmy.intai.tech/post/2710)- [Rules](https://lemmy.intai.tech/post/76)### Useful links- [AI Tools and Bot List](https://lemmy.intai.tech/post/2484)- [Machine Learning Communities](https://lemmy.intai.tech/post/2182)- [Fediverse Observer](https://lemmy.fediverse.observer/)- [Lemmy Community Browser](https://browse.feddit.de/)"
+description: "We follow Lemmy’s [code of conduct](https://lemmy.intai.tech/post/76).### Communities- [News and Events](https://lemmy.intai.tech/c/nev)- [Ethics, Law, Philsophy](https://lemmy.intai.tech/c/elp)- [ML Research](https://lemmy.intai.tech/c/mltheory)- [NLP/Prompting](https://lemmy.intai.tech/c/nlprog)- [Projects #buildinpublic](https://lemmy.intai.tech/c/promo)- [Jailbreaks and Security](https://lemmy.intai.tech/c/appsec)- [OffTopic](https://lemmy.intai.tech/c/poolside)### Useful links- [AI Tools and Bot List](https://lemmy.intai.tech/post/2484)- [Content Sources](https://lemmy.intai.tech/post/29512)- [Machine Learning Communities](https://lemmy.intai.tech/post/2182)- [Fediverse Resources](https://lemmy.intai.tech/post/30829)"
 type: community
-date: "2023-06-30 13:13:42"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/poolside"
 host: lemmy.intai.tech
-lastmod: "2023-06-23 07:11:16"
+lastmod: "2023-07-03 00:53:00"
 published: "2023-06-11 16:10:46"
-subscribers: 6
-posts: 22
-comments: 4
-weight: 22
-dau: 1
-wau: 2
-mau: 2
+subscribers: 12
+posts: 26
+comments: 5
+weight: 26
+dau: 2
+wau: 3
+mau: 4
 instances:
 - "lemmy_intai_tech"
 tags: 

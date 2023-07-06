@@ -3,12 +3,12 @@ title: "Latest News"
 name: "latestnews"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:59"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/latestnews"
 host: lemmy.world
-lastmod: "2023-06-28 15:20:59"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 12:41:46"
 subscribers: 15
 posts: 0

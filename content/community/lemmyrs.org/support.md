@@ -3,14 +3,14 @@ title: "Rust: Support"
 name: "support"
 description: "# Rules- Ask any question relevant to the Rust language and its ecosystem. No such questions shall ever be considered dumb!- Ask for contributions for your crate"
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-06 18:29:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmyrs.org/c/support"
 host: lemmyrs.org
 lastmod: "2023-06-15 04:32:59"
 published: "2023-06-07 18:13:20"
-subscribers: 63
+subscribers: 81
 posts: 1
 comments: 3
 weight: 1

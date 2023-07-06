@@ -3,20 +3,20 @@ title: "Mastodon"
 name: "mastodon"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:38:06"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mastodon"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-03 17:59:00"
-subscribers: 541
-posts: 6
-comments: 9
-weight: 6
-dau: 2
-wau: 5
-mau: 16
+subscribers: 759
+posts: 13
+comments: 32
+weight: 13
+dau: 4
+wau: 22
+mau: 36
 instances:
 - "lemmy_world"
 tags: 

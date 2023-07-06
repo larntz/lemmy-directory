@@ -3,14 +3,14 @@ title: "Girl Talk"
 name: "girltalk"
 description: "A community for women.Icon by @magion02"
 type: community
-date: "2023-06-28 15:21:03"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/girltalk"
 host: lemmy.world
 lastmod: "2023-06-21 04:58:42"
 published: "2023-06-21 04:37:31"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

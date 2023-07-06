@@ -3,14 +3,14 @@ title: "Jak będzie w Lemmym?"
 name: "jakbedziewlemmym"
 description: "Kolejna wariacja na temat Jak będzie w Akapie? tylko tym razem w instancji Lemmy"
 type: community
-date: "2023-06-30 13:17:47"
+date: "2023-07-03 20:22:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jakbedziewlemmym"
 host: lemmy.world
 lastmod: "2023-06-15 09:46:50"
 published: "2023-06-12 10:44:43"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

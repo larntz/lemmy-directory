@@ -3,20 +3,20 @@ title: "Costco"
 name: "costco"
 description: "For fans of Costco"
 type: community
-date: "2023-06-29 12:38:03"
+date: "2023-07-06 18:34:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/costco"
 host: lemmy.world
 lastmod: "2023-06-20 19:16:27"
 published: "2023-06-12 18:13:38"
-subscribers: 1226
-posts: 12
-comments: 96
-weight: 12
-dau: 1
-wau: 9
-mau: 78
+subscribers: 1824
+posts: 17
+comments: 153
+weight: 17
+dau: 11
+wau: 49
+mau: 119
 instances:
 - "lemmy_world"
 tags: 

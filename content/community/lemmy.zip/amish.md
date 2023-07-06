@@ -3,7 +3,7 @@ title: "Amish"
 name: "amish"
 description: "Welcome to Amish"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/amish"

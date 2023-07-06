@@ -3,14 +3,14 @@ title: "pastels"
 name: "pastels"
 description: "A community for art using pastels."
 type: community
-date: "2023-06-30 13:17:12"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pastels"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:12"
+lastmod: "2023-06-30 04:47:15"
 published: "2023-06-29 20:45:13"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

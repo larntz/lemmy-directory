@@ -3,14 +3,14 @@ title: "skate"
 name: "skate"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:52"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skate"
 host: lemmy.world
-lastmod: "2023-06-14 11:19:35"
+lastmod: "2023-07-02 21:55:51"
 published: "2023-06-14 03:14:44"
-subscribers: 4
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

@@ -3,20 +3,20 @@ title: "Regex"
 name: "regex"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/regex"
 host: programming.dev
-lastmod: "2023-06-22 17:50:41"
+lastmod: "2023-07-04 06:53:43"
 published: "2023-06-16 08:42:22"
-subscribers: 49
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 83
+posts: 2
+comments: 7
+weight: 2
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "programming_dev"
 tags: 

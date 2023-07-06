@@ -3,14 +3,14 @@ title: "Unashamedly Utopian"
 name: "communalism"
 description: "The philosophy of social ecology."
 type: community
-date: "2023-06-30 13:15:13"
+date: "2023-07-03 20:17:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/communalism"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-02-18 01:16:21"
-subscribers: 59
+subscribers: 61
 posts: 1
 comments: 1
 weight: 1

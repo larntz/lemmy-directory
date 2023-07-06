@@ -3,14 +3,14 @@ title: "SIkh"
 name: "sikh"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sikh"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-09-07 07:57:29"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

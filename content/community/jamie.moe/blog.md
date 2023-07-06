@@ -3,7 +3,7 @@ title: "Jamie Blog"
 name: "blog"
 description: "This is a community where I blog about things I'm doing. These will usually be relevant to the Fediverse, or generally just technical in nature."
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://jamie.moe/c/blog"

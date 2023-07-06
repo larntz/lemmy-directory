@@ -3,14 +3,14 @@ title: "Sheabo Community"
 name: "sheabo"
 description: "Local instance for our place. "
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-06 18:29:51"
 draft: false
 nsfw: false
 actor_id: "https://wilbo.tech/c/sheabo"
 host: wilbo.tech
-lastmod: "2023-06-30 13:14:13"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 22:08:09"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 1
 weight: 1

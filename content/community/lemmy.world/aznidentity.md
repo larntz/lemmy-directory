@@ -3,14 +3,14 @@ title: "aznidentity"
 name: "aznidentity"
 description: "**A New Era for Asian Americans and the Asian Diaspora around the world.**The most active Asian-American community on the web. We serve the Asian diaspora living anywhere in the West. We are Pan-Asian (East, Southeast, South) and against all forms of anti-Asian racism. We help Asians make sense out of their own life experiences, find a supportive like-minded community, and live the best possible life. We emphasize our Asian identity, not to be used as pawns by any political ideology."
 type: community
-date: "2023-06-30 13:17:38"
+date: "2023-07-01 17:14:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aznidentity"
 host: lemmy.world
 lastmod: "2023-06-12 23:30:27"
 published: "2023-06-12 23:28:32"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

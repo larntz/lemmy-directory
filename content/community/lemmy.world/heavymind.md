@@ -1,22 +1,22 @@
 ---
 title: "Heavy Mind" 
 name: "heavymind"
-description: "Description not available."
+description: "Dark, heavy artwork. Try to credit whose work you're sharing. "
 type: community
-date: "2023-06-28 15:21:13"
+date: "2023-07-03 20:22:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/heavymind"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-07-02 10:16:54"
 published: "2023-06-14 21:55:48"
-subscribers: 37
-posts: 22
-comments: 14
-weight: 22
+subscribers: 62
+posts: 28
+comments: 17
+weight: 28
 dau: 1
-wau: 1
-mau: 4
+wau: 3
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

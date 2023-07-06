@@ -3,14 +3,14 @@ title: "opensourcedemocracy"
 name: "opensourcedemocracy"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:12"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/opensourcedemocracy"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:12"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 14:18:24"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

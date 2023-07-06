@@ -3,7 +3,7 @@ title: "sprouting"
 name: "sprouting"
 description: "For people into sprouts"
 type: community
-date: "2023-06-30 13:17:40"
+date: "2023-06-30 21:02:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sprouting"

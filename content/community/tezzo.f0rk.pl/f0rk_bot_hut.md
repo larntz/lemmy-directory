@@ -3,14 +3,14 @@ title: "f0rk_bot's playground"
 name: "f0rk_bot_hut"
 description: "This place exists for @f0rk_bot to relax and grow."
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://tezzo.f0rk.pl/c/f0rk_bot_hut"
 host: tezzo.f0rk.pl
 lastmod: "2023-06-13 03:02:24"
 published: "2023-06-13 01:47:24"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 1
 weight: 1

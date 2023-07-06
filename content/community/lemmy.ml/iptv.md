@@ -1,22 +1,22 @@
 ---
 title: "IPTV" 
 name: "iptv"
-description: "To discuss apps and (mostly) legal ways of accessing IPTV streams from anywhere. No promotion of paid services."
+description: "**Universal community link**  [/c/iptv@lemmy.ml](/c/iptv@lemmy.ml)To discuss apps and (mostly) legal ways of accessing IPTV streams from anywhere. No promotion of paid services."
 type: community
-date: "2023-06-30 13:15:15"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/iptv"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-01 17:19:21"
 published: "2022-02-09 20:04:35"
-subscribers: 66
+subscribers: 71
 posts: 4
 comments: 5
 weight: 4
-dau: 2
-wau: 2
-mau: 2
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 

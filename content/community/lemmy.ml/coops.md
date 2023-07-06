@@ -3,7 +3,7 @@ title: "coops"
 name: "coops"
 description: "A lemmy community for coops: consumer, housing, worker, platform etc. Not officially affiliated with the IWW, it's just a nice logo with historical relevance"
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coops"

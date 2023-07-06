@@ -3,7 +3,7 @@ title: "ooga booga"
 name: "jucheprimalism"
 description: "we are a joke subreddit"
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/jucheprimalism"

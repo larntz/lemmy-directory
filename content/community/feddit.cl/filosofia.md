@@ -1,19 +1,19 @@
 ---
 title: "Filosofía" 
 name: "filosofia"
-description: "No me importa quién dijo qué, en alguna otra época, a propósito de algún asunto que no conozco o que no me interesa. Esto no se trata de recorrer la historia de la filosofía desde la antigüedad hasta nuestros dias, como si se tratara de un paseo de domingo.Se trata de ti, aquí y ahora, **pensando con claridad y pertinencia** -por tu propia cuenta-, en tus propias palabras, sobre el extraño mundo que te rodea.Por qué? Porque cuando no piensas por ti mismo, alguien esta pensando en tu lugar. Y porque **tienes el derecho de expresar libremente tus ideas** donde y cuando quieras.https://www.bcn.cl/portal/leyfacil/recurso/libertad-de-expresion----"
+description: "![](https://feddit.cl/pictrs/image/c3e6212e-531a-4de9-9068-30c8f3d4691c.png)----# A----# B----# C- [Cancel Culture](https://feddit.cl/post/50281)- [Cibernética](https://feddit.cl/post/77890)----# D----# E- [Educación sexual](https://feddit.cl/post/37143)- [Epistemología](https://feddit.cl/post/93835)----# F----# G----# H----# I- [Ideología](https://feddit.cl/post/67018) ----# J----# K----# L----# M----# N----# Ñ----# O----# P- [Pensamiento único](https://feddit.cl/post/78994) - censurado por [@ffuentes@feddit.cl](https://feddit.cl/u/ffuentes) ----# Q----# R----# S- [Sociedad cerrada](https://feddit.cl/post/82545)----# T- [Totalitarismo](https://feddit.cl/post/83923)----# U----# V----# W----# X----# Y----# Z----"
 type: community
-date: "2023-06-30 13:14:12"
+date: "2023-07-06 18:29:48"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/filosofia"
 host: feddit.cl
-lastmod: "2023-06-27 22:34:39"
+lastmod: "2023-07-06 07:26:46"
 published: "2023-06-23 12:45:17"
-subscribers: 4
-posts: 2
-comments: 4
-weight: 2
+subscribers: 7
+posts: 6
+comments: 7
+weight: 6
 dau: 1
 wau: 2
 mau: 2

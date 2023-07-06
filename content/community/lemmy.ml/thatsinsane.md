@@ -3,7 +3,7 @@ title: "That's Insane"
 name: "thatsinsane"
 description: "For things that are a little bit more wild, crazy, scary, terrifying and incredible than the average. And for stuff that is generally insane!"
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thatsinsane"

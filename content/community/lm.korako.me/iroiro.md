@@ -3,18 +3,18 @@ title: "なんか色々"
 name: "iroiro"
 description: "分類に縛られないなんでもネタを。"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/iroiro"
 host: lm.korako.me
 lastmod: "2021-02-19 05:22:30"
 published: "2021-02-16 15:34:34"
-subscribers: 27
-posts: 149
+subscribers: 32
+posts: 154
 comments: 112
-weight: 149
-dau: 2
+weight: 154
+dau: 1
 wau: 3
 mau: 5
 instances:

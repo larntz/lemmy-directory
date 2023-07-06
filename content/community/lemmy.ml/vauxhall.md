@@ -3,7 +3,7 @@ title: "Vauxhall"
 name: "vauxhall"
 description: "A community for everything regarding Vauxhall or Opel cars, both past and present. Anything goes as long as it's related to Vauxhall or Opel."
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vauxhall"

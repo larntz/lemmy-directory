@@ -3,14 +3,14 @@ title: "Daytrading"
 name: "daytrading"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:42"
+date: "2023-07-06 18:34:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/daytrading"
 host: lemmy.world
-lastmod: "2023-06-29 12:37:42"
+lastmod: "2023-06-15 04:10:14"
 published: "2023-06-14 00:24:41"
-subscribers: 21
+subscribers: 37
 posts: 2
 comments: 3
 weight: 2

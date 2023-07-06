@@ -3,7 +3,7 @@ title: "CrackWatch"
 name: "crackwatch"
 description: "Subreddit for video game piracy news."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-01 17:10:34"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/crackwatch"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 15:02:45"
 subscribers: 1
-posts: 47
+posts: 59
 comments: 0
-weight: 47
+weight: 59
 dau: 1
 wau: 1
 mau: 1

@@ -3,14 +3,14 @@ title: "Afghanistan"
 name: "afghanistan"
 description: "## خوش آمدیدEverything about Afghanistan."
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/afghanistan"
 host: lemmy.ml
 lastmod: "2022-05-19 00:40:47"
 published: "2021-08-18 10:44:10"
-subscribers: 27
+subscribers: 30
 posts: 29
 comments: 35
 weight: 29

@@ -3,14 +3,14 @@ title: "Exmuslim"
 name: "exmuslim"
 description: "A recovery and discussion community for those who were once followers of Islam."
 type: community
-date: "2023-06-30 13:17:59"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/exmuslim"
 host: lemmy.world
 lastmod: "2023-06-22 15:07:15"
 published: "2023-06-22 14:55:39"
-subscribers: 4
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

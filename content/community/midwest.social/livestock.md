@@ -3,7 +3,7 @@ title: "Livestock"
 name: "livestock"
 description: "A little starting group for hobby farmers to share pics & info about their setups, share advice or ask questions.Explicitly LGBTQA+ friendly.1)Animal Welfare, not Animal Rights.2) Don't make jokes about eating people's pets.3) Don't call people that raise animals for food cruel as long as it's done in a way that respects their welfare.(https://en.m.wikipedia.org/wiki/Five_freedoms)Nobody likes big Ag, but it's not going anywhere without grassroots movements & small producers to fill local gaps.Icon credit; https://pixabay.com/photos/goat-grass-livestock-grazing-1596880/Banner credit; https://pixabay.com/photos/geese-girl-dog-shepherd-herding-908291/"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-06-30 20:58:52"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/livestock"

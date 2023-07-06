@@ -3,20 +3,20 @@ title: "What Could Go Wrong"
 name: "whatcouldgowrong"
 description: "Videos of stupid decisions and their consequences"
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-04 20:51:43"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/whatcouldgowrong"
 host: lemm.ee
 lastmod: "2023-06-16 19:27:11"
 published: "2023-06-16 13:41:47"
-subscribers: 262
-posts: 9
-comments: 21
-weight: 9
+subscribers: 520
+posts: 13
+comments: 35
+weight: 13
 dau: 5
-wau: 6
-mau: 19
+wau: 17
+mau: 31
 instances:
 - "lemm_ee"
 tags: 

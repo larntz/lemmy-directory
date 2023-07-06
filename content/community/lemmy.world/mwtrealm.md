@@ -3,14 +3,14 @@ title: "Mighty Weaksauce Test Realm"
 name: "mwtrealm"
 description: "Just a place to check my formatting before posting in real communities. If you happen to find yourself here, feel free to try formatting your own posts here. "
 type: community
-date: "2023-06-30 13:17:39"
+date: "2023-07-01 17:14:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mwtrealm"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-23 17:54:27"
-subscribers: 4
+subscribers: 5
 posts: 14
 comments: 3
 weight: 14

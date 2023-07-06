@@ -3,14 +3,14 @@ title: "LEMMiNO"
 name: "lemmino"
 description: "A community for LEMMiNO in lemmyRules:1. Content must be related to LEMMiNO "
 type: community
-date: "2023-06-30 13:15:18"
+date: "2023-07-03 20:17:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lemmino"
 host: lemmy.ml
 lastmod: "2023-06-23 17:51:31"
 published: "2023-06-09 00:29:33"
-subscribers: 6
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

@@ -3,14 +3,14 @@ title: "Tacoma"
 name: "tacoma"
 description: "HEY YOU! Do you live in Tacoma or Pierce County in Washington State? Then come on in and say hi! Did you somehow get here through the magic of the internet because you might be moving here? Check this out:https://movetotacoma.com/"
 type: community
-date: "2023-06-30 13:13:47"
+date: "2023-07-06 18:29:27"
 draft: false
 nsfw: false
 actor_id: "https://fernchat.esotericmonkey.com/c/tacoma"
 host: fernchat.esotericmonkey.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 02:39:23"
-subscribers: 2
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2

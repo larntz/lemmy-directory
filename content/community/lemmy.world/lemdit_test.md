@@ -3,7 +3,7 @@ title: "lemdit_test"
 name: "lemdit_test"
 description: "Testing federation"
 type: community
-date: "2023-06-30 13:17:15"
+date: "2023-06-30 21:01:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemdit_test"
@@ -14,9 +14,9 @@ subscribers: 2
 posts: 0
 comments: 0
 weight: 0
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

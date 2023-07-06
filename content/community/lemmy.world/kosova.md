@@ -3,12 +3,12 @@ title: "kosova"
 name: "kosova"
 description: "The official community is c/kosovo"
 type: community
-date: "2023-06-30 13:18:01"
+date: "2023-07-03 20:22:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kosova"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 00:10:18"
 subscribers: 2
 posts: 0

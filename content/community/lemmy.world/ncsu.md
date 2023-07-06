@@ -3,12 +3,12 @@ title: "ncsu"
 name: "ncsu"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:38"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ncsu"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 16:37:10"
 subscribers: 4
 posts: 0

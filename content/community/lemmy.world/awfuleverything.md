@@ -3,14 +3,14 @@ title: "Awful Everything"
 name: "awfuleverything"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:35"
+date: "2023-07-06 18:33:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/awfuleverything"
 host: lemmy.world
 lastmod: "2023-06-21 18:16:59"
 published: "2023-06-17 17:37:34"
-subscribers: 14
+subscribers: 21
 posts: 0
 comments: 0
 weight: 0

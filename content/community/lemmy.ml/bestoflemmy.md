@@ -3,14 +3,14 @@ title: "BestofLemmy -> sub migrated"
 name: "bestoflemmy"
 description: "[Transition sub to lemmy.ca/c/bestofthefediverse - use that instead](https://lemmy.ca/c/bestofthefediverse)If you cannot connect to it, feel free to continue using this sub"
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bestoflemmy"
 host: lemmy.ml
 lastmod: "2022-08-12 03:03:09"
 published: "2022-01-26 17:30:01"
-subscribers: 43
+subscribers: 48
 posts: 5
 comments: 0
 weight: 5

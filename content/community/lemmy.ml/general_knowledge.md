@@ -3,14 +3,14 @@ title: "General Knowledge"
 name: "general_knowledge"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:15"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/general_knowledge"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-11-07 18:37:24"
-subscribers: 9
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "CBD: Cannabidiol and Hemp Discussions"
 name: "cbd"
 description: "For any and all discussion of CBD and hemp!"
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/cbd"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-08-24 22:33:30"
-subscribers: 65
+subscribers: 70
 posts: 1
 comments: 0
 weight: 1

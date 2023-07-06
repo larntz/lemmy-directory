@@ -3,14 +3,14 @@ title: "Ijiranaide, Nagatoro-san"
 name: "nagatoro"
 description: "A community dedicated to Nanashi's Ijiranaide, Nagatoro-san, often translated to Please don't bully me, Nagatoro-san"
 type: community
-date: "2023-06-30 13:17:35"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nagatoro"
 host: lemmy.world
 lastmod: "2023-06-13 23:51:52"
 published: "2023-06-13 23:24:34"
-subscribers: 8
+subscribers: 17
 posts: 1
 comments: 0
 weight: 1

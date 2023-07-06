@@ -3,14 +3,14 @@ title: "Earthlings United"
 name: "earthlingsunited"
 description: "Earthlings United is a global utopian community over the Internet."
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/earthlingsunited"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-08-17 02:27:39"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

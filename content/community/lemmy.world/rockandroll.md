@@ -3,14 +3,14 @@ title: "Rock & Roll History "
 name: "rockandroll"
 description: "Rock and Roll Preservation Community"
 type: community
-date: "2023-06-30 13:17:12"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rockandroll"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:12"
+lastmod: "2023-06-29 17:41:59"
 published: "2023-06-29 17:41:07"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

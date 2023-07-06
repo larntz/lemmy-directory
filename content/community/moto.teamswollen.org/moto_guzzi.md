@@ -3,14 +3,14 @@ title: "Moto Guzzi"
 name: "moto_guzzi"
 description: "A place to celebrate Moto Guzzi MotorbikesOver 100 years of building Motorcycles"
 type: community
-date: "2023-06-30 13:13:52"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://moto.teamswollen.org/c/moto_guzzi"
 host: moto.teamswollen.org
 lastmod: "2023-06-16 00:23:44"
 published: "2023-06-15 06:07:43"
-subscribers: 2
+subscribers: 3
 posts: 2
 comments: 0
 weight: 2

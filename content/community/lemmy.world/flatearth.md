@@ -3,14 +3,14 @@ title: "Flat Earth"
 name: "flatearth"
 description: "Discussions about flat earth. Try not to troll. Moderation here has a hands-off philosophy. Mods will step in only when constructive discussion has broken down.Be respectful. Insults tend to fly readily in these discussions because one side will be right and the other will be criminally stupid. Keep the jibes light-hearted and cultivate a thick skin."
 type: community
-date: "2023-06-30 13:17:45"
+date: "2023-07-06 18:34:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/flatearth"
 host: lemmy.world
 lastmod: "2023-06-20 18:47:58"
 published: "2023-06-20 16:52:15"
-subscribers: 2
+subscribers: 9
 posts: 1
 comments: 2
 weight: 1

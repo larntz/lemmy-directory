@@ -3,7 +3,7 @@ title: "Québec"
 name: "quebec"
 description: "## Bienvenue au![](https://lemmy.ml/pictrs/image/1ed7f2bd-003b-4f76-b048-2f994b1b60bd.png)"
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-01 17:12:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/quebec"

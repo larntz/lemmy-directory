@@ -3,14 +3,14 @@ title: "Dune Memes"
 name: "dunememes"
 description: "For making memes about Dune."
 type: community
-date: "2023-06-30 13:13:39"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/dunememes"
 host: lemmy.blahaj.zone
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 05:20:48"
-subscribers: 8
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0

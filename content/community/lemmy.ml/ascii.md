@@ -1,16 +1,16 @@
 ---
 title: "ASCII" 
 name: "ascii"
-description: "this is the side bar, tbd."
+description: "this community serves discussions for ascii art only."
 type: community
-date: "2023-06-30 13:15:14"
+date: "2023-07-03 20:17:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ascii"
 host: lemmy.ml
-lastmod: "2023-06-08 06:57:39"
+lastmod: "2023-06-30 19:50:48"
 published: "2020-04-15 10:44:59"
-subscribers: 67
+subscribers: 69
 posts: 7
 comments: 0
 weight: 7

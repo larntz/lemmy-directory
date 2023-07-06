@@ -3,14 +3,14 @@ title: "Ask Republicans"
 name: "askrepublicans"
 description: "Ask Republicans stuff about what they believe or how they believe, and why."
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askrepublicans"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-05-11 23:53:39"
-subscribers: 11
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

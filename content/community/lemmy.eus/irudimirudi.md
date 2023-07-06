@@ -3,14 +3,14 @@ title: "Irudi-mirudi"
 name: "irudimirudi"
 description: "Argazki eta irudi iradokitzaile, bitxi edo gogoangarriak."
 type: community
-date: "2023-06-30 13:13:39"
+date: "2023-07-06 18:29:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/irudimirudi"
 host: lemmy.eus
 lastmod: "1969-12-31 19:00:00"
 published: "2020-12-26 13:12:43"
-subscribers: 10
+subscribers: 15
 posts: 18
 comments: 7
 weight: 18

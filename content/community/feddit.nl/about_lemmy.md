@@ -3,14 +3,14 @@ title: "LemmyNet"
 name: "about_lemmy"
 description: "A community about Lemmy and related projects: https://github.com/LemmyNet"
 type: community
-date: "2023-06-30 13:13:41"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/about_lemmy"
 host: feddit.nl
 lastmod: "2023-06-16 18:18:11"
 published: "2023-06-16 18:17:58"
-subscribers: 29
+subscribers: 35
 posts: 9
 comments: 6
 weight: 9

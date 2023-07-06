@@ -3,14 +3,14 @@ title: "Kotobukiya Fans"
 name: "kotobukiya"
 description: "For fans of Kotobukiya products, including figures, statues, plastic model kits, and accessories."
 type: community
-date: "2023-06-30 13:18:02"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kotobukiya"
 host: lemmy.world
 lastmod: "2023-06-14 06:03:00"
 published: "2023-06-14 06:02:09"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

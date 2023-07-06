@@ -3,12 +3,12 @@ title: "CLOSED TEMPORARILY"
 name: "radiation"
 description: "--- CLOSED TEMPORARILY ---"
 type: community
-date: "2023-06-30 13:17:51"
+date: "2023-07-03 20:22:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/radiation"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:51"
+lastmod: "2023-06-13 21:17:06"
 published: "2023-06-13 02:55:16"
 subscribers: 2
 posts: 0

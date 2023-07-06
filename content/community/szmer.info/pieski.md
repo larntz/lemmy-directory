@@ -3,14 +3,14 @@ title: "𝕡𝕚𝕖𝕤𝕜𝕚"
 name: "pieski"
 description: "Miejsce na zdjęcia piesków i innych zwierzaków."
 type: community
-date: "2023-06-30 13:13:45"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/pieski"
 host: szmer.info
 lastmod: "2020-08-21 20:08:30"
 published: "2020-08-21 20:07:46"
-subscribers: 38
+subscribers: 40
 posts: 6
 comments: 0
 weight: 6

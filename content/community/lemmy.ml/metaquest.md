@@ -3,7 +3,7 @@ title: "Meta Quest"
 name: "metaquest"
 description: "Welcome!Welcome to /c/MetaQuest the place to discuss the Meta/Oculus Quest, Quest 2, Quest 3 and Quest Prro"
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/metaquest"

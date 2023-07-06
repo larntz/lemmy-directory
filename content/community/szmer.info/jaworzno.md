@@ -3,14 +3,14 @@ title: "J(A)WORZNO"
 name: "jaworzno"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-04 20:51:28"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/jaworzno"
 host: szmer.info
-lastmod: "2023-06-30 13:13:44"
+lastmod: "1969-12-31 19:00:00"
 published: "2021-06-17 10:55:12"
-subscribers: 29
+subscribers: 31
 posts: 80
 comments: 41
 weight: 80

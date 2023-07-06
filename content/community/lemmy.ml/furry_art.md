@@ -3,14 +3,14 @@ title: "Furry Art"
 name: "furry_art"
 description: "Anthros, Scalies, Floofs, Dragons, as well as any original species is welcome here!"
 type: community
-date: "2023-06-30 13:15:31"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/furry_art"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 07:28:10"
-subscribers: 76
+subscribers: 77
 posts: 12
 comments: 8
 weight: 12

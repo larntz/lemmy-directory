@@ -3,12 +3,12 @@ title: "Pics"
 name: "pics"
 description: "Sweet pictures from real life."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-06 18:29:51"
 draft: false
 nsfw: false
 actor_id: "https://xrs.cx/c/pics"
 host: xrs.cx
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 11:20:53"
 subscribers: 1
 posts: 0

@@ -3,7 +3,7 @@ title: "South Sydney Rabbitohs"
 name: "southsydneyrabbitohs"
 description: "South Sydney Rabbitohs - established 1908, 21 premierships"
 type: community
-date: "2023-06-29 12:38:05"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/southsydneyrabbitohs"

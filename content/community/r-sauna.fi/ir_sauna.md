@@ -3,14 +3,14 @@ title: "Everything about IR saunas"
 name: "ir_sauna"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:14:01"
+date: "2023-07-06 18:29:40"
 draft: false
 nsfw: false
 actor_id: "https://r-sauna.fi/c/ir_sauna"
 host: r-sauna.fi
 lastmod: "2023-06-12 18:30:18"
 published: "2023-06-08 21:10:24"
-subscribers: 6
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1

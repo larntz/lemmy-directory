@@ -3,14 +3,14 @@ title: "Fire Twirling and Spinning"
 name: "firetwirling"
 description: "we light stuff on fire, spin it aound our heads, and look pretty"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/firetwirling"
 host: vlemmy.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 11:47:22"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

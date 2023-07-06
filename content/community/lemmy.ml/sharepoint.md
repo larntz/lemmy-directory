@@ -3,14 +3,14 @@ title: "SharePoint"
 name: "sharepoint"
 description: "To discuss everything SharePoint Server and SharePoint Online, including related technologies."
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/sharepoint"
 host: lemmy.ml
 lastmod: "2020-11-25 22:14:26"
 published: "2020-11-25 21:23:07"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

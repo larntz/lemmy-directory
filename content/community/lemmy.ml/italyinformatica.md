@@ -3,7 +3,7 @@ title: "ItalyInformatica"
 name: "italyinformatica"
 description: "Il punto di riferimento per gli informatici italiani"
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/italyinformatica"

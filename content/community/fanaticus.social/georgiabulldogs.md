@@ -3,14 +3,14 @@ title: "Georgia Bulldogs"
 name: "georgiabulldogs"
 description: "A community to discuss Georgia Bulldogs athletics.## Defending College Football National Champions**Looking for Mods!**"
 type: community
-date: "2023-06-30 13:14:20"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/georgiabulldogs"
 host: fanaticus.social
 lastmod: "2023-06-17 19:34:38"
 published: "2023-06-15 01:18:28"
-subscribers: 1
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2

@@ -3,20 +3,20 @@ title: "Liverpool Football Club"
 name: "liverpoolfc"
 description: "Placeholder for the reddit migration. Former reddit mods requested to take over."
 type: community
-date: "2023-06-30 13:17:47"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/liverpoolfc"
 host: lemmy.world
 lastmod: "2023-06-12 16:45:51"
 published: "2023-06-12 16:44:47"
-subscribers: 118
-posts: 62
-comments: 30
-weight: 62
-dau: 4
-wau: 8
-mau: 18
+subscribers: 294
+posts: 106
+comments: 76
+weight: 106
+dau: 5
+wau: 26
+mau: 37
 instances:
 - "lemmy_world"
 tags: 

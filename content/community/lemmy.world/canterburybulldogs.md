@@ -3,14 +3,14 @@ title: "Canterbury-Bankstown Bulldogs"
 name: "canterburybulldogs"
 description: "All things Canterbury-Bankstown Bulldogs"
 type: community
-date: "2023-06-30 13:17:36"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/canterburybulldogs"
 host: lemmy.world
 lastmod: "2023-06-23 02:49:46"
 published: "2023-06-23 02:47:53"
-subscribers: 2
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

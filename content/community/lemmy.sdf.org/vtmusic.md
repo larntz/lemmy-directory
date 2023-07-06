@@ -3,7 +3,7 @@ title: "Music in Vermont"
 name: "vtmusic"
 description: "A community devoted to music and musicians within the Green Mountain State. Post news, audio, video, events, want ads, reviews, biographies and more to celebrate the rich musical tradition that exists in Vermont."
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-04 20:51:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/vtmusic"

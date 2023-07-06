@@ -3,14 +3,14 @@ title: "usdefaultism"
 name: "usdefaultism"
 description: "We are not associated with the moderators or operators of r/USdefaultism.c/USdefaultism - the place where we look at Americans who think that America is the world and that the world is America."
 type: community
-date: "2023-06-30 13:15:31"
+date: "2023-07-03 20:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/usdefaultism"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 18:55:22"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

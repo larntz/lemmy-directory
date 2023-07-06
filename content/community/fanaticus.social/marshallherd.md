@@ -3,7 +3,7 @@ title: "Marshall Thundering Herd"
 name: "marshallherd"
 description: "A community to discuss Marshall Thundering Herd athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-30 13:14:20"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/marshallherd"

@@ -3,14 +3,14 @@ title: "Fediverse Circle Jerk"
 name: "fedicirclejerk"
 description: ""
 type: community
-date: "2023-06-30 13:15:20"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fedicirclejerk"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-03-02 00:44:47"
-subscribers: 55
+subscribers: 57
 posts: 2
 comments: 11
 weight: 2

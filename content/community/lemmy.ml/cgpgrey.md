@@ -3,7 +3,7 @@ title: "CGP Grey"
 name: "cgpgrey"
 description: "Discussion about popular YouTuber CGP Grey happens here"
 type: community
-date: "2023-06-30 13:15:22"
+date: "2023-07-03 20:17:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cgpgrey"

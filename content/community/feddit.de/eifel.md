@@ -3,14 +3,14 @@ title: "Eifel"
 name: "eifel"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:54"
+date: "2023-07-06 16:41:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/eifel"
 host: feddit.de
 lastmod: "2023-06-14 21:03:50"
 published: "2023-06-14 21:02:29"
-subscribers: 2
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

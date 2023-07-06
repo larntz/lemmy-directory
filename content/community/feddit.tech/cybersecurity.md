@@ -3,14 +3,14 @@ title: "Cybersecurity"
 name: "cybersecurity"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-07-01 17:10:21"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/cybersecurity"
 host: feddit.tech
 lastmod: "2023-06-14 23:41:58"
 published: "2023-06-14 22:32:54"
-subscribers: 4
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

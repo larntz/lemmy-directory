@@ -3,14 +3,14 @@ title: "RealDayTrading"
 name: "realdaytrading"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:18:01"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realdaytrading"
 host: lemmy.world
 lastmod: "2023-06-15 04:09:29"
 published: "2023-06-14 03:17:11"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

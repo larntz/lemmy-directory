@@ -3,20 +3,20 @@ title: "Horror Lit"
 name: "horrorlit"
 description: "Horror book discussion, requests, trivia, best of, worst of, etc.All-inclusive community. No bigots, please."
 type: community
-date: "2023-06-29 12:37:53"
+date: "2023-07-06 18:34:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/horrorlit"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 20:35:37"
-subscribers: 58
-posts: 3
-comments: 12
-weight: 3
-dau: 2
-wau: 6
-mau: 11
+subscribers: 120
+posts: 6
+comments: 16
+weight: 6
+dau: 1
+wau: 5
+mau: 15
 instances:
 - "lemmy_world"
 tags: 

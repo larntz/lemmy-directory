@@ -3,14 +3,14 @@ title: "test"
 name: "test"
 description: "test community please ignore."
 type: community
-date: "2023-06-30 13:13:37"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/test"
 host: lemmy.douwes.co.uk
 lastmod: "2023-06-25 20:08:23"
 published: "2023-06-03 16:38:44"
-subscribers: 8
+subscribers: 13
 posts: 20
 comments: 200
 weight: 20

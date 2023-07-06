@@ -3,7 +3,7 @@ title: "Dungeon Crawl Stone Soup"
 name: "dcss"
 description: "Community for discussing the traditional roguelike game, Dungeon Crawl Stone Soup.https://crawl.develz.org"
 type: community
-date: "2023-06-30 13:15:28"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/dcss"

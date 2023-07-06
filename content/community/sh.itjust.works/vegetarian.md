@@ -1,22 +1,22 @@
 ---
-title: "Vegetarian Food" 
+title: "Vegetarian Food (closed)" 
 name: "vegetarian"
-description: "This community should be used mainly for the discussion of plant-based food, cooking, and recipes. Let's keep out of philosophical and ethical topics, and just keep it light.Vegans are welcome too, because you folks are cool, but please bear in mind that we're avoiding philosophy for a reason. Likewise, if you do eat meat, you are welcome to still post and discuss plant-based recipes here. In fact, please do.Let us all unite in our love of chickpeas."
+description: "Unfortunately I've had to go inactive, and now close this community in this instance, due to lack of good faith in its administration's ability to handle the alt-right. If I can't find another good one, I'll open a new one wherever I set down "
 type: community
-date: "2023-06-28 15:18:28"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/vegetarian"
 host: sh.itjust.works
-lastmod: "2023-06-16 04:19:04"
+lastmod: "2023-07-02 15:36:15"
 published: "2023-06-13 17:39:03"
-subscribers: 79
+subscribers: 110
 posts: 7
-comments: 12
+comments: 14
 weight: 7
 dau: 1
 wau: 2
-mau: 6
+mau: 8
 instances:
 - "sh_itjust_works"
 tags: 

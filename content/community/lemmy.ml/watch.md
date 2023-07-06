@@ -3,14 +3,14 @@ title: "Watch"
 name: "watch"
 description: "Community dedicated to watches and the passion we have for them. Sharing experiences are classics, or new trends, even smartwatches, all are welcome to the community.Code of Condute: Be Excellent to Each Other"
 type: community
-date: "2023-06-30 13:15:15"
+date: "2023-07-03 20:17:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/watch"
 host: lemmy.ml
 lastmod: "2021-03-12 07:55:26"
 published: "2021-03-08 11:59:25"
-subscribers: 18
+subscribers: 22
 posts: 7
 comments: 7
 weight: 7

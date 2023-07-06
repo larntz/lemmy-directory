@@ -3,14 +3,14 @@ title: "Doom Metal"
 name: "doommetal"
 description: "reserved"
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-07-03 20:17:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/doommetal"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 04:29:34"
-subscribers: 14
+subscribers: 15
 posts: 3
 comments: 0
 weight: 3

@@ -3,17 +3,17 @@ title: "San Pedro"
 name: "sanpedro"
 description: "San Pedro, California"
 type: community
-date: "2023-06-30 13:17:59"
+date: "2023-07-03 20:22:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sanpedro"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 14:50:19"
-subscribers: 2
-posts: 4
+subscribers: 5
+posts: 5
 comments: 0
-weight: 4
+weight: 5
 dau: 1
 wau: 1
 mau: 1

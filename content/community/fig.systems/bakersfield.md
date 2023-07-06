@@ -3,7 +3,7 @@ title: "bakersfield"
 name: "bakersfield"
 description: "Bakersfield news and happenings"
 type: community
-date: "2023-06-30 13:13:40"
+date: "2023-06-30 14:55:48"
 draft: false
 nsfw: false
 actor_id: "https://fig.systems/c/bakersfield"

@@ -3,14 +3,14 @@ title: "Grand Theft Auto"
 name: "gta"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:47"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/gta"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 15:54:12"
-subscribers: 6
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

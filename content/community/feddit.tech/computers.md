@@ -3,7 +3,7 @@ title: "Computers"
 name: "computers"
 description: ""
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-07-01 17:10:21"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/computers"

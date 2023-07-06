@@ -3,14 +3,14 @@ title: "Aprilia"
 name: "aprilia"
 description: "A place to celebrate Aprilia Motorcycles"
 type: community
-date: "2023-06-30 13:13:52"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://moto.teamswollen.org/c/aprilia"
 host: moto.teamswollen.org
 lastmod: "2023-06-15 06:26:00"
 published: "2023-06-15 06:08:42"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

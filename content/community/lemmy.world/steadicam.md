@@ -3,14 +3,14 @@ title: "Steadicam"
 name: "steadicam"
 description: "A place to discuss anything Steadicam. "
 type: community
-date: "2023-06-30 13:17:43"
+date: "2023-07-03 20:22:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/steadicam"
 host: lemmy.world
 lastmod: "2023-06-24 00:27:21"
 published: "2023-06-24 00:15:53"
-subscribers: 3
+subscribers: 4
 posts: 2
 comments: 0
 weight: 2

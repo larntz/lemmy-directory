@@ -1,22 +1,22 @@
 ---
 title: "NoVA / Northern Virginia" 
 name: "nova"
-description: "A community for Northern Virginia, including Arlington, Alexandria, Fairfax, Falls Church, Loudoun, Manassas, Manassas Park, and Prince William CountyA few rules for this community:- Don’t be a jerk! This isn’t the place for bigotry, provoking users, name-calling, inciting harm, harassing others, spreading malicious misinformation, and other foul behavior.- No unlawful content. We’re not looking to get in trouble.- Don’t share other’s personal information. This includes names, addresses, contact information, and private data.- Keep it “generally SFW”. Rule of thumb: if you’re willing to view it on your phone at the office, it’s probably okay.- Let’s keep it light and fun!Other communities in the region hosted by this instance  can be found on [dmv.social](https://dmv.social/communities)"
+description: "A community for Northern Virginia, including Arlington, Alexandria, Fairfax, Falls Church, Loudoun, Manassas, Manassas Park, and Prince William CountyPlease review the [dmv.social Community Guidelines](https://dmv.social/post/40136) before participating.Other communities in the region hosted by this instance  can be found on [dmv.social](https://dmv.social/communities)"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/nova"
 host: dmv.social
-lastmod: "2023-06-13 23:15:10"
+lastmod: "2023-07-04 00:03:16"
 published: "2023-06-09 00:31:11"
-subscribers: 96
-posts: 36
-comments: 30
-weight: 36
-dau: 2
-wau: 4
-mau: 17
+subscribers: 161
+posts: 41
+comments: 36
+weight: 41
+dau: 1
+wau: 7
+mau: 22
 instances:
 - "dmv_social"
 tags: 

@@ -3,14 +3,14 @@ title: "Ubuntu"
 name: "ubuntu"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-07-01 17:10:22"
 draft: false
 nsfw: false
 actor_id: "https://feddit.tech/c/ubuntu"
 host: feddit.tech
 lastmod: "2023-06-14 23:15:00"
 published: "2023-06-14 22:20:24"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

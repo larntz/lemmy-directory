@@ -3,7 +3,7 @@ title: "USA Election 2024"
 name: "election2024"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:30"
+date: "2023-07-03 20:17:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/election2024"

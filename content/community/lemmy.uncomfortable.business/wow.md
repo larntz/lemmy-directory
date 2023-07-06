@@ -3,7 +3,7 @@ title: "World of Warcraft"
 name: "wow"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:42"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.uncomfortable.business/c/wow"

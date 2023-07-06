@@ -3,14 +3,14 @@ title: "Spainwave Aesthetics"
 name: "spainwave"
 description: "Fork of www.reddit.com/r/spainwave"
 type: community
-date: "2023-06-30 13:14:17"
+date: "2023-07-04 20:52:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/spainwave"
 host: lemmy.dbzer0.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 07:11:03"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 1
 weight: 1

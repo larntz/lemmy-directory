@@ -3,7 +3,7 @@ title: "canon ij setup"
 name: "canonijsetup"
 description: "Canon printer helps you to print the good quality of paper and documents. it also the best printer among all printer companies. this site provide you the information about canon IJ setup. you may also get many more information by the site like - canon ij driver download by CD Drive and by internet etc. [canon.com/ijsetup ](https://ijstartcanonx.com/)  [ij start canon](https://ijstartcanonx.com/)"
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/canonijsetup"

@@ -3,14 +3,14 @@ title: "Kyrgyzstan"
 name: "kyrgyzstan"
 description: ""
 type: community
-date: "2023-06-30 13:15:23"
+date: "2023-07-03 20:17:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kyrgyzstan"
 host: lemmy.ml
 lastmod: "2022-05-19 00:41:43"
 published: "2021-01-12 08:46:14"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

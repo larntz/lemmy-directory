@@ -1,19 +1,19 @@
 ---
 title: "Gaming" 
 name: "gaming"
-description: "Discuss your favorite games and gaming news!"
+description: "Gaming news and general discussion"
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-07-06 18:29:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.name/c/gaming"
 host: lemmy.name
-lastmod: "2023-06-21 19:34:08"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 19:33:57"
-subscribers: 2
-posts: 1
+subscribers: 5
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1

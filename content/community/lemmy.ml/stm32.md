@@ -3,7 +3,7 @@ title: "stm32"
 name: "stm32"
 description: "A community for discussion about all things related to the STM32 microcontroller- [c/embedded](https://lemmy.ml/c/embedded)- [c/askelectronics](https://lemmy.ml/c/askelectronics)- [c/fpga](https://lemmy.ml/c/fpga)- [c/chipdesign](https://lemmy.ml/c/chipdesign)- [c/microcontrollers](https://lemmy.ml/c/microcontrollers)- [c/dsp](https://lemmy.ml/c/dsp)- [c/rtlsdr](https://lemmy.ml/c/rtlsdr)"
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-07-01 17:12:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/stm32"

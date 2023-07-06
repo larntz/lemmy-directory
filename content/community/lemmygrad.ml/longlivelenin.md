@@ -3,14 +3,14 @@ title: "Lenin Gang"
 name: "longlivelenin"
 description: "Long live lenin kill the tsar"
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/longlivelenin"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-08-24 18:34:23"
-subscribers: 483
+subscribers: 487
 posts: 11
 comments: 6
 weight: 11

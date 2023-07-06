@@ -3,20 +3,20 @@ title: "lakers"
 name: "lakers"
 description: "lakers"
 type: community
-date: "2023-06-30 13:17:30"
+date: "2023-07-06 18:34:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lakers"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 08:20:58"
-subscribers: 75
-posts: 4
-comments: 2
-weight: 4
+subscribers: 141
+posts: 10
+comments: 15
+weight: 10
 dau: 1
-wau: 1
-mau: 5
+wau: 13
+mau: 17
 instances:
 - "lemmy_world"
 tags: 

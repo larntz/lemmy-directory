@@ -3,7 +3,7 @@ title: "Peru 🇵🇪"
 name: "peru"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:21"
+date: "2023-07-03 20:17:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/peru"

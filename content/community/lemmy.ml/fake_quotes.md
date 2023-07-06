@@ -3,14 +3,14 @@ title: "Fake Quotes"
 name: "fake_quotes"
 description: "For quotes attributed to a real person, but with fake text from satire news, your imagination, AI, etc"
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fake_quotes"
 host: lemmy.ml
 lastmod: "2022-01-29 17:13:25"
 published: "2022-01-28 23:45:59"
-subscribers: 14
+subscribers: 16
 posts: 2
 comments: 0
 weight: 2

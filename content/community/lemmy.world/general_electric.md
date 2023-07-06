@@ -3,12 +3,12 @@ title: "General Electric"
 name: "general_electric"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:55"
+date: "2023-07-06 18:34:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/general_electric"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 20:08:12"
 subscribers: 2
 posts: 0

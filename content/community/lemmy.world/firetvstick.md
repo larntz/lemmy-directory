@@ -3,20 +3,20 @@ title: "Amazon Fire TV Stick"
 name: "firetvstick"
 description: "An unofficial place to discuss all things Amazon Fire Stick related."
 type: community
-date: "2023-06-30 13:17:12"
+date: "2023-07-06 18:33:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/firetvstick"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 13:06:00"
-subscribers: 12
+subscribers: 25
 posts: 2
-comments: 0
+comments: 3
 weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

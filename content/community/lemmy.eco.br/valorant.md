@@ -3,7 +3,7 @@ title: "Valorant"
 name: "valorant"
 description: "VALORANT é um jogo de tiro tático baseado em personagens 5v5 grátis para jogar da Riot Games."
 type: community
-date: "2023-06-30 13:13:58"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/valorant"

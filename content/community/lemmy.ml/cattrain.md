@@ -3,7 +3,7 @@ title: "CatTrain"
 name: "cattrain"
 description: "For all things related to cat trains"
 type: community
-date: "2023-06-30 13:15:15"
+date: "2023-07-03 20:17:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cattrain"
@@ -16,7 +16,7 @@ comments: 2
 weight: 5
 dau: 1
 wau: 2
-mau: 2
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 

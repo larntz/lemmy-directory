@@ -3,7 +3,7 @@ title: "Got something to say? Tell Lemmy."
 name: "tell_lemmy"
 description: "This is a place to post things you want to say to the lemmy/ fediverse. They could be personal accomplishments, something you need to get off your chest, and idea you had, whatever. "
 type: community
-date: "2023-06-30 13:15:31"
+date: "2023-07-03 20:17:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tell_lemmy"

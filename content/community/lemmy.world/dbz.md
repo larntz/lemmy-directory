@@ -3,14 +3,14 @@ title: "Dragon Ball Z"
 name: "dbz"
 description: "Dragon Ball Z"
 type: community
-date: "2023-06-30 13:17:49"
+date: "2023-07-06 18:33:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dbz"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:49"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 10:41:34"
-subscribers: 12
+subscribers: 23
 posts: 2
 comments: 0
 weight: 2

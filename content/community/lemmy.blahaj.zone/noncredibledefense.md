@@ -3,17 +3,17 @@ title: "NonCredibleDefense"
 name: "noncredibledefense"
 description: "A refuge for NCD on blahaj.zone, because why not?"
 type: community
-date: "2023-06-27 16:15:52"
+date: "2023-07-04 20:51:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/noncredibledefense"
 host: lemmy.blahaj.zone
-lastmod: "2023-06-27 16:15:52"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 18:43:41"
-subscribers: 42
-posts: 5
+subscribers: 65
+posts: 6
 comments: 1
-weight: 5
+weight: 6
 dau: 1
 wau: 1
 mau: 4

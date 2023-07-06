@@ -3,14 +3,14 @@ title: "Prusa"
 name: "prusa"
 description: "Have a Prusa printer? Have questions about a Prusa printer? You're in the right place!"
 type: community
-date: "2023-06-27 16:19:46"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prusa"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:46"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 22:51:44"
-subscribers: 2
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

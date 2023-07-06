@@ -3,7 +3,7 @@ title: "India Feminism"
 name: "indiafeminism"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indiafeminism"

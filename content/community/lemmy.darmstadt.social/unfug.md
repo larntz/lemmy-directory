@@ -3,14 +3,14 @@ title: "Grober Unfug"
 name: "unfug"
 description: "Grober Unfug aus und für Darmstadt"
 type: community
-date: "2023-06-30 13:13:54"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.darmstadt.social/c/unfug"
 host: lemmy.darmstadt.social
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 13:54:16"
-subscribers: 3
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

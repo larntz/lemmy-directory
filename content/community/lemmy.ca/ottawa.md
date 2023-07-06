@@ -3,20 +3,20 @@ title: "Ottawa"
 name: "ottawa"
 description: "News, events, discussions, and what not from Ottawa, Ontario.Municipal website: https://ottawa.ca/---### Rules1. Be polite and respectful.2. Please only post content relevant to the City of Ottawa or to its residents.---### Ottawa on the [Fediverse](https://en.wikipedia.org/wiki/Fediverse):*empty*### Ottawa chatrooms:* XMPP: *empty** Matrix: [https://matrix.to/#/#ottawa:matrix.org](https://matrix.to/#/#ottawa:matrix.org)* Telegram: [https://t.me/chatottawa](https://t.me/chatottawa)* Discord: [https://discord.gg/TrCHrucmqJ](https://discord.gg/TrCHrucmqJ)Please note the following:* All chatrooms are linked together. If you join one room your messages will be copied to the other platforms.* Matrix is an open source and potentially distributed chat protocol. The matrix room listed is hosted on matrix.org, a somewhat centralized hub for a lot of currently public rooms. Though the protocol itself is free, libre and open source, the deployment of the protocol resembles a centralized service. This may be fixed in the future with the deployment of independent servers.* Be aware that both Telegram and Discord are centralized proprietary platforms and do not necessarily protect your rights nor privacy while simultaneously giving power to corporations."
 type: community
-date: "2023-06-30 13:13:50"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/ottawa"
 host: lemmy.ca
 lastmod: "2021-05-07 03:32:07"
 published: "2021-05-02 00:25:09"
-subscribers: 381
-posts: 59
-comments: 162
-weight: 59
-dau: 4
-wau: 28
-mau: 79
+subscribers: 506
+posts: 68
+comments: 208
+weight: 68
+dau: 3
+wau: 33
+mau: 101
 instances:
 - "lemmy_ca"
 tags: 

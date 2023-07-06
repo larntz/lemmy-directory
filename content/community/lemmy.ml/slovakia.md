@@ -3,14 +3,14 @@ title: "slovakia"
 name: "slovakia"
 description: "Stuff about Slovakia, discussions, politics, memes, advice, help etc."
 type: community
-date: "2023-06-30 13:15:19"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/slovakia"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-11-20 17:19:17"
-subscribers: 20
+subscribers: 22
 posts: 3
 comments: 5
 weight: 3

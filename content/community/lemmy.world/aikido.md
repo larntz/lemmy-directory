@@ -3,14 +3,14 @@ title: "Aikido"
 name: "aikido"
 description: "A place to discuss the martial art of Aikido, and closely related arts such as Aiki-jujitsu.Respectful discussion only."
 type: community
-date: "2023-06-30 13:17:29"
+date: "2023-07-06 18:34:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aikido"
 host: lemmy.world
 lastmod: "2023-06-24 01:04:18"
 published: "2023-06-24 00:25:00"
-subscribers: 4
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

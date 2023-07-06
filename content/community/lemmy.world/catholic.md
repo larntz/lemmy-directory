@@ -3,7 +3,7 @@ title: "Catholic"
 name: "catholic"
 description: "The Catholic Community"
 type: community
-date: "2023-06-30 13:18:02"
+date: "2023-07-01 17:13:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/catholic"

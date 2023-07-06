@@ -3,14 +3,14 @@ title: "Cyberdeck"
 name: "cyberdeck"
 description: "Community for specialised, custom-made, mobile computers. Bonus points for a direct brain interface.[Cyberdeck build guide of cyberdeck.cafe](https://cyberdeck.cafe/build)"
 type: community
-date: "2023-06-30 13:13:50"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/cyberdeck"
 host: feddit.de
 lastmod: "2023-06-21 16:24:02"
 published: "2023-06-21 16:05:17"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

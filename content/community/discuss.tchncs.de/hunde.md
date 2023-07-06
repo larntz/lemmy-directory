@@ -3,14 +3,14 @@ title: "Hunde"
 name: "hunde"
 description: "Vorerst alles. Bilder, Diskussionen und Fragen."
 type: community
-date: "2023-06-30 13:13:42"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/hunde"
 host: discuss.tchncs.de
 lastmod: "2023-06-26 01:36:10"
 published: "2023-06-26 01:29:54"
-subscribers: 2
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

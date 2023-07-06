@@ -3,20 +3,20 @@ title: "Midnight"
 name: "midnight"
 description: "Welcome to the Midnight Community!Midnight is a data protection-based blockchain that safeguards sensitive commercial and personal data, protecting fundamental freedoms of association, commerce, and expression for developers, companies, and individuals.November 18, 2022: Input Output Global, Inc. (IOG), a leading blockchain research and developer, has revealed that it is creating a data protection-based platform to allow users to operate more freely and securely by safeguarding sensitive personal and commercial data.Web2 created world-wide communities where people could share and connect with one another. However, this came at the cost of centralized control, leading to censorship, surveillance and a loss of ownership over data. Web3 promised a new paradigm without censorship or control over user’s data, but so far solutions either reveal too much data or are too secret for many use cases.To address this, IOG has announced that it is working to create a new platform which will be a principled system to protect people’s fundamental freedoms of association, commerce, and expression. The solution, called Midnight, introduces a new paradigm for online interaction, allowing users to control the data they choose to reveal and keep the rest off the internet.Midnight will be a completely new departure on how confidential information is considered when building DApps. Existing programming models have incorporated data protection as an afterthought; leaving vulnerable cracks in the architecture, whereas Midnight will be built using a novel data protection-first programming model.The platform will use zero-knowledge cryptography and a combination of private and public computation, creating a trustless ecosystem that safeguards sensitive personal and commercial data. It will operate as a sidechain of the Cardano blockchain, inheriting its security and decentralized qualities while significantly extending Cardano’s utility, opening up valuable new use cases for individuals and companies looking to transact, publish or share data. This will allow for a rich web of data-protected connectivity with rules-based, trustless interactions anchored in the Cardano ecosystem.Midnight will be created specifically for developers to write smart contracts in a variety of popular languages - starting with Typescript - allowing them to develop smart contracts more easily than ever before.Through the platform companies will be able to share mission critical information, like financial data, directly with each other while proving they have met regulatory requirements without revealing any other confidential information. Users will also be able to safeguard their personal information when operating in a connected world. In a time when concerns are widespread around the misuse of private data and ‘surveillance capitalism’ from ‘big tech’, protecting personal data has become a growing issue for many.Midnight was unveiled during the developer’s ScotFest event, held at the University of Edinburgh, by CEO Charles Hoskinson during his keynote presentation, where he discussed the challenges and threats facing people and businesses across the world with regards to data protection and the need for solutions which provide them with greater security.Charles Hoskinson, CEO of IOG, said: “We need systems that provide people with the freedom to work, collaborate and interact while maintaining control and autonomy over data. When we don’t have these basic rights, our ability to connect with the rest of the world is hampered or controlled by forces beyond our control.“These are values we hold dear at IOG and why we have been working tirelessly to create a new solution which enshrines and upholds these freedoms, giving users autonomy over how their data is used and the visibility of their transactions.”As part of the ScotFest event, the Midnight team also hosted a developer workshop, where attendees could learn more about this novel programming language, the product roadmap, and different use-cases that are possible with this protocol.The new platform forms a key part of IOG’s goal to advance the development of secure blockchain technologies. It comes following a series of announcements which show the company’s commitment to blockchain data protection, including funding of a new research lab focused on the development of Zero Knowledge Protocols, which are key to creating more secure blockchain networks and led by Dr Markulf Kohlweiss. IOG has also appointed Zero-Knowledge Protocol expert, Dr. Vanishree Rao as its Head of Applied Cryptography.For more information and to sign up to receive regular updates on Midnight, visit: midnight.iohk.io"
 type: community
-date: "2023-06-30 13:13:41"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/midnight"
 host: infosec.pub
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 17:13:08"
-subscribers: 3
-posts: 0
+subscribers: 12
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "infosec_pub"
 tags: 

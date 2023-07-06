@@ -3,14 +3,14 @@ title: "One new thing to learn everydaay"
 name: "teachmesomething"
 description: "Have a new learning everyday"
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/teachmesomething"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-02-11 04:56:43"
-subscribers: 59
+subscribers: 62
 posts: 1
 comments: 0
 weight: 1

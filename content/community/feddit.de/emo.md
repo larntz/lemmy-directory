@@ -3,14 +3,14 @@ title: "Emo"
 name: "emo"
 description: "Ein deutsches Sammelsurium für alles rund um Emomusik."
 type: community
-date: "2023-06-30 13:13:52"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/emo"
 host: feddit.de
 lastmod: "2023-06-05 14:47:16"
 published: "2023-06-05 10:13:05"
-subscribers: 9
+subscribers: 15
 posts: 2
 comments: 0
 weight: 2

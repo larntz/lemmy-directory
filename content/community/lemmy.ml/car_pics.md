@@ -3,7 +3,7 @@ title: "Car Pics"
 name: "car_pics"
 description: "A community for all good looking, weird driving, and fast going cars around the world.#Rules1. Obey site-wide rules2. Pictures must have the car as the main focus4. No NSFW"
 type: community
-date: "2023-06-30 13:15:21"
+date: "2023-07-01 17:11:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/car_pics"

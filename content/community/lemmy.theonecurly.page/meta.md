@@ -3,7 +3,7 @@ title: "Meta"
 name: "meta"
 description: "Community for discussing TheOneCurly.page."
 type: community
-date: "2023-06-30 13:14:10"
+date: "2023-07-06 18:29:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.theonecurly.page/c/meta"

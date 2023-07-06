@@ -3,14 +3,14 @@ title: "No Lawns"
 name: "nolawns"
 description: "A community devoted to alternatives to monoculture lawns, with an emphasis on native plants and conservation. Rain gardens, xeriscaping, strolling gardens, native plants, and much more!"
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nolawns"
 host: lemmy.ml
 lastmod: "2023-06-05 00:05:38"
 published: "2023-06-04 23:19:38"
-subscribers: 53
+subscribers: 58
 posts: 5
 comments: 4
 weight: 5

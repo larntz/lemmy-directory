@@ -3,14 +3,14 @@ title: "Tonikaku Kawaii"
 name: "tonikakukawaii"
 description: "Rules comes, Eventually."
 type: community
-date: "2023-06-30 13:17:33"
+date: "2023-07-06 18:34:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tonikakukawaii"
 host: lemmy.world
 lastmod: "2023-06-19 18:47:09"
 published: "2023-06-19 17:24:05"
-subscribers: 2
+subscribers: 11
 posts: 1
 comments: 3
 weight: 1

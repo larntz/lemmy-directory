@@ -3,14 +3,14 @@ title: "Stalin? Get the tanks!"
 name: "stalingetthetanks"
 description: "For when you see fashie shit in ex-Eastern-Bloc countries"
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/stalingetthetanks"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-10-19 19:59:49"
-subscribers: 36
+subscribers: 41
 posts: 4
 comments: 23
 weight: 4

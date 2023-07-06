@@ -3,14 +3,14 @@ title: "Face palm"
 name: "facepalm"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/facepalm"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-12-14 21:50:53"
-subscribers: 14
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

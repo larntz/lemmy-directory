@@ -3,14 +3,14 @@ title: "NrdLi"
 name: "nrdli"
 description: "The place for announcements and other official communication about this Lemmy instance."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-06 18:29:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nrd.li/c/nrdli"
 host: lemmy.nrd.li
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 16:38:42"
-subscribers: 4
+subscribers: 9
 posts: 3
 comments: 0
 weight: 3

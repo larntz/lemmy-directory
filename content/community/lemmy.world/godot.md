@@ -3,14 +3,14 @@ title: "Godot: The open source game engine"
 name: "godot"
 description: "A community for discussion and support in development with the Godot game engine."
 type: community
-date: "2023-06-30 13:17:51"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/godot"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 11:56:52"
-subscribers: 47
+subscribers: 59
 posts: 1
 comments: 0
 weight: 1

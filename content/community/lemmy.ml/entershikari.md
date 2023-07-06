@@ -3,14 +3,14 @@ title: "Enter Shikari"
 name: "entershikari"
 description: "Enter Shikari music band from the UK"
 type: community
-date: "2023-06-30 13:15:18"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/entershikari"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 16:03:12"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

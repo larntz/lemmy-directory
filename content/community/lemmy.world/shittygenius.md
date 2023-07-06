@@ -3,14 +3,14 @@ title: "Shitty Genius"
 name: "shittygenius"
 description: "It may be held together with tape and spit but it's kinda brilliant. Or maybe it's a genius idea, but kinda shitty too."
 type: community
-date: "2023-06-30 13:17:13"
+date: "2023-07-06 18:34:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/shittygenius"
 host: lemmy.world
 lastmod: "2023-06-26 20:15:45"
 published: "2023-06-26 20:04:42"
-subscribers: 8
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "testing"
 name: "testcom"
 description: "Testing"
 type: community
-date: "2023-06-30 13:14:15"
+date: "2023-07-01 17:10:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.gestoord.net/c/testcom"

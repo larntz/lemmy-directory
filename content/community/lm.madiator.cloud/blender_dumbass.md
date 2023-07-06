@@ -3,14 +3,14 @@ title: "The Blender Dumbass Sub-Lemmy"
 name: "blender_dumbass"
 description: "The Sub-Lemmy for anything related to Blender Dumbass."
 type: community
-date: "2023-06-30 13:13:49"
+date: "2023-07-06 18:29:27"
 draft: false
 nsfw: false
 actor_id: "https://lm.madiator.cloud/c/blender_dumbass"
 host: lm.madiator.cloud
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 18:19:43"
-subscribers: 5
+subscribers: 10
 posts: 2
 comments: 1
 weight: 2

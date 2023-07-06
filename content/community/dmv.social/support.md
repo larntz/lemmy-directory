@@ -3,14 +3,14 @@ title: "dmv.social Support"
 name: "support"
 description: "Support for issues related to dmv.socialPlease ensure your post contains:1. What issue are you facing or what error occurred?2. What did you try to do before the issue happened?3. What were you expecting to happen instead?"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/support"
 host: dmv.social
 lastmod: "2023-06-17 01:07:24"
 published: "2023-06-14 22:11:43"
-subscribers: 7
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

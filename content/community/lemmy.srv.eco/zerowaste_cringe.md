@@ -3,7 +3,7 @@ title: "😬 ZeroWaste Cringe"
 name: "zerowaste_cringe"
 description: "For fans of ZeroWaste to share images and stories of wasteful practices that make them cringe!"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/zerowaste_cringe"

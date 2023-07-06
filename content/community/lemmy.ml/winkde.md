@@ -3,14 +3,14 @@ title: "WinKDE"
 name: "winkde"
 description: "The KDE Plasma Desktop, simplified."
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-03 20:17:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/winkde"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-09-03 01:39:54"
-subscribers: 16
+subscribers: 17
 posts: 1
 comments: 0
 weight: 1

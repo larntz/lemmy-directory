@@ -3,20 +3,20 @@ title: "Midjourney"
 name: "midjourney"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:57"
+date: "2023-07-06 18:34:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/midjourney"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 04:58:38"
-subscribers: 6
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 17
+posts: 1
+comments: 2
+weight: 1
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

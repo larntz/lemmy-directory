@@ -3,14 +3,14 @@ title: "retro computing"
 name: "retrocomputing"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:35"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/retrocomputing"
 host: lemmy.world
 lastmod: "2023-06-20 21:03:30"
 published: "2023-06-20 20:57:15"
-subscribers: 3
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Third Code | Açık Kaynak ve Özgür Dünya"
 name: "thirdcode"
 description: "t.me/ThirdCode"
 type: community
-date: "2023-06-30 13:15:14"
+date: "2023-07-03 20:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/thirdcode"

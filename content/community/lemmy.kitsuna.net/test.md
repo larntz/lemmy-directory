@@ -3,14 +3,14 @@ title: "lemmy tests "
 name: "test"
 description: "for testing various lemmy things"
 type: community
-date: "2023-06-30 13:13:59"
+date: "2023-07-06 18:29:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.kitsuna.net/c/test"
 host: lemmy.kitsuna.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 07:03:32"
-subscribers: 2
+subscribers: 6
 posts: 4
 comments: 0
 weight: 4

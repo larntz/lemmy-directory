@@ -3,7 +3,7 @@ title: "Shitcoins"
 name: "shitcoins"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shitcoins"

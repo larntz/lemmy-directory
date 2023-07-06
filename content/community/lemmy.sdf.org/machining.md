@@ -3,14 +3,14 @@ title: "Machining"
 name: "machining"
 description: "Community for discussions involving machining and subtractive manufacturing processes."
 type: community
-date: "2023-06-29 12:34:38"
+date: "2023-07-04 14:51:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/machining"
 host: lemmy.sdf.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 09:18:45"
-subscribers: 5
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

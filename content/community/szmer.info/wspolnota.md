@@ -3,20 +3,20 @@ title: "wspólnota"
 name: "wspolnota"
 description: "O Szmerze - domyślna społeczność platformy"
 type: community
-date: "2023-06-28 15:17:50"
+date: "2023-07-04 20:51:25"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wspolnota"
 host: szmer.info
-lastmod: "2023-06-28 15:17:50"
+lastmod: "2023-01-23 10:39:44"
 published: "2020-05-07 16:04:44"
-subscribers: 1676
-posts: 1058
-comments: 1877
-weight: 1058
-dau: 8
-wau: 21
-mau: 46
+subscribers: 1694
+posts: 1060
+comments: 1910
+weight: 1060
+dau: 1
+wau: 16
+mau: 50
 instances:
 - "szmer_info"
 tags: 

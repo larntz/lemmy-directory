@@ -3,14 +3,14 @@ title: "chicubs"
 name: "chicubs"
 description: "placeholder"
 type: community
-date: "2023-06-30 13:17:43"
+date: "2023-07-03 20:23:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chicubs"
 host: lemmy.world
 lastmod: "2023-06-22 01:15:03"
 published: "2023-06-12 00:42:01"
-subscribers: 12
+subscribers: 19
 posts: 1
 comments: 0
 weight: 1

@@ -3,17 +3,17 @@ title: "HIMYM"
 name: "himym"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:18:00"
+date: "2023-07-03 20:22:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/himym"
 host: lemmy.world
-lastmod: "2023-06-30 05:42:02"
+lastmod: "2023-07-02 05:57:49"
 published: "2023-06-22 16:17:14"
-subscribers: 10
-posts: 2
+subscribers: 20
+posts: 3
 comments: 0
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 1

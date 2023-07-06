@@ -3,14 +3,14 @@ title: "schwartz.world"
 name: "schwartzworld"
 description: "Only Schwartz may post. All others may comment."
 type: community
-date: "2023-06-30 13:15:22"
+date: "2023-07-03 20:17:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/schwartzworld"
 host: lemmy.ml
 lastmod: "2020-07-06 18:14:21"
 published: "2020-07-05 00:09:29"
-subscribers: 3
+subscribers: 5
 posts: 9
 comments: 2
 weight: 9

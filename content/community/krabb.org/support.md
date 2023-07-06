@@ -3,14 +3,14 @@ title: "Krab Borg Support"
 name: "support"
 description: "Need help with Krab Borg? Post here and we'll get to you as soon as we can!You can also email us: support@krabb.org"
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://krabb.org/c/support"
 host: krabb.org
 lastmod: "2023-06-25 12:46:30"
 published: "2023-06-23 17:06:52"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

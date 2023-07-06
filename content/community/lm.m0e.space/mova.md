@@ -3,14 +3,14 @@ title: "Мова"
 name: "mova"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:53"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lm.m0e.space/c/mova"
 host: lm.m0e.space
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 22:40:41"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 1
 weight: 1

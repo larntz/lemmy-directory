@@ -3,14 +3,14 @@ title: "moonboot labs"
 name: "mbl"
 description: "General announcements and support community for the moonboot labs Lemmy instance"
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-06 18:29:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.mbl.social/c/mbl"
 host: lemmy.mbl.social
 lastmod: "2023-06-17 04:47:18"
 published: "2023-06-17 04:40:03"
-subscribers: 3
+subscribers: 5
 posts: 2
 comments: 1
 weight: 2

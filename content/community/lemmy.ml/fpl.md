@@ -3,7 +3,7 @@ title: "Fantasy Premier League"
 name: "fpl"
 description: "For discussing news and stats relating to Fantasy Premier League. Memes allowed."
 type: community
-date: "2023-06-30 13:15:28"
+date: "2023-07-01 17:11:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fpl"

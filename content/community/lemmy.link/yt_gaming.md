@@ -1,19 +1,19 @@
 ---
 title: "Youtube Gaming" 
 name: "yt_gaming"
-description: "#### Feeds- [PewDiePie](https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw)- [Markiplier](https://www.youtube.com/feeds/videos.xml?channel_id=UC7_YxT-KID8kRbqZo7MyscQ)- [VanossGaming](https://www.youtube.com/feeds/videos.xml?channel_id=UCKqH_9mk1waLgBiL2vT5b9g)"
+description: "#### Lemmy Link Matrix ChatHop into our room [#lemmylink:matrix.org](https://matrix.to/#/#lemmylink:matrix.org) on Matrix to provide any feedback or chat with us.#### Rules- No abusive language- No bigotry- No advertising- No pornography#### Feeds- [PewDiePie](https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw)- [Markiplier](https://www.youtube.com/feeds/videos.xml?channel_id=UC7_YxT-KID8kRbqZo7MyscQ)- [VanossGaming](https://www.youtube.com/feeds/videos.xml?channel_id=UCKqH_9mk1waLgBiL2vT5b9g)"
 type: community
-date: "2023-06-30 13:13:53"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.link/c/yt_gaming"
 host: lemmy.link
-lastmod: "2023-06-28 00:53:22"
+lastmod: "2023-07-02 05:11:12"
 published: "2023-06-25 07:27:21"
-subscribers: 6
-posts: 50
+subscribers: 13
+posts: 57
 comments: 0
-weight: 50
+weight: 57
 dau: 1
 wau: 1
 mau: 1

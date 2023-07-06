@@ -3,14 +3,14 @@ title: "MMORPGs"
 name: "mmorpgs"
 description: "Discussions about MMORPGs"
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-07-03 20:22:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mmorpgs"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 20:03:20"
-subscribers: 18
+subscribers: 21
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "diyelectronics"
 name: "diy_electronics"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:31"
+date: "2023-07-03 20:17:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diy_electronics"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-01-31 10:28:00"
-subscribers: 83
+subscribers: 85
 posts: 8
 comments: 3
 weight: 8

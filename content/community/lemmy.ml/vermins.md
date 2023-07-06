@@ -3,14 +3,14 @@ title: "Vermins - паразиты"
 name: "vermins"
 description: "Сервер майнкрафта основанный на идее, что игроки могут делать практически все что угодно. Мир никогда не сбрасывается, отсутствие любых правил. Вас не могут забанить ни по какой причине. Полная анархия. Отсутствие доната и ванильный майнкрафт"
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vermins"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-14 18:12:37"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

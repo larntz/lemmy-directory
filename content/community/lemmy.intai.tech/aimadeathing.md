@@ -1,22 +1,22 @@
 ---
 title: "AI Made A Thing" 
 name: "aimadeathing"
-description: "### Instance NotesPlease review our community rules and introduce yourself!- [Welcome!](https://lemmy.intai.tech/post/1511)- [Introduce yourself](https://lemmy.intai.tech/post/2710)- [Rules](https://lemmy.intai.tech/post/76)### Useful links- [AI Tools and Bot List](https://lemmy.intai.tech/post/2484)- [Machine Learning Communities](https://lemmy.intai.tech/post/2182)- [Fediverse Observer](https://lemmy.fediverse.observer/)- [Lemmy Community Browser](https://browse.feddit.de/)"
+description: "We follow Lemmy’s [code of conduct](https://lemmy.intai.tech/post/76).### Communities- [News and Events](https://lemmy.intai.tech/c/nev)- [Ethics, Law, Philsophy](https://lemmy.intai.tech/c/elp)- [ML Research](https://lemmy.intai.tech/c/mltheory)- [NLP/Prompting](https://lemmy.intai.tech/c/nlprog)- [Projects #buildinpublic](https://lemmy.intai.tech/c/promo)- [Jailbreaks and Security](https://lemmy.intai.tech/c/appsec)- [OffTopic](https://lemmy.intai.tech/c/poolside)### Useful links- [AI Tools and Bot List](https://lemmy.intai.tech/post/2484)- [Content Sources](https://lemmy.intai.tech/post/29512)- [Machine Learning Communities](https://lemmy.intai.tech/post/2182)- [Fediverse Resources](https://lemmy.intai.tech/post/30829)"
 type: community
-date: "2023-06-30 13:13:41"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.intai.tech/c/aimadeathing"
 host: lemmy.intai.tech
-lastmod: "2023-06-30 13:13:41"
+lastmod: "2023-07-03 00:54:04"
 published: "2023-06-29 17:22:23"
-subscribers: 1
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 68
+posts: 11
+comments: 5
+weight: 11
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_intai_tech"
 tags: 

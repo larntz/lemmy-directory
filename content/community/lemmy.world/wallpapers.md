@@ -3,20 +3,20 @@ title: "Wallpapers"
 name: "wallpapers"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:38:08"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wallpapers"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 00:05:50"
-subscribers: 10
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 34
+posts: 4
+comments: 3
+weight: 4
+dau: 3
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

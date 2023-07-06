@@ -3,7 +3,7 @@ title: "prayer "
 name: "prayer"
 description: "Post your requests and Christians on Lemmy will support you in prayer"
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/prayer"

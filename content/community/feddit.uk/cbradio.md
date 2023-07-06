@@ -3,14 +3,14 @@ title: "CBRadio"
 name: "cbradio"
 description: "licence free radio talk."
 type: community
-date: "2023-06-30 13:13:45"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/cbradio"
 host: feddit.uk
 lastmod: "2023-06-17 15:37:32"
 published: "2023-06-10 12:45:13"
-subscribers: 8
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "Firefox CN"
 name: "firefoxcn"
 description: "狐 基 来 玩 啊 "
 type: community
-date: "2023-06-30 13:15:24"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/firefoxcn"
 host: lemmy.ml
 lastmod: "2020-12-19 20:18:53"
 published: "2020-02-16 14:39:39"
-subscribers: 3
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "elektrotechnik"
 name: "elektrotechnik"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:51"
+date: "2023-07-06 16:41:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/elektrotechnik"
 host: feddit.de
-lastmod: "2023-06-30 13:13:51"
+lastmod: "2023-06-14 12:42:22"
 published: "2023-06-09 14:22:39"
-subscribers: 12
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0

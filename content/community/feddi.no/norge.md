@@ -3,14 +3,14 @@ title: "norge"
 name: "norge"
 description: "Innhold på norsk Content in Norwegian"
 type: community
-date: "2023-06-30 13:13:42"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://feddi.no/c/norge"
 host: feddi.no
 lastmod: "2023-06-10 08:47:58"
 published: "2023-06-10 08:46:36"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

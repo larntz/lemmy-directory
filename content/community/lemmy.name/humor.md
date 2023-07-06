@@ -1,9 +1,9 @@
 ---
 title: "Humor" 
 name: "humor"
-description: "Upload your funniest memes and anything else you find funny"
+description: "Memes and other humorous content. Keep it SFW and following site-wide rules."
 type: community
-date: "2023-06-29 12:35:06"
+date: "2023-07-06 18:29:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.name/c/humor"

@@ -3,14 +3,14 @@ title: "beets, beets, tasty beets,"
 name: "songproducers"
 description: "Share stuff about music production!"
 type: community
-date: "2023-06-29 12:37:54"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/songproducers"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 04:46:20"
-subscribers: 13
+subscribers: 18
 posts: 1
 comments: 1
 weight: 1

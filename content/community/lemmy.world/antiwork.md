@@ -3,20 +3,20 @@ title: "antiwork"
 name: "antiwork"
 description: "antiwork"
 type: community
-date: "2023-06-29 12:37:53"
+date: "2023-07-06 18:34:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/antiwork"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 09:23:04"
-subscribers: 52
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 84
+posts: 1
+comments: 5
+weight: 1
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

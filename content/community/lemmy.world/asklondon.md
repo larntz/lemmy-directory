@@ -3,14 +3,14 @@ title: "Ask London"
 name: "asklondon"
 description: "Affiliated with r/AskLondon - We're the official community for helping Londoners, London visitors, and aspiring Londonites."
 type: community
-date: "2023-06-30 13:17:37"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/asklondon"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 00:52:11"
-subscribers: 7
+subscribers: 12
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Hungry Hungry Hippos"
 name: "hungryhungryhippos"
 description: "This is a community devoted to images (preferably animated) of animals that are eating. 1. Be polite2. All posts must contain an image or a mp4/gif of an animal eating something. 3. Nature is metal, but cute photos are preferred. "
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hungryhungryhippos"

@@ -1,22 +1,22 @@
 ---
 title: "Houston Texans" 
 name: "texans"
-description: "A community for fans of the Houston Texans.Other related communities:-NFL !nfl@lemmy.world https://lemmy.ml/c/nfl-Arizona Cardinals !azcardinals@lemmy.ml-Chicago Bears !chibears@1337lemmy.com-Cincinnati Bengals !bengals@lemmy.world-Cleveland Browns !browns@lemmy.world-Dallas Cowboys !dallascowboys@lemmy.ml-Denver Broncos !denverbroncos@lemmy.ml-Detroit Lions !detroitlions@sh.itjust.works-Green Bay Packers !packers@sh.itjust.works-Indianapolis Colts !indianapoliscolts@midwest.social-Kansas City Chiefs !kansascitychiefs@lemmy.world-Jacksonville Jaguars !jaguars@lemmy.ml-Los Angeles Rams !larams@lemmy.world-Minnesota Vikings !minnesotavikings@feddit.de-New England Patriots !patriots@lemmy.ml-New York Jets nyjets@lemmy.ml-Philadelphia Eagles !eagles@lemmy.world-San Francisco 49ers !49ers@lemmy.world-Seattle Seahawks !seahawks@lemmy.ml-Washington Commanders !commanders@sh.itjust.works"
+description: "A community for fans of the Houston Texans.Other related communities:NFL !nfl@lemmy.ml - !nfl@lemmy.worldNFL Memes !nflmemes@lemmy.worldArizona Cardinals !azcardinals@lemmy.mlChicago Bears !chibears@1337lemmy.comCincinnati Bengals !bengals@lemmy.worldCleveland Browns !browns@lemmy.worldDallas Cowboys !dallascowboys@lemmy.mlDenver Broncos !denverbroncos@lemmy.mlDetroit Lions !detroitlions@sh.itjust.worksGreen Bay Packers !packers@sh.itjust.worksHouston Texans !texans@thelemmy.clubIndianapolis Colts !indianapoliscolts@midwest.socialKansas City Chiefs !kansascitychiefs@lemmy.worldJacksonville Jaguars !jaguars@lemmy.mlLos Angeles Chargers !chargers@sh.itjust.worksLos Angeles Rams !larams@lemmy.worldMinnesota Vikings !minnesotavikings@feddit.deNew England Patriots !patriots@lemmy.mlNew York Giants !newyorkgiants@lemmy.mlNew York Jets !nyjets@lemmy.mlPhiladelphia Eagles !eagles@lemmy.world - !eagles@philly.pagePittsburgh Steelers !steelers@lemmy.worldSan Francisco 49ers !49ers@lemmy.worldSeattle Seahawks !seahawks@lemmy.mlWashington Commanders !commanders@sh.itjust.works"
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-06 18:29:52"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/texans"
 host: thelemmy.club
-lastmod: "2023-06-14 23:53:18"
+lastmod: "2023-07-04 00:29:10"
 published: "2023-06-14 13:44:39"
-subscribers: 12
-posts: 12
-comments: 3
-weight: 12
+subscribers: 21
+posts: 17
+comments: 15
+weight: 17
 dau: 1
-wau: 1
-mau: 2
+wau: 4
+mau: 5
 instances:
 - "thelemmy_club"
 tags: 

@@ -3,14 +3,14 @@ title: "GramPals"
 name: "grampals"
 description: "Make new friends for chatting on Telegram!"
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/grampals"
 host: lemmy.ml
 lastmod: "2021-03-16 04:11:11"
 published: "2020-08-17 18:22:39"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 1
 weight: 1

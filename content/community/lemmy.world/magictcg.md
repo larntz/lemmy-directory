@@ -3,20 +3,20 @@ title: "Magic: The Gathering"
 name: "magictcg"
 description: "Anything & everything about the trading card game Magic: the Gathering, Magic Arena, etc."
 type: community
-date: "2023-06-30 13:18:01"
+date: "2023-07-03 20:23:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/magictcg"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 19:17:34"
-subscribers: 497
-posts: 12
-comments: 49
-weight: 12
-dau: 3
+subscribers: 645
+posts: 14
+comments: 56
+weight: 14
+dau: 1
 wau: 13
-mau: 37
+mau: 41
 instances:
 - "lemmy_world"
 tags: 

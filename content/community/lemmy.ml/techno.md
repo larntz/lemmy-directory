@@ -3,14 +3,14 @@ title: "techno"
 name: "techno"
 description: "Posts about Techno music"
 type: community
-date: "2023-06-30 13:15:24"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techno"
 host: lemmy.ml
 lastmod: "2021-01-13 18:44:24"
 published: "2021-01-13 18:44:12"
-subscribers: 26
+subscribers: 29
 posts: 6
 comments: 2
 weight: 6

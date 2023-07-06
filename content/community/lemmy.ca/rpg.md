@@ -3,20 +3,20 @@ title: "Role Playing Games"
 name: "rpg"
 description: "For the discussion of Tabletop Role Playing Games"
 type: community
-date: "2023-06-27 16:16:02"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/rpg"
 host: lemmy.ca
-lastmod: "2023-06-27 16:16:02"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 14:55:31"
-subscribers: 360
-posts: 9
-comments: 54
-weight: 9
+subscribers: 463
+posts: 10
+comments: 60
+weight: 10
 dau: 1
-wau: 2
-mau: 32
+wau: 7
+mau: 37
 instances:
 - "lemmy_ca"
 tags: 

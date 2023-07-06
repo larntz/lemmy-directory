@@ -3,20 +3,20 @@ title: "Pebble"
 name: "pebble"
 description: "For discussion of the Pebble smartwatch."
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pebble"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 20:54:47"
-subscribers: 15
-posts: 2
-comments: 1
-weight: 2
+subscribers: 20
+posts: 3
+comments: 2
+weight: 3
 dau: 1
-wau: 1
-mau: 3
+wau: 2
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

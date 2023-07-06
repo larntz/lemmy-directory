@@ -3,7 +3,7 @@ title: "Apache JMeter"
 name: "jmeter"
 description: "Yes, people still use jmeter!"
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/jmeter"

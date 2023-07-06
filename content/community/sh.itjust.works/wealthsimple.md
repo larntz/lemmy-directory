@@ -3,14 +3,14 @@ title: "Wealthsimple"
 name: "wealthsimple"
 description: "A community to discuss the investing and trading platform Wealthsimple."
 type: community
-date: "2023-06-30 13:14:19"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/wealthsimple"
 host: sh.itjust.works
 lastmod: "2023-06-24 02:53:42"
 published: "2023-06-21 23:51:01"
-subscribers: 9
+subscribers: 17
 posts: 4
 comments: 2
 weight: 4

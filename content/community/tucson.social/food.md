@@ -1,16 +1,16 @@
 ---
 title: "Tucson Food" 
 name: "food"
-description: "Whether you want to try a different 2AM Taco shop or want to show off your summer ratatouille con chile verde this is the place for you!"
+description: "This is Tucson's kitchen, where we celebrate the delicious diversity of our city. Share your restaurant experiences, home-cooked meals, or your latest garden harvest. Savor the culinary culture of Tucson right here!"
 type: community
-date: "2023-06-30 13:14:10"
+date: "2023-07-06 18:29:48"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/food"
 host: tucson.social
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-01 09:08:38"
 published: "2023-06-12 06:14:50"
-subscribers: 16
+subscribers: 21
 posts: 1
 comments: 2
 weight: 1

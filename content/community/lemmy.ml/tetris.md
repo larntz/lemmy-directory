@@ -3,14 +3,14 @@ title: "Tetris"
 name: "tetris"
 description: "For discussing the video game tetris"
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/tetris"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-11-01 06:22:52"
-subscribers: 11
+subscribers: 15
 posts: 2
 comments: 1
 weight: 2

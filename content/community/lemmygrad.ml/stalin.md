@@ -3,14 +3,14 @@ title: "Stalin"
 name: "stalin"
 description: "A sub for Stalin pictures and his works."
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/stalin"
 host: lemmygrad.ml
 lastmod: "2020-11-01 11:23:43"
 published: "2020-10-31 10:38:00"
-subscribers: 81
+subscribers: 86
 posts: 5
 comments: 0
 weight: 5

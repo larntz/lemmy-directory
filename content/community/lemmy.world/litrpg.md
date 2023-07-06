@@ -3,14 +3,14 @@ title: "LitRPG"
 name: "litrpg"
 description: "All things LitRPG related    ---"
 type: community
-date: "2023-06-30 13:17:36"
+date: "2023-07-06 18:33:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/litrpg"
 host: lemmy.world
 lastmod: "2023-06-22 04:41:12"
 published: "2023-06-21 22:39:24"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

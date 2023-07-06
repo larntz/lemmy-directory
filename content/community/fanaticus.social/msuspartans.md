@@ -3,7 +3,7 @@ title: "Michigan State Spartans"
 name: "msuspartans"
 description: "A community to discuss Michigan State Spartans athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-28 15:18:25"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/msuspartans"

@@ -3,14 +3,14 @@ title: "Anarchy"
 name: "anarchy"
 description: "Discussion of anarchist ideologies, including (but not limited to) agorism, voluntarism, market anarchism, and individualist anarchism."
 type: community
-date: "2023-06-30 13:15:18"
+date: "2023-07-03 20:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarchy"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 00:01:39"
-subscribers: 39
+subscribers: 40
 posts: 3
 comments: 0
 weight: 3

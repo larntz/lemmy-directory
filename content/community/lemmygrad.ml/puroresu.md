@@ -3,7 +3,7 @@ title: "Here is a space to discuss Puroresu from a leftist perspective."
 name: "puroresu"
 description: "'What is Puroresu?'Puroresu is a form of Japanese wrestling that is still performed to  this day in Japanese promotions across the country."
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/puroresu"

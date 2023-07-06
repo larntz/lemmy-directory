@@ -3,20 +3,20 @@ title: "Philadelphia Eagles"
 name: "eagles"
 description: "A community dedicated to the Philadelphia Eagles.**Looking for Mods!**"
 type: community
-date: "2023-06-27 16:15:58"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/eagles"
 host: fanaticus.social
-lastmod: "2023-06-27 16:15:58"
+lastmod: "2023-06-17 19:13:51"
 published: "2023-06-14 01:10:51"
-subscribers: 5
+subscribers: 17
 posts: 4
 comments: 1
 weight: 4
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 3
 instances:
 - "fanaticus_social"
 tags: 

@@ -3,14 +3,14 @@ title: "Elon Musk"
 name: "elonmusk"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:05"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/elonmusk"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-06-28 17:57:47"
 published: "2023-06-13 22:43:15"
-subscribers: 2
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

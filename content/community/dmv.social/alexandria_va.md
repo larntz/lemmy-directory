@@ -1,19 +1,19 @@
 ---
 title: "Alexandria, Virginia" 
 name: "alexandria_va"
-description: "A community for AlexandriaA few rules for this community:- Don’t be a jerk! This isn’t the place for bigotry, provoking users, name-calling, inciting harm, harassing others, spreading malicious misinformation, and other foul behavior.- No unlawful content. We’re not looking to get in trouble.- Don’t share other’s personal information. This includes names, addresses, contact information, and private data.- Keep it “generally SFW”. Rule of thumb: if you’re willing to view it on your phone at the office, it’s probably okay.- Let’s keep it light and fun!Other communities in the region hosted by this instance  can be found on [dmv.social](https://dmv.social/communities)"
+description: "A community for AlexandriaPlease review the [dmv.social Community Guidelines](https://dmv.social/post/40136) before participating.Other communities in the region hosted by this instance  can be found on [dmv.social](https://dmv.social/communities)"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/alexandria_va"
 host: dmv.social
-lastmod: "2023-06-14 19:26:40"
+lastmod: "2023-07-04 00:04:56"
 published: "2023-06-12 14:42:06"
-subscribers: 10
-posts: 3
+subscribers: 13
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1

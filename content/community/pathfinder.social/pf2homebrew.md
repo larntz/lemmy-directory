@@ -3,14 +3,14 @@ title: "Pathfinder 2e Homebrew"
 name: "pf2homebrew"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:37"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/pf2homebrew"
 host: pathfinder.social
 lastmod: "2023-06-04 17:03:39"
 published: "2023-06-04 17:02:55"
-subscribers: 52
+subscribers: 80
 posts: 2
 comments: 0
 weight: 2

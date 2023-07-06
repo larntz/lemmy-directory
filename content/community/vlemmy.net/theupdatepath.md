@@ -3,14 +3,14 @@ title: "theupdatepath"
 name: "theupdatepath"
 description: "A medium to learn"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/theupdatepath"
 host: vlemmy.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 18:21:29"
-subscribers: 2
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

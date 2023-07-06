@@ -3,7 +3,7 @@ title: "Ask the Internet"
 name: "askinternet"
 description: "c/askinternet is the place to ask and answer thought-provoking questions."
 type: community
-date: "2023-06-29 12:38:00"
+date: "2023-07-06 18:34:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/askinternet"

@@ -1,22 +1,22 @@
 ---
 title: "Surreal meme" 
 name: "surrealmeme"
-description: "Only surreal meme"
+description: "Only surreal meme.no politics no racism no homophobia no transphobia related communities :https://lemmy.world/c/comedyheaven"
 type: community
-date: "2023-06-30 13:13:48"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/surrealmeme"
 host: lemmy.ca
-lastmod: "2023-06-14 19:50:52"
+lastmod: "2023-07-05 15:41:31"
 published: "2023-06-14 13:03:08"
-subscribers: 35
-posts: 12
-comments: 2
-weight: 12
+subscribers: 109
+posts: 17
+comments: 7
+weight: 17
 dau: 1
-wau: 1
-mau: 4
+wau: 5
+mau: 8
 instances:
 - "lemmy_ca"
 tags: 

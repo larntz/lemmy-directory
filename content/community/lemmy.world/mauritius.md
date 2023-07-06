@@ -3,7 +3,7 @@ title: "Mauritius"
 name: "mauritius"
 description: "**Mauritius**[EN] Republic of Mauritius[FR] République de Maurice[MU] Repiblik Moris*Stella Clavisque Maris Indici*----[Chat on [matrix]](https://matrix.to/#/#mur:matrix.org)---**Rules**  - Be nice- No doxxing- Posts must be relevant to Mauritius- No pornography"
 type: community
-date: "2023-06-30 13:17:34"
+date: "2023-07-03 20:22:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mauritius"

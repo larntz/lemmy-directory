@@ -3,14 +3,14 @@ title: "Buceo en Español"
 name: "buceo_es"
 description: "Comunidad de Buceo.Diving Community"
 type: community
-date: "2023-06-30 13:15:21"
+date: "2023-07-03 20:17:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/buceo_es"
 host: lemmy.ml
 lastmod: "2020-02-14 19:05:29"
 published: "2020-02-14 06:06:29"
-subscribers: 12
+subscribers: 14
 posts: 24
 comments: 2
 weight: 24

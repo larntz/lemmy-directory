@@ -3,14 +3,14 @@ title: "College: talk about the greatest years of your life or problems you're f
 name: "college"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:20"
+date: "2023-07-03 20:17:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/college"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-09 23:15:56"
-subscribers: 9
+subscribers: 12
 posts: 3
 comments: 3
 weight: 3

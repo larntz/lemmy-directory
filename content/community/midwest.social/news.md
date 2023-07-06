@@ -3,14 +3,14 @@ title: "News"
 name: "news"
 description: "A place to post news stories"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-04 20:51:26"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/news"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2022-09-24 12:40:35"
-subscribers: 71
+subscribers: 76
 posts: 6
 comments: 2
 weight: 6

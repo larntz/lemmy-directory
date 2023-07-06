@@ -3,7 +3,7 @@ title: "Ozzy Osbourne"
 name: "ozzy"
 description: "*Who the fuck is Justin Bieber?***Other Communities:**[Black Sabbath](https://lemmy.world/c/blacksabbath@lemmy.world)[Metal](https://lemmy.world/c/metal@lemmy.world)"
 type: community
-date: "2023-06-30 13:17:59"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ozzy"

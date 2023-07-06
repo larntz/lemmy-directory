@@ -3,14 +3,14 @@ title: "For the best K-pop girl group"
 name: "loona"
 description: "For the best K-pop girl group"
 type: community
-date: "2023-06-30 13:15:24"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/loona"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 20:52:14"
-subscribers: 4
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

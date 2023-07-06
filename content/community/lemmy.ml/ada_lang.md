@@ -3,14 +3,14 @@ title: "Ada"
 name: "ada_lang"
 description: "Ada programming language. For memory safe multi task programming, elegant embedded bit fiddling and everything else in a readable way"
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ada_lang"
 host: lemmy.ml
 lastmod: "2022-04-18 10:30:54"
 published: "2021-02-08 15:21:27"
-subscribers: 26
+subscribers: 28
 posts: 30
 comments: 12
 weight: 30

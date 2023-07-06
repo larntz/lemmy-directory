@@ -3,14 +3,14 @@ title: "depreciated"
 name: "nerdlatechni"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nerdlatechni"
 host: lemmy.ml
 lastmod: "2021-03-18 22:17:21"
 published: "2021-03-18 22:08:18"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

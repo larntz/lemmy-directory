@@ -3,12 +3,12 @@ title: "Nova Rock"
 name: "novarock"
 description: "A community dedicated to Nova Rock"
 type: community
-date: "2023-06-30 13:17:36"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/novarock"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 20:57:44"
 subscribers: 2
 posts: 0

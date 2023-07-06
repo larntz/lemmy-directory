@@ -3,14 +3,14 @@ title: "UwU was das :3"
 name: "uwu"
 description: "| >///< |"
 type: community
-date: "2023-06-28 15:17:52"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/uwu"
 host: feddit.de
 lastmod: "2023-06-14 14:15:23"
 published: "2023-06-14 07:18:23"
-subscribers: 15
+subscribers: 19
 posts: 1
 comments: 12
 weight: 1

@@ -3,7 +3,7 @@ title: "Making moves? Post them here."
 name: "wsb_main"
 description: "DD, gains, losses, etc.. "
 type: community
-date: "2023-06-30 13:13:52"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_main"

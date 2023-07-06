@@ -3,14 +3,14 @@ title: "Award Travel"
 name: "awardtravel"
 description: "A place to discuss anything related to redeeming airline miles & hotel points."
 type: community
-date: "2023-06-29 12:37:54"
+date: "2023-07-01 17:14:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/awardtravel"
 host: lemmy.world
 lastmod: "2023-06-15 02:45:34"
 published: "2023-06-15 02:40:42"
-subscribers: 11
+subscribers: 15
 posts: 5
 comments: 1
 weight: 5

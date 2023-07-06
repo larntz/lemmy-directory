@@ -3,14 +3,14 @@ title: "PlayStation, PS1, PSX"
 name: "ps1"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:18"
+date: "2023-07-03 20:17:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ps1"
 host: lemmy.ml
 lastmod: "2023-06-16 12:58:14"
 published: "2023-06-16 12:57:33"
-subscribers: 20
+subscribers: 25
 posts: 3
 comments: 3
 weight: 3

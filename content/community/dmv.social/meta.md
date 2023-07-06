@@ -3,17 +3,17 @@ title: "dmv.social meta"
 name: "meta"
 description: "News, announcements, and information about the dmv.social Lemmy community"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/meta"
 host: dmv.social
 lastmod: "2023-06-13 23:05:56"
 published: "2023-06-09 00:35:14"
-subscribers: 21
-posts: 9
-comments: 10
-weight: 9
+subscribers: 29
+posts: 10
+comments: 11
+weight: 10
 dau: 1
 wau: 1
 mau: 7

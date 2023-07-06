@@ -3,7 +3,7 @@ title: "lawschool"
 name: "lawschool"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:59"
+date: "2023-07-03 20:16:12"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/lawschool"

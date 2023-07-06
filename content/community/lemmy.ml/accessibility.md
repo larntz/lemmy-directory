@@ -3,14 +3,14 @@ title: "Accessibility"
 name: "accessibility"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:21"
+date: "2023-07-03 20:17:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/accessibility"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-06-22 22:00:26"
-subscribers: 28
+subscribers: 30
 posts: 10
 comments: 16
 weight: 10

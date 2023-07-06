@@ -3,14 +3,14 @@ title: "Ableton User Group"
 name: "abletonusergroup"
 description: "Ableton community meant for asking questions, sharing advice, and collectively improving our knowledge.Not for self promotion.This is not an official Ableton page."
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/abletonusergroup"
 host: lemmy.ml
 lastmod: "2023-06-05 19:50:20"
 published: "2023-06-03 20:25:02"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

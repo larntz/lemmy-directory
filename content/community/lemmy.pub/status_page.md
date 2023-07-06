@@ -3,7 +3,7 @@ title: "Status Page"
 name: "status_page"
 description: "A status page for instance/server related changes."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-06 18:29:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pub/c/status_page"

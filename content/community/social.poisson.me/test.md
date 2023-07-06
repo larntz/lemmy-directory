@@ -3,14 +3,14 @@ title: "test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://social.poisson.me/c/test"
 host: social.poisson.me
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 17:11:43"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

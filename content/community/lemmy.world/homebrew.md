@@ -3,14 +3,14 @@ title: "Homebrew"
 name: "homebrew"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:48"
+date: "2023-07-06 18:34:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homebrew"
 host: lemmy.world
 lastmod: "2023-06-19 06:04:49"
 published: "2023-06-18 05:03:55"
-subscribers: 9
+subscribers: 18
 posts: 1
 comments: 0
 weight: 1

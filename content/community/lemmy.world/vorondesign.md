@@ -3,20 +3,20 @@ title: "VoronDesign"
 name: "vorondesign"
 description: "lemmy.world community for VoronDesign 3D printers"
 type: community
-date: "2023-06-30 13:17:14"
+date: "2023-07-03 20:22:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vorondesign"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 11:09:57"
-subscribers: 9
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 36
+posts: 3
+comments: 11
+weight: 3
+dau: 1
+wau: 8
+mau: 8
 instances:
 - "lemmy_world"
 tags: 

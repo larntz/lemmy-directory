@@ -3,14 +3,14 @@ title: "fish"
 name: "fish"
 description: "Everything about the friendly interactive shell"
 type: community
-date: "2023-06-30 13:15:14"
+date: "2023-07-03 20:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fish"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-05-22 21:48:12"
-subscribers: 39
+subscribers: 38
 posts: 0
 comments: 0
 weight: 0

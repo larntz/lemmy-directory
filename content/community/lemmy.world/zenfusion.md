@@ -3,14 +3,14 @@ title: "Zen Fusion"
 name: "zenfusion"
 description: "Zen Fusion is a community for anyone interested in Zen, the practice of meditation and insight that points directly to the mind. Zen originated in China and spread to Japan, Korea, Vietnam, and other parts of Asia, where it developed into various schools and traditions. In this community, we explore how Zen has been influenced by and integrated with different cultures and philosophies in the west, and how it can help us cope with the challenges of modern life. We welcome all Zen traditions and schools, from Chan to Thien to Zen, from Soto to Rinzai to others. We also welcome respectful dialogue and debate about Zen-related topics."
 type: community
-date: "2023-06-30 13:17:59"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/zenfusion"
 host: lemmy.world
 lastmod: "2023-06-29 23:59:29"
 published: "2023-06-13 23:24:59"
-subscribers: 3
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

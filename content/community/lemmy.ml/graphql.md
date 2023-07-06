@@ -3,7 +3,7 @@ title: "GraphQL Programming"
 name: "graphql"
 description: "This is the (unofficial!) community for all things GraphQL - discussion, advice, questions and tutorials!"
 type: community
-date: "2023-06-30 13:15:19"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/graphql"

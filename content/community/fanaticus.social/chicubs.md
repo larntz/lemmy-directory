@@ -3,20 +3,20 @@ title: "CHI Cubs"
 name: "chicubs"
 description: "Cloned from [r/CHICubs](https://old.reddit.com/r/CHICubs)# Looking for mods!"
 type: community
-date: "2023-06-30 13:14:20"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/chicubs"
 host: fanaticus.social
 lastmod: "2023-06-12 16:46:10"
 published: "2023-06-09 17:18:03"
-subscribers: 8
-posts: 19
+subscribers: 27
+posts: 22
 comments: 24
-weight: 19
+weight: 22
 dau: 1
 wau: 1
-mau: 1
+mau: 4
 instances:
 - "fanaticus_social"
 tags: 

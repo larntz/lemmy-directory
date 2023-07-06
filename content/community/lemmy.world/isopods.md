@@ -3,20 +3,20 @@ title: "All things Isopod."
 name: "isopods"
 description: "Isopods (order [isopoda](https://en.wikipedia.org/wiki/Isopoda)) are seven segmented crustaceans found in almost every conceivable environment, from the deep sea, coasts, rivers, ponds, deserts, tree-tops, forest floors as well as gardens and bathrooms across the world! They may just be natures *greatest* creation.  [Icon credit.](https://twitter.com/crevicedwelling/status/1625617943416414212)"
 type: community
-date: "2023-06-30 13:17:39"
+date: "2023-07-06 18:34:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/isopods"
 host: lemmy.world
 lastmod: "2023-06-12 21:54:30"
 published: "2023-06-12 15:48:36"
-subscribers: 56
-posts: 6
-comments: 12
-weight: 6
+subscribers: 75
+posts: 10
+comments: 14
+weight: 10
 dau: 1
-wau: 1
-mau: 5
+wau: 2
+mau: 7
 instances:
 - "lemmy_world"
 tags: 

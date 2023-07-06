@@ -3,14 +3,14 @@ title: "Amish"
 name: "amish"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/amish"
 host: vlemmy.net
 lastmod: "2023-06-14 13:29:31"
 published: "2023-06-12 16:19:39"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

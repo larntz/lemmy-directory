@@ -3,14 +3,14 @@ title: "mechanomads"
 name: "mechanomads"
 description: "holding"
 type: community
-date: "2023-06-30 13:17:57"
+date: "2023-07-03 20:22:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mechanomads"
 host: lemmy.world
 lastmod: "2023-06-27 06:32:53"
 published: "2023-06-24 20:00:29"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,17 +3,17 @@ title: "Home Automation "
 name: "home_automation"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/home_automation"
 host: lemmyonline.com
-lastmod: "2023-06-30 13:13:55"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-30 00:33:39"
-subscribers: 1
-posts: 1
+subscribers: 6
+posts: 3
 comments: 0
-weight: 1
+weight: 3
 dau: 1
 wau: 1
 mau: 1

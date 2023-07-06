@@ -3,7 +3,7 @@ title: "Dzokchen"
 name: "dzokchen"
 description: "A community for discussing Dzokchen (རྫོགས་ཆེན་), the Great Perfection."
 type: community
-date: "2023-06-30 13:17:58"
+date: "2023-07-03 20:22:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dzokchen"

@@ -3,14 +3,14 @@ title: "Sheet Music and Tabulature"
 name: "sheetmusic"
 description: "Place to post and request sheet music and tabs. For now, let's go with this format:[Instrument] *post title*My level of interest in modding is pretty low. I'm trusting you all to behave. Honor system is in play. "
 type: community
-date: "2023-06-30 13:17:14"
+date: "2023-07-06 18:34:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sheetmusic"
 host: lemmy.world
 lastmod: "2023-06-28 03:17:21"
 published: "2023-06-22 05:48:27"
-subscribers: 22
+subscribers: 32
 posts: 9
 comments: 0
 weight: 9

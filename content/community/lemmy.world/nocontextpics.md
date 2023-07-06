@@ -3,17 +3,17 @@ title: "no context"
 name: "nocontextpics"
 description: "A place for posting anything out of context.Please caption any posts PIC"
 type: community
-date: "2023-06-30 13:17:41"
+date: "2023-07-03 20:22:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nocontextpics"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 03:38:58"
-subscribers: 231
-posts: 14
+subscribers: 273
+posts: 16
 comments: 7
-weight: 14
+weight: 16
 dau: 1
 wau: 1
 mau: 10

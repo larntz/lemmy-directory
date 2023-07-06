@@ -3,7 +3,7 @@ title: "Car Talk UK"
 name: "cartalkuk"
 description: "A Community to discuss all things cars - UK based!"
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-01 17:10:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.nerdcave.us/c/cartalkuk"

@@ -3,7 +3,7 @@ title: "Nietzsche"
 name: "nietzsche"
 description: "Friedrich Nietzsche (1844–1900) was a German philosopher and cultural critic who published intensively in the 1870s and 1880s. He is famous for uncompromising criticisms of traditional European morality and religion, as well as of conventional philosophical ideas and social and political pieties associated with modernity. - Stanford Encyclopedia of Philosophy"
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-01 17:11:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nietzsche"

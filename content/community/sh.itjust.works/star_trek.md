@@ -3,14 +3,14 @@ title: "Star Trek"
 name: "star_trek"
 description: "The final frontier.Infinite Diversity In Infinite Combinations."
 type: community
-date: "2023-06-30 13:14:19"
+date: "2023-07-04 20:52:22"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/star_trek"
 host: sh.itjust.works
 lastmod: "2023-06-22 12:12:39"
 published: "2023-06-22 07:21:30"
-subscribers: 11
+subscribers: 20
 posts: 1
 comments: 0
 weight: 1

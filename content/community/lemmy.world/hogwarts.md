@@ -3,14 +3,14 @@ title: "Hogwarts"
 name: "hogwarts"
 description: "Description not available."
 type: community
-date: "2023-06-27 16:19:33"
+date: "2023-07-06 18:34:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hogwarts"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:33"
+lastmod: "2023-06-20 15:00:10"
 published: "2023-06-20 14:37:15"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

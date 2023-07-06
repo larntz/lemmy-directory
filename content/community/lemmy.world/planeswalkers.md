@@ -3,14 +3,14 @@ title: "Planeswalkers"
 name: "planeswalkers"
 description: "[!mtg@lemmy.world](https://lemmy.world/c/mtg)"
 type: community
-date: "2023-06-29 12:37:48"
+date: "2023-07-03 20:22:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/planeswalkers"
 host: lemmy.world
 lastmod: "2023-06-12 05:36:21"
 published: "2023-06-12 05:30:51"
-subscribers: 0
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

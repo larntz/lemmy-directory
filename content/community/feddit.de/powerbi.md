@@ -3,14 +3,14 @@ title: "PowerBI"
 name: "powerbi"
 description: "Community to discuss everything related to Microsoft PowerBI"
 type: community
-date: "2023-06-30 13:13:49"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/powerbi"
 host: feddit.de
-lastmod: "2023-06-30 13:13:49"
+lastmod: "2023-06-29 17:24:35"
 published: "2023-06-29 17:24:08"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

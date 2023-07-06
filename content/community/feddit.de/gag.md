@@ -3,14 +3,14 @@ title: "Geschichten aus der Geschichte"
 name: "gag"
 description: "Die Community zum Podcast"
 type: community
-date: "2023-06-30 13:13:50"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/gag"
 host: feddit.de
 lastmod: "2023-06-13 13:13:09"
 published: "2023-06-13 13:10:29"
-subscribers: 6
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

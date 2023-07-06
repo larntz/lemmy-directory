@@ -3,7 +3,7 @@ title: "CHB"
 name: "chb"
 description: "For the CHB community"
 type: community
-date: "2023-06-29 12:36:15"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chb"

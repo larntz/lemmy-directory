@@ -3,14 +3,14 @@ title: "c/hicago"
 name: "hicago"
 description: "Chicago news and such"
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hicago"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-27 23:56:09"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

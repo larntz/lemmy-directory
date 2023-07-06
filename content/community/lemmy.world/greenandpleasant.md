@@ -3,14 +3,14 @@ title: "Green and Pleasant"
 name: "greenandpleasant"
 description: "Currently being held as one of several potential lifeboats for /r/greenandpleasant. Yes we are mods there, contact for verification."
 type: community
-date: "2023-06-30 13:17:12"
+date: "2023-07-06 18:33:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/greenandpleasant"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:12"
+lastmod: "2023-06-29 22:46:48"
 published: "2023-06-29 20:58:03"
-subscribers: 2
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

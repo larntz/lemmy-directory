@@ -3,14 +3,14 @@ title: "Education Technology"
 name: "edtech"
 description: "Discussion about technology used in education."
 type: community
-date: "2023-06-30 13:15:18"
+date: "2023-07-03 20:17:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/edtech"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-03-16 16:36:59"
-subscribers: 76
+subscribers: 79
 posts: 6
 comments: 2
 weight: 6

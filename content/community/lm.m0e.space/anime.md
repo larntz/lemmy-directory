@@ -3,14 +3,14 @@ title: "Аніме"
 name: "anime"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:53"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lm.m0e.space/c/anime"
 host: lm.m0e.space
 lastmod: "2023-06-12 22:36:36"
 published: "2023-06-12 22:32:01"
-subscribers: 3
+subscribers: 7
 posts: 2
 comments: 1
 weight: 2

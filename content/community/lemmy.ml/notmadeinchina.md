@@ -3,7 +3,7 @@ title: "notmadeinchina"
 name: "notmadeinchina"
 description: "Tired of seeing Made in China on almost everything you get?You're in the right place!"
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/notmadeinchina"

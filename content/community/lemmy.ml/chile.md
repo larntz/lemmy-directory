@@ -3,14 +3,14 @@ title: "Chile"
 name: "chile"
 description: "Comunidad chilena en LemmyThe Chilean community in Lemmy."
 type: community
-date: "2023-06-30 13:15:28"
+date: "2023-07-03 20:17:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chile"
 host: lemmy.ml
 lastmod: "2021-05-08 23:19:06"
 published: "2020-05-24 21:41:11"
-subscribers: 30
+subscribers: 31
 posts: 29
 comments: 8
 weight: 29

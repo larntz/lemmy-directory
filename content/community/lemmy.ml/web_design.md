@@ -3,14 +3,14 @@ title: "Web Design"
 name: "web_design"
 description: "Team Web: CSS, HTML, JS, RSS, SVG, XML"
 type: community
-date: "2023-06-30 13:15:23"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/web_design"
 host: lemmy.ml
 lastmod: "2021-01-29 13:28:31"
 published: "2020-06-28 03:12:38"
-subscribers: 48
+subscribers: 51
 posts: 8
 comments: 1
 weight: 8

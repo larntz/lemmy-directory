@@ -3,7 +3,7 @@ title: "UVG Guatemala"
 name: "uvg_guatemala"
 description: "Estudiantes, profesores, y gente preocupada por la imagen pública de la universidad, bienvenidos a la comunidad. Por favor limitemos la peladera y comportémonos como los ciudadanos globales y los bebecitos bonitos que somos ✌️Sobra decir que esto no es para nada oficial, pero por si acaso Esto No Es Oficial ™️©️®️"
 type: community
-date: "2023-06-30 13:15:19"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/uvg_guatemala"

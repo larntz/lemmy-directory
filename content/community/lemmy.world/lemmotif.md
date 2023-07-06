@@ -1,22 +1,22 @@
 ---
 title: "Lemmotif" 
 name: "lemmotif"
-description: "Lemmotif for Lemmy appAndroid, iOS (approval pending)Currently very basic (only reading), building out features bit-by-bit.https://play.google.com/apps/testing/com.pluscubed.lemmotif"
+description: "Lemmotif for Lemmy appDownload open alpha:* [Android (Play Store)](https://play.google.com/apps/testing/com.pluscubed.lemmotif)* [iOS (TestFlight)](https://testflight.apple.com/join/4gFo45hD)Currently very basic (read-only), building out features bit-by-bit! :)"
 type: community
-date: "2023-06-30 13:17:29"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemmotif"
 host: lemmy.world
-lastmod: "2023-06-25 10:06:34"
+lastmod: "2023-07-02 06:44:57"
 published: "2023-06-25 01:15:53"
-subscribers: 6
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 50
+posts: 4
+comments: 2
+weight: 4
+dau: 1
+wau: 5
+mau: 5
 instances:
 - "lemmy_world"
 tags: 

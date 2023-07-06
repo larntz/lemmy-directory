@@ -3,14 +3,14 @@ title: "More Tankie Chapo"
 name: "moretankiechapo"
 description: "Intended to be a similar community to the same named subreddit: https://old.reddit.com/r/MoreTankieChapo/"
 type: community
-date: "2023-06-30 13:15:23"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/moretankiechapo"
 host: lemmy.ml
 lastmod: "2020-07-02 15:08:31"
 published: "2020-07-02 15:06:37"
-subscribers: 38
+subscribers: 40
 posts: 3
 comments: 2
 weight: 3

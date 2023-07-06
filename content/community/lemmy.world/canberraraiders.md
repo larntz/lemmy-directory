@@ -3,7 +3,7 @@ title: "Canberra Raiders"
 name: "canberraraiders"
 description: "Big and mean, the Green Machine #UptheMilk"
 type: community
-date: "2023-06-30 13:17:30"
+date: "2023-07-06 18:34:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/canberraraiders"

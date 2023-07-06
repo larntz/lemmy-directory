@@ -3,17 +3,17 @@ title: "パンヤ"
 name: "pangya_info"
 description: "パンヤ"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/pangya_info"
 host: lm.korako.me
 lastmod: "0001-01-01 00:00:00"
 published: "2021-08-13 08:36:27"
-subscribers: 7
-posts: 179
+subscribers: 10
+posts: 184
 comments: 5
-weight: 179
+weight: 184
 dau: 1
 wau: 1
 mau: 1

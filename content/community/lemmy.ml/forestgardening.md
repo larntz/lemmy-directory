@@ -3,14 +3,14 @@ title: "Forest Gardens"
 name: "forestgardening"
 description: "A place to discuss the art of forest gardening. "
 type: community
-date: "2023-06-30 13:15:19"
+date: "2023-07-03 20:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/forestgardening"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-01 23:27:36"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 0
 weight: 2

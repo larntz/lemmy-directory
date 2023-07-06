@@ -3,7 +3,7 @@ title: "Hackernews"
 name: "hackernews"
 description: "I will make a bot that mirrors hackernews posts to here"
 type: community
-date: "2023-06-30 13:15:21"
+date: "2023-07-03 20:17:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackernews"

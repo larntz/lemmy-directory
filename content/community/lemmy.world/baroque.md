@@ -3,14 +3,14 @@ title: "Baroque"
 name: "baroque"
 description: "A community for sharing Baroque music and art.Also check out Ancient & Early Music at [!earlymusic@lemmy.world](earlymusic@lemmy.world)"
 type: community
-date: "2023-06-30 13:18:01"
+date: "2023-07-03 20:22:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/baroque"
 host: lemmy.world
 lastmod: "2023-06-13 18:49:22"
 published: "2023-06-11 23:59:12"
-subscribers: 6
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

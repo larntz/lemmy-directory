@@ -3,14 +3,14 @@ title: "Beyond Linux"
 name: "beyondlinux"
 description: "**Abolition requires imagination.**From Linux’s [glaring insecurities](https://madaidans-insecurities.github.io/linux.html) to GNU’s [shenanigans](https://lwn.net/Articles/770966/), imagine a future beyond Linux."
 type: community
-date: "2023-06-30 13:15:23"
+date: "2023-07-03 20:17:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/beyondlinux"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-12-16 15:45:39"
-subscribers: 69
+subscribers: 72
 posts: 2
 comments: 1
 weight: 2

@@ -3,14 +3,14 @@ title: "Communauté ERP (logiciels de gestion)"
 name: "erp"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:54"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/erp"
 host: lemmy.world
 lastmod: "2023-06-18 15:09:18"
 published: "2023-06-18 14:24:02"
-subscribers: 3
+subscribers: 7
 posts: 4
 comments: 0
 weight: 4

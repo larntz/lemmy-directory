@@ -3,14 +3,14 @@ title: "Sports"
 name: "sports"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:53"
+date: "2023-07-03 20:22:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sports"
 host: lemmy.world
 lastmod: "2023-06-16 06:23:44"
 published: "2023-06-16 05:42:58"
-subscribers: 6
+subscribers: 13
 posts: 1
 comments: 1
 weight: 1

@@ -3,14 +3,14 @@ title: "Edgeburn Media"
 name: "main"
 description: "Edgeburn Media instance community"
 type: community
-date: "2023-06-30 13:13:57"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.edgeburnmedia.com/c/main"
 host: lemmy.edgeburnmedia.com
 lastmod: "2023-06-25 08:31:35"
 published: "2023-06-25 07:41:35"
-subscribers: 2
+subscribers: 4
 posts: 1
 comments: 2
 weight: 1

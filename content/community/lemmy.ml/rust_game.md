@@ -3,7 +3,7 @@ title: "RUST - Game"
 name: "rust_game"
 description: "Not to be confused with the rust programming language. This is RUST the game developed by facepunch.Get it here: https://store.steampowered.com/app/252490/Rust/"
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rust_game"

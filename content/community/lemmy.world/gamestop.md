@@ -3,14 +3,14 @@ title: "Gamestop"
 name: "gamestop"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-07-06 18:34:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gamestop"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 10:09:20"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

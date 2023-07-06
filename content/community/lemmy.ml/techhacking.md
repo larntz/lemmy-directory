@@ -3,14 +3,14 @@ title: "Tech & Hacking"
 name: "techhacking"
 description: "Latest news about technology and hacking , exploits news straight from the deep web and guides to deal with blackhat (hire a hacker)"
 type: community
-date: "2023-06-30 13:15:24"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techhacking"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-02-15 20:12:32"
-subscribers: 31
+subscribers: 34
 posts: 0
 comments: 0
 weight: 0

@@ -3,20 +3,20 @@ title: "Community for Russian language learners and masters"
 name: "russian"
 description: "Learning Russian? Know Russian? Here is the place to be!"
 type: community
-date: "2023-06-30 13:13:52"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/russian"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-08-25 20:33:28"
-subscribers: 91
-posts: 2
-comments: 6
-weight: 2
+subscribers: 98
+posts: 3
+comments: 7
+weight: 3
 dau: 1
-wau: 1
-mau: 2
+wau: 2
+mau: 4
 instances:
 - "lemmygrad_ml"
 tags: 

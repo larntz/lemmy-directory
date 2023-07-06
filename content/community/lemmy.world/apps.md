@@ -3,20 +3,20 @@ title: "Apps"
 name: "apps"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:40"
+date: "2023-07-06 18:34:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/apps"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 04:13:01"
-subscribers: 15
-posts: 1
-comments: 0
-weight: 1
+subscribers: 26
+posts: 3
+comments: 3
+weight: 3
 dau: 1
-wau: 1
-mau: 1
+wau: 3
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

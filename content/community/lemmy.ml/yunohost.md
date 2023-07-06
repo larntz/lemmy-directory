@@ -3,7 +3,7 @@ title: "YunoHost"
 name: "yunohost"
 description: "With YunoHost, you can easily manage a server for your friends, association or enterprise.https://yunohost.org/IRC: [#yunohost on libera.chat](https://web.libera.chat/#yunohost)  Matrix: [#yunohost-space:matrix.org](https://matrix.to/#/#yunohost-space:matrix.org)  XMPP: support@conference.yunohost.org"
 type: community
-date: "2023-06-30 13:15:30"
+date: "2023-07-03 20:17:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yunohost"

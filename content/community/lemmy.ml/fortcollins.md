@@ -3,7 +3,7 @@ title: "Fort Collins"
 name: "fortcollins"
 description: "A place to discuss all things Fort Collins, ColoradoRules:- Be civil and nice.- No Spam."
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-01 17:11:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fortcollins"

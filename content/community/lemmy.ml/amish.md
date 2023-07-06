@@ -1,16 +1,16 @@
 ---
 title: "Amish" 
 name: "amish"
-description: "Welcome to Amish"
+description: "Main community - !amish@lemmy.world"
 type: community
-date: "2023-06-30 13:15:14"
+date: "2023-07-03 20:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amish"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-03 14:22:18"
 published: "2023-06-14 12:33:17"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

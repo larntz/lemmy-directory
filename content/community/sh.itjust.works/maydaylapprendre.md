@@ -3,14 +3,14 @@ title: "French help svp"
 name: "maydaylapprendre"
 description: "Une communauté pour people who are trying to improve leur français"
 type: community
-date: "2023-06-30 13:14:20"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/maydaylapprendre"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 17:32:17"
-subscribers: 49
+subscribers: 61
 posts: 2
 comments: 19
 weight: 2

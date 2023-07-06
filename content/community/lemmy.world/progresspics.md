@@ -3,14 +3,14 @@ title: "progresspics - Show us your body transformations"
 name: "progresspics"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:18:00"
+date: "2023-07-03 20:22:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/progresspics"
 host: lemmy.world
-lastmod: "2023-06-30 13:18:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 04:26:38"
-subscribers: 24
+subscribers: 33
 posts: 0
 comments: 0
 weight: 0

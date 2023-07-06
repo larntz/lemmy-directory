@@ -1,22 +1,22 @@
 ---
 title: "Gardening Australia" 
 name: "gardeningaustralia"
-description: "For all things related to the Aussie gardens. Plants, lawns, ugly fences, bare patches. "
+description: "For all things related to the Aussie gardens. Plants, lawns, ugly fences, bare patches. Please follow the instance rules and keep discussions civil and respectful. "
 type: community
-date: "2023-06-30 13:13:39"
+date: "2023-07-04 20:51:19"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/gardeningaustralia"
 host: aussie.zone
-lastmod: "2023-06-29 04:56:06"
+lastmod: "2023-07-03 23:28:30"
 published: "2023-06-27 08:31:44"
-subscribers: 46
-posts: 11
-comments: 11
-weight: 11
-dau: 2
-wau: 7
-mau: 7
+subscribers: 123
+posts: 14
+comments: 31
+weight: 14
+dau: 8
+wau: 16
+mau: 16
 instances:
 - "aussie_zone"
 tags: 

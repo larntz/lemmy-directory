@@ -3,7 +3,7 @@ title: "Geek"
 name: "geek"
 description: "A place for all things geek in Glasgow."
 type: community
-date: "2023-06-30 13:13:42"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.glasgow.social/c/geek"

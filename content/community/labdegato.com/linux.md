@@ -3,7 +3,7 @@ title: "Linux"
 name: "linux"
 description: "Linux - WIP"
 type: community
-date: "2023-06-30 13:13:37"
+date: "2023-07-04 14:51:15"
 draft: false
 nsfw: false
 actor_id: "https://labdegato.com/c/linux"

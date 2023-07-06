@@ -1,16 +1,16 @@
 ---
 title: "Random" 
 name: "random"
-description: "For everything else that we might want to talk about but just doesn't *quite* fit in anywhere else."
+description: "For everything else that we might want to talk about but just doesn't *quite* fit in anywhere else.Icon base by [Delapouite](https://delapouite.com/) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) with modifications to add a gradient"
 type: community
-date: "2023-06-30 13:13:45"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/random"
 host: programming.dev
-lastmod: "2023-06-23 03:46:12"
+lastmod: "2023-07-04 02:19:38"
 published: "2023-06-12 23:39:09"
-subscribers: 108
+subscribers: 147
 posts: 4
 comments: 8
 weight: 4

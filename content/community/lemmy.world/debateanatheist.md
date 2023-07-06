@@ -3,14 +3,14 @@ title: "debate an atheist"
 name: "debateanatheist"
 description: "debate arguments about atheism"
 type: community
-date: "2023-06-28 15:20:43"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/debateanatheist"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 01:33:34"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

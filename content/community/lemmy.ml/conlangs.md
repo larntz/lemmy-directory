@@ -3,14 +3,14 @@ title: "Language construction"
 name: "conlangs"
 description: "A place for discussing language construction."
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/conlangs"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 17:10:43"
-subscribers: 19
+subscribers: 21
 posts: 2
 comments: 0
 weight: 2

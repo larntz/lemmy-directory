@@ -3,14 +3,14 @@ title: "Computers"
 name: "computers"
 description: "For fans of computers and anything related to these.**RULES****1. No non-computer related content is allowed here.****2. No racism, homophobia, any personal or death threats, etc. Failure to follow this rule will result in a permaban.****3. Follow Lemmy's [Code of Conduct](https://join-lemmy.org/docs/en/code_of_conduct.html)**"
 type: community
-date: "2023-06-30 13:15:31"
+date: "2023-07-03 20:17:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/computers"
 host: lemmy.ml
 lastmod: "2023-06-03 20:15:54"
 published: "2023-06-03 19:35:00"
-subscribers: 43
+subscribers: 45
 posts: 3
 comments: 1
 weight: 3

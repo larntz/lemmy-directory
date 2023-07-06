@@ -3,14 +3,14 @@ title: "Programming Help"
 name: "programminghelp"
 description: "There are no stupid questions."
 type: community
-date: "2023-06-29 12:38:01"
+date: "2023-07-06 18:34:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/programminghelp"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 21:48:04"
-subscribers: 5
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

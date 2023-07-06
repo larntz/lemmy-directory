@@ -3,12 +3,12 @@ title: "Axes"
 name: "axes"
 description: "A place to discuss axes, axe craft, axe work, wood splitting and how to make junk store finds worth something on eBay but not really worth enough to justify the work involved in scrubbing the tool down to bare metal, etc."
 type: community
-date: "2023-06-30 13:17:57"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/axes"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 23:16:44"
 subscribers: 2
 posts: 0

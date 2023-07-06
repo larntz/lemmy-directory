@@ -1,22 +1,22 @@
 ---
 title: "Doggos" 
 name: "doggos"
-description: "woof"
+description: "Description not available."
 type: community
-date: "2023-06-30 13:14:01"
+date: "2023-07-01 17:10:27"
 draft: false
 nsfw: false
 actor_id: "https://kek.henlo.fi/c/doggos"
 host: kek.henlo.fi
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 15:18:20"
-subscribers: 3
-posts: 4
-comments: 1
-weight: 4
+subscribers: 2
+posts: 1
+comments: 0
+weight: 1
 dau: 1
-wau: 2
-mau: 2
+wau: 1
+mau: 1
 instances:
 - "kek_henlo_fi"
 tags: 

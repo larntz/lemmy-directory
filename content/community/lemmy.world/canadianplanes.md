@@ -3,14 +3,14 @@ title: "Canadian Planes"
 name: "canadianplanes"
 description: "Rule:1. All aeroplanes completely/ substantially made in Canada"
 type: community
-date: "2023-06-30 13:17:54"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/canadianplanes"
 host: lemmy.world
 lastmod: "2023-06-15 10:21:16"
 published: "2023-06-15 09:58:11"
-subscribers: 2
+subscribers: 5
 posts: 4
 comments: 0
 weight: 4

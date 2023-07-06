@@ -3,14 +3,14 @@ title: "Everything regarding the German city of Ulm."
 name: "ulm"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/ulm"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-27 20:14:19"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

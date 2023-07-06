@@ -3,14 +3,14 @@ title: "For humans living with diabetes: discussion, issues, and news."
 name: "diabetes"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/diabetes"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-03-10 07:40:42"
-subscribers: 19
+subscribers: 21
 posts: 5
 comments: 2
 weight: 5

@@ -3,7 +3,7 @@ title: "Unsolved Mysteries"
 name: "unsolvedmysteries"
 description: "A community dedicated to the unsolved mysteries of the world. Submissions should outline a mystery and provide a link to a more detailed review of the case such as a Wiki article or news report. Replies analyzing and speculating over the mystery and possible explanations are encouraged. "
 type: community
-date: "2023-06-30 13:15:20"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/unsolvedmysteries"

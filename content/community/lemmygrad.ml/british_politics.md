@@ -3,14 +3,14 @@ title: "British Politics"
 name: "british_politics"
 description: "Discussion Community for talking about British Politics from a left wing view"
 type: community
-date: "2023-06-30 13:13:54"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/british_politics"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-12 21:44:35"
-subscribers: 54
+subscribers: 60
 posts: 3
 comments: -5
 weight: 3

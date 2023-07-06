@@ -3,14 +3,14 @@ title: "Goose the band"
 name: "goosetheband"
 description: "Fans of the band of the CT jamband Goose "
 type: community
-date: "2023-06-30 13:13:47"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/goosetheband"
 host: sopuli.xyz
 lastmod: "2023-06-12 17:19:17"
 published: "2023-06-12 17:11:50"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

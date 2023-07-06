@@ -3,14 +3,14 @@ title: "bimmer"
 name: "bmw"
 description: "for fans and owners of BMWs"
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-04 20:51:43"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/bmw"
 host: lemm.ee
-lastmod: "2023-06-30 13:14:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 17:20:59"
-subscribers: 12
+subscribers: 20
 posts: 4
 comments: 5
 weight: 4

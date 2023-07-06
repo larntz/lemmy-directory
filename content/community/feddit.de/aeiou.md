@@ -3,14 +3,14 @@ title: "Alles Erdreich ist Österreich untertan"
 name: "aeiou"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:52"
+date: "2023-07-06 16:41:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/aeiou"
 host: feddit.de
 lastmod: "2023-06-22 19:21:25"
 published: "2023-06-20 09:55:27"
-subscribers: 3
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

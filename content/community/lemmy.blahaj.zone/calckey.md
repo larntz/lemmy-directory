@@ -3,20 +3,20 @@ title: "Calckey"
 name: "calckey"
 description: "An unofficial lemmy group for Calckey, a feature rich #microfedi alternative to Mastodonhttps://codeberg.org/calckey#Calckey"
 type: community
-date: "2023-06-30 13:13:42"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/calckey"
 host: lemmy.blahaj.zone
 lastmod: "2023-02-03 04:29:57"
 published: "2023-01-29 02:11:47"
-subscribers: 135
-posts: 13
-comments: 12
-weight: 13
-dau: 1
-wau: 1
-mau: 10
+subscribers: 155
+posts: 14
+comments: 18
+weight: 14
+dau: 3
+wau: 4
+mau: 11
 instances:
 - "lemmy_blahaj_zone"
 tags: 

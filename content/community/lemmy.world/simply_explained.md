@@ -3,7 +3,7 @@ title: "Simply Explained"
 name: "simply_explained"
 description: "Place to discuss latest Simply Explained content.Websites:* [simplyexplained.com](https://simplyexplained.com)* [Newsletter](https://newsletter.simplyexplained.com)"
 type: community
-date: "2023-06-30 13:18:02"
+date: "2023-07-06 18:33:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/simply_explained"

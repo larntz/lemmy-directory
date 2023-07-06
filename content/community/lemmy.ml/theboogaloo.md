@@ -3,14 +3,14 @@ title: "The Boogaloo"
 name: "theboogaloo"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:13"
+date: "2023-07-03 20:17:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/theboogaloo"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-05-26 04:21:32"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 1
 weight: 1

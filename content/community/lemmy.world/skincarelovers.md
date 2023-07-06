@@ -3,14 +3,14 @@ title: "Skincare lovers "
 name: "skincarelovers"
 description: "Share your knowledge and your skincare routines & product reviews. "
 type: community
-date: "2023-06-30 13:18:02"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skincarelovers"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 18:32:46"
-subscribers: 6
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Video Editing"
 name: "videoediting"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:40"
+date: "2023-07-06 18:33:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/videoediting"
 host: lemmy.world
 lastmod: "2023-06-25 14:10:19"
 published: "2023-06-21 18:14:03"
-subscribers: 8
+subscribers: 14
 posts: 1
 comments: 0
 weight: 1

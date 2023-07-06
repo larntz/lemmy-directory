@@ -3,12 +3,12 @@ title: "MRI"
 name: "mri"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:40"
+date: "2023-07-03 20:22:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mri"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 00:48:06"
 subscribers: 3
 posts: 0

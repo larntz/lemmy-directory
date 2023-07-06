@@ -3,7 +3,7 @@ title: "local"
 name: "local"
 description: "local test"
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-04 14:51:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.timgilbert.be/c/local"

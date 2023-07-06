@@ -3,14 +3,14 @@ title: "nuclearwar "
 name: "nuclearwar"
 description: "“You cannot win a nuclear war”"
 type: community
-date: "2023-06-30 13:15:19"
+date: "2023-07-03 20:17:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nuclearwar"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 21:04:35"
-subscribers: 4
+subscribers: 5
 posts: 10
 comments: 1
 weight: 10

@@ -3,14 +3,14 @@ title: "Runedancer's place"
 name: "runedancers"
 description: "Discovering all sites connected through #ActivityPub. Getting help from calm and intelligent people."
 type: community
-date: "2023-06-30 13:14:20"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/runedancers"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 10:47:41"
-subscribers: 5
+subscribers: 12
 posts: 2
 comments: 7
 weight: 2

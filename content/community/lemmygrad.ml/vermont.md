@@ -3,14 +3,14 @@ title: "Green Mountain comrades organize here!"
 name: "vermont"
 description: "A place for comrades in VT to organize. "
 type: community
-date: "2023-06-28 15:17:54"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/vermont"
 host: lemmygrad.ml
 lastmod: "2020-02-28 14:11:59"
 published: "2020-02-28 14:06:44"
-subscribers: 15
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Progressbar95"
 name: "progressbar95"
 description: "The unofficial Progressbar95 community on Lemmy. Progressbar95 is a nostalgic hypercasual game available on Google Play, App Store and Steam (PC and Mac)."
 type: community
-date: "2023-06-30 13:13:41"
+date: "2023-07-04 20:51:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/progressbar95"
 host: lemmy.sdf.org
 lastmod: "2023-06-26 12:09:31"
 published: "2023-06-26 12:08:43"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

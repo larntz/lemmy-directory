@@ -3,14 +3,14 @@ title: "Manchester"
 name: "manchester"
 description: "A community for Greater Manchester, UK."
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/manchester"
 host: lemmy.ml
 lastmod: "2023-06-14 10:01:28"
 published: "2023-06-14 08:27:37"
-subscribers: 5
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

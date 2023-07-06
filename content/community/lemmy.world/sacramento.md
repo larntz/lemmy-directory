@@ -3,20 +3,20 @@ title: "Sacramento"
 name: "sacramento"
 description: "A forum about Sacramento, for Sacramento."
 type: community
-date: "2023-06-30 13:17:46"
+date: "2023-07-06 18:34:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sacramento"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 01:24:05"
-subscribers: 20
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 47
+posts: 6
+comments: 5
+weight: 6
+dau: 3
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

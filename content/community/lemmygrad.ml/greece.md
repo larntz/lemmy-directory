@@ -3,14 +3,14 @@ title: "Greece"
 name: "greece"
 description: "A community for Greek Communists.  "
 type: community
-date: "2023-06-30 13:13:53"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/greece"
 host: lemmygrad.ml
 lastmod: "2020-08-12 20:40:38"
 published: "2020-03-19 17:36:09"
-subscribers: 21
+subscribers: 26
 posts: 6
 comments: 2
 weight: 6

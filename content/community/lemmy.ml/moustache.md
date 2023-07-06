@@ -3,7 +3,7 @@ title: "Moustache"
 name: "moustache"
 description: "A community for those who display their virtility and personality on their upper lip. Moustaches come in all shapes, sizes and styles; we encourage them all!!"
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/moustache"

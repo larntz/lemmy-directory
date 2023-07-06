@@ -3,14 +3,14 @@ title: "DnD Art"
 name: "dnd_art"
 description: "Community for Dungeons and Dragons Art posts*reserving for future use by /c/dnd*"
 type: community
-date: "2023-06-30 13:17:50"
+date: "2023-07-03 20:22:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dnd_art"
 host: lemmy.world
 lastmod: "2023-06-23 22:41:39"
 published: "2023-06-23 22:15:31"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

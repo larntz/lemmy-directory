@@ -3,20 +3,20 @@ title: "Tja"
 name: "tja"
 description: "Was willste machen."
 type: community
-date: "2023-06-30 13:13:51"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/tja"
 host: feddit.de
-lastmod: "2023-06-30 13:13:51"
+lastmod: "2023-06-12 07:29:21"
 published: "2023-06-05 15:57:25"
-subscribers: 232
-posts: 8
-comments: 24
-weight: 8
-dau: 13
-wau: 16
-mau: 27
+subscribers: 354
+posts: 13
+comments: 46
+weight: 13
+dau: 11
+wau: 21
+mau: 45
 instances:
 - "feddit_de"
 tags: 

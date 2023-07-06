@@ -3,7 +3,7 @@ title: "fatherverse"
 name: "fatherverse"
 description: "like daddit for the fediverse but we all eat pizza with ranch and say ope a lot.  all dads and non-dads are welcome.  ranch on pizza is recommended but not required.  ope is mandatory."
 type: community
-date: "2023-06-30 13:13:45"
+date: "2023-06-30 20:58:53"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/fatherverse"

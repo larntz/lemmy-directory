@@ -3,7 +3,7 @@ title: "Marvel Comics"
 name: "marvelcomics"
 description: "A community to discuss current and past Marvel Comics. This place is primarily for the comics please keep Marvel Cinematic Universe(MCU) discussions to the appropriate community. "
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-07-03 20:17:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/marvelcomics"

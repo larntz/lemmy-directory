@@ -3,19 +3,19 @@ title: "Política"
 name: "politica"
 description: "O espaço para discussão sobre política nacional e internacional.**Regras**- Respeite outros usuários e a comunidade.- Notícias devem utilizar o título original da matéria.- Opiniões devem ser deixadas como comentários, mantenha títulos neutros e descritivos.- Links com notícias antigas deverão estar devidamente sinalizados.- Títulos podem ser traduzidos desde que a tradução seja fidedigna.- Links devem ser compartilhados diretamente. Violações: encurtadores, link amp, resultado de busca, screenshot de artigo disponível online, comentários feitos por pessoas aleatórias em rede social.- Todo conteúdo deve respeitar as **[regras gerais](https://lemmy.eco.br/post/135)** da instância."
 type: community
-date: "2023-06-30 13:13:58"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/politica"
 host: lemmy.eco.br
 lastmod: "2023-06-22 09:45:57"
 published: "2023-06-21 12:34:35"
-subscribers: 69
+subscribers: 115
 posts: 4
-comments: 24
+comments: 26
 weight: 4
-dau: 9
-wau: 11
+dau: 1
+wau: 10
 mau: 16
 instances:
 - "lemmy_eco_br"

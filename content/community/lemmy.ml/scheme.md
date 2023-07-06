@@ -3,14 +3,14 @@ title: "A community for the lovers of the scheme programming languages"
 name: "scheme"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:21"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/scheme"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-01-27 08:27:23"
-subscribers: 67
+subscribers: 70
 posts: 15
 comments: 4
 weight: 15

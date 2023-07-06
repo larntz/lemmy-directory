@@ -3,14 +3,14 @@ title: "Windows"
 name: "windows"
 description: "Welcome to the largest unofficial community for Microsoft Windows, the world's most popular desktop computer operating system!."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-01 17:10:34"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/windows"
 host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 07:07:50"
-subscribers: 1
+subscribers: 2
 posts: 29
 comments: 0
 weight: 29

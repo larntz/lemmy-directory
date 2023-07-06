@@ -3,7 +3,7 @@ title: "The Nim Programming Language"
 name: "nimlang"
 description: "The Nim Programming Language"
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nimlang"

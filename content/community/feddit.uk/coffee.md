@@ -3,14 +3,14 @@ title: "Coffee - All Things Coffee"
 name: "coffee"
 description: "This is a community for coffee enthusiasts, be they users of £10k Espresso setups, Aeropress, Moka Pots, V60 pour-overs or an old sock on top of a pyrex jug to filter out the grinds you just boiled with some water in a pan.Discuss, suggest, debate, have fun!"
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/coffee"
 host: feddit.uk
 lastmod: "2023-06-21 15:07:37"
 published: "2023-06-20 22:33:16"
-subscribers: 9
+subscribers: 13
 posts: 0
 comments: 0
 weight: 0

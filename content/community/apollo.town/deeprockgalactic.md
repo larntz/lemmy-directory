@@ -3,20 +3,20 @@ title: "Deep Rock Galactic"
 name: "deeprockgalactic"
 description: "Rock and Stone!"
 type: community
-date: "2023-06-30 13:14:14"
+date: "2023-07-06 18:29:52"
 draft: false
 nsfw: false
 actor_id: "https://apollo.town/c/deeprockgalactic"
 host: apollo.town
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 06:00:16"
-subscribers: 20
+subscribers: 30
 posts: 4
-comments: 25
+comments: 26
 weight: 4
 dau: 1
 wau: 1
-mau: 5
+mau: 6
 instances:
 - "apollo_town"
 tags: 

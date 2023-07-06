@@ -3,7 +3,7 @@ title: "F# Programming Language"
 name: "fsharp"
 description: "A place to discuss all things F#."
 type: community
-date: "2023-06-30 13:17:15"
+date: "2023-06-30 21:01:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fsharp"

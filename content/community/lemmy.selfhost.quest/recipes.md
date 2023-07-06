@@ -3,7 +3,7 @@ title: "Recipes that worked"
 name: "recipes"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:14:01"
+date: "2023-07-06 18:29:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.selfhost.quest/c/recipes"

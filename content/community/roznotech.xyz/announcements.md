@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "For instance-specific announcements."
 type: community
-date: "2023-06-30 13:13:39"
+date: "2023-07-04 20:51:19"
 draft: false
 nsfw: false
 actor_id: "https://roznotech.xyz/c/announcements"

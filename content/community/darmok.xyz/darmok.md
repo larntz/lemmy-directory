@@ -3,14 +3,14 @@ title: "Darmok"
 name: "darmok"
 description: "Darmok and Jalad at Tanagra"
 type: community
-date: "2023-06-30 13:13:59"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://darmok.xyz/c/darmok"
 host: darmok.xyz
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 15:31:00"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 1
 weight: 1

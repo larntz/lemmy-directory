@@ -3,14 +3,14 @@ title: "XFL"
 name: "xfl"
 description: "Description not available."
 type: community
-date: "2023-06-28 15:21:07"
+date: "2023-07-06 18:33:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/xfl"
 host: lemmy.world
-lastmod: "2023-06-28 15:21:07"
+lastmod: "2023-06-15 03:08:20"
 published: "2023-06-15 00:15:46"
-subscribers: 8
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

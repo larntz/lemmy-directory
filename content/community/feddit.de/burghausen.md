@@ -3,14 +3,14 @@ title: "Burghausen"
 name: "burghausen"
 description: "Eine Community für alles in, um und über Burghausen 🏰Es gelten die Regeln von  [feddit.de](https://feddit.de/)!"
 type: community
-date: "2023-06-30 13:13:50"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/burghausen"
 host: feddit.de
 lastmod: "2023-06-27 20:28:17"
 published: "2023-06-26 20:51:00"
-subscribers: 2
+subscribers: 9
 posts: 1
 comments: 2
 weight: 1

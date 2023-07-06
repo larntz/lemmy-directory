@@ -3,7 +3,7 @@ title: "Charytatywna "
 name: "charity"
 description: "Społeczność do postowania: - zbiórek i zrzutek pieniężnych, - zbiórek rzeczowych, - akcji i eventów charytatywnych, - informacji o dobroczynnych fundacjach, kolektywach, organizacjach. Otwieram, bo zauważyłam że prośby o pomoc nie mają stałego miejsca tutaj i lądują w różnych wątkach. Tutaj zbieramy wszystkie akcje i zbiórki do kupy. "
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-06-30 14:55:56"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/charity"

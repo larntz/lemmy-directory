@@ -3,14 +3,14 @@ title: "Dvixen"
 name: "dvixen"
 description: "My private space. Mostly for testing features and such."
 type: community
-date: "2023-06-29 12:38:00"
+date: "2023-07-06 18:33:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dvixen"
 host: lemmy.world
 lastmod: "2023-06-22 09:56:28"
 published: "2023-06-19 09:40:10"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

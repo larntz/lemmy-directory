@@ -3,7 +3,7 @@ title: "Path of Exile Builds"
 name: "pathofexilebuilds"
 description: "Talk about PoE Builds!"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-04 20:51:25"
 draft: false
 nsfw: false
 actor_id: "https://pathofexile-discuss.com/c/pathofexilebuilds"

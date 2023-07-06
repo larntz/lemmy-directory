@@ -3,14 +3,14 @@ title: "Advanced Trains"
 name: "advtrains"
 description: "A sublemmy for everything to do with the Advtrains mod for Minetesthttps://advtrains.de"
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/advtrains"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-10-18 17:04:40"
-subscribers: 11
+subscribers: 13
 posts: 2
 comments: 0
 weight: 2

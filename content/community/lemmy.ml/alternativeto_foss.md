@@ -3,14 +3,14 @@ title: "Vote for FOSS on AlternativeTo!"
 name: "alternativeto_foss"
 description: "Welcome to alternativeto-foss! Here's a community for linking Open Source software on [Alternativeto.net](https://alternativeto.net/) (and other, similar websites!) so users can vote and rise FOSS to the top!*******Getting Started**1. Register on [Alternativeto.net](https://alternativeto.net/)2. Click on /c/alternativeto_foss threads and go vote for Free Software!*******Rules**📜 Link Free and Open Source Software in new threads!💻 Similar websites to AlternativeTo are allowed!😃 Remember to have fun!"
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-03 20:17:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/alternativeto_foss"
 host: lemmy.ml
 lastmod: "2021-08-22 22:25:30"
 published: "2021-08-22 22:18:59"
-subscribers: 72
+subscribers: 75
 posts: 4
 comments: 1
 weight: 4

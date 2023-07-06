@@ -3,14 +3,14 @@ title: "Puer / Pu'er / Puerh Tea"
 name: "puer"
 description: "A space for discussion of puer tea"
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/puer"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 14:38:07"
-subscribers: 16
+subscribers: 18
 posts: 3
 comments: 2
 weight: 3

@@ -3,12 +3,12 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-30 13:13:58"
+date: "2023-07-06 18:29:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ciechom.eu/c/main"
 host: lemmy.ciechom.eu
-lastmod: "2023-06-30 13:13:58"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-16 13:17:43"
 subscribers: 1
 posts: 0

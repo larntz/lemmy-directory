@@ -3,14 +3,14 @@ title: "Milton, Ontario"
 name: "milton"
 description: "A community for discussing anything related to the town of Milton in Ontario."
 type: community
-date: "2023-06-30 13:13:51"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/milton"
 host: lemmy.ca
 lastmod: "2023-06-23 20:39:24"
 published: "2023-06-23 16:10:32"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

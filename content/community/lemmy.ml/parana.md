@@ -3,7 +3,7 @@ title: "Paraná"
 name: "parana"
 description: "Piazada, bem-vindos à comunidade dos paranaenses no Lemmy.Regras:1. Siga as regras globais do Lemmy.2. Posts devem ser diretamente relacionados ao Estado do Paraná.3. Mantenha-se civil e cordial.4. Nacionalismo não será tolerado.5. Divirta-se!É permitido o uso de qualquer idioma aqui. Então, pode usar línguas minoritárias (kaingang, talian, etc.) ou estrangeiras (inglês, mandarim, etc.) à vontade, não precisa ser só português.______________Welcome to the Lemmy community for the people of Paraná State.Rules:1. Follow Lemmy global rules.2. Posts must be directly related to Paraná.3. Keep it civil and cordial.4. Nationalism will not be tolerated.5. Have fun!Note: you're allowed to use whatever language you want here, even minority (Kaingang, Talian, etc.) and foreign (English, Mandarin, etc.) ones. This community is not restricted to Portuguese."
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/parana"

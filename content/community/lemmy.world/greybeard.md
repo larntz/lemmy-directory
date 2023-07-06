@@ -3,14 +3,14 @@ title: "greybeard"
 name: "greybeard"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:55"
+date: "2023-07-06 18:33:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/greybeard"
 host: lemmy.world
 lastmod: "2023-06-14 22:36:30"
 published: "2023-06-14 22:27:06"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

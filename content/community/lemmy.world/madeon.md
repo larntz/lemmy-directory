@@ -3,14 +3,14 @@ title: "Madeon"
 name: "madeon"
 description: "A community for discussion about the French DJ/Artist Madeon"
 type: community
-date: "2023-06-29 12:37:53"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/madeon"
 host: lemmy.world
 lastmod: "2023-06-11 22:18:48"
 published: "2023-06-11 11:04:19"
-subscribers: 9
+subscribers: 16
 posts: 3
 comments: 0
 weight: 3

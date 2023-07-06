@@ -3,7 +3,7 @@ title: "War Thunder"
 name: "warthunder"
 description: "Welcome to the War Thunder Community! Join us to connect with fellow players, discuss strategies, and stay informed about game updates. Engage in battles, form squads, and enjoy the world of War Thunder together. Enlist now and be part of our gaming community! 🎮⚔️"
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/warthunder"

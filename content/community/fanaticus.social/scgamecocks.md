@@ -3,7 +3,7 @@ title: "South Carolina Gamecocks"
 name: "scgamecocks"
 description: "A community to discuss South Carolina Gamecocks athletics.# Looking for Mods!## Please don’t leave a Clemson fan in charge of this community!"
 type: community
-date: "2023-06-30 13:14:19"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/scgamecocks"

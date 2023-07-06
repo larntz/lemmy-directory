@@ -3,14 +3,14 @@ title: "vTubers"
 name: "vtubers"
 description: "A place for all things vtuber"
 type: community
-date: "2023-06-30 13:17:40"
+date: "2023-07-01 17:13:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vtubers"
 host: lemmy.world
 lastmod: "2023-06-13 09:09:29"
 published: "2023-06-12 16:20:54"
-subscribers: 19
+subscribers: 22
 posts: 9
 comments: 1
 weight: 9

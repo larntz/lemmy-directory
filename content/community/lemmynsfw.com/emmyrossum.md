@@ -3,14 +3,14 @@ title: "Emmy Rossum"
 name: "emmyrossum"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:47"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/emmyrossum"
 host: lemmynsfw.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 12:42:38"
-subscribers: 14
+subscribers: 36
 posts: 1
 comments: 0
 weight: 1

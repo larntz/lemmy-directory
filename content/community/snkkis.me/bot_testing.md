@@ -3,7 +3,7 @@ title: "Bot Testing Area"
 name: "bot_testing"
 description: "This is a place for people on snkkis.me to test their bots."
 type: community
-date: "2023-06-30 13:14:09"
+date: "2023-07-06 18:29:46"
 draft: false
 nsfw: false
 actor_id: "https://snkkis.me/c/bot_testing"

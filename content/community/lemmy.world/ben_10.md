@@ -3,14 +3,14 @@ title: "Ben 10"
 name: "ben_10"
 description: "A place for fans of the Cartoon Network's series Ben 10.  Fan art, theories, Fan projects are all welcome"
 type: community
-date: "2023-06-29 12:38:00"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ben_10"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 00:10:55"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

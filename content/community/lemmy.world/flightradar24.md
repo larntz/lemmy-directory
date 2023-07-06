@@ -3,20 +3,20 @@ title: "Flightradar24"
 name: "flightradar24"
 description: "Unofficial forum for Flightradar24. Mostly anything related to Flightradar24 is welcome. Happy tracking!"
 type: community
-date: "2023-06-30 13:17:12"
+date: "2023-07-03 20:22:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/flightradar24"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 13:00:47"
-subscribers: 20
+subscribers: 37
 posts: 2
-comments: 0
+comments: 2
 weight: 2
-dau: 1
-wau: 1
-mau: 1
+dau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

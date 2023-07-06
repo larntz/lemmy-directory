@@ -3,14 +3,14 @@ title: "Erlang Programming Language"
 name: "erlang"
 description: "Discussions about Erlang and beam"
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/erlang"
 host: lemmy.ml
 lastmod: "2021-02-19 02:48:10"
 published: "2021-02-19 02:47:09"
-subscribers: 16
+subscribers: 17
 posts: 2
 comments: 0
 weight: 2

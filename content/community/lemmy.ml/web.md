@@ -3,7 +3,7 @@ title: "Intersting web projects"
 name: "web"
 description: "Show and discuss interesting web projects!Submission rules:1. Title should include sitename and short description/intro what it is.2. No malware or other malicious content.  "
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-07-01 17:12:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/web"

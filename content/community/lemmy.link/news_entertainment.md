@@ -1,22 +1,22 @@
 ---
 title: "Entertainment" 
 name: "news_entertainment"
-description: "#### Feeds- [TMZ](https://feeds.tmz.com/latest-news/rss)"
+description: "#### Lemmy Link Matrix ChatHop into our room [#lemmylink:matrix.org](https://matrix.to/#/#lemmylink:matrix.org) on Matrix to provide any feedback or chat with us.#### Rules- No abusive language- No bigotry- No advertising- No pornography#### Feeds- [TMZ](https://feeds.tmz.com/latest-news/rss)"
 type: community
-date: "2023-06-30 13:13:53"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.link/c/news_entertainment"
 host: lemmy.link
-lastmod: "2023-06-28 00:12:22"
+lastmod: "2023-07-02 05:08:27"
 published: "2023-06-25 07:29:34"
-subscribers: 23
-posts: 364
-comments: 11
-weight: 364
-dau: 5
-wau: 11
-mau: 11
+subscribers: 92
+posts: 545
+comments: 50
+weight: 545
+dau: 6
+wau: 27
+mau: 34
 instances:
 - "lemmy_link"
 tags: 

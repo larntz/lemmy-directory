@@ -3,20 +3,20 @@ title: "🔥 Nature Is Lit 🔥"
 name: "natureislit"
 description: "🔥 🌍 Let us celebrate our beautiful Earth and remind ourselves of our place in the natural world 🌎 🔥Banner: Blyde River Canyon"
 type: community
-date: "2023-06-27 16:17:21"
+date: "2023-07-03 20:17:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/natureislit"
 host: lemmy.ml
-lastmod: "2023-06-27 16:17:21"
+lastmod: "2023-06-20 09:39:19"
 published: "2023-06-20 08:38:57"
-subscribers: 17
-posts: 4
+subscribers: 18
+posts: 5
 comments: 1
-weight: 4
+weight: 5
 dau: 1
 wau: 1
-mau: 1
+mau: 2
 instances:
 - "lemmy_ml"
 tags: 

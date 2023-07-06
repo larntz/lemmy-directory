@@ -3,14 +3,14 @@ title: "SWG"
 name: "swg"
 description: "Discussion place for the MMORPG Star Wars Galaxies: An Empire Divided and all SWG private servers."
 type: community
-date: "2023-06-30 13:15:30"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/swg"
 host: lemmy.ml
 lastmod: "2023-06-17 08:19:19"
 published: "2023-06-16 08:32:18"
-subscribers: 1
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

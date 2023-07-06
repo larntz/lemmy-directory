@@ -1,14 +1,14 @@
 ---
 title: "Amish" 
 name: "amish"
-description: "Description not available."
+description: "Main community - !amish@lemmy.world"
 type: community
-date: "2023-06-30 13:14:21"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/amish"
 host: sh.itjust.works
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-03 14:18:52"
 published: "2023-06-14 12:29:35"
 subscribers: 2
 posts: 0

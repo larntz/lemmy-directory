@@ -3,7 +3,7 @@ title: "Puns"
 name: "puns"
 description: "You notice there's no Grizzleys on this community? - They can't Bear puns.Your worst puns. Drop them here and run for your life.Higher forms of word-play belong at lemmy.ml/c/wordplay"
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-01 17:12:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/puns"

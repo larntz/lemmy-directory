@@ -3,14 +3,14 @@ title: "Pacmanmemeimage"
 name: "pacmanmemeimage"
 description: "Wtf..?"
 type: community
-date: "2023-06-30 13:13:37"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.douwes.co.uk/c/pacmanmemeimage"
 host: lemmy.douwes.co.uk
 lastmod: "2023-06-05 23:53:02"
 published: "2023-06-05 23:51:04"
-subscribers: 3
+subscribers: 9
 posts: 1
 comments: 5
 weight: 1

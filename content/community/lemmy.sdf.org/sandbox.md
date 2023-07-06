@@ -3,7 +3,7 @@ title: "test sandbox"
 name: "sandbox"
 description: "A place to play around with Lemmy functionality"
 type: community
-date: "2023-06-30 13:13:45"
+date: "2023-07-04 14:51:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/sandbox"
@@ -15,7 +15,7 @@ posts: 2
 comments: 5
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 7
 instances:
 - "lemmy_sdf_org"

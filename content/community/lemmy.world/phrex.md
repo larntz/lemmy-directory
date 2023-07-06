@@ -3,14 +3,14 @@ title: "phrex"
 name: "phrex"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:52"
+date: "2023-07-03 20:22:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/phrex"
 host: lemmy.world
 lastmod: "2023-06-13 10:12:53"
 published: "2023-06-13 06:26:46"
-subscribers: 1
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

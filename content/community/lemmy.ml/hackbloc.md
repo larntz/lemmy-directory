@@ -3,14 +3,14 @@ title: "HackBloc"
 name: "hackbloc"
 description: "Hacktivism, Crypto-anarchy, Darknets, Free Culture - Proudly Feminist, Anarchist, Anti-Capitalist, Anarchist hackers"
 type: community
-date: "2023-06-30 13:15:22"
+date: "2023-07-03 20:17:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hackbloc"
 host: lemmy.ml
 lastmod: "2021-06-18 00:58:47"
 published: "2020-06-11 15:05:14"
-subscribers: 119
+subscribers: 121
 posts: 93
 comments: 11
 weight: 93

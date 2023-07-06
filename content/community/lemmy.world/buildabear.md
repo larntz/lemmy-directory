@@ -3,14 +3,14 @@ title: "Build-A-Bear "
 name: "buildabear"
 description: "this is a community for all things Build-A-Bear Workshop :) "
 type: community
-date: "2023-06-30 13:17:11"
+date: "2023-07-06 18:33:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buildabear"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:11"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-30 02:17:17"
-subscribers: 3
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

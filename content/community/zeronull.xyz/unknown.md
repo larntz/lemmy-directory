@@ -3,12 +3,12 @@ title: "Unknown"
 name: "unknown"
 description: "What is existence?"
 type: community
-date: "2023-06-30 13:13:57"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://zeronull.xyz/c/unknown"
 host: zeronull.xyz
-lastmod: "2023-06-30 13:13:57"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 13:23:30"
 subscribers: 1
 posts: 0

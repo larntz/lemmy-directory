@@ -3,7 +3,7 @@ title: "DataIsBeautiful"
 name: "dataisbeautiful"
 description: "DataIsBeautiful is for visualizations that effectively convey information. Aesthetics are an important part of information visualization, but..."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-01 17:10:34"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/dataisbeautiful"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 05:57:55"
 subscribers: 1
-posts: 132
+posts: 153
 comments: 0
-weight: 132
+weight: 153
 dau: 1
 wau: 1
 mau: 1

@@ -3,14 +3,14 @@ title: "Zombies"
 name: "zombies"
 description: "A place for fans of zombie books, films, games and undead media!"
 type: community
-date: "2023-06-30 13:17:42"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/zombies"
 host: lemmy.world
 lastmod: "2023-06-22 11:56:43"
 published: "2023-06-22 11:27:01"
-subscribers: 3
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

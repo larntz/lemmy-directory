@@ -3,14 +3,14 @@ title: "Concert Band"
 name: "concertband"
 description: "A community where we can discuss musical instruments, techniques, band, jazz, ensembles, etc. Even share some memes."
 type: community
-date: "2023-06-30 13:17:33"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/concertband"
 host: lemmy.world
 lastmod: "2023-06-18 05:31:38"
 published: "2023-06-18 05:30:20"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

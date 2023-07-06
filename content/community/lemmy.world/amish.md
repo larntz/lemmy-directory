@@ -3,14 +3,14 @@ title: "Amish"
 name: "amish"
 description: "The official Amish community on Lemmy"
 type: community
-date: "2023-06-30 13:17:40"
+date: "2023-07-06 18:33:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/amish"
 host: lemmy.world
 lastmod: "2023-06-20 20:36:02"
 published: "2023-06-14 12:31:37"
-subscribers: 10
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

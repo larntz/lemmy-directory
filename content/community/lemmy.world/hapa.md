@@ -3,14 +3,14 @@ title: "Hapa"
 name: "hapa"
 description: "Introduction post will come soon. This is a place for hapas to talk, share stories and experiences.  Unfamiliar with the word?>**hapa**[ hah-puh ]>>*noun*>>(especially in Hawaii and California) a person of mixed-race heritage who identifies racially and culturally as both white and of Asian descent."
 type: community
-date: "2023-06-30 13:17:57"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hapa"
 host: lemmy.world
 lastmod: "2023-06-19 23:15:07"
 published: "2023-06-19 23:04:22"
-subscribers: 1
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

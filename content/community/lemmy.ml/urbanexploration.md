@@ -3,7 +3,7 @@ title: "Urban Exploration"
 name: "urbanexploration"
 description: "Urban exploration (often shortened as UE, urbex and sometimes known as roof and tunnel hacking) is the exploration of manmade structures, usually abandoned ruins or hidden components of the manmade environment."
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/urbanexploration"

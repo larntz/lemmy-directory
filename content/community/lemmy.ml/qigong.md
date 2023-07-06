@@ -3,14 +3,14 @@ title: "Qigong Discussion"
 name: "qigong"
 description: "Qigong Discussion"
 type: community
-date: "2023-06-30 13:15:15"
+date: "2023-07-03 20:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/qigong"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-28 23:28:23"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

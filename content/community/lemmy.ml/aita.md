@@ -3,14 +3,14 @@ title: "Am I the Asshole?"
 name: "aita"
 description: "I think [!amitheasshole](/c/amitheasshole) is *deleted by creator*."
 type: community
-date: "2023-06-30 13:15:21"
+date: "2023-07-03 20:17:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aita"
 host: lemmy.ml
 lastmod: "2023-06-28 22:37:14"
 published: "2023-06-10 16:40:46"
-subscribers: 75
+subscribers: 85
 posts: 1
 comments: 6
 weight: 1

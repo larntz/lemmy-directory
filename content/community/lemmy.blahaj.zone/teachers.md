@@ -1,19 +1,19 @@
 ---
 title: "teachers" 
 name: "teachers"
-description: "This aims to be a place where teachers all around the world can chat and support each other"
+description: "This aims to be a place where teachers all around the world can chat and support each other.**Rules**1. This community is hosted on a LGBTQIA+ instance. We don't tolerate bigotry, racism, homophobia, transphobia, ageism, classism, casteism, fatphobia and any kind of disrespectful behavior towards any minority.(more to follow)"
 type: community
-date: "2023-06-30 13:13:38"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/teachers"
 host: lemmy.blahaj.zone
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-07-02 15:43:34"
 published: "2023-06-26 12:21:29"
-subscribers: 3
-posts: 1
-comments: 1
-weight: 1
+subscribers: 43
+posts: 2
+comments: 4
+weight: 2
 dau: 1
 wau: 2
 mau: 2

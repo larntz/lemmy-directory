@@ -3,19 +3,19 @@ title: "Permaculture"
 name: "permaculture"
 description: "Caring about the earth, that is what it's about."
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-04 20:51:43"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/permaculture"
 host: lemm.ee
-lastmod: "2023-06-30 13:14:00"
+lastmod: "2023-06-27 07:38:45"
 published: "2023-06-14 07:04:59"
-subscribers: 115
+subscribers: 148
 posts: 5
-comments: 26
+comments: 30
 weight: 5
 dau: 1
-wau: 3
+wau: 2
 mau: 14
 instances:
 - "lemm_ee"

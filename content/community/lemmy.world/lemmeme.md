@@ -3,14 +3,14 @@ title: "lemmeme"
 name: "lemmeme"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:35"
+date: "2023-07-06 18:34:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lemmeme"
 host: lemmy.world
 lastmod: "2023-06-23 20:44:28"
 published: "2023-06-23 20:28:54"
-subscribers: 3
+subscribers: 8
 posts: 3
 comments: 0
 weight: 3

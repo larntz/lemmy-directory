@@ -3,14 +3,14 @@ title: "JazzFunk"
 name: "jazzfunk"
 description: "Share your favorite jazz, funk and neo soul songs. "
 type: community
-date: "2023-06-30 13:17:49"
+date: "2023-07-01 17:13:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jazzfunk"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:49"
+lastmod: "1969-12-31 19:00:00"
 published: "2023-06-15 05:11:41"
-subscribers: 17
+subscribers: 21
 posts: 10
 comments: 4
 weight: 10

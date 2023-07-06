@@ -3,14 +3,14 @@ title: "de_AmA"
 name: "deama"
 description: "Die fragt mich alles-Seite"
 type: community
-date: "2023-06-30 13:13:52"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/deama"
 host: feddit.de
 lastmod: "2023-06-20 08:32:09"
 published: "2023-06-20 08:29:21"
-subscribers: 8
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

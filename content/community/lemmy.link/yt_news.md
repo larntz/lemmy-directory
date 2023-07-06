@@ -1,22 +1,22 @@
 ---
 title: "Youtube News" 
 name: "yt_news"
-description: "#### Feeds- [CNN](https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw)- [Fox News](https://www.youtube.com/feeds/videos.xml?channel_id=UCXIJgqnII2ZOINSWNOGFThA)- [BBC News](https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA)"
+description: "#### Lemmy Link Matrix ChatHop into our room [#lemmylink:matrix.org](https://matrix.to/#/#lemmylink:matrix.org) on Matrix to provide any feedback or chat with us.#### Rules- No abusive language- No bigotry- No advertising- No pornography#### Feeds- [CBS News](https://www.youtube.com/feeds/videos.xml?channel_id=UC8p1vwvWtl6T73JiExfWs1g)- [Reuters](https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ)- [BBC News](https://www.youtube.com/feeds/videos.xml?channel_id=UC16niRr50-MSBwiO3YDb3RA)"
 type: community
-date: "2023-06-30 13:13:53"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.link/c/yt_news"
 host: lemmy.link
-lastmod: "2023-06-28 00:52:32"
+lastmod: "2023-07-06 16:53:52"
 published: "2023-06-25 07:26:58"
-subscribers: 17
-posts: 301
-comments: 5
-weight: 301
-dau: 2
-wau: 5
-mau: 5
+subscribers: 48
+posts: 632
+comments: 78
+weight: 632
+dau: 5
+wau: 24
+mau: 26
 instances:
 - "lemmy_link"
 tags: 

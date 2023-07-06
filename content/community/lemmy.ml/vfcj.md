@@ -3,7 +3,7 @@ title: "Vegan for Circlejerkers"
 name: "vfcj"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-06-30 14:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/vfcj"

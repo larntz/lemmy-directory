@@ -3,7 +3,7 @@ title: "Kent"
 name: "kent"
 description: "Kent is a county in southeastern England. In the city of Canterbury, Canterbury Cathedral has a 1,400-year history, and features a Romanesque crypt and medieval stained glass. The underground Canterbury Roman Museum has excavated mosaics. Whitstable, to the north, is a coastal town with colourful cottages and a harbourside fish market. East, along the coast, Margate is home to the Turner Contemporary art gallery. "
 type: community
-date: "2023-06-30 13:15:13"
+date: "2023-07-03 20:17:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/kent"

@@ -1,22 +1,22 @@
 ---
 title: "A Song Of Ice And Fire" 
 name: "asoiaf"
-description: "For all things relating to GRRM's fantasy universe, including novels, short stories, and screen adaptations."
+description: "News and discussion of all things relating to GRRM's fantasy universe, including novels, short stories, games, and screen adaptations.This is a sibling site of the r/asoiaf subreddit."
 type: community
-date: "2023-06-30 13:17:49"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/asoiaf"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-07-05 20:58:29"
 published: "2023-06-11 20:08:51"
-subscribers: 101
-posts: 3
-comments: 7
-weight: 3
-dau: 1
-wau: 1
-mau: 9
+subscribers: 152
+posts: 9
+comments: 14
+weight: 9
+dau: 4
+wau: 6
+mau: 12
 instances:
 - "lemmy_world"
 tags: 

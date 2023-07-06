@@ -3,7 +3,7 @@ title: "OpenSCAD"
 name: "openscad"
 description: "A community for The Programmers Solid CAD Modeller,  [OpenSCAD](https://openscad.org/)."
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/openscad"

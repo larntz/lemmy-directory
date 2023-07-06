@@ -3,14 +3,14 @@ title: "steak"
 name: "steak"
 description: "you can post steak that you grilled/cooked here."
 type: community
-date: "2023-06-30 13:17:55"
+date: "2023-07-03 20:22:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/steak"
 host: lemmy.world
 lastmod: "2023-06-14 14:18:37"
 published: "2023-06-14 14:13:59"
-subscribers: 17
+subscribers: 21
 posts: 1
 comments: 3
 weight: 1

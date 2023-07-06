@@ -3,14 +3,14 @@ title: "Türkiye - Haberler ve Tartışma 2"
 name: "turkey_news"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:44"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/turkey_news"
 host: lemmy.world
 lastmod: "2023-06-12 12:25:08"
 published: "2023-06-12 12:04:18"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

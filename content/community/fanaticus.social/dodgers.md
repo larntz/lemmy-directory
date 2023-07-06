@@ -3,20 +3,20 @@ title: "Dodgers"
 name: "dodgers"
 description: "Cloned from [r/Dodgers](https://old.reddit.com/r/Dodgers)# Looking for mods!"
 type: community
-date: "2023-06-30 13:14:20"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/dodgers"
 host: fanaticus.social
 lastmod: "2023-06-12 16:47:06"
 published: "2023-06-09 17:14:11"
-subscribers: 9
-posts: 28
-comments: 27
-weight: 28
-dau: 0
-wau: 0
-mau: 0
+subscribers: 24
+posts: 33
+comments: 31
+weight: 33
+dau: 1
+wau: 3
+mau: 3
 instances:
 - "fanaticus_social"
 tags: 

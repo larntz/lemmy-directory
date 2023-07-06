@@ -3,14 +3,14 @@ title: "Workout"
 name: "workout"
 description: "All things workout related, weightlifting, hypertrophy, exercise, powerlifting, bodybuilding"
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/workout"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 19:21:35"
-subscribers: 53
+subscribers: 60
 posts: 2
 comments: 5
 weight: 2

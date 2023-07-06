@@ -3,20 +3,20 @@ title: "Salt Lake City"
 name: "saltlakecity"
 description: "Dedicated community for all things SLC!"
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-04 20:51:42"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/saltlakecity"
 host: lemm.ee
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-02 18:31:21"
 published: "2023-06-17 17:29:43"
-subscribers: 9
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 23
+posts: 6
+comments: 1
+weight: 6
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemm_ee"
 tags: 

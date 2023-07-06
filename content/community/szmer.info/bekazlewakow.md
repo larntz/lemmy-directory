@@ -3,7 +3,7 @@ title: "Beka z lewaków"
 name: "bekazlewakow"
 description: "Bo tylko w faszyście nie ma wątpliwości.     Mieliśmy już kiedyś taką społeczność, ale osoba skasowała ją wraz ze swoim kontem. Oddam moderację w dobre ręce. "
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-01 17:10:13"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/bekazlewakow"

@@ -3,20 +3,20 @@ title: "Selvgjort er velgjort"
 name: "selvgjortvelgjort"
 description: "For alle dine gør-det-selv projekter."
 type: community
-date: "2023-06-30 13:13:38"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://feddit.dk/c/selvgjortvelgjort"
 host: feddit.dk
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 13:00:52"
-subscribers: 50
-posts: 5
-comments: 47
-weight: 5
+subscribers: 73
+posts: 6
+comments: 60
+weight: 6
 dau: 1
-wau: 10
-mau: 21
+wau: 9
+mau: 25
 instances:
 - "feddit_dk"
 tags: 

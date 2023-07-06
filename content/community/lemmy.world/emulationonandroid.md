@@ -3,20 +3,20 @@ title: "Emulation on Android"
 name: "emulationonandroid"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:38:08"
+date: "2023-07-06 18:34:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/emulationonandroid"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 09:14:47"
-subscribers: 49
-posts: 2
-comments: 8
-weight: 2
-dau: 1
-wau: 5
-mau: 5
+subscribers: 209
+posts: 5
+comments: 37
+weight: 5
+dau: 3
+wau: 16
+mau: 19
 instances:
 - "lemmy_world"
 tags: 

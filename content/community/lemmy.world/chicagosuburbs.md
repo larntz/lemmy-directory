@@ -3,14 +3,14 @@ title: "Suburbs of Chicago"
 name: "chicagosuburbs"
 description: "News, events and discussions from the suburbs of Chicago, including Cook, DuPage, Kane, Kendall, Lake, McHenry and Will counties in Illinois, LaPorte, Lake and Porter counties in Indiana, and Kenosha County, Wisconsin."
 type: community
-date: "2023-06-30 13:17:14"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chicagosuburbs"
 host: lemmy.world
 lastmod: "2023-06-27 01:49:40"
 published: "2023-06-26 20:56:28"
-subscribers: 4
+subscribers: 19
 posts: 1
 comments: 0
 weight: 1

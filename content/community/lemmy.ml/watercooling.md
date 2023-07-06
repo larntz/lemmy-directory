@@ -3,14 +3,14 @@ title: "watercooling"
 name: "watercooling"
 description: "Watercooling PC pictures and questions!"
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/watercooling"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-04-26 16:48:16"
-subscribers: 20
+subscribers: 25
 posts: 5
 comments: 6
 weight: 5

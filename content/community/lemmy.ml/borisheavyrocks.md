@@ -3,7 +3,7 @@ title: "Boris Heavy Rocks"
 name: "borisheavyrocks"
 description: "A place to discuss the heaviest band of all time. "
 type: community
-date: "2023-06-30 13:15:13"
+date: "2023-07-03 20:17:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/borisheavyrocks"
@@ -11,12 +11,12 @@ host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 00:22:10"
 subscribers: 2
-posts: 0
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_ml"
 tags: 

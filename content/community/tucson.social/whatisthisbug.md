@@ -1,16 +1,16 @@
 ---
 title: "What Is This Bug? " 
 name: "whatisthisbug"
-description: "What Is This Bug? Sonoran Desert and Sky Island edition!"
+description: "Discover the buzzing, creeping, and fluttering world of the Sonoran desert. If you've found a curious critter and need help identifying it, post it here! Bug enthusiasts and scientists alike, lend us your knowledge!"
 type: community
-date: "2023-06-30 13:14:10"
+date: "2023-07-06 18:29:48"
 draft: false
 nsfw: false
 actor_id: "https://tucson.social/c/whatisthisbug"
 host: tucson.social
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-01 09:13:51"
 published: "2023-06-12 06:17:26"
-subscribers: 6
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

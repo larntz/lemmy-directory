@@ -3,17 +3,17 @@ title: "The Garagenous Zone"
 name: "tgz"
 description: "Classics, Rat Rods, Projects, Piles, Automotive, etc"
 type: community
-date: "2023-06-29 12:37:38"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tgz"
 host: lemmy.world
 lastmod: "2023-06-15 21:52:36"
 published: "2023-06-13 21:37:10"
-subscribers: 7
-posts: 2
+subscribers: 17
+posts: 3
 comments: 1
-weight: 2
+weight: 3
 dau: 1
 wau: 1
 mau: 3

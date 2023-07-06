@@ -3,7 +3,7 @@ title: "QuantenToast"
 name: "quantentoast"
 description: "News und Infos über [QuantenToast](https://quantentoast.de).- [Status Seite](https://status.quantentoast.de)- Mastodon: [@quantentoast@social.lauercloud.de](https://social.lauercloud.de/@quantentoast)"
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://postit.quantentoast.de/c/quantentoast"

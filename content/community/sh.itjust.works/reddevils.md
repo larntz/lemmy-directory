@@ -3,14 +3,14 @@ title: "Red Devils"
 name: "reddevils"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:35:21"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/reddevils"
 host: sh.itjust.works
 lastmod: "2023-06-10 23:28:48"
 published: "2023-06-10 18:14:20"
-subscribers: 20
+subscribers: 26
 posts: 6
 comments: 8
 weight: 6

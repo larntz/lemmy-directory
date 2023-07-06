@@ -3,14 +3,14 @@ title: "London"
 name: "london"
 description: "One London, many Londoners"
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/london"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-07 14:00:30"
-subscribers: 15
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0

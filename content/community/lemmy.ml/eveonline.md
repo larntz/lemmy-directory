@@ -3,7 +3,7 @@ title: "EVE Online"
 name: "eveonline"
 description: "Rules1. No bigotry.2. Don't be a dick to others."
 type: community
-date: "2023-06-30 13:15:31"
+date: "2023-07-03 20:17:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/eveonline"

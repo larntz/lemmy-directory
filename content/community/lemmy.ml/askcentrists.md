@@ -3,14 +3,14 @@ title: "Ask Centrists"
 name: "askcentrists"
 description: "Ask Centrists & Political Moderates stuff about what they believe or how they believe, and why."
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-03 20:17:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/askcentrists"
 host: lemmy.ml
 lastmod: "2020-05-12 02:14:55"
 published: "2020-05-11 23:54:29"
-subscribers: 16
+subscribers: 17
 posts: 2
 comments: 3
 weight: 2

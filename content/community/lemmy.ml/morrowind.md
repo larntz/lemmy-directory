@@ -3,14 +3,14 @@ title: "Morrowind"
 name: "morrowind"
 description: "[The Elder Scrolls III: Morrowind](https://en.uesp.net/wiki/Morrowind:Morrowind)"
 type: community
-date: "2023-06-30 13:15:13"
+date: "2023-07-03 20:17:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/morrowind"
 host: lemmy.ml
 lastmod: "2023-06-24 12:30:12"
 published: "2023-06-14 14:16:46"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

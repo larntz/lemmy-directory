@@ -3,7 +3,7 @@ title: "Mini Painting"
 name: "minipaining"
 description: "A place to gather round and share our tips, ideas, discussion and painted miniatures "
 type: community
-date: "2023-06-30 13:15:15"
+date: "2023-07-03 20:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/minipaining"

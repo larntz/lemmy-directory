@@ -3,14 +3,14 @@ title: "OSG (!rovering)"
 name: "rovering"
 description: "[Outdoor Service Guides](https://lemmy.world/c/osg)"
 type: community
-date: "2023-06-30 13:17:38"
+date: "2023-07-06 18:33:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rovering"
 host: lemmy.world
 lastmod: "2023-06-22 02:53:54"
 published: "2023-06-22 02:43:43"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

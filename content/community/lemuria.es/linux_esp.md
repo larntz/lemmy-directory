@@ -3,14 +3,14 @@ title: "Linux en Español"
 name: "linux_esp"
 description: "Comunidad Lemmy en español dedicada a los sistema operativos Linux así como al software que se ejecuta sobre él. Debian, Ubuntu, Fedora, Arch Linux, NixOS, openSUSE, RedHat, ..."
 type: community
-date: "2023-06-30 13:13:45"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemuria.es/c/linux_esp"
 host: lemuria.es
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-26 16:18:11"
-subscribers: 2
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "The OSINTBuddy project"
 name: "osintbuddy"
 description: "A community to discuss ideas, features, and bugs from the  OSINTBuddy project: https://github.com/jerlendds/osintbuddy"
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/osintbuddy"

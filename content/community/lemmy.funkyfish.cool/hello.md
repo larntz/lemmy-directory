@@ -3,14 +3,14 @@ title: "Hello"
 name: "hello"
 description: "Say hello"
 type: community
-date: "2023-06-30 13:13:47"
+date: "2023-07-06 18:29:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.funkyfish.cool/c/hello"
 host: lemmy.funkyfish.cool
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 17:04:07"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 2
 weight: 1

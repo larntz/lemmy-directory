@@ -3,7 +3,7 @@ title: "OPNsense"
 name: "opnsense"
 description: "Community for the OPNsense firewall.Mostly updates from the announcement section in the forums.# Links- https://opnsense.org/- https://forum.opnsense.org/"
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-06-30 20:59:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.re4mstr.com/c/opnsense"
@@ -11,9 +11,9 @@ host: lemmy.re4mstr.com
 lastmod: "2023-06-23 19:46:40"
 published: "2023-06-12 20:31:36"
 subscribers: 1
-posts: 3
+posts: 4
 comments: 0
-weight: 3
+weight: 4
 dau: 1
 wau: 1
 mau: 1

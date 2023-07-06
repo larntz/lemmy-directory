@@ -3,14 +3,14 @@ title: "Virginia Tech"
 name: "virginiatech"
 description: "A community for Hokies: On campus, around town, and around the New River Valley. "
 type: community
-date: "2023-06-30 13:17:42"
+date: "2023-07-01 17:13:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/virginiatech"
 host: lemmy.world
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-17 17:08:29"
-subscribers: 7
+subscribers: 9
 posts: 4
 comments: 0
 weight: 4

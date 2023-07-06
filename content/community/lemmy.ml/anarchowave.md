@@ -3,14 +3,14 @@ title: "ａｎａｒｃｈｏｗａｖｅ"
 name: "anarchowave"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/anarchowave"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-11-22 17:38:46"
-subscribers: 38
+subscribers: 41
 posts: 7
 comments: 1
 weight: 7

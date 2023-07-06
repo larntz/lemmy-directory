@@ -3,14 +3,14 @@ title: "health and inner peace"
 name: "yoga"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/yoga"
 host: lemmy.ml
 lastmod: "2021-02-15 08:17:28"
 published: "2020-07-09 02:00:38"
-subscribers: 22
+subscribers: 24
 posts: 4
 comments: 1
 weight: 4

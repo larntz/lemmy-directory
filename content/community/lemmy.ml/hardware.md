@@ -3,7 +3,7 @@ title: "Hardware"
 name: "hardware"
 description: "This is a community dedicated to the hardware aspect of technology, from PC parts, to gadgets, to servers, to industrial control equipment, to semiconductors.Rules:* Posts must be relevant to electronic hardware* No NSFW content* No hate speech, bigotry, etc "
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-06-30 14:57:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hardware"

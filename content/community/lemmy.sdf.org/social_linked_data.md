@@ -3,16 +3,16 @@ title: "Solid - Social Linked Data"
 name: "social_linked_data"
 description: "A community to talk about Social Linked Data, the new vision of the WWW by Tim Berners-Lee"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-04 20:51:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/social_linked_data"
 host: lemmy.sdf.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 10:20:23"
-subscribers: 10
+subscribers: 11
 posts: 3
-comments: 1
+comments: 2
 weight: 3
 dau: 1
 wau: 2

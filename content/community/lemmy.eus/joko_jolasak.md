@@ -3,14 +3,14 @@ title: "Joko eta jolasak"
 name: "joko_jolasak"
 description: "Bideojokoak, rol jolasak, mahai-jokoak eta abar aipatzeko gunea."
 type: community
-date: "2023-06-30 13:13:39"
+date: "2023-07-06 18:29:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/joko_jolasak"
 host: lemmy.eus
 lastmod: "2020-12-30 19:30:28"
 published: "2020-12-30 19:23:30"
-subscribers: 17
+subscribers: 23
 posts: 11
 comments: 20
 weight: 11

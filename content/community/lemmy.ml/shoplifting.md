@@ -3,12 +3,12 @@ title: "Shoplifting "
 name: "shoplifting"
 description: "No big retail shills"
 type: community
-date: "2023-06-29 12:36:31"
+date: "2023-07-01 17:12:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/shoplifting"
 host: lemmy.ml
-lastmod: "2023-06-29 12:36:31"
+lastmod: "2022-06-06 18:34:28"
 published: "2022-03-25 11:06:34"
 subscribers: 22
 posts: 4

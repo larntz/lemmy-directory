@@ -3,14 +3,14 @@ title: "Pacstall"
 name: "pacstall"
 description: "An AUR inspired package manager for Ubuntu"
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/pacstall"
 host: lemmy.ml
 lastmod: "2023-06-10 14:09:17"
 published: "2023-06-10 01:40:00"
-subscribers: 4
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

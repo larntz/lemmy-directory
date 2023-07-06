@@ -3,14 +3,14 @@ title: "halloween"
 name: "halloween"
 description: "A Community For All Those Celebrating Samhain, Autumn and Halloween.----- Be nice and spooky."
 type: community
-date: "2023-06-27 16:15:54"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/halloween"
 host: discuss.tchncs.de
-lastmod: "2023-06-27 16:15:54"
+lastmod: "2023-06-14 12:52:16"
 published: "2023-06-13 07:47:46"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

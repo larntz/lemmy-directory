@@ -3,14 +3,14 @@ title: "Chia Blockchain Network"
 name: "chia"
 description: "Chia is a blockchain and smart transaction platform that is easy to use, more efficient, and secure. It uses the Proof of space and time protocol, allowing users to farm plots of unused storage space. Smart transactions use the Chialisp programming language."
 type: community
-date: "2023-06-30 13:15:14"
+date: "2023-07-03 20:17:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/chia"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-05-11 00:29:21"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

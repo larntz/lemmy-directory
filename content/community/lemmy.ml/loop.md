@@ -3,7 +3,7 @@ title: "Microsoft Loop"
 name: "loop"
 description: "Lemmy community for all things relating to Microsoft Loop."
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-07-01 17:12:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/loop"

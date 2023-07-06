@@ -3,7 +3,7 @@ title: "Privacy Guides – Tools and Resources for Protecting Your Data"
 name: "privacyguides"
 description: "r/PrivacyGuides is closed in protest of privacy-invasive changes to Reddit: https://lemmy.one/post/74432."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-01 17:10:33"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/privacyguides"

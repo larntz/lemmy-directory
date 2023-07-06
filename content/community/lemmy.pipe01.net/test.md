@@ -3,7 +3,7 @@ title: "Test"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:38"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pipe01.net/c/test"
@@ -16,7 +16,7 @@ comments: 0
 weight: 0
 dau: 1
 wau: 2
-mau: 2
+mau: 1
 instances:
 - "lemmy_pipe01_net"
 tags: 

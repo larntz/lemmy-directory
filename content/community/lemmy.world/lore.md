@@ -3,7 +3,7 @@ title: "Lore"
 name: "lore"
 description: "Placeholder."
 type: community
-date: "2023-06-30 13:17:29"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lore"

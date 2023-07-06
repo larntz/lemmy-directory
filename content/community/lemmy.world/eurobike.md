@@ -3,20 +3,20 @@ title: "EuroBike"
 name: "eurobike"
 description: "A community for all European bicycle users. Commuters, mountain bikers, roadies, everybody is welcome."
 type: community
-date: "2023-06-30 13:17:14"
+date: "2023-07-01 17:13:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eurobike"
 host: lemmy.world
 lastmod: "2023-06-25 13:50:16"
 published: "2023-06-25 13:47:25"
-subscribers: 11
-posts: 2
-comments: 0
-weight: 2
-dau: 1
-wau: 1
-mau: 1
+subscribers: 13
+posts: 3
+comments: 1
+weight: 3
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

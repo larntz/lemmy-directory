@@ -3,14 +3,14 @@ title: "TransDACH"
 name: "transdach"
 description: "Community für alle transgeschlechtlichen Menschen aus dem D/A/CH-Raum."
 type: community
-date: "2023-06-30 13:17:55"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/transdach"
 host: lemmy.world
 lastmod: "2023-06-21 13:04:57"
 published: "2023-06-21 13:01:40"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Languages of the World"
 name: "language"
 description: "Discussion about languages, linguistics, and language learning."
 type: community
-date: "2023-06-28 15:21:00"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/language"
 host: lemmy.world
 lastmod: "2023-06-11 07:51:33"
 published: "2023-06-11 05:10:58"
-subscribers: 26
+subscribers: 37
 posts: 3
 comments: 0
 weight: 3

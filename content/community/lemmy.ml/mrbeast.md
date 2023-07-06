@@ -3,7 +3,7 @@ title: "Mr. Beast"
 name: "mrbeast"
 description: "For the YouTuber Mr. Beast"
 type: community
-date: "2023-06-30 13:15:14"
+date: "2023-07-03 20:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/mrbeast"

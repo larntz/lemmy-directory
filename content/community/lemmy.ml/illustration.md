@@ -3,7 +3,7 @@ title: "Illustration: A place for your art"
 name: "illustration"
 description: "Post your illustration work here. I'll try to codify some ground rules as this community evolves."
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/illustration"

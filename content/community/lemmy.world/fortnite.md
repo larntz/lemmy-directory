@@ -3,14 +3,14 @@ title: "Fortnite"
 name: "fortnite"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:43"
+date: "2023-07-03 20:22:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fortnite"
 host: lemmy.world
 lastmod: "2023-06-09 20:37:07"
 published: "2023-06-09 20:33:11"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

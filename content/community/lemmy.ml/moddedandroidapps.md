@@ -3,14 +3,14 @@ title: "moddedandroidapps"
 name: "moddedandroidapps"
 description: "A community dedicated to modded Android app releases."
 type: community
-date: "2023-06-30 13:15:28"
+date: "2023-07-03 20:17:11"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/moddedandroidapps"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-08-15 15:04:55"
-subscribers: 29
+subscribers: 31
 posts: 6
 comments: 0
 weight: 6

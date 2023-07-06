@@ -3,14 +3,14 @@ title: "paymoney_wubby"
 name: "paymoney_wubby"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:41"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/paymoney_wubby"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-08 14:50:37"
-subscribers: 26
+subscribers: 37
 posts: 2
 comments: 2
 weight: 2

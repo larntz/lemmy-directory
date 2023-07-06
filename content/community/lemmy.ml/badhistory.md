@@ -3,14 +3,14 @@ title: "badhistory"
 name: "badhistory"
 description: "A community for discussing pseudo-history."
 type: community
-date: "2023-06-30 13:15:23"
+date: "2023-07-03 20:17:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/badhistory"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-08-27 17:57:13"
-subscribers: 14
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0

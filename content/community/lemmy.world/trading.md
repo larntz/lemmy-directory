@@ -3,14 +3,14 @@ title: "Trading"
 name: "trading"
 description: "Professional Traders Discussing Financial Markets"
 type: community
-date: "2023-06-30 13:18:01"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trading"
 host: lemmy.world
 lastmod: "2023-06-15 04:08:45"
 published: "2023-06-14 03:16:38"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

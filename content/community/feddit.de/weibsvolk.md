@@ -3,14 +3,14 @@ title: "Weibsvolk"
 name: "weibsvolk"
 description: "Wird gerne an die Original-Mods weitergegeben, sollten sie sich zu einem Wechsel entschließen :) "
 type: community
-date: "2023-06-27 16:16:03"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/weibsvolk"
 host: feddit.de
-lastmod: "2023-06-27 16:16:03"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 17:55:18"
-subscribers: 44
+subscribers: 57
 posts: 1
 comments: 3
 weight: 1

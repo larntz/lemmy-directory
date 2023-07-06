@@ -3,14 +3,14 @@ title: "Tech Support"
 name: "techsupport"
 description: "Community for sharing support articles for issues related to technology."
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/techsupport"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-10-25 12:01:42"
-subscribers: 81
+subscribers: 82
 posts: 14
 comments: 5
 weight: 14

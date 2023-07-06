@@ -3,14 +3,14 @@ title: "Gensokyo News"
 name: "gensokyo_news"
 description: "News for services and stuff on *.soopy.moe"
 type: community
-date: "2023-06-30 13:13:41"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://f.soopy.moe/c/gensokyo_news"
 host: f.soopy.moe
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-24 07:58:20"
-subscribers: 2
+subscribers: 5
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Damn, that's interesting!"
 name: "damnthatsinteresting"
 description: "For the most interesting things on the internet."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-01 17:10:33"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/damnthatsinteresting"
@@ -11,9 +11,9 @@ host: zerobytes.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 07:00:29"
 subscribers: 1
-posts: 233
+posts: 280
 comments: 0
-weight: 233
+weight: 280
 dau: 1
 wau: 1
 mau: 1

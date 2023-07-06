@@ -3,14 +3,14 @@ title: "Exeter"
 name: "exeter"
 description: "A community for the city of Exeter."
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/exeter"
 host: feddit.uk
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 05:25:40"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

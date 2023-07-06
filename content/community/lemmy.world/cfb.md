@@ -3,20 +3,20 @@ title: "College Football"
 name: "cfb"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:53"
+date: "2023-07-03 20:22:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cfb"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 01:25:45"
-subscribers: 238
-posts: 33
-comments: 44
-weight: 33
-dau: 3
-wau: 10
-mau: 23
+subscribers: 379
+posts: 36
+comments: 54
+weight: 36
+dau: 4
+wau: 13
+mau: 28
 instances:
 - "lemmy_world"
 tags: 

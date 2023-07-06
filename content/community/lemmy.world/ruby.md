@@ -3,14 +3,14 @@ title: "Ruby Programming Language"
 name: "ruby"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:52"
+date: "2023-07-03 20:22:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ruby"
 host: lemmy.world
 lastmod: "2023-06-12 17:21:11"
 published: "2023-06-12 15:42:44"
-subscribers: 3
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

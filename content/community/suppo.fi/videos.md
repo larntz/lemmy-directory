@@ -3,14 +3,14 @@ title: "Videos"
 name: "videos"
 description: "All sorts'o'videos, streams, clips. SFW."
 type: community
-date: "2023-06-30 13:13:38"
+date: "2023-07-06 18:29:19"
 draft: false
 nsfw: false
 actor_id: "https://suppo.fi/c/videos"
 host: suppo.fi
 lastmod: "2023-06-28 06:49:52"
 published: "2023-06-28 06:48:16"
-subscribers: 1
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

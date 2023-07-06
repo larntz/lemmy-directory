@@ -3,14 +3,14 @@ title: "Images of Spain "
 name: "imagesofspain"
 description: "Post photographs or other kinds of art, of this wonderful country here"
 type: community
-date: "2023-06-30 13:17:45"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/imagesofspain"
 host: lemmy.world
 lastmod: "2023-06-24 10:20:28"
 published: "2023-06-21 04:46:51"
-subscribers: 13
+subscribers: 17
 posts: 7
 comments: 4
 weight: 7

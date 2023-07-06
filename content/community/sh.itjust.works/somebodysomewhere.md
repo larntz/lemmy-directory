@@ -3,14 +3,14 @@ title: "Somebody Somewhere"
 name: "somebodysomewhere"
 description: "For FANs of this HBO TV series"
 type: community
-date: "2023-06-29 12:35:21"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/somebodysomewhere"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 15:15:18"
-subscribers: 5
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

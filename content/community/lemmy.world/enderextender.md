@@ -3,14 +3,14 @@ title: "Ender extender"
 name: "enderextender"
 description: "ender extender!! make your ender bigger and better!!"
 type: community
-date: "2023-06-28 14:06:19"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/enderextender"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:19"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 23:00:29"
-subscribers: 3
+subscribers: 6
 posts: 1
 comments: 1
 weight: 1

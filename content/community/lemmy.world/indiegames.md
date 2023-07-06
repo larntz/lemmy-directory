@@ -3,14 +3,14 @@ title: "Indie Games"
 name: "indiegames"
 description: "A place for all indie game lovers.The goal of this place is to learn about new and/or niche games, share your favorites, recommend and get recommendations, and just like the goal of games themselves: have fun."
 type: community
-date: "2023-06-30 13:17:55"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/indiegames"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 18:59:35"
-subscribers: 9
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

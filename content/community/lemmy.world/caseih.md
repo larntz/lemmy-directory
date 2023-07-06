@@ -3,14 +3,14 @@ title: "Case IH"
 name: "caseih"
 description: "A replacement for the small Case IH subreddit. It's not about the size, but how you use it, right?"
 type: community
-date: "2023-06-30 13:17:49"
+date: "2023-07-03 20:22:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/caseih"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 05:40:57"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

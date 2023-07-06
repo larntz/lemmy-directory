@@ -3,14 +3,14 @@ title: "NBL"
 name: "nbl"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:40"
+date: "2023-07-04 20:51:19"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/nbl"
 host: aussie.zone
 lastmod: "2023-06-25 11:18:41"
 published: "2023-06-25 11:17:45"
-subscribers: 2
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Studying"
 name: "studying"
 description: "A community for **students** of any subject - with a focus on **productivity** and positive habits."
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/studying"
 host: lemmy.ml
 lastmod: "2022-03-14 06:05:48"
 published: "2022-03-08 21:30:12"
-subscribers: 44
+subscribers: 47
 posts: 5
 comments: 17
 weight: 5

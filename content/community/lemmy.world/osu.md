@@ -3,14 +3,14 @@ title: "osu!"
 name: "osu"
 description: "osu!"
 type: community
-date: "2023-06-30 13:17:50"
+date: "2023-07-03 20:22:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/osu"
 host: lemmy.world
 lastmod: "2023-06-22 13:43:59"
 published: "2023-06-22 13:35:48"
-subscribers: 6
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

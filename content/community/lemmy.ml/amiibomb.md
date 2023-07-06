@@ -3,14 +3,14 @@ title: "Amiibo Spoofing"
 name: "amiibomb"
 description: "Chat and discussion about Amiibo spoofing."
 type: community
-date: "2023-06-29 12:36:22"
+date: "2023-07-03 20:17:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/amiibomb"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-06 22:55:34"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

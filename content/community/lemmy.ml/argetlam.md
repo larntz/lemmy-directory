@@ -3,14 +3,14 @@ title: "Argetlam"
 name: "argetlam"
 description: ""
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/argetlam"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-05-03 10:00:23"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

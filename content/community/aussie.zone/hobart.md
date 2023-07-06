@@ -3,20 +3,20 @@ title: "Hobart"
 name: "hobart"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:40"
+date: "2023-07-04 20:51:19"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/hobart"
 host: aussie.zone
 lastmod: "2023-06-18 15:29:43"
 published: "2023-06-10 02:44:57"
-subscribers: 41
-posts: 5
-comments: 11
-weight: 5
+subscribers: 53
+posts: 8
+comments: 12
+weight: 8
 dau: 1
-wau: 1
-mau: 6
+wau: 2
+mau: 7
 instances:
 - "aussie_zone"
 tags: 

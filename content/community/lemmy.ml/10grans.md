@@ -3,14 +3,14 @@ title: "10grans"
 name: "10grans"
 description: "The only currency that supplies Friendship, Finance, & Fun all at the same time.https://10grans.cash/"
 type: community
-date: "2023-06-30 13:15:23"
+date: "2023-07-03 20:17:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/10grans"
 host: lemmy.ml
 lastmod: "2021-02-18 22:47:58"
 published: "2021-02-18 22:41:52"
-subscribers: 7
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

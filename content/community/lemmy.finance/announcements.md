@@ -3,7 +3,7 @@ title: "lemmy.finance Announcements"
 name: "announcements"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:14:08"
+date: "2023-07-06 18:29:44"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.finance/c/announcements"

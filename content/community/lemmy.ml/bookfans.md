@@ -3,14 +3,14 @@ title: "Just for Book Fans"
 name: "bookfans"
 description: "Here you can recommend, suggest or ask for certain kind of book. Also post your opinion about some books you read!"
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bookfans"
 host: lemmy.ml
 lastmod: "2020-10-04 14:16:21"
 published: "2020-02-10 20:29:50"
-subscribers: 8
+subscribers: 9
 posts: 4
 comments: 0
 weight: 4

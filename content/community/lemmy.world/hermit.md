@@ -3,20 +3,20 @@ title: "Hermit — Lite Apps Browser"
 name: "hermit"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:11"
+date: "2023-07-03 20:22:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hermit"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:11"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-30 00:51:24"
-subscribers: 7
-posts: 1
-comments: 3
-weight: 1
-dau: 3
-wau: 3
-mau: 3
+subscribers: 18
+posts: 3
+comments: 4
+weight: 3
+dau: 1
+wau: 4
+mau: 4
 instances:
 - "lemmy_world"
 tags: 

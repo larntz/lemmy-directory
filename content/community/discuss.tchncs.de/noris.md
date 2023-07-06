@@ -3,14 +3,14 @@ title: "Nürnberg | Nuremberg | Noris"
 name: "noris"
 description: "NürnbergLanguages: German / English"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/noris"
 host: discuss.tchncs.de
 lastmod: "2023-06-12 21:07:23"
 published: "2023-06-12 21:03:06"
-subscribers: 23
+subscribers: 33
 posts: 4
 comments: 3
 weight: 4

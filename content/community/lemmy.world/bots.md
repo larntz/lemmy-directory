@@ -3,14 +3,14 @@ title: "Bots, Robots and other automation"
 name: "bots"
 description: "Community to discuss bots for Lemmy or other things. Robots and other automation welcome."
 type: community
-date: "2023-06-27 16:19:29"
+date: "2023-07-03 20:22:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bots"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:29"
+lastmod: "2023-06-22 10:47:44"
 published: "2023-06-11 21:27:55"
-subscribers: 16
+subscribers: 21
 posts: 3
 comments: 3
 weight: 3

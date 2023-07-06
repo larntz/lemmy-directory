@@ -3,12 +3,12 @@ title: "awwnime"
 name: "awwnime"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:14:01"
+date: "2023-07-03 20:16:09"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/awwnime"
 host: lemm.ee
-lastmod: "2023-06-30 13:14:01"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 10:30:20"
 subscribers: 3
 posts: 0

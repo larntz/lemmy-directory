@@ -3,14 +3,14 @@ title: "u/tifa's Testing Space"
 name: "tifa"
 description: "Description not available."
 type: community
-date: "2023-06-28 14:06:19"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tifa"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:19"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 15:22:09"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Ares"
 name: "ares"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ares"
 host: feddit.uk
 lastmod: "2023-06-28 22:16:08"
 published: "2023-06-28 22:15:15"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

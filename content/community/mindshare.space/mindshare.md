@@ -3,14 +3,14 @@ title: "Mindshare"
 name: "mindshare"
 description: "Official announcements from the Mindshare team"
 type: community
-date: "2023-06-30 13:13:40"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://mindshare.space/c/mindshare"
 host: mindshare.space
 lastmod: "2023-06-09 04:31:34"
 published: "2023-06-09 03:38:43"
-subscribers: 4
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

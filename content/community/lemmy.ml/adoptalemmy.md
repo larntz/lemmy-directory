@@ -3,7 +3,7 @@ title: "Adopt A Lemmy"
 name: "adoptalemmy"
 description: "A place to let others adopt a Lemmy community you own"
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/adoptalemmy"

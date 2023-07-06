@@ -3,14 +3,14 @@ title: "Music General"
 name: "musicgeneral"
 description: "A place to share found or favourite tunes."
 type: community
-date: "2023-06-30 13:13:58"
+date: "2023-07-06 18:29:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/musicgeneral"
 host: lemmy.bleh.au
 lastmod: "2023-06-18 13:19:45"
 published: "2023-06-18 13:16:54"
-subscribers: 4
+subscribers: 6
 posts: 4
 comments: 0
 weight: 4

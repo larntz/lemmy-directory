@@ -3,14 +3,14 @@ title: "Skeler"
 name: "skeler"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:49"
+date: "2023-07-06 18:34:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skeler"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:49"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 17:30:01"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Discussion"
 name: "discussion"
 description: "Just talk. About whatever. Within Reason."
 type: community
-date: "2023-06-30 13:13:49"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.coeus.icu/c/discussion"
 host: lemmy.coeus.icu
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 04:46:27"
-subscribers: 5
+subscribers: 8
 posts: 3
 comments: 6
 weight: 3

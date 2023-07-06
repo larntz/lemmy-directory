@@ -3,14 +3,14 @@ title: "GenZhouArchive"
 name: "genzhouarchive"
 description: "A space to archive anything from /r/GenZhou"
 type: community
-date: "2023-06-30 13:13:54"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/genzhouarchive"
 host: lemmygrad.ml
 lastmod: "2022-04-04 09:52:07"
 published: "2022-03-31 02:10:29"
-subscribers: 139
+subscribers: 147
 posts: 5809
 comments: 32563
 weight: 5809

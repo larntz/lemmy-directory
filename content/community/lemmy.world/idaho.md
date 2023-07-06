@@ -3,14 +3,14 @@ title: "Idaho"
 name: "idaho"
 description: "A community for Idahoans!"
 type: community
-date: "2023-06-29 12:38:04"
+date: "2023-07-03 20:23:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/idaho"
 host: lemmy.world
 lastmod: "2023-06-12 03:20:11"
 published: "2023-06-12 03:12:56"
-subscribers: 13
+subscribers: 19
 posts: 1
 comments: 1
 weight: 1

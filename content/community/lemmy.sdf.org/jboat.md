@@ -3,7 +3,7 @@ title: "J Boats"
 name: "jboat"
 description: "Talk about owning, maintaining, and racing the world's most popular race boat."
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-04 14:51:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/jboat"
@@ -15,7 +15,7 @@ posts: 2
 comments: 1
 weight: 2
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_sdf_org"

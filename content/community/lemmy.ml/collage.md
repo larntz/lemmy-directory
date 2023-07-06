@@ -3,7 +3,7 @@ title: "Collage"
 name: "collage"
 description: "Rules1. No bigotry - including racism, sexism, ableism, homophobia, transphobia, or xenophobia. [Code of Conduct.](https://join-lemmy.org/docs/en/code_of_conduct.html)2. Be respectful, [especially when disagreeing.](https://lemmy.ml/post/1140303) Everyone should feel welcome here.3. Please tag nudity NSFW.4. No Ads / Spamming."
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/collage"

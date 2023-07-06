@@ -3,7 +3,7 @@ title: "Bassoon"
 name: "bassoon"
 description: "A place to discuss all things bassoon! Reeds, instruments, music, performers, recordings, whatever. A general community for bassoonists of all levels and experiences.Search for !bassoon@lemm.ee in your instance and subscribe!"
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-04 20:51:43"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/bassoon"

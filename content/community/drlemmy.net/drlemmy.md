@@ -3,7 +3,7 @@ title: "Dr. Lemmy"
 name: "drlemmy"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-06 18:29:51"
 draft: false
 nsfw: false
 actor_id: "https://drlemmy.net/c/drlemmy"
@@ -15,7 +15,7 @@ posts: 1
 comments: 1
 weight: 1
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "drlemmy_net"

@@ -3,14 +3,14 @@ title: "Lights"
 name: "lightsalot"
 description: "A Lemmy community for the musician Lights."
 type: community
-date: "2023-06-29 12:37:50"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lightsalot"
 host: lemmy.world
 lastmod: "2023-06-10 02:43:55"
 published: "2023-06-10 02:14:08"
-subscribers: 4
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

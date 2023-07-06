@@ -3,7 +3,7 @@ title: "AC/DC"
 name: "acdc"
 description: "Rock 'n Roll ain't noise pollution!"
 type: community
-date: "2023-06-30 13:15:21"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/acdc"

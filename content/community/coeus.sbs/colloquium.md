@@ -3,14 +3,14 @@ title: "Colloquium"
 name: "colloquium"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:47"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://coeus.sbs/c/colloquium"
 host: coeus.sbs
 lastmod: "2023-06-26 00:59:53"
 published: "2023-06-22 00:42:48"
-subscribers: 3
+subscribers: 7
 posts: 1
 comments: 6
 weight: 1

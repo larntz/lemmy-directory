@@ -1,22 +1,22 @@
 ---
 title: "konosuba" 
 name: "konosuba"
-description: "Description not available."
+description: "kono subarashii sekaini shukufukuwo"
 type: community
-date: "2023-06-30 13:17:13"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/konosuba"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-07-04 01:02:30"
 published: "2023-06-25 10:53:04"
-subscribers: 13
-posts: 2
-comments: 3
-weight: 2
-dau: 3
-wau: 3
-mau: 3
+subscribers: 30
+posts: 4
+comments: 7
+weight: 4
+dau: 1
+wau: 6
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

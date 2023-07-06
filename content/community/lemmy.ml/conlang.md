@@ -3,14 +3,14 @@ title: "Constructed Languages"
 name: "conlang"
 description: "A constructed language(conlang) is a language invented/created by an individual or a group instead of developing naturally."
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/conlang"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-07-04 07:58:14"
-subscribers: 73
+subscribers: 77
 posts: 9
 comments: 5
 weight: 9

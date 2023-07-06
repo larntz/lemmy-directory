@@ -3,20 +3,20 @@ title: "Barbudos"
 name: "barbudos"
 description: "Community dedicated to shaving, safety razors, and so on."
 type: community
-date: "2023-06-30 13:13:51"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/barbudos"
 host: lemmygrad.ml
-lastmod: "2023-06-30 13:13:51"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 22:10:22"
-subscribers: 4
+subscribers: 14
 posts: 2
-comments: 13
+comments: 16
 weight: 2
-dau: 12
-wau: 12
-mau: 12
+dau: 1
+wau: 16
+mau: 16
 instances:
 - "lemmygrad_ml"
 tags: 

@@ -3,14 +3,14 @@ title: "amiga"
 name: "amiga"
 description: "Description not available."
 type: community
-date: "2023-06-29 12:37:43"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/amiga"
 host: lemmy.world
 lastmod: "2023-06-20 21:03:39"
 published: "2023-06-20 20:57:02"
-subscribers: 2
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

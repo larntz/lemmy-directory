@@ -1,14 +1,14 @@
 ---
 title: "Coturnix Quail" 
 name: "coturnix"
-description: "This community focuses on coturnix quail discussions."
+description: "This community focuses on coturnix quail discussions only."
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/coturnix"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-06-30 19:48:19"
 published: "2023-06-08 06:59:23"
 subscribers: 2
 posts: 0

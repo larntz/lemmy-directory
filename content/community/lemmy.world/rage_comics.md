@@ -3,14 +3,14 @@ title: "F7u12: Go to /c/Ragecomics"
 name: "rage_comics"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:47"
+date: "2023-07-03 20:22:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rage_comics"
 host: lemmy.world
 lastmod: "2023-06-10 19:48:22"
 published: "2023-06-10 19:48:06"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

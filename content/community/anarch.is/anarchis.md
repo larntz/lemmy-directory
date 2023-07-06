@@ -3,20 +3,20 @@ title: "Anarch.is"
 name: "anarchis"
 description: "For instance-wide announcements and discussions about the instance."
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://anarch.is/c/anarchis"
 host: anarch.is
-lastmod: "2023-06-11 19:08:46"
+lastmod: "2023-07-01 05:51:20"
 published: "2023-06-11 17:46:23"
-subscribers: 2
-posts: 2
-comments: 4
-weight: 2
-dau: 1
-wau: 1
-mau: 2
+subscribers: 4
+posts: 3
+comments: 5
+weight: 3
+dau: 2
+wau: 2
+mau: 3
 instances:
 - "anarch_is"
 tags: 

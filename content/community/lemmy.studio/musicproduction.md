@@ -3,20 +3,20 @@ title: "Music Production"
 name: "musicproduction"
 description: "Discuss and share music production techniques."
 type: community
-date: "2023-06-30 13:13:38"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.studio/c/musicproduction"
 host: lemmy.studio
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 18:07:11"
-subscribers: 15
-posts: 8
-comments: 26
-weight: 8
-dau: 2
+subscribers: 69
+posts: 16
+comments: 28
+weight: 16
+dau: 3
 wau: 10
-mau: 10
+mau: 17
 instances:
 - "lemmy_studio"
 tags: 

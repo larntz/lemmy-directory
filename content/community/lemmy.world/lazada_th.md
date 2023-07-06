@@ -3,14 +3,14 @@ title: "lazada_th"
 name: "lazada_th"
 description: "Community to exchange good (and weird) Lazada goodies. Each post must be accompanied with a personal usage feedback and a link."
 type: community
-date: "2023-06-30 13:17:14"
+date: "2023-07-03 20:22:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lazada_th"
 host: lemmy.world
 lastmod: "2023-06-25 09:03:30"
 published: "2023-06-25 09:02:56"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

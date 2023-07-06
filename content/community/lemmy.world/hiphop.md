@@ -3,14 +3,14 @@ title: "Hip Hop Music"
 name: "hiphop"
 description: "Feel free to post real hip hop"
 type: community
-date: "2023-06-30 13:17:57"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hiphop"
 host: lemmy.world
 lastmod: "2023-06-22 10:02:47"
 published: "2023-06-22 09:04:24"
-subscribers: 6
+subscribers: 11
 posts: 3
 comments: 0
 weight: 3

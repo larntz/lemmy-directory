@@ -3,12 +3,12 @@ title: "Test"
 name: "communitytester"
 description: "Just a test"
 type: community
-date: "2023-06-30 13:14:05"
+date: "2023-06-30 20:59:10"
 draft: false
 nsfw: false
 actor_id: "https://monyet.cc/c/communitytester"
 host: monyet.cc
-lastmod: "2023-06-30 13:14:05"
+lastmod: "2023-06-30 08:00:57"
 published: "2023-06-30 07:51:20"
 subscribers: 1
 posts: 0

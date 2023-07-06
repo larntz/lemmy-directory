@@ -1,22 +1,22 @@
 ---
-title: "League of Legends (Updated June 2023)" 
+title: "League of Legends (Updated July 2023)" 
 name: "league"
-description: "No low-quality meme GIFs/images.No complain posts about the gameplay."
+description: "No low-quality meme GIFs/images.No posts complaining about gameplay."
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/league"
 host: lemmy.ml
-lastmod: "2023-06-04 13:48:49"
+lastmod: "2023-07-02 14:41:18"
 published: "2023-06-02 20:59:33"
-subscribers: 204
-posts: 41
-comments: 90
-weight: 41
+subscribers: 234
+posts: 44
+comments: 101
+weight: 44
 dau: 1
-wau: 4
-mau: 24
+wau: 5
+mau: 26
 instances:
 - "lemmy_ml"
 tags: 

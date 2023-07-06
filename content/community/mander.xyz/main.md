@@ -1,22 +1,22 @@
 ---
 title: "Introductions" 
 name: "main"
-description: "The Default Community"
+description: "This is the community for users to introduce each other, talk about their interests and hobbies, and potentially create new connections!"
 type: community
-date: "2023-06-30 13:13:40"
+date: "2023-07-06 16:41:15"
 draft: false
 nsfw: false
 actor_id: "https://mander.xyz/c/main"
 host: mander.xyz
-lastmod: "2023-01-20 16:14:44"
+lastmod: "2023-07-03 10:01:36"
 published: "2021-12-19 00:53:57"
-subscribers: 295
-posts: 14
-comments: 85
-weight: 14
+subscribers: 315
+posts: 18
+comments: 106
+weight: 18
 dau: 1
-wau: 4
-mau: 28
+wau: 14
+mau: 35
 instances:
 - "mander_xyz"
 tags: 

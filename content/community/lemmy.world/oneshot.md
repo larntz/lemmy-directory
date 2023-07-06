@@ -3,14 +3,14 @@ title: "OneShot"
 name: "oneshot"
 description: "For the game OneShot"
 type: community
-date: "2023-06-29 12:38:05"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oneshot"
 host: lemmy.world
-lastmod: "2023-06-29 12:38:05"
+lastmod: "2023-06-16 20:25:45"
 published: "2023-06-16 20:24:57"
-subscribers: 7
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

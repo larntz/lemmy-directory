@@ -3,7 +3,7 @@ title: "🗣️ Announcements"
 name: "announcements"
 description: "Announcements from the srv.eco Lemmy team"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.srv.eco/c/announcements"

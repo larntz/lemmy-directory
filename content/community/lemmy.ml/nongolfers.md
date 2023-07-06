@@ -3,14 +3,14 @@ title: "Golfers are literally Hitler"
 name: "nongolfers"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:16"
+date: "2023-07-03 20:17:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/nongolfers"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 22:51:54"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

@@ -3,14 +3,14 @@ title: "Budgies"
 name: "budgies"
 description: "Everything around budgies. Advice, discussions, pictures, videos."
 type: community
-date: "2023-06-30 13:13:53"
+date: "2023-07-06 16:41:25"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/budgies"
 host: feddit.de
 lastmod: "2023-06-11 19:22:46"
 published: "2023-06-08 12:16:35"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

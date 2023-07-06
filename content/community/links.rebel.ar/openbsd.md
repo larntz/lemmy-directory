@@ -3,7 +3,7 @@ title: "OpenBSD"
 name: "openbsd"
 description: "Comunidad OpenBSD  "
 type: community
-date: "2023-06-30 13:13:40"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://links.rebel.ar/c/openbsd"

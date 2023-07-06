@@ -3,14 +3,14 @@ title: "Homegrown Networks"
 name: "homegrownnetworks"
 description: "Building locally owned open communications infrastructure"
 type: community
-date: "2023-06-30 13:15:25"
+date: "2023-07-03 20:17:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/homegrownnetworks"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-01-30 22:26:11"
-subscribers: 85
+subscribers: 89
 posts: 4
 comments: 0
 weight: 4

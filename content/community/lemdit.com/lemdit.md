@@ -3,20 +3,20 @@ title: "Lemdit Official"
 name: "lemdit"
 description: "This place is for all things Lemdit."
 type: community
-date: "2023-06-30 13:14:15"
+date: "2023-07-06 18:29:54"
 draft: false
 nsfw: false
 actor_id: "https://lemdit.com/c/lemdit"
 host: lemdit.com
-lastmod: "2023-06-23 20:32:57"
+lastmod: "2023-07-03 12:08:40"
 published: "2023-06-17 05:46:33"
-subscribers: 7
-posts: 6
-comments: 15
-weight: 6
+subscribers: 12
+posts: 12
+comments: 30
+weight: 12
 dau: 1
-wau: 2
-mau: 2
+wau: 4
+mau: 5
 instances:
 - "lemdit_com"
 tags: 

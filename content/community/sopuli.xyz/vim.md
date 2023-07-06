@@ -3,14 +3,14 @@ title: "vim"
 name: "vim"
 description: "help i cannot exit vim 🥲"
 type: community
-date: "2023-06-30 13:13:43"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/vim"
 host: sopuli.xyz
 lastmod: "2023-06-27 20:41:07"
 published: "2023-06-27 20:34:51"
-subscribers: 10
+subscribers: 38
 posts: 1
 comments: 0
 weight: 1

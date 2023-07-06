@@ -3,7 +3,7 @@ title: "Mountaineering"
 name: "mountaineering"
 description: "A community dedicated to all things mountaineering."
 type: community
-date: "2023-06-30 13:13:48"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.hogru.ch/c/mountaineering"

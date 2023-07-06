@@ -3,14 +3,14 @@ title: "Hakka 客家"
 name: "hakka"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:45"
+date: "2023-07-06 18:34:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hakka"
 host: lemmy.world
 lastmod: "2023-06-18 02:42:26"
 published: "2023-06-17 03:13:20"
-subscribers: 3
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

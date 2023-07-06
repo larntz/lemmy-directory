@@ -3,14 +3,14 @@ title: "Test Community"
 name: "test"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:41"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://hakbox.social/c/test"
 host: hakbox.social
 lastmod: "2023-06-10 19:27:39"
 published: "2023-06-09 19:45:47"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 1
 weight: 2

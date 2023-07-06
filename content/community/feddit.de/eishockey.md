@@ -3,14 +3,14 @@ title: "Eishockey im deutschsprachigen Raum"
 name: "eishockey"
 description: "Ein unter für alle Eishockeydinge im deutschsprachigen Raum oder entsprechender Beteiligung.Seien es die Ligen, die Nationalmannschaften oder Persönlichkeiten"
 type: community
-date: "2023-06-30 13:13:51"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/eishockey"
 host: feddit.de
-lastmod: "2023-06-30 13:13:51"
+lastmod: "2023-06-13 11:32:32"
 published: "2023-06-12 16:11:12"
-subscribers: 7
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

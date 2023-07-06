@@ -1,22 +1,22 @@
 ---
 title: "Artificial intelligence" 
 name: "ai_future"
-description: "Welcome to the Artificial Intelligence Community! This platform serves as a hub for sharing news and engaging in discussions about AI and the latest technological advancements. We are a community dedicated to exploring the future of AI.To ensure a vibrant and informative community, we kindly ask you to adhere to the following guidelines:1. Aim for high-quality contributions and avoid posting low-quality or speculative content.2. Keep your submissions relevant and on-topic. Off-topic posts may be redirected or removed.3. When sharing paywall articles, please provide additional context or summaries to enhance the value of the content.4. Direct sources are preferred over links to other Reddit threads or social media platforms.5. While memes are welcome, we encourage content that sparks meaningful discussions. If there is an abundance of memes, we may create a separate thread dedicated to them.6. When referencing sources older than 24 hours, please include timeframe details in the titles. This helps us prioritize fresh perspectives while acknowledging historical milestones.Join us in shaping tomorrow's world and exploring the limitless possibilities of artificial intelligence together!"
+description: "Step into the realm of the Artificial Intelligence Community, a dynamic hub that passionately explores and discusses AI and the cutting-edge advancements in technology. Our purpose is to delve deep into the future of AI and emerging technologies, creating an environment that nurtures innovation and fosters continuous learning. To uphold the vibrancy, knowledge, and respect within our community, we kindly ask you to embrace the following guidelines:1. Treat all members of the community with respect and kindness. We encourage constructive and polite discussions, and we will not tolerate any form of harassment, discrimination, or offensive behavior.2. Strive for high-quality contributions. Please refrain from posting content that is of low quality or speculative in nature.3. Ensure your submissions are relevant and on-topic. Please note that off-topic posts may be redirected or removed to maintain the focus of our discussions.4. If you are sharing articles behind a paywall, kindly provide additional context or summaries to enhance the value and accessibility of the content.5. We prefer direct sources over links to other websites or social media to ensure the accuracy of information.6. While we welcome humor in the form of memes, we encourage content that sparks meaningful and insightful discussions. If memes become abundant, we will create a separate thread dedicated to them.7. When referencing sources, please include timeframe details in the titles. This helps us prioritize fresh perspectives while acknowledging historical milestones.We invite you to join us in shaping the future as we navigate the possibilities of artificial intelligence together!"
 type: community
-date: "2023-06-30 13:17:14"
+date: "2023-07-03 20:22:47"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ai_future"
 host: lemmy.world
-lastmod: "2023-06-25 11:09:53"
+lastmod: "2023-07-02 10:00:31"
 published: "2023-06-21 21:07:33"
-subscribers: 108
-posts: 17
-comments: 26
-weight: 17
-dau: 2
-wau: 14
-mau: 14
+subscribers: 278
+posts: 27
+comments: 52
+weight: 27
+dau: 3
+wau: 18
+mau: 29
 instances:
 - "lemmy_world"
 tags: 

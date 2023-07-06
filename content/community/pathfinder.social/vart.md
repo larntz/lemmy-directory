@@ -3,14 +3,14 @@ title: "Visual and Written Art"
 name: "vart"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:37"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://pathfinder.social/c/vart"
 host: pathfinder.social
 lastmod: "2023-06-19 17:49:34"
 published: "2023-06-04 17:09:50"
-subscribers: 43
+subscribers: 54
 posts: 1
 comments: 11
 weight: 1

@@ -3,14 +3,14 @@ title: "Onebag and Onebag Accessories"
 name: "onebag"
 description: "A place to discuss onebagging, whatever that means to you.- Don't harm others- Stay on topic"
 type: community
-date: "2023-06-30 13:17:55"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/onebag"
 host: lemmy.world
 lastmod: "2023-06-15 22:48:21"
 published: "2023-06-15 22:42:33"
-subscribers: 13
+subscribers: 29
 posts: 2
 comments: 0
 weight: 2

@@ -3,7 +3,7 @@ title: "India News"
 name: "india_news"
 description: "News related to India."
 type: community
-date: "2023-06-30 13:15:19"
+date: "2023-07-03 20:17:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/india_news"

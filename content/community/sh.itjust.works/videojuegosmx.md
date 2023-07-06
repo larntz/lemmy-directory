@@ -3,7 +3,7 @@ title: "VideojuegosMX"
 name: "videojuegosmx"
 description: "Comunidad de gamers en México para compartir información sobre videojuegos."
 type: community
-date: "2023-06-30 13:14:21"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/videojuegosmx"

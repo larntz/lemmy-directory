@@ -3,14 +3,14 @@ title: "DARLING in the FRANXX"
 name: "darlinginthefranxx"
 description: "The community for the anime and manga series DARLING in the FRANXX (DarliFra)."
 type: community
-date: "2023-06-29 12:38:01"
+date: "2023-07-06 18:33:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/darlinginthefranxx"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 05:07:34"
-subscribers: 8
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

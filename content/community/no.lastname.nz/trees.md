@@ -3,20 +3,20 @@ title: "Trees and Mushrooms"
 name: "trees"
 description: "New Zealand based trees and shrooms for medical and therapeutic use."
 type: community
-date: "2023-06-30 13:13:42"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://no.lastname.nz/c/trees"
 host: no.lastname.nz
 lastmod: "2023-06-16 04:20:24"
 published: "2023-06-10 01:17:59"
-subscribers: 46
-posts: 10
-comments: 6
-weight: 10
+subscribers: 60
+posts: 11
+comments: 7
+weight: 11
 dau: 1
 wau: 3
-mau: 8
+mau: 9
 instances:
 - "no_lastname_nz"
 tags: 

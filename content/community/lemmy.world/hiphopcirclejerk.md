@@ -3,14 +3,14 @@ title: "hiphopcirclejerk"
 name: "hiphopcirclejerk"
 description: "this community is a safe space to worship our queen carti bhttps://blacklivesmatters.carrd.co/"
 type: community
-date: "2023-06-30 13:17:31"
+date: "2023-07-03 20:23:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hiphopcirclejerk"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 17:34:42"
-subscribers: 21
+subscribers: 26
 posts: 16
 comments: 7
 weight: 16

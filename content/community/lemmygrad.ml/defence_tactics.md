@@ -3,14 +3,14 @@ title: "Defence Tactics"
 name: "defence_tactics"
 description: ""
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/defence_tactics"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-12-10 21:17:56"
-subscribers: 23
+subscribers: 29
 posts: 8
 comments: 106
 weight: 8

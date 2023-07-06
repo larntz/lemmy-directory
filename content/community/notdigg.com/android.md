@@ -3,12 +3,12 @@ title: "Android"
 name: "android"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:50"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://notdigg.com/c/android"
 host: notdigg.com
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 00:46:21"
 subscribers: 4
 posts: 0

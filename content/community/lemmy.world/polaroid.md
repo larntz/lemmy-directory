@@ -3,12 +3,12 @@ title: "Instant Photography"
 name: "polaroid"
 description: "The instant community! For all forms of analogue instant photography."
 type: community
-date: "2023-06-28 15:21:03"
+date: "2023-07-06 18:33:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/polaroid"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 10:34:02"
 subscribers: 2
 posts: 0

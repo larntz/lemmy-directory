@@ -3,14 +3,14 @@ title: "OkCupidFR"
 name: "okcupidfr"
 description: "Sub à shitpost, soyez chill !**Merci d'enlever les éléments permettant d'identifier les personnes (nom, photos etc)**"
 type: community
-date: "2023-06-27 16:19:20"
+date: "2023-07-03 20:22:48"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/okcupidfr"
 host: lemmy.world
-lastmod: "2023-06-27 16:19:20"
+lastmod: "2023-06-22 22:17:46"
 published: "2023-06-22 10:13:49"
-subscribers: 3
+subscribers: 6
 posts: 16
 comments: 0
 weight: 16

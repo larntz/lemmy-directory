@@ -3,14 +3,14 @@ title: "Arkansas State Red Wolves"
 name: "astateredwolves"
 description: "A community to discuss Arkansas State Red Wolves athletics.**Looking for Mods!**"
 type: community
-date: "2023-06-28 15:18:25"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/astateredwolves"
 host: fanaticus.social
 lastmod: "2023-06-15 00:16:42"
 published: "2023-06-14 23:36:13"
-subscribers: 0
+subscribers: 1
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Słuchy"
 name: "sluchy"
 description: "Stronka o muzyczce"
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-03 20:16:06"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/sluchy"
 host: szmer.info
 lastmod: "1969-12-31 19:00:00"
 published: "2021-10-14 17:28:01"
-subscribers: 11
+subscribers: 13
 posts: 1
 comments: 1
 weight: 1

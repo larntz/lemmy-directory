@@ -3,14 +3,14 @@ title: "of course it runs NetBSD"
 name: "netbsd"
 description: "NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system. It is available for a wide range of platforms, from large-scale servers and powerful desktop systems to handheld and embedded devices."
 type: community
-date: "2023-06-29 12:36:14"
+date: "2023-07-03 20:17:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/netbsd"
 host: lemmy.ml
 lastmod: "2020-08-08 13:45:59"
 published: "2020-07-09 01:54:13"
-subscribers: 43
+subscribers: 45
 posts: 65
 comments: 4
 weight: 65

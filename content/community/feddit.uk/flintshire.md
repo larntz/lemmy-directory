@@ -1,16 +1,16 @@
 ---
 title: "Flintshire" 
 name: "flintshire"
-description: "A community for Flintshire folk.Banner image: [Adam Tas](https://www.flickr.com/photos/adamtasimages/19443945376/) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))"
+description: "A community for Flintshire folk.*Banner image: [Adam Tas](https://www.flickr.com/photos/adamtasimages/19443945376/) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))*"
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/flintshire"
 host: feddit.uk
-lastmod: "2023-06-30 12:57:18"
+lastmod: "2023-06-30 13:37:05"
 published: "2023-06-28 14:18:19"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

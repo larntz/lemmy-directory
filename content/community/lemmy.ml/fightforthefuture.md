@@ -3,7 +3,7 @@ title: "Fight For The Future"
 name: "fightforthefuture"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:29"
+date: "2023-07-01 17:11:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/fightforthefuture"

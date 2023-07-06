@@ -3,14 +3,14 @@ title: "Keeshond"
 name: "keeshond"
 description: "A place for everyone's favorite dog breed, the Keeshond!"
 type: community
-date: "2023-06-29 12:37:53"
+date: "2023-07-03 20:22:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/keeshond"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 18:59:14"
-subscribers: 8
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

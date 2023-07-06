@@ -3,14 +3,14 @@ title: "Soccer"
 name: "soccer"
 description: "Discuss the most beautiful game here."
 type: community
-date: "2023-06-28 14:06:23"
+date: "2023-07-03 20:23:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/soccer"
 host: lemmy.world
-lastmod: "2023-06-28 14:06:23"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 18:22:13"
-subscribers: 18
+subscribers: 23
 posts: 0
 comments: 0
 weight: 0

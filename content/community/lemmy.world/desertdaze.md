@@ -3,14 +3,14 @@ title: "Desert Daze"
 name: "desertdaze"
 description: "Discussions about the neo-psychedelic music festival Desert Dazehttps://desertdaze.org/"
 type: community
-date: "2023-06-30 13:17:14"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/desertdaze"
 host: lemmy.world
 lastmod: "2023-06-27 01:28:14"
 published: "2023-06-27 01:26:23"
-subscribers: 2
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

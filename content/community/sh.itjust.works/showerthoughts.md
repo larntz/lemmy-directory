@@ -3,20 +3,20 @@ title: "ShowerThoughts"
 name: "showerthoughts"
 description: "Sometimes we have those little epiphanies in the shower.. sometimes they come from other places. This is a home for those epiphanies."
 type: community
-date: "2023-06-29 12:35:20"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/showerthoughts"
 host: sh.itjust.works
 lastmod: "2023-06-10 22:02:11"
 published: "2023-06-09 05:12:07"
-subscribers: 744
-posts: 6
-comments: 23
-weight: 6
-dau: 5
-wau: 1
-mau: 22
+subscribers: 957
+posts: 8
+comments: 36
+weight: 8
+dau: 3
+wau: 15
+mau: 37
 instances:
 - "sh_itjust_works"
 tags: 

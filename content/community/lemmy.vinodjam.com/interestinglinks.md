@@ -3,7 +3,7 @@ title: "Interesting Links"
 name: "interestinglinks"
 description: "Short but interesting links from around the internet"
 type: community
-date: "2023-06-30 13:14:02"
+date: "2023-07-06 18:29:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.vinodjam.com/c/interestinglinks"

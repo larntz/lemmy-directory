@@ -3,20 +3,20 @@ title: "Vermont"
 name: "vermont"
 description: "All things related to the awesome state of Vermont!"
 type: community
-date: "2023-06-30 13:18:01"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vermont"
 host: lemmy.world
 lastmod: "2023-06-10 17:08:44"
 published: "2023-06-10 16:15:05"
-subscribers: 53
-posts: 3
-comments: 9
-weight: 3
+subscribers: 74
+posts: 4
+comments: 10
+weight: 4
 dau: 1
-wau: 1
-mau: 5
+wau: 3
+mau: 6
 instances:
 - "lemmy_world"
 tags: 

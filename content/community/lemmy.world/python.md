@@ -3,14 +3,14 @@ title: "Python"
 name: "python"
 description: "A community for discussing the Python programming language.https://www.python.org/"
 type: community
-date: "2023-06-30 13:17:32"
+date: "2023-07-03 20:22:45"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/python"
 host: lemmy.world
 lastmod: "2023-06-13 00:37:42"
 published: "2023-06-13 00:23:37"
-subscribers: 50
+subscribers: 53
 posts: 0
 comments: 0
 weight: 0

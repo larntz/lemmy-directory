@@ -3,7 +3,7 @@ title: "cryptid"
 name: "cryptid"
 description: "cryptid"
 type: community
-date: "2023-06-30 13:15:23"
+date: "2023-07-03 20:17:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/cryptid"

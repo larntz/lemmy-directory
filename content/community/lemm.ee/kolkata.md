@@ -3,14 +3,14 @@ title: "Kolkata"
 name: "kolkata"
 description: "All things and everything about the City of Joy, Kolkata! Now on Lemmy!"
 type: community
-date: "2023-06-30 13:14:00"
+date: "2023-07-04 20:51:43"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/kolkata"
 host: lemm.ee
-lastmod: "2023-06-30 13:14:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 20:21:38"
-subscribers: 4
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

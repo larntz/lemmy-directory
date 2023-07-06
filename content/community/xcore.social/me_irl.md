@@ -3,14 +3,14 @@ title: "me_irl"
 name: "me_irl"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:54"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://xcore.social/c/me_irl"
 host: xcore.social
-lastmod: "2023-06-30 13:13:54"
+lastmod: "2023-06-30 01:25:40"
 published: "2023-06-30 01:21:28"
-subscribers: 3
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

@@ -3,17 +3,17 @@ title: "App Hookup"
 name: "apphookup"
 description: "App deals[platform] - [category] - [original price -> new price] App Name (url)[IOS] - [Game] - [$0.99 -> Free] AppName (https://url.com)"
 type: community
-date: "2023-06-29 12:37:34"
+date: "2023-07-06 18:34:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/apphookup"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 22:43:15"
-subscribers: 16
-posts: 1
+subscribers: 62
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1

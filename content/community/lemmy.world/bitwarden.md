@@ -3,14 +3,14 @@ title: "bitwarden"
 name: "bitwarden"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:17:54"
+date: "2023-07-06 18:33:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bitwarden"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 18:00:53"
-subscribers: 10
+subscribers: 16
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Yiddish"
 name: "yiddish"
 description: "מיר וועלן זיי איברלעבן"
 type: community
-date: "2023-06-30 13:14:21"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/yiddish"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 17:22:08"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

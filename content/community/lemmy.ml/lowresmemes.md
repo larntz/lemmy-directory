@@ -3,7 +3,7 @@ title: "low-resolution-memes"
 name: "lowresmemes"
 description: "low res memes.   post image size."
 type: community
-date: "2023-06-28 15:19:32"
+date: "2023-07-01 17:12:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/lowresmemes"

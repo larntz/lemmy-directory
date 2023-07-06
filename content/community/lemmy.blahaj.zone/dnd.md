@@ -3,14 +3,14 @@ title: "Dungeons & Dragons"
 name: "dnd"
 description: "Welcome, adventurers, to the world's greatest* roleplaying game!*Terms and conditions may apply"
 type: community
-date: "2023-06-27 16:15:52"
+date: "2023-07-01 17:10:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/dnd"
 host: lemmy.blahaj.zone
-lastmod: "2023-06-27 16:15:52"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 17:40:37"
-subscribers: 136
+subscribers: 156
 posts: 2
 comments: 11
 weight: 2

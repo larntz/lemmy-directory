@@ -3,20 +3,20 @@ title: "Skunks"
 name: "skunks"
 description: "For posting about the animal specifically known for its ability to spray a bad smelling liquid."
 type: community
-date: "2023-06-29 12:37:38"
+date: "2023-07-06 18:34:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/skunks"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 22:24:23"
-subscribers: 4
-posts: 1
-comments: 0
-weight: 1
-dau: 1
-wau: 1
-mau: 1
+subscribers: 36
+posts: 7
+comments: 2
+weight: 7
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

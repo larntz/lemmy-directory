@@ -3,14 +3,14 @@ title: "FIRE- with a big stash"
 name: "fatfire"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:51"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/fatfire"
 host: feddit.de
-lastmod: "2023-06-30 13:13:51"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 20:37:39"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

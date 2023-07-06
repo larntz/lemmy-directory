@@ -3,14 +3,14 @@ title: "OneBag to rule it all"
 name: "onebag"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-03 20:17:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/onebag"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-08-21 20:59:51"
-subscribers: 16
+subscribers: 19
 posts: 1
 comments: 2
 weight: 1

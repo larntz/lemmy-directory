@@ -3,14 +3,14 @@ title: "Electrical Engineering for power distribution, motors, and general power
 name: "three_phases"
 description: "A place to post information or ask questions for all things industrial electronics."
 type: community
-date: "2023-06-30 13:15:20"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/three_phases"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-01 18:32:24"
-subscribers: 16
+subscribers: 19
 posts: 3
 comments: 0
 weight: 3

@@ -3,14 +3,14 @@ title: "XtremeOwnage.com"
 name: "xtremeownage"
 description: "Anything relating to https://xtremeownage.com/ And the new-https://static.xtremeownage.com/"
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/xtremeownage"
 host: lemmyonline.com
 lastmod: "2023-06-16 14:21:44"
 published: "2023-06-16 00:37:18"
-subscribers: 5
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

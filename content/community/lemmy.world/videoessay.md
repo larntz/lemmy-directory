@@ -3,14 +3,14 @@ title: "videoessay"
 name: "videoessay"
 description: "[>>> Link to /c/VideoEssays <<<](/c/videoessays@lemmy.world)"
 type: community
-date: "2023-06-29 12:38:00"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/videoessay"
 host: lemmy.world
 lastmod: "2023-06-21 19:28:27"
 published: "2023-06-20 16:27:59"
-subscribers: 5
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

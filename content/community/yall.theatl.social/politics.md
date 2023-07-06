@@ -3,17 +3,17 @@ title: "politics"
 name: "politics"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:49"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://yall.theatl.social/c/politics"
 host: yall.theatl.social
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 15:54:21"
-subscribers: 7
-posts: 5
+subscribers: 12
+posts: 7
 comments: 0
-weight: 5
+weight: 7
 dau: 1
 wau: 1
 mau: 1

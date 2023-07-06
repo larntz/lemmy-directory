@@ -3,14 +3,14 @@ title: "The Default Community"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-06-30 13:14:12"
+date: "2023-07-06 18:29:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.cat/c/main"
 host: lemmy.cat
 lastmod: "2023-06-13 14:10:45"
 published: "2023-06-13 13:01:27"
-subscribers: 379
+subscribers: 390
 posts: 0
 comments: 0
 weight: 0

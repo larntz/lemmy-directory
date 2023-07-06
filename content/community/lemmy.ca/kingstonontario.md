@@ -3,14 +3,14 @@ title: "KingstonOntario"
 name: "kingstonontario"
 description: "old.reddit.com/r/KingstonOntario lives on now on lemmy.ca"
 type: community
-date: "2023-06-30 13:13:48"
+date: "2023-07-06 16:41:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/kingstonontario"
 host: lemmy.ca
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 12:35:18"
-subscribers: 4
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

@@ -3,20 +3,20 @@ title: "Rancher Community (k8s community)"
 name: "rancher_community"
 description: "Community driven enthused development and discussion on the Rancher kubernetes platform."
 type: community
-date: "2023-06-28 15:20:55"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rancher_community"
 host: lemmy.world
 lastmod: "2023-06-21 02:57:11"
 published: "2023-06-21 02:49:37"
-subscribers: 2
-posts: 1
+subscribers: 11
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
-wau: 1
-mau: 1
+wau: 2
+mau: 2
 instances:
 - "lemmy_world"
 tags: 

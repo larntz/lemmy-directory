@@ -3,14 +3,14 @@ title: "3D Printing"
 name: "3d_printing"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:15:27"
+date: "2023-07-03 20:17:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/3d_printing"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2020-06-09 04:17:04"
-subscribers: 93
+subscribers: 98
 posts: 5
 comments: 0
 weight: 5

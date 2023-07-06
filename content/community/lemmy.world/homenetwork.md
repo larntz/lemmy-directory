@@ -3,14 +3,14 @@ title: "homenetwork"
 name: "homenetwork"
 description: "homenetwork"
 type: community
-date: "2023-06-30 13:17:36"
+date: "2023-07-06 18:33:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/homenetwork"
 host: lemmy.world
-lastmod: "2023-06-30 13:17:36"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 04:19:57"
-subscribers: 4
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

@@ -3,20 +3,20 @@ title: "Benfica"
 name: "benfica"
 description: "A community for Sport Lisboa e Benfica"
 type: community
-date: "2023-06-29 12:37:54"
+date: "2023-07-06 18:34:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/benfica"
 host: lemmy.world
 lastmod: "2023-06-14 08:57:43"
 published: "2023-06-12 11:52:36"
-subscribers: 4
-posts: 0
+subscribers: 13
+posts: 1
 comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+weight: 1
+dau: 1
+wau: 1
+mau: 1
 instances:
 - "lemmy_world"
 tags: 

@@ -3,14 +3,14 @@ title: "Imaginary Armies/Soldiers"
 name: "imaginaryarmies"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/imaginaryarmies"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-24 20:11:31"
 published: "2023-06-24 19:51:45"
-subscribers: 2
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0

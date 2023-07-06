@@ -3,7 +3,7 @@ title: "Xcode"
 name: "xcode"
 description: "Anything about the Xcode IDE by Apple."
 type: community
-date: "2023-06-30 13:15:32"
+date: "2023-07-01 17:12:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/xcode"

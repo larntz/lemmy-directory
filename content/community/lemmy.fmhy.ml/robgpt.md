@@ -3,14 +3,14 @@ title: "RobGPT"
 name: "robgpt"
 description: "sub for RobGPT, the cute GPT powered robot!NOTE: IM NOT THE CREATOR OF THE ROBOT, THIS SUBLEMMY IS A MIRROR OF A REDDIT SUBREDDIT.Creator's socials:https://www.tiktok.com/@RobGPT"
 type: community
-date: "2023-06-30 13:13:46"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/robgpt"
 host: lemmy.fmhy.ml
 lastmod: "2023-06-23 11:46:40"
 published: "2023-06-15 12:36:57"
-subscribers: 9
+subscribers: 20
 posts: 19
 comments: 0
 weight: 19

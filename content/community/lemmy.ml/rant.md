@@ -3,7 +3,7 @@ title: "Rant!"
 name: "rant"
 description: "This is much different than [r/rant](https://www.reddit.com/r/rant/), so there are no strict moderators."
 type: community
-date: "2023-06-30 13:15:33"
+date: "2023-07-01 17:12:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/rant"

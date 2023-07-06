@@ -3,14 +3,14 @@ title: "HTML"
 name: "html"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:44"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/html"
 host: programming.dev
-lastmod: "2023-06-22 14:24:46"
+lastmod: "2023-07-02 13:22:22"
 published: "2023-06-16 22:08:17"
-subscribers: 45
+subscribers: 73
 posts: 1
 comments: 0
 weight: 1

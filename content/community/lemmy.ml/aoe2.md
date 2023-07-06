@@ -3,14 +3,14 @@ title: "aoe2"
 name: "aoe2"
 description: "Age of Empires 2"
 type: community
-date: "2023-06-30 13:15:17"
+date: "2023-07-03 20:17:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/aoe2"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-01 21:29:16"
-subscribers: 15
+subscribers: 17
 posts: 3
 comments: 1
 weight: 3

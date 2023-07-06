@@ -3,7 +3,7 @@ title: "Vape Mail"
 name: "vapemail"
 description: "Show off your latest haul here!"
 type: community
-date: "2023-06-30 13:14:06"
+date: "2023-07-06 18:29:43"
 draft: false
 nsfw: false
 actor_id: "https://thevapor.space/c/vapemail"
@@ -15,7 +15,7 @@ posts: 3
 comments: 5
 weight: 3
 dau: 1
-wau: 3
+wau: 1
 mau: 4
 instances:
 - "thevapor_space"

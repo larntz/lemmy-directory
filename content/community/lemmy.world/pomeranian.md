@@ -3,14 +3,14 @@ title: "Pomeranians"
 name: "pomeranian"
 description: "A friendly place to share pics, stories, ask for advice and maybe even offer some. We love our Poms ❤️"
 type: community
-date: "2023-06-30 13:17:52"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pomeranian"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 02:48:53"
-subscribers: 11
+subscribers: 21
 posts: 2
 comments: 0
 weight: 2

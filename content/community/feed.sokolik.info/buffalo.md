@@ -3,16 +3,16 @@ title: "Buffalo"
 name: "buffalo"
 description: "General Chat about Buffalo"
 type: community
-date: "2023-06-30 13:13:55"
+date: "2023-07-04 20:51:40"
 draft: false
 nsfw: false
 actor_id: "https://feed.sokolik.info/c/buffalo"
 host: feed.sokolik.info
-lastmod: "2023-06-30 13:13:55"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-30 03:36:27"
-subscribers: 1
+subscribers: 0
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 1
 wau: 1

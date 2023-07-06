@@ -1,22 +1,22 @@
 ---
 title: "Bωockchain" 
 name: "bwockchain"
-description: "bwockchain is not a technology of the future, buttcoin is a scam.All lemmy.ml instance rules work here."
+description: "bwockchain is not a technology of the future, buttcoin is a scam.🤖 [lemming-TLDR-Bot](https://reddthat.com/u/lemmingReader) is added in test mode to summarize url content for us. All lemmy.ml instance rules work here. "
 type: community
-date: "2023-06-30 13:15:19"
+date: "2023-07-03 20:17:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/bwockchain"
 host: lemmy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-02 15:16:28"
 published: "2023-06-21 16:57:21"
-subscribers: 12
-posts: 7
-comments: 0
-weight: 7
-dau: 1
-wau: 2
-mau: 2
+subscribers: 28
+posts: 23
+comments: 16
+weight: 23
+dau: 4
+wau: 4
+mau: 4
 instances:
 - "lemmy_ml"
 tags: 

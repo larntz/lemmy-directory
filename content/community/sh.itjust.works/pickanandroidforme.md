@@ -3,14 +3,14 @@ title: "pick an android for me"
 name: "pickanandroidforme"
 description: ""
 type: community
-date: "2023-06-30 13:14:19"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/pickanandroidforme"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 00:41:44"
-subscribers: 1
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

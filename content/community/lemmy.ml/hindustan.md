@@ -3,14 +3,14 @@ title: "Hindustan"
 name: "hindustan"
 description: "India, that is Bharat"
 type: community
-date: "2023-06-30 13:15:15"
+date: "2023-07-03 20:17:13"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/hindustan"
 host: lemmy.ml
 lastmod: "2020-09-07 07:41:37"
 published: "2020-09-07 07:41:27"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 1
 weight: 1

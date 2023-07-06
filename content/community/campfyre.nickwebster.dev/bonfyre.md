@@ -3,14 +3,14 @@ title: "bonfyre"
 name: "bonfyre"
 description: "Site announcements for Campfyre.Tilde tags are cool"
 type: community
-date: "2023-06-30 13:14:11"
+date: "2023-07-06 18:29:47"
 draft: false
 nsfw: false
 actor_id: "https://campfyre.nickwebster.dev/c/bonfyre"
 host: campfyre.nickwebster.dev
 lastmod: "2023-06-27 03:29:22"
 published: "2023-06-25 15:00:32"
-subscribers: 3
+subscribers: 7
 posts: 1
 comments: 1
 weight: 1

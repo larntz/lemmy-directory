@@ -3,20 +3,20 @@ title: "BSD"
 name: "bsd"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:13:39"
+date: "2023-07-04 20:51:25"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/bsd"
 host: programming.dev
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-04 05:09:22"
 published: "2023-06-26 22:31:04"
-subscribers: 12
-posts: 4
-comments: 5
-weight: 4
+subscribers: 22
+posts: 5
+comments: 8
+weight: 5
 dau: 1
-wau: 5
-mau: 5
+wau: 6
+mau: 7
 instances:
 - "programming_dev"
 tags: 

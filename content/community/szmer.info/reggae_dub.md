@@ -3,14 +3,14 @@ title: "Reggae dub soundsystem"
 name: "reggae_dub"
 description: "DUB IT!"
 type: community
-date: "2023-06-28 15:17:48"
+date: "2023-07-04 14:51:24"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/reggae_dub"
 host: szmer.info
 lastmod: "1969-12-31 19:00:00"
 published: "2021-08-31 19:23:46"
-subscribers: 10
+subscribers: 11
 posts: 2
 comments: 3
 weight: 2

@@ -3,14 +3,14 @@ title: "Polkadot"
 name: "polkadot"
 description: "Discuss anything related to Polkadot."
 type: community
-date: "2023-06-30 13:15:26"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/polkadot"
 host: lemmy.ml
 lastmod: "2021-12-15 22:31:15"
 published: "2021-12-14 07:03:50"
-subscribers: 7
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

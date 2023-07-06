@@ -3,7 +3,7 @@ title: "Indiana"
 name: "indiana"
 description: "A home for Hoosiers on Lemmy. All are welcome! Please be kind to everyone stopping by. "
 type: community
-date: "2023-06-30 13:15:22"
+date: "2023-07-03 20:17:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/indiana"

@@ -3,14 +3,14 @@ title: "Belgium"
 name: "belgium"
 description: "This is a mostly English forum covering Belgium."
 type: community
-date: "2023-06-30 13:15:23"
+date: "2023-07-03 20:17:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/belgium"
 host: lemmy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2019-12-20 19:32:35"
-subscribers: 34
+subscribers: 36
 posts: 2
 comments: 3
 weight: 2

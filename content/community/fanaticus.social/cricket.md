@@ -3,7 +3,7 @@ title: "Cricket"
 name: "cricket"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:14:19"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/cricket"

@@ -3,7 +3,7 @@ title: "Lemmy.Website General"
 name: "lemmy_web_gen"
 description: "**Welcome!**"
 type: community
-date: "2023-06-30 13:13:48"
+date: "2023-07-06 18:29:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.website/c/lemmy_web_gen"

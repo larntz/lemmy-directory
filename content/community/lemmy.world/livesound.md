@@ -3,14 +3,14 @@ title: "livesound"
 name: "livesound"
 description: "Description not available."
 type: community
-date: "2023-06-30 13:18:00"
+date: "2023-07-06 18:34:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/livesound"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 10:31:47"
-subscribers: 4
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

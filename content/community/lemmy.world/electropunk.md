@@ -3,14 +3,14 @@ title: "i love electropunk"
 name: "electropunk"
 description: "A sublemmy for everything that *feels* like electropunk."
 type: community
-date: "2023-06-30 13:17:39"
+date: "2023-07-03 20:22:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/electropunk"
 host: lemmy.world
 lastmod: "2023-06-19 17:47:35"
 published: "2023-06-15 15:41:00"
-subscribers: 10
+subscribers: 11
 posts: 4
 comments: 1
 weight: 4

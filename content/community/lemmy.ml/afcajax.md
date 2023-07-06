@@ -3,7 +3,7 @@ title: "AFC Ajax"
 name: "afcajax"
 description: "Community for the biggest football club of the Netherlands, AFC Ajax."
 type: community
-date: "2023-06-30 13:15:19"
+date: "2023-07-03 20:17:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ml/c/afcajax"

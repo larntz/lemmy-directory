@@ -3,14 +3,14 @@ title: "Anime"
 name: "anime"
 description: "A community related to anime."
 type: community
-date: "2023-06-30 13:13:56"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/anime"
 host: lemmygrad.ml
 lastmod: "2020-08-12 20:45:30"
 published: "2020-07-11 12:31:00"
-subscribers: 48
+subscribers: 52
 posts: 8
 comments: 30
 weight: 8

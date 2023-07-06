@@ -3,12 +3,12 @@ title: "FI/RE India"
 name: "fireindia"
 description: "A community for FI/RE minded folks in India"
 type: community
-date: "2023-06-30 13:18:02"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fireindia"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 15:04:19"
 subscribers: 2
 posts: 0

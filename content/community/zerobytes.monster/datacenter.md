@@ -3,7 +3,7 @@ title: "Datacenter Operations"
 name: "datacenter"
 description: "We're back after blackout to discuss with the community. Rack and stack! News, comments, tools, and questions about servers, network hardware, DC..."
 type: community
-date: "2023-06-30 13:14:13"
+date: "2023-07-01 17:10:34"
 draft: false
 nsfw: false
 actor_id: "https://zerobytes.monster/c/datacenter"

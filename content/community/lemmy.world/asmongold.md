@@ -1,16 +1,16 @@
 ---
 title: "asmongold" 
 name: "asmongold"
-description: "Description not available."
+description: "All about twitch streamer Asmongold."
 type: community
-date: "2023-06-30 13:17:36"
+date: "2023-07-06 18:33:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/asmongold"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-07-03 08:26:26"
 published: "2023-06-22 18:47:26"
-subscribers: 2
+subscribers: 5
 posts: 0
 comments: 0
 weight: 0
