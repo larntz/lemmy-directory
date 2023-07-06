@@ -3,14 +3,14 @@ title: "Furry Musicians"
 name: "musicians"
 description: "Gear Acquisition Syndrome support group."
 type: community
-date: "2023-07-04 14:51:15"
+date: "2023-07-06 18:29:19"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/musicians"
 host: pawb.social
 lastmod: "2023-06-03 20:14:34"
 published: "2023-06-03 20:07:31"
-subscribers: 114
+subscribers: 119
 posts: 11
 comments: 24
 weight: 11

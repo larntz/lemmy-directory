@@ -3,14 +3,14 @@ title: "USSR"
 name: "ussr"
 description: "bby i miss you, where are you USSR?*_Read 30 years ago__*"
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 16:41:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/ussr"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2021-05-04 00:36:05"
-subscribers: 210
+subscribers: 212
 posts: 4
 comments: 9
 weight: 4

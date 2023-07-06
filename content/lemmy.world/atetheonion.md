@@ -3,14 +3,14 @@ title: "Ate The Onion"
 name: "atetheonion"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:23:01"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/atetheonion"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 13:50:22"
-subscribers: 44
+subscribers: 54
 posts: 0
 comments: 0
 weight: 0

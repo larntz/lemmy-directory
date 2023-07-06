@@ -3,7 +3,7 @@ title: "Puzzle and Dragons"
 name: "puzzleanddragons"
 description: "If you stumbled upon this, this is a placeholder for when people on reddit migrate, which might or might not happen. I don't plan to moderate this community - if you are interested in taking over, shoot me a message."
 type: community
-date: "2023-07-03 20:22:55"
+date: "2023-07-06 18:33:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/puzzleanddragons"

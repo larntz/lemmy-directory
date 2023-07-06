@@ -3,7 +3,7 @@ title: "lemmy_ui - main WebApp of Lemmy"
 name: "lemmy_ui"
 description: "This community is about lemmy-ui, the main webapp (web application) written for NodeJS that is the default website front-end to Lemmy, used by most of the major sites.GitHub project page: https://github.com/LemmyNet/lemmy-ui"
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-04 20:52:20"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/lemmy_ui"

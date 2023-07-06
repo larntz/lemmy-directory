@@ -3,7 +3,7 @@ title: "Oneironauts"
 name: "oneironauts"
 description: "Welcome fellow oneironauts!This is a community dedicated to the discussion, research, and teaching of lucid dreaming, which is the state of being aware that you're dreaming.Created by a former moderator of dreamviews.com."
 type: community
-date: "2023-07-03 20:22:52"
+date: "2023-07-06 18:33:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oneironauts"

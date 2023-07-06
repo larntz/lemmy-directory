@@ -3,14 +3,14 @@ title: "Trucks!"
 name: "trucks"
 description: "All about trucks, pickups etc."
 type: community
-date: "2023-07-03 20:22:36"
+date: "2023-07-06 18:34:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/trucks"
 host: lemmy.world
 lastmod: "2023-06-22 01:25:59"
 published: "2023-06-21 23:29:02"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

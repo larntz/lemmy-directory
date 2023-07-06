@@ -3,14 +3,14 @@ title: "Literatura"
 name: "literatuta"
 description: "Literatura **euskaraz** gozatu nahi dugun horientzako komunitate gozoa eta bizigarria :)"
 type: community
-date: "2023-07-04 14:51:15"
+date: "2023-07-06 18:29:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/literatuta"
 host: lemmy.eus
 lastmod: "1969-12-31 19:00:00"
 published: "2020-12-03 19:17:03"
-subscribers: 34
+subscribers: 37
 posts: 21
 comments: 89
 weight: 21

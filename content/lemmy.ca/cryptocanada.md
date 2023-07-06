@@ -3,7 +3,7 @@ title: "Crypto Canada"
 name: "cryptocanada"
 description: "Cryptocurrency sublemmy for Canadians! Or people who at least have an interest in Canada. Tags: bitcoinOther relevant communities:https://matrix.to/#/#cryptocanada:matrix.org"
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/cryptocanada"

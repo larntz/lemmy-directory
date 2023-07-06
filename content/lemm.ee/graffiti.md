@@ -3,7 +3,7 @@ title: "graffiti"
 name: "graffiti"
 description: "This is a place for all things related to graffiti.Please keep it civil. No trolling, spamming, or harassment.Please be sure that content meets the intent of this magazine."
 type: community
-date: "2023-07-04 14:51:41"
+date: "2023-07-04 20:51:42"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/graffiti"

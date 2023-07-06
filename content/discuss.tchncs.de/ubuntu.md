@@ -3,14 +3,14 @@ title: "Ubuntu"
 name: "ubuntu"
 description: "**The Ubuntu community**Matrix space: https://matrix.to/#/#ubuntu-space:xentonix.net"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/ubuntu"
 host: discuss.tchncs.de
 lastmod: "2023-07-02 21:41:45"
 published: "2023-07-02 21:01:22"
-subscribers: 23
+subscribers: 29
 posts: 4
 comments: 1
 weight: 4

@@ -3,7 +3,7 @@ title: "halubilo.social"
 name: "halubilosocial"
 description: "Meta community for halubilo.social. Here we discuss the community itself, including issues and possible improvements."
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://halubilo.social/c/halubilosocial"

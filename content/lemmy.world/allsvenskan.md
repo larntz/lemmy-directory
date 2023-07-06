@@ -3,14 +3,14 @@ title: "Allsvenskan"
 name: "allsvenskan"
 description: "Community för allt som rör svensk fotboll"
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/allsvenskan"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "2023-07-02 10:44:35"
 published: "2023-07-02 10:12:58"
-subscribers: 3
+subscribers: 8
 posts: 1
 comments: 1
 weight: 1

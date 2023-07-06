@@ -3,14 +3,14 @@ title: "bugout - When the SHTF"
 name: "bugout"
 description: "A place to discuss bugout plans, gear etc.Rules:Be on topic, no spam, no hate. Do not discuss religion, politics etc."
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/bugout"
 host: discuss.tchncs.de
 lastmod: "2023-07-01 08:12:56"
 published: "2023-07-01 08:11:35"
-subscribers: 1
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

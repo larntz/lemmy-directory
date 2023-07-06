@@ -3,7 +3,7 @@ title: "TransBr"
 name: "transbr"
 description: "Versão Lemmy do r/transbr"
 type: community
-date: "2023-07-03 20:23:01"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/transbr"

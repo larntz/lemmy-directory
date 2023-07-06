@@ -3,12 +3,12 @@ title: "Bikinis"
 name: "bikinis"
 description: "If it can fit through a wedding band, it belongs here."
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 16:45:05"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bikinis"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "2023-07-03 15:25:17"
 published: "2023-07-03 05:36:59"
 subscribers: 1
 posts: 0

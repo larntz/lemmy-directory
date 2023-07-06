@@ -3,7 +3,7 @@ title: "Krab Borg Support"
 name: "support"
 description: "Need help with Krab Borg? Post here and we'll get to you as soon as we can!You can also email us: support@krabb.org"
 type: community
-date: "2023-07-04 14:51:37"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://krabb.org/c/support"

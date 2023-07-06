@@ -3,14 +3,14 @@ title: "gamerooms"
 name: "gamerooms"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:49"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/gamerooms"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 07:00:45"
-subscribers: 9
+subscribers: 10
 posts: 0
 comments: 0
 weight: 0

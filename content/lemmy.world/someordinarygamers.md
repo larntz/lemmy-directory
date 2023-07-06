@@ -3,14 +3,14 @@ title: "Some Ordinary Gamers"
 name: "someordinarygamers"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:39"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/someordinarygamers"
 host: lemmy.world
 lastmod: "2023-06-19 08:10:01"
 published: "2023-06-19 08:07:29"
-subscribers: 5
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

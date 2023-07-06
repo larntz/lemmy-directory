@@ -3,14 +3,14 @@ title: "Surreal Memes"
 name: "surrealmemes"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:56"
+date: "2023-07-06 18:34:07"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/surrealmemes"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 07:08:34"
-subscribers: 6
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

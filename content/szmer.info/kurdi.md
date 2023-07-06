@@ -3,7 +3,7 @@ title: "Kurdî"
 name: "kurdi"
 description: ""
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/kurdi"
@@ -15,7 +15,7 @@ posts: 332
 comments: 131
 weight: 332
 dau: 2
-wau: 3
+wau: 2
 mau: 4
 instances:
 - "szmer_info"

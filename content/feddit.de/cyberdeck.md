@@ -3,7 +3,7 @@ title: "Cyberdeck"
 name: "cyberdeck"
 description: "Community for specialised, custom-made, mobile computers. Bonus points for a direct brain interface.[Cyberdeck build guide of cyberdeck.cafe](https://cyberdeck.cafe/build)"
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/cyberdeck"

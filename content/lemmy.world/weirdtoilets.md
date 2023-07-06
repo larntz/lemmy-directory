@@ -3,14 +3,14 @@ title: "Weird Toilets"
 name: "weirdtoilets"
 description: "A sub to post the weirdest toilets you can find online or IRL. From mouth toilets to couch toilets, if they are weird, it belongs here"
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/weirdtoilets"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "2023-07-02 22:32:33"
 published: "2023-07-02 22:19:28"
-subscribers: 11
+subscribers: 17
 posts: 6
 comments: 0
 weight: 6

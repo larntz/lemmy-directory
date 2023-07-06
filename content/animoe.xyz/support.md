@@ -3,7 +3,7 @@ title: "Support"
 name: "support"
 description: "[This community is for contacting the mods]()**This community is for:**- Questions about this server.- Requests for new community.- Technical support.- News about this server.- Suggestions.**Rules:**- Follow the site rules.- Use this community only for the list above."
 type: community
-date: "2023-07-04 14:51:41"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/support"

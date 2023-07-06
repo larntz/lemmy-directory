@@ -3,7 +3,7 @@ title: "Canberra"
 name: "canberra"
 description: "A place for Canberrans and the Canberra region."
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/canberra"

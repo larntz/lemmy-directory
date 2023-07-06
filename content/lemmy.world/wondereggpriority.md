@@ -3,7 +3,7 @@ title: "Wonder Egg Priority"
 name: "wondereggpriority"
 description: "Dedicated to the original anime series Wonder Egg Priority! [discord.gg/wonderegg]"
 type: community
-date: "2023-07-03 20:22:48"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wondereggpriority"

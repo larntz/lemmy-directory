@@ -3,14 +3,14 @@ title: "Main"
 name: "main"
 description: "Server entry point and general conversation."
 type: community
-date: "2023-07-04 14:51:18"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://lm.qtt.no/c/main"
 host: lm.qtt.no
 lastmod: "2023-06-10 17:47:45"
 published: "2023-06-10 09:29:31"
-subscribers: 5
+subscribers: 6
 posts: 2
 comments: 1
 weight: 2

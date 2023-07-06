@@ -3,7 +3,7 @@ title: "Themis"
 name: "themis"
 description: "The pursuit of balance in a world of radicalism."
 type: community
-date: "2023-07-03 20:22:50"
+date: "2023-07-06 18:33:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/themis"

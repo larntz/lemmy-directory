@@ -3,7 +3,7 @@ title: "Solid - Social Linked Data"
 name: "social_linked_data"
 description: "A community to talk about Social Linked Data, the new vision of the WWW by Tim Berners-Lee"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/social_linked_data"

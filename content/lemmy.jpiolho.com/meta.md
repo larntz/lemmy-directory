@@ -3,14 +3,14 @@ title: "Meta"
 name: "meta"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.jpiolho.com/c/meta"
 host: lemmy.jpiolho.com
 lastmod: "2023-06-11 07:43:48"
 published: "2023-06-11 07:25:00"
-subscribers: 8
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

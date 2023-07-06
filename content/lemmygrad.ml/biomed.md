@@ -3,7 +3,7 @@ title: "Biomedical Science"
 name: "biomed"
 description: "A community for education on biological science."
 type: community
-date: "2023-07-04 14:51:31"
+date: "2023-07-04 20:51:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/biomed"

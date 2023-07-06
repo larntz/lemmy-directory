@@ -3,12 +3,12 @@ title: "Visualization"
 name: "visualizations"
 description: "A space to share and discuss interesting visualization ideas and outcomes. "
 type: community
-date: "2023-07-03 20:15:41"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/visualizations"
 host: baraza.africa
-lastmod: "2023-07-03 20:15:41"
+lastmod: "2021-11-28 03:26:43"
 published: "2020-11-16 05:09:13"
 subscribers: 9
 posts: 1

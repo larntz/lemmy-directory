@@ -3,7 +3,7 @@ title: "Sacred circle "
 name: "atheistvstheist"
 description: "Religious and non religious discussion"
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/atheistvstheist"

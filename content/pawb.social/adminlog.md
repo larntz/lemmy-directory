@@ -3,7 +3,7 @@ title: "Pawb.Social Administrative Actions"
 name: "adminlog"
 description: "Administrative actions taken by the Pawb.Social Admin team across our Mastodon and Lemmy instances.**CW**: Some instance URLs may contain disturbing, offensive, or adult material."
 type: community
-date: "2023-07-04 14:51:16"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://pawb.social/c/adminlog"

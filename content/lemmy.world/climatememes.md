@@ -3,20 +3,20 @@ title: "The memes of the climate"
 name: "climatememes"
 description: "The climate of the memes of the climate!Planet is on fire!"
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/climatememes"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 10:49:54"
-subscribers: 52
-posts: 14
-comments: 8
-weight: 14
+subscribers: 82
+posts: 15
+comments: 23
+weight: 15
 dau: 1
-wau: 10
-mau: 10
+wau: 19
+mau: 19
 instances:
 - "lemmy_world"
 tags: 

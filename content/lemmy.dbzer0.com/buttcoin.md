@@ -3,7 +3,7 @@ title: "Buttcoin"
 name: "buttcoin"
 description: "This community was initially created as a failover for [Buttcoin](https://www.reddit.com/r/Buttcoin). However the mods created instead a kbin instance which you can [find here](/c/Buttcoin@kbin.social)As such, I'm disabling this community in order to provide a centralized location."
 type: community
-date: "2023-07-04 14:51:55"
+date: "2023-07-04 20:52:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/buttcoin"

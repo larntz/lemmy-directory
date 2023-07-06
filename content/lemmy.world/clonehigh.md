@@ -3,14 +3,14 @@ title: "Clone High"
 name: "clonehigh"
 description: "A very special place to discuss Clone High"
 type: community
-date: "2023-07-03 20:22:14"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/clonehigh"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:14"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 04:41:38"
-subscribers: 2
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Xenoblade Chronicles"
 name: "xbc"
 description: "This community is for fans of the Xenoblade Chronicles JRPG game series, as well as other 'Xeno' games by Monolith Soft. (Xenoblade, Xenosaga, and Xenogears.)"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:21"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/xbc"

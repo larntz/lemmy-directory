@@ -3,14 +3,14 @@ title: "Monstrosity"
 name: "monstrosity"
 description: "A meta-community to discuss this Lemmy instance."
 type: community
-date: "2023-07-03 20:16:16"
+date: "2023-07-06 18:29:47"
 draft: false
 nsfw: false
 actor_id: "https://shitposting.monster/c/monstrosity"
 host: shitposting.monster
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-26 16:50:13"
-subscribers: 3
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

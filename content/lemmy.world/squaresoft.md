@@ -3,14 +3,14 @@ title: "Squaresoft"
 name: "squaresoft"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:21"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/squaresoft"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:21"
+lastmod: "2023-07-02 11:41:58"
 published: "2023-07-02 05:52:21"
-subscribers: 1
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

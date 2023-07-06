@@ -3,7 +3,7 @@ title: "AnimeFunny"
 name: "anime_funny"
 description: "[Funny anime moments]()**Rules:**- Follow the site rules.- Must be funny.- Can be anime, manga or art."
 type: community
-date: "2023-07-04 14:51:41"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/anime_funny"

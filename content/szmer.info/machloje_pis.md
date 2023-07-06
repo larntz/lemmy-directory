@@ -3,7 +3,7 @@ title: "Machloje i przekręty PiSowców"
 name: "machloje_pis"
 description: "Jest jeszcze społeczność o przekrętach opozycji:https://szmer.info/c/platformaobywatelska"
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/machloje_pis"
@@ -14,8 +14,8 @@ subscribers: 60
 posts: 483
 comments: 109
 weight: 483
-dau: 2
-wau: 5
+dau: 1
+wau: 4
 mau: 7
 instances:
 - "szmer_info"

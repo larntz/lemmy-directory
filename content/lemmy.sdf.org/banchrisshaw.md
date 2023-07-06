@@ -3,7 +3,7 @@ title: "Ban Chris Shaw"
 name: "banchrisshaw"
 description: "Chris Shaw is a Mastodon user. I want to know how it shows up if we ban him. Science time!"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/banchrisshaw"

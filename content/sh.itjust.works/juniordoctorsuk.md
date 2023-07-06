@@ -3,7 +3,7 @@ title: "Junior Doctors UK"
 name: "juniordoctorsuk"
 description: "An escape from reddit. A community for UK based doctors to chat about their experiences, share articles and hang out. No medical advice."
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/juniordoctorsuk"

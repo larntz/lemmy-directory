@@ -3,7 +3,7 @@ title: "Stoners And Gamers"
 name: "stonersandgamers"
 description: "Gaming discussion, Stoners chat or anything you just want to express :P------------------------------------Discussion de jeu, chat Stoners ou tout ce que vous voulez juste exprimer :P------------------------------------Discord : https://discord.gg/nHCTpuBbVQ------------------------------------Telegram :https://t.me/stonersandgamers"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/stonersandgamers"
@@ -14,8 +14,8 @@ subscribers: 21
 posts: 8
 comments: 16
 weight: 8
-dau: 2
-wau: 5
+dau: 1
+wau: 4
 mau: 5
 instances:
 - "lemmy_ca"

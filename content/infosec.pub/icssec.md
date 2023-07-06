@@ -3,14 +3,14 @@ title: "Industrial Control Systems Security"
 name: "icssec"
 description: "A place to talk about all things related to securing the operation of Industrial Control Systems (ICS) and Operational Technology (OT). Instead of posting a plethora of rules, let's all just agree to be excellent to each other. "
 type: community
-date: "2023-07-04 14:51:18"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/icssec"
 host: infosec.pub
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 10:58:15"
-subscribers: 39
+subscribers: 46
 posts: 10
 comments: 6
 weight: 10

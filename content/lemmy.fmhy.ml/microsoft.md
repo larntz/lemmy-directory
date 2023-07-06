@@ -3,14 +3,14 @@ title: "Microsoft"
 name: "microsoft"
 description: "Welcome to the Microsoft Community. Content here should be primarily about Microsoft's suite of services, products and games which we publish. If you require support, please post your question within the pinned thread where our Social Media team will respond to you."
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/microsoft"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 12:49:57"
-subscribers: 17
+subscribers: 20
 posts: 1
 comments: 0
 weight: 1

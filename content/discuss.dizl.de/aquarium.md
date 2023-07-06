@@ -3,14 +3,14 @@ title: "Aquarium - Die deutschsprachige Aquarium Community"
 name: "aquarium"
 description: "Die deutschsprachige Aquarium Community."
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://discuss.dizl.de/c/aquarium"
 host: discuss.dizl.de
 lastmod: "2023-06-22 13:17:24"
 published: "2023-06-22 10:36:54"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

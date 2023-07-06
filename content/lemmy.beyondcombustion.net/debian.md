@@ -3,7 +3,7 @@ title: "Debian — The Universal Operating System"
 name: "debian"
 description: "Subreddit to discuss all the Debian things, the Universal Operating System."
 type: community
-date: "2023-07-04 14:51:27"
+date: "2023-07-06 18:29:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.beyondcombustion.net/c/debian"
@@ -11,9 +11,9 @@ host: lemmy.beyondcombustion.net
 lastmod: "2023-07-03 15:08:55"
 published: "2023-07-03 05:04:02"
 subscribers: 4
-posts: 41
+posts: 60
 comments: 0
-weight: 41
+weight: 60
 dau: 1
 wau: 1
 mau: 1

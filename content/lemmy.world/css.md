@@ -3,14 +3,14 @@ title: "CSS"
 name: "css"
 description: "A place within Lemmy where one can discuss CSS, ask for help, et-al. Please remember the human."
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/css"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 22:40:40"
-subscribers: 8
+subscribers: 13
 posts: 6
 comments: 0
 weight: 6

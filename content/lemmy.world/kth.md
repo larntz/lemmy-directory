@@ -3,12 +3,12 @@ title: "KTH"
 name: "kth"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kth"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "2023-07-04 03:18:32"
 published: "2023-07-02 11:32:49"
 subscribers: 1
 posts: 0

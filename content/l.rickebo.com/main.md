@@ -3,14 +3,14 @@ title: "main"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:27"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://l.rickebo.com/c/main"
 host: l.rickebo.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-27 10:33:29"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

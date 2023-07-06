@@ -3,7 +3,7 @@ title: "Lolita Fashion"
 name: "lolita"
 description: "Lolita fashion (ロリータ・ファッション, rorīta fasshon) is a subculture from Japan that is highly influenced by Victorian clothing and styles from the Rococo period. ----Wikipedia"
 type: community
-date: "2023-07-03 20:22:54"
+date: "2023-07-06 18:33:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lolita"

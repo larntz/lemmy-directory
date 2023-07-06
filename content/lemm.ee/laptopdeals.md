@@ -3,14 +3,14 @@ title: "Laptop Deals"
 name: "laptopdeals"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/laptopdeals"
 host: lemm.ee
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 11:42:05"
-subscribers: 7
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

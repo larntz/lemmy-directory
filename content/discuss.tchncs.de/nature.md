@@ -3,7 +3,7 @@ title: "Nature"
 name: "nature"
 description: "**Post your cool nature pictures, questions or related discussions here!**# Rules1. Do not post anything that goes against the rules of discuss.tchncs.de (our host instance)2. Be nice, don't spam and don't go miles off topic."
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-04 20:51:22"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/nature"
@@ -15,7 +15,7 @@ posts: 2
 comments: 4
 weight: 2
 dau: 1
-wau: 3
+wau: 1
 mau: 3
 instances:
 - "discuss_tchncs_de"

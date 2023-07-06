@@ -3,14 +3,14 @@ title: "Nintendo"
 name: "nintendo"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:32"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://lem.lyk.pw/c/nintendo"
 host: lem.lyk.pw
 lastmod: "1969-12-31 19:00:00"
 published: "2023-05-26 15:56:38"
-subscribers: 7
+subscribers: 8
 posts: 3
 comments: 2
 weight: 3

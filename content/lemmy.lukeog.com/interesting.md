@@ -3,7 +3,7 @@ title: "Interesting…"
 name: "interesting"
 description: "Anything and everything people may find interesting, post it here!"
 type: community
-date: "2023-07-04 14:51:16"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.lukeog.com/c/interesting"

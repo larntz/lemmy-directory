@@ -3,7 +3,7 @@ title: "Medical Cannabis"
 name: "medicalcannabis"
 description: "A community for news, information and resources related to the medical applications of cannabis and a collective of patients from around the world."
 type: community
-date: "2023-07-04 14:51:42"
+date: "2023-07-04 20:51:44"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/medicalcannabis"

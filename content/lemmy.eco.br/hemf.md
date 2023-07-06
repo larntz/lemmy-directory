@@ -3,14 +3,14 @@ title: "Hoje Eu Me Fudi "
 name: "hemf"
 description: "Este é o espaço pra você contar uma história em que você se ferrou, pode ser de hoje, semana passada ou alguns anos atrás "
 type: community
-date: "2023-07-04 14:51:40"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/hemf"
 host: lemmy.eco.br
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 09:20:00"
-subscribers: 73
+subscribers: 80
 posts: 4
 comments: 36
 weight: 4

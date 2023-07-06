@@ -3,17 +3,17 @@ title: "Holly Willoughby"
 name: "hollywilloughby"
 description: "Holly Willoughby's pictures, gifs, and videos"
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/hollywilloughby"
 host: lemmynsfw.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 02:36:44"
-subscribers: 16
-posts: 1
+subscribers: 20
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1

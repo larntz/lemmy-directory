@@ -3,14 +3,14 @@ title: "Request a Bot"
 name: "requestabot"
 description: "Need a bot for your community? Come along and request it!"
 type: community
-date: "2023-07-03 20:22:11"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/requestabot"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:11"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-03 10:18:47"
-subscribers: 3
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

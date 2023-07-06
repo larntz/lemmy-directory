@@ -3,7 +3,7 @@ title: "Zoids"
 name: "zoids"
 description: "A community for Zoids content and discussion. Anime, model kits, manga, etc."
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:34:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/zoids"

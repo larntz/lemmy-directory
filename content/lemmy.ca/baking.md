@@ -3,7 +3,7 @@ title: "Baking"
 name: "baking"
 description: "Share your baking tips and tricks with other fellow bakers"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/baking"

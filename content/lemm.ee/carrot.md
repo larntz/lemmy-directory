@@ -3,7 +3,7 @@ title: "CARROT"
 name: "carrot"
 description: "Discussion about CARROT Weather and the other CARROT apps, along with CARROT itself. "
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-04 20:51:39"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/carrot"

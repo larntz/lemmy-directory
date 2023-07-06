@@ -3,7 +3,7 @@ title: "Software Testing"
 name: "softwaretesting"
 description: "This community is geared towards software testing, quality assurance, and software development engineering in test environments"
 type: community
-date: "2023-07-03 20:22:54"
+date: "2023-07-06 18:34:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/softwaretesting"

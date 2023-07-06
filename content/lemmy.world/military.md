@@ -3,14 +3,14 @@ title: "Military "
 name: "military"
 description: "This community is dedicated to everything related to military"
 type: community
-date: "2023-07-03 20:22:51"
+date: "2023-07-06 18:33:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/military"
 host: lemmy.world
 lastmod: "2023-06-19 19:45:00"
 published: "2023-06-18 11:46:17"
-subscribers: 11
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0

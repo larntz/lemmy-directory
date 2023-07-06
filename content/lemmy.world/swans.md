@@ -3,14 +3,14 @@ title: "swans"
 name: "swans"
 description: "swans unofficial just for fun. check for official at https://younggodrecords.com/"
 type: community
-date: "2023-07-01 17:14:00"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swans"
 host: lemmy.world
 lastmod: "2023-06-24 00:36:41"
 published: "2023-06-23 17:15:37"
-subscribers: 5
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

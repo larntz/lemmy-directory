@@ -3,14 +3,14 @@ title: "Solar Energy"
 name: "solarenergy"
 description: "Description not available."
 type: community
-date: "2023-07-01 17:13:54"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/solarenergy"
 host: lemmy.world
 lastmod: "2023-06-19 02:24:15"
 published: "2023-06-18 06:35:37"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

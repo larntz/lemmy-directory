@@ -3,14 +3,14 @@ title: "Test"
 name: "test"
 description: "test"
 type: community
-date: "2023-07-04 14:51:26"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://melly.0x-ia.moe/c/test"
 host: melly.0x-ia.moe
 lastmod: "2023-06-18 03:55:36"
 published: "2023-06-18 01:52:49"
-subscribers: 1
+subscribers: 3
 posts: 1
 comments: 1
 weight: 1

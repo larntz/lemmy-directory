@@ -3,12 +3,12 @@ title: "SDAM"
 name: "sdam"
 description: "Severely Deficient Autobiographical Memory (SDAM) refers to a lifelong inability to vividly recollect or re-experience personal past events from a first-person perspective."
 type: community
-date: "2023-07-03 20:22:15"
+date: "2023-07-06 18:33:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sdam"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:15"
+lastmod: "2023-07-02 01:22:08"
 published: "2023-07-02 01:19:23"
 subscribers: 3
 posts: 0

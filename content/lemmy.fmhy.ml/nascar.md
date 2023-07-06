@@ -3,7 +3,7 @@ title: "NASCAR"
 name: "nascar"
 description: "News from the oval"
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-04 20:51:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/nascar"

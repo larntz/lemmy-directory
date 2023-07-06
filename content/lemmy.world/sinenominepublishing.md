@@ -3,14 +3,14 @@ title: "Sine Nomine Publishing"
 name: "sinenominepublishing"
 description: "For discussion of tabletop RPGs made by Kevin Crawford and Sine Nomine Publishing.**Worlds Without Number Discord** [https://discord.gg/4FMjuUBJMw](https://discord.gg/4FMjuUBJMw)**Stars Without Number Discord** [https://discord.gg/Nsb2sZq6WX](https://discord.gg/Nsb2sZq6WX)**Cities Without Number Discord** [https://discord.gg/V6VcmbKbKK](https://discord.gg/V6VcmbKbKK)**Godbound Discord** [https://discord.gg/ct3N7UM8sX](https://discord.gg/ct3N7UM8sX)**Wolves of God Discord** [https://discord.gg/BVsxfadt5X](https://discord.gg/BVsxfadt5X)"
 type: community
-date: "2023-07-03 20:22:44"
+date: "2023-07-06 18:33:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sinenominepublishing"
 host: lemmy.world
 lastmod: "2023-06-22 05:07:08"
 published: "2023-06-21 21:53:39"
-subscribers: 14
+subscribers: 21
 posts: 1
 comments: 0
 weight: 1

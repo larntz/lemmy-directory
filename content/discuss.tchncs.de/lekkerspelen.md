@@ -3,7 +3,7 @@ title: "Lekker Spelen"
 name: "lekkerspelen"
 description: "Het is net als toen je vroeger met dat vriendje speelde die de controller nooit aan jou gaf; je kijkt toe hoe iemand anders een spelletje speelt zonder zelf te mogen spelen! Super leuk!"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-04 20:51:21"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/lekkerspelen"

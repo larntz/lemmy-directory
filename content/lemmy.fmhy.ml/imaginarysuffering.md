@@ -3,7 +3,7 @@ title: "Imaginary Suffering/Death/Injures"
 name: "imaginarysuffering"
 description: "Important rule:1. No gore or disturbing content even if marked as NSFW. This sublemmy is for a very light repesentation of the topic."
 type: community
-date: "2023-07-04 14:51:33"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/imaginarysuffering"

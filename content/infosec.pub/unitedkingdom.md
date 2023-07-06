@@ -3,14 +3,14 @@ title: "United Kingdom"
 name: "unitedkingdom"
 description: "UK infosec & bants "
 type: community
-date: "2023-07-04 14:51:16"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/unitedkingdom"
 host: infosec.pub
 lastmod: "2023-07-03 12:21:00"
 published: "2023-07-03 12:16:27"
-subscribers: 5
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

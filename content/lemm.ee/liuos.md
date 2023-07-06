@@ -3,7 +3,7 @@ title: "LiuOS"
 name: "liuos"
 description: "A Lemmy community for the Python based shell named LiuOS"
 type: community
-date: "2023-07-04 14:51:43"
+date: "2023-07-04 20:51:44"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/liuos"

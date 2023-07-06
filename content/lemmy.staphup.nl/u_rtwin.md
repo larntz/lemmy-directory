@@ -3,7 +3,7 @@ title: "Personal feed by rtwin"
 name: "u_rtwin"
 description: "Stuff i want to store for later."
 type: community
-date: "2023-07-04 14:51:16"
+date: "2023-07-06 18:29:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/u_rtwin"

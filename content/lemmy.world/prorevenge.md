@@ -3,14 +3,14 @@ title: "prorevenge"
 name: "prorevenge"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:33:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/prorevenge"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 01:05:32"
-subscribers: 23
+subscribers: 28
 posts: 0
 comments: 0
 weight: 0

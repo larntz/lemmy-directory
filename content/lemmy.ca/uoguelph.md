@@ -3,7 +3,7 @@ title: "University of Guelph"
 name: "uoguelph"
 description: "This is the subreddit for the University of Guelph and all things related."
 type: community
-date: "2023-07-03 20:16:08"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/uoguelph"

@@ -3,7 +3,7 @@ title: "RealDayTrading"
 name: "realdaytrading"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:49"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/realdaytrading"

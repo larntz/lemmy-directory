@@ -3,7 +3,7 @@ title: "Centre Ice Canadians"
 name: "centre_ice_canadians"
 description: "Exploring the feasibility of a more grounded, evidence based political party."
 type: community
-date: "2023-07-03 20:16:09"
+date: "2023-07-04 20:51:38"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/centre_ice_canadians"

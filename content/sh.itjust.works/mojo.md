@@ -3,7 +3,7 @@ title: "Mojo 🔥 - A new programming language"
 name: "mojo"
 description: "A place for all things related to the Mojo programming language.  Mojo pairs the Python syntax and ecosystem with powerful systems programming and metaprogramming features."
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mojo"

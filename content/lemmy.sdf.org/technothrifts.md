@@ -3,7 +3,7 @@ title: "TechnoThrifts"
 name: "technothrifts"
 description: "A place to share your DOS dumpster dives. Your giga-garage sale finds. Your recycling center reboots. Your..# TechnoThrifts"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/technothrifts"

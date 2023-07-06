@@ -3,7 +3,7 @@ title: "Microphones "
 name: "microphones"
 description: "A place to share all questions and interests in our favorite little transducers."
 type: community
-date: "2023-07-03 20:22:58"
+date: "2023-07-06 18:34:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/microphones"

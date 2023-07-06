@@ -3,7 +3,7 @@ title: "Methadone "
 name: "methadone"
 description: "For people who use or have used or just have questions about the drug methadone. "
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/methadone"

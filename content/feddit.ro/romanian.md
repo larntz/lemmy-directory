@@ -3,7 +3,7 @@ title: "Romanian"
 name: "romanian"
 description: "Want to learn Romanian, or you are already learning? Do you speak Romanian as a native language and want to help others? Then you found the perfect place to be!"
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/romanian"

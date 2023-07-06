@@ -3,14 +3,14 @@ title: "LitterBox"
 name: "litterbox"
 description: "anything to do with this instance"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.roombob.cat/c/litterbox"
 host: lemmy.roombob.cat
 lastmod: "2023-06-23 16:46:43"
 published: "2023-06-23 16:23:20"
-subscribers: 2
+subscribers: 4
 posts: 1
 comments: 2
 weight: 1

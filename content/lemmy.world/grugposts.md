@@ -3,7 +3,7 @@ title: "grugposts"
 name: "grugposts"
 description: "A community for creating and sharing “grugposts,” or speaking as pop culture portrays caveman to speak."
 type: community
-date: "2023-07-03 20:22:50"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/grugposts"

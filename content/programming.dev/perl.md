@@ -3,14 +3,14 @@ title: "Perl"
 name: "perl"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:32"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/perl"
 host: programming.dev
 lastmod: "2023-06-19 03:04:12"
 published: "2023-06-18 02:26:27"
-subscribers: 32
+subscribers: 37
 posts: 2
 comments: 7
 weight: 2

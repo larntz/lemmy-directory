@@ -3,7 +3,7 @@ title: "selfhosting"
 name: "selfhosting"
 description: "One more alternative to the many selfhosting communities."
 type: community
-date: "2023-07-04 14:51:22"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://eviltoast.org/c/selfhosting"

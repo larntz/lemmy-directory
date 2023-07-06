@@ -3,7 +3,7 @@ title: "Laramie Wyoming"
 name: "laramiewy"
 description: "A community to discuss all things related to Laramie, Wyoming.**Rules**- Be kind- No SPAM- Only relevant posts"
 type: community
-date: "2023-07-03 20:22:57"
+date: "2023-07-06 18:34:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/laramiewy"

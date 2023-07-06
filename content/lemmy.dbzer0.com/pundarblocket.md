@@ -3,14 +3,14 @@ title: "Pundarblocket på lemmy "
 name: "pundarblocket"
 description: "Endast bilder från blocket traderaFacebook marketplace"
 type: community
-date: "2023-07-04 14:51:55"
+date: "2023-07-06 18:29:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/pundarblocket"
 host: lemmy.dbzer0.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-03 07:54:45"
-subscribers: 3
+subscribers: 4
 posts: 1
 comments: 0
 weight: 1

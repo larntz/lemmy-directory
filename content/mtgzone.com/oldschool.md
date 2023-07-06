@@ -3,7 +3,7 @@ title: "Old School"
 name: "oldschool"
 description: "#### Old School MagicTalk about all of the Old School formats here! 93/94, Premodern, Middle School, and any others.For more information on banned and restricted lists and the various formats and rules head over to [Eternal Central](https://www.eternalcentral.com/).Check out [Wak-Wak](https://www.wak-wak.se/) for decks, Old School news, and European events.---"
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://mtgzone.com/c/oldschool"

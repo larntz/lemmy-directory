@@ -3,14 +3,14 @@ title: "HeadphoneAdvice"
 name: "headphoneadvice"
 description: "A place to ask for (and give) advice on headphone purchases, repairs and mods."
 type: community
-date: "2023-07-03 20:22:53"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/headphoneadvice"
 host: lemmy.world
 lastmod: "2023-06-20 16:07:15"
 published: "2023-06-20 16:05:19"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

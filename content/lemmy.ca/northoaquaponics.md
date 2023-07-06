@@ -3,7 +3,7 @@ title: "Northern Aquaponics"
 name: "northoaquaponics"
 description: "For discussion of aquaponics in a northern climate, for example the area's that reach -40(pick a measuring system). System examples, reference material, youtuber guides welcome. Our aim should be to learn from one another and attract more people to want to grow their own produce and fish.e"
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/northoaquaponics"

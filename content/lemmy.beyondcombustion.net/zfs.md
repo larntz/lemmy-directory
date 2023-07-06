@@ -3,7 +3,7 @@ title: "Everything ZFS (currently dark, protesting API policy)"
 name: "zfs"
 description: "r/zfs is protesting Reddit's API policy change. We have extended our protest in response to Huffman's characterization of the protest as noise..."
 type: community
-date: "2023-07-04 14:51:27"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.beyondcombustion.net/c/zfs"

@@ -3,7 +3,7 @@ title: "Yo-Yo Throwers"
 name: "throwers"
 description: "A lemmy home for those enthusiastic about Yo-Yos and all they entail. Inspired by /r/Throwers community on Reddit (no official affiliation.) "
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/throwers"

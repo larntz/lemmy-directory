@@ -3,14 +3,14 @@ title: "#randomanimeshit"
 name: "randomanimeshit"
 description: "#randomanimeshit"
 type: community
-date: "2023-07-04 14:51:46"
+date: "2023-07-06 18:29:42"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pipipopo.pl/c/randomanimeshit"
 host: lemmy.pipipopo.pl
 lastmod: "2023-06-23 01:39:03"
 published: "2023-06-22 18:20:18"
-subscribers: 11
+subscribers: 15
 posts: 7
 comments: 1
 weight: 7

@@ -3,7 +3,7 @@ title: "Lemmy Instance Assistant"
 name: "lia"
 description: "A community for updates and discussions around Lemmy Instance Assistant, and other fediverse tools/browser extensions"
 type: community
-date: "2023-07-04 14:51:37"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/lia"

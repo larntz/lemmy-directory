@@ -3,14 +3,14 @@ title: "TheSaneWriter"
 name: "thesanewriter"
 description: "This is just my personal community for making posts about my profile here, announcements, and other such things."
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/thesanewriter"
 host: vlemmy.net
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 12:10:58"
-subscribers: 6
+subscribers: 9
 posts: 1
 comments: 6
 weight: 1

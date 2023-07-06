@@ -3,7 +3,7 @@ title: "Health questions"
 name: "healthquestions"
 description: "For health questions that you should ideally take to a professional, but can't for some reason.You should assume any advice you've received here is from some dumb dumb.Tags; Ask doctors, dr"
 type: community
-date: "2023-07-04 14:51:32"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/healthquestions"

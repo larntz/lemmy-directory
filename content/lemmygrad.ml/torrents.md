@@ -3,14 +3,14 @@ title: "Torrents"
 name: "torrents"
 description: "A piracy friendly place to post torrents.### Links- [Torrents.csv](https://torrents-csv.ml/#/)- [Textbooks torrents](https://communism.lemmy.ml/post/68)### Rules1. Only torrent links please1. No spam."
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/torrents"
 host: lemmygrad.ml
 lastmod: "2019-08-24 15:59:26"
 published: "2019-08-21 22:58:47"
-subscribers: 585
+subscribers: 589
 posts: 14
 comments: 29
 weight: 14

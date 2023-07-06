@@ -3,7 +3,7 @@ title: "Cringetopia"
 name: "cringetopia"
 description: "Cringetopia recreation from reddit"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/cringetopia"

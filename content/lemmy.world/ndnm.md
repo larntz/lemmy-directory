@@ -1,19 +1,19 @@
 ---
 title: "No Dice, No Masters" 
 name: "ndnm"
-description: "A space for No Dice, No Masters and Belonging Outside Belonging table top roleplaying games.###### Other Communities:[Wanderhome](https://lemmy.world/c/wanderhome)"
+description: "A space for No Dice, No Masters and Belonging Outside Belonging table top roleplaying games.Please ensure you follow the [Lemmy.world Rules.](https://mastodon.world/about) ###### Other Communities:[Wanderhome](https://lemmy.world/c/wanderhome)[PbtA](https://lemmy.world/c/pbta)[TTRPG Self Promotion](https://lemmy.world/c/ttrpgselfpromo)"
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ndnm"
 host: lemmy.world
-lastmod: "2023-07-01 09:38:09"
+lastmod: "2023-07-06 17:10:46"
 published: "2023-07-01 07:44:46"
-subscribers: 4
-posts: 1
+subscribers: 8
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1

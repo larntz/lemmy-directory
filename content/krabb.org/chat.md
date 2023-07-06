@@ -3,7 +3,7 @@ title: "Chat"
 name: "chat"
 description: "General chats and conversation about anything. Remember to be polite and remain civil."
 type: community
-date: "2023-07-04 14:51:37"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://krabb.org/c/chat"

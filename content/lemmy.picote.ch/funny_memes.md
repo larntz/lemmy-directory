@@ -3,14 +3,14 @@ title: "Laughable(?)content "
 name: "funny_memes"
 description: "This will be a thread of possible funny or laughable jokes or clips I find."
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.picote.ch/c/funny_memes"
 host: lemmy.picote.ch
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 21:24:35"
-subscribers: 3
+subscribers: 5
 posts: 2
 comments: 0
 weight: 2

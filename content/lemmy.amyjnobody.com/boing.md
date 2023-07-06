@@ -3,14 +3,14 @@ title: "BoingBoing (RSS)"
 name: "boing"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.amyjnobody.com/c/boing"
 host: lemmy.amyjnobody.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-27 18:29:21"
-subscribers: 5
+subscribers: 9
 posts: 90
 comments: 0
 weight: 90

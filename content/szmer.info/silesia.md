@@ -3,14 +3,14 @@ title: "Ślōnsk"
 name: "silesia"
 description: "Ô nos  i po naszymu.Po Polsku tyż może być."
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/silesia"
 host: szmer.info
 lastmod: "2023-06-17 20:04:43"
 published: "2023-06-15 06:59:15"
-subscribers: 8
+subscribers: 10
 posts: 3
 comments: 2
 weight: 3

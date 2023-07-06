@@ -3,7 +3,7 @@ title: "Montréal "
 name: "montreal"
 description: "Communauté bilingue fr/en pour Montréal / bilingual fr/en community for Montreal "
 type: community
-date: "2023-07-04 14:51:43"
+date: "2023-07-06 18:29:38"
 draft: false
 nsfw: false
 actor_id: "https://news.cosocial.ca/c/montreal"

@@ -3,7 +3,7 @@ title: "Beer money"
 name: "beermoney"
 description: "Discuss ways to make extra money for some beer"
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/beermoney"

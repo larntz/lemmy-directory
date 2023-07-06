@@ -1,22 +1,22 @@
 ---
 title: "random everything " 
 name: "randomeverything"
-description: "Titre anglais alors que j'écris en français ? Ça claque mieux, c'est tout. "
+description: "It’s just anonymous expressions in french or english. If someone falls on them, they should feel free to write here too and maybe we'll form a little community of random stranger saying random things. Or not, whatever "
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/randomeverything"
 host: lemm.ee
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-05 17:20:21"
 published: "2023-07-02 16:58:53"
-subscribers: 2
-posts: 0
-comments: 0
-weight: 0
-dau: 0
-wau: 0
-mau: 0
+subscribers: 4
+posts: 1
+comments: 1
+weight: 1
+dau: 2
+wau: 2
+mau: 2
 instances:
 - "lemm_ee"
 tags: 

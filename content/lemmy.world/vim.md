@@ -3,14 +3,14 @@ title: "Vim"
 name: "vim"
 description: "Vim, the powerful modal editor!"
 type: community
-date: "2023-07-03 20:22:54"
+date: "2023-07-06 18:34:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vim"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 23:15:04"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

@@ -3,14 +3,14 @@ title: "Denver"
 name: "denver"
 description: "**Join the larger Denver Lemmy communities:**- https://lemmy.world/c/denver- https://lemmy.world/c/nuggets---------------------Discussions and links to news, events, and happenings in Denver, CO.Rules:- No bigotry: Including racism, sexism, homophobia, transphobia, or xenophobia. - Be respectful. Everyone should feel welcome here.- No NSFW content.- No Ads / Spamming."
 type: community
-date: "2023-07-03 20:16:29"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/denver"
 host: sh.itjust.works
 lastmod: "2023-06-23 23:24:58"
 published: "2023-06-12 00:31:17"
-subscribers: 56
+subscribers: 58
 posts: 4
 comments: 9
 weight: 4

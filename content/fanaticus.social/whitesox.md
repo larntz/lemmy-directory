@@ -3,14 +3,14 @@ title: "White Sox"
 name: "whitesox"
 description: "Cloned from [r/WhiteSox](https://old.reddit.com/r/WhiteSox)# Looking for mods!"
 type: community
-date: "2023-07-04 14:51:59"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/whitesox"
 host: fanaticus.social
 lastmod: "2023-06-12 16:45:31"
 published: "2023-06-09 17:07:41"
-subscribers: 13
+subscribers: 19
 posts: 28
 comments: 39
 weight: 28

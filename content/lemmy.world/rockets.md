@@ -3,14 +3,14 @@ title: "Houston Rockets"
 name: "rockets"
 description: "A community for Rockets fans and discussion about the team/players."
 type: community
-date: "2023-07-03 20:22:40"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rockets"
 host: lemmy.world
 lastmod: "2023-06-10 05:13:24"
 published: "2023-06-10 05:08:24"
-subscribers: 14
+subscribers: 19
 posts: 1
 comments: 1
 weight: 1

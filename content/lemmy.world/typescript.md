@@ -3,14 +3,14 @@ title: "TypeScript"
 name: "typescript"
 description: "For all things TypeScript"
 type: community
-date: "2023-07-03 20:22:35"
+date: "2023-07-06 18:34:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/typescript"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 13:21:19"
-subscribers: 108
+subscribers: 120
 posts: 5
 comments: 4
 weight: 5

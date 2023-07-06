@@ -3,17 +3,17 @@ title: "Filmovi i serije"
 name: "filmovi"
 description: "Mesto za diskusiju o filmovima, serijama i sličnim temama."
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/filmovi"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 09:03:37"
-subscribers: 2
-posts: 13
-comments: 0
-weight: 13
+subscribers: 9
+posts: 32
+comments: 1
+weight: 32
 dau: 1
 wau: 1
 mau: 1

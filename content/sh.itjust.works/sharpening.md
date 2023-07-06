@@ -3,7 +3,7 @@ title: "Sharpening"
 name: "sharpening"
 description: "A place to discuss sharpening of edged items from knives to tools anf beyond"
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/sharpening"

@@ -3,14 +3,14 @@ title: "wappiesinhetwild"
 name: "wappiesinhetwild"
 description: "Wappie gespot!Regels:1. Individuën graag blurren/onherkenbaar maken2. Ga normaal met elkaar om3. Posts en comments moeten in het Nederlands zijn4. Geen wappie onzin** Naar de gelijknamige [subreddit](https://www.reddit.com/r/wappiesinhetwild/)*"
 type: community
-date: "2023-07-04 14:51:16"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.staphup.nl/c/wappiesinhetwild"
 host: lemmy.staphup.nl
 lastmod: "2023-07-02 11:19:47"
 published: "2023-07-02 11:17:41"
-subscribers: 1
+subscribers: 2
 posts: 1
 comments: 0
 weight: 1

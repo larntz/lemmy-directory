@@ -3,14 +3,14 @@ title: "Help Discussion"
 name: "helpcommunity"
 description: "Asked questions, looking for something and solving the problem."
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/helpcommunity"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 14:52:19"
-subscribers: 7
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

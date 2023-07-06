@@ -3,12 +3,12 @@ title: "serverhold"
 name: "Aurelia"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:22"
+date: "2023-07-06 18:33:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/Aurelia"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:22"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 05:02:40"
 subscribers: 1
 posts: 0

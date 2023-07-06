@@ -3,7 +3,7 @@ title: "Vim talk"
 name: "vim"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:16:30"
+date: "2023-07-04 20:52:22"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/vim"

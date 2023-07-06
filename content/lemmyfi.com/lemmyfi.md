@@ -3,7 +3,7 @@ title: "Lemmyfi.com"
 name: "lemmyfi"
 description: "Information regarding this instance will be posted here. This is just for those interested to see what is happening to this server."
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmyfi.com/c/lemmyfi"

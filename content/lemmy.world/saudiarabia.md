@@ -3,14 +3,14 @@ title: "saudi arabia"
 name: "saudiarabia"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:23:03"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/saudiarabia"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 04:50:28"
-subscribers: 8
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

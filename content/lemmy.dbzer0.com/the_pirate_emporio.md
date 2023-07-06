@@ -3,7 +3,7 @@ title: "The Pirate Emporio"
 name: "the_pirate_emporio"
 description: "A queer anarchist space to discuss everything about One Piece"
 type: community
-date: "2023-07-04 14:51:55"
+date: "2023-07-04 20:52:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/the_pirate_emporio"
@@ -15,7 +15,7 @@ posts: 5
 comments: 1
 weight: 5
 dau: 1
-wau: 2
+wau: 1
 mau: 2
 instances:
 - "lemmy_dbzer0_com"

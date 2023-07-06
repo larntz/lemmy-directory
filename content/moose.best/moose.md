@@ -3,14 +3,14 @@ title: "The Great Canadian Moose"
 name: "moose"
 description: "This is really more of a test community to see how this works, but fuck it, only rules are as follows:1: Only post moose pics.2: Titles must only contain the word moose."
 type: community
-date: "2023-07-04 14:51:18"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://moose.best/c/moose"
 host: moose.best
 lastmod: "2023-07-02 01:04:30"
 published: "2023-07-02 01:02:21"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

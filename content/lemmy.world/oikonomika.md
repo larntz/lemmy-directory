@@ -3,7 +3,7 @@ title: "Οικονομικά"
 name: "oikonomika"
 description: "Κοινότητα για συζήτηση και κοινοποίηση υλικού σχετικό με θέματα budgeting, εξοικονόμισης, επενδύσεων, τραπεζών κλπ."
 type: community
-date: "2023-07-03 20:22:26"
+date: "2023-07-06 18:33:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/oikonomika"

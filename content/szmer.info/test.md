@@ -3,7 +3,7 @@ title: "community testowe"
 name: "test"
 description: "community po to, żeby wstawiać tutaj testowe posty"
 type: community
-date: "2023-07-04 14:51:31"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/test"

@@ -3,7 +3,7 @@ title: "Casinochap"
 name: "casinochap"
 description: "A place of [Casinochap.com](https://casinochap.com/) on Lemmy World."
 type: community
-date: "2023-07-03 20:22:28"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/casinochap"

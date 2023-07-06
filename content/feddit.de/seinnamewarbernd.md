@@ -3,14 +3,14 @@ title: "SeinNameWarBernd"
 name: "seinnamewarbernd"
 description: "Sie nannten ihn Kriegsbernd."
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-06 16:41:28"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/seinnamewarbernd"
 host: feddit.de
 lastmod: "2023-06-13 17:50:45"
 published: "2023-06-11 09:48:23"
-subscribers: 5
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

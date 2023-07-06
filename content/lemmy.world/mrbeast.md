@@ -1,14 +1,14 @@
 ---
-title: "mrbeast" 
+title: " ឵឵឵" 
 name: "mrbeast"
 description: "Description not available."
 type: community
-date: "2023-07-01 17:14:09"
+date: "2023-07-06 18:34:06"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mrbeast"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-07-04 21:01:02"
 published: "2023-06-22 07:28:02"
 subscribers: 2
 posts: 0

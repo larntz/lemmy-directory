@@ -3,14 +3,14 @@ title: "College Baseball"
 name: "collegebaseball"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/collegebaseball"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 01:47:49"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

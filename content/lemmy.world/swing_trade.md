@@ -3,7 +3,7 @@ title: "Swing Trading"
 name: "swing_trade"
 description: "This community was created to facilitate discussion and idea-sharing for swing trading the financial markets:- **Setups** (Feel free to share ideas with Tickers and Chart screenshot)- **Strategies**- **Broker/Software**"
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/swing_trade"

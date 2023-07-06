@@ -3,12 +3,12 @@ title: "Garmin"
 name: "garmin"
 description: "Für alle uhren- und Privatjet besitzer"
 type: community
-date: "2023-07-04 14:51:29"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/garmin"
 host: feddit.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 12:56:50"
 subscribers: 8
 posts: 0

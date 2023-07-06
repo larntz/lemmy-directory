@@ -3,14 +3,14 @@ title: "Gpose"
 name: "gpose"
 description: "A community for posting SFW gposes, tips, tricks, etc, as an alternative to the blue bird and the white alien.Sibling communities:https://lemmynsfw.com/c/gpose_nsfwhttps://lemmynsfw.com/c/gpose_cw"
 type: community
-date: "2023-07-04 14:51:32"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmynsfw.com/c/gpose"
 host: lemmynsfw.com
 lastmod: "2023-06-16 08:26:42"
 published: "2023-06-16 08:15:42"
-subscribers: 30
+subscribers: 32
 posts: 1
 comments: 0
 weight: 1

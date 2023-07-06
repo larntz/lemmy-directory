@@ -3,7 +3,7 @@ title: "Vinyl Records"
 name: "records"
 description: "For Everything Record Related - music, equipment, setup, or troubleshooting."
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-04 20:51:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/records"
@@ -15,7 +15,7 @@ posts: 4
 comments: 14
 weight: 4
 dau: 1
-wau: 12
+wau: 11
 mau: 12
 instances:
 - "lemmy_sdf_org"

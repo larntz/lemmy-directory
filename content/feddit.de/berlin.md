@@ -3,20 +3,20 @@ title: "Berlin"
 name: "berlin"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:33"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/berlin"
 host: feddit.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2021-09-14 05:39:03"
-subscribers: 462
-posts: 53
-comments: 132
-weight: 53
-dau: 2
-wau: 30
-mau: 68
+subscribers: 498
+posts: 59
+comments: 157
+weight: 59
+dau: 13
+wau: 38
+mau: 80
 instances:
 - "feddit_de"
 tags: 

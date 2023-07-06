@@ -3,7 +3,7 @@ title: "go to @alternativenation@lemmy.world"
 name: "avclub"
 description: "Focusing on LemTV Alternative Nation for now at @alternativenation@lemmy.world"
 type: community
-date: "2023-07-03 20:22:38"
+date: "2023-07-06 18:34:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/avclub"

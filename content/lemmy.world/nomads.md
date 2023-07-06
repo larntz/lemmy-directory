@@ -3,7 +3,7 @@ title: "Nomads (Digital and Analog)"
 name: "nomads"
 description: "A community for nomads to share experiences, tips, and discuss the nomadic lifestyle."
 type: community
-date: "2023-07-03 20:23:00"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nomads"

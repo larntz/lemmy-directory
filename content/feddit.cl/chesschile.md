@@ -3,7 +3,7 @@ title: "Chess Chile"
 name: "chesschile"
 description: "Comunidad Chilena de Ajedrez en Lemmy"
 type: community
-date: "2023-07-04 14:51:50"
+date: "2023-07-06 18:29:48"
 draft: false
 nsfw: false
 actor_id: "https://feddit.cl/c/chesschile"

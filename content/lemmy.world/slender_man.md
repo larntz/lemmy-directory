@@ -3,14 +3,14 @@ title: "Slender Man"
 name: "slender_man"
 description: "Welcome to /c/slender_man where those fascinated with Slenderman and all the creatures in the Slenderverse converge. Fans of Slenderman, The Rake, The Seedeater, and more will find a home here."
 type: community
-date: "2023-07-03 20:23:01"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slender_man"
 host: lemmy.world
 lastmod: "2023-06-26 05:25:51"
 published: "2023-06-26 05:25:24"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

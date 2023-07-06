@@ -3,7 +3,7 @@ title: "Sticker"
 name: "tradstickydesign"
 description: "A place to for small artists to show off stickers they have made, ask for help in guidance to making stickers, or simply share stickers they got for fun. Shop links to relevant items are allowed."
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tradstickydesign"

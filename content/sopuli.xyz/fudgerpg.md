@@ -3,7 +3,7 @@ title: "Fudge RPG"
 name: "fudgerpg"
 description: "Hello! Here's a place for everything the Fudge RPG!"
 type: community
-date: "2023-07-04 14:51:21"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/fudgerpg"

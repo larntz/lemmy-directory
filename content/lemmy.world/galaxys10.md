@@ -3,7 +3,7 @@ title: "Samsung Galaxy S10"
 name: "galaxys10"
 description: "Discuss things related to the Samsung Galaxy S10 series of phones"
 type: community
-date: "2023-07-03 20:23:01"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/galaxys10"

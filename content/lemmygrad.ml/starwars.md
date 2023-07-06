@@ -3,7 +3,7 @@ title: "Star Wars"
 name: "starwars"
 description: "For everything Star Wars. Discussion, Memes, Art. These are the droids you're looking for. "
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-04 20:51:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/starwars"

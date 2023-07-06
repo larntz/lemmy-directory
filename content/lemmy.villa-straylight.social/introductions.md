@@ -3,7 +3,7 @@ title: "Introductions"
 name: "introductions"
 description: "A community for introducing yourself at Villa Starlight."
 type: community
-date: "2023-07-04 14:51:15"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.villa-straylight.social/c/introductions"
@@ -15,7 +15,7 @@ posts: 3
 comments: 3
 weight: 3
 dau: 1
-wau: 3
+wau: 1
 mau: 4
 instances:
 - "lemmy_villa-straylight_social"

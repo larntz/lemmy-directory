@@ -3,7 +3,7 @@ title: "Escondido"
 name: "escondido"
 description: "The Federated community for and about Escondido, California"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/escondido"

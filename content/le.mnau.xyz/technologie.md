@@ -3,14 +3,14 @@ title: "Technologie"
 name: "technologie"
 description: "Pro všechny nadšence do technologií"
 type: community
-date: "2023-07-04 14:51:38"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://le.mnau.xyz/c/technologie"
 host: le.mnau.xyz
 lastmod: "2023-06-16 17:33:33"
 published: "2023-06-15 19:28:02"
-subscribers: 5
+subscribers: 7
 posts: 8
 comments: 0
 weight: 8

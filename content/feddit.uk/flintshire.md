@@ -3,7 +3,7 @@ title: "Flintshire"
 name: "flintshire"
 description: "A community for Flintshire folk.*Banner image: [Adam Tas](https://www.flickr.com/photos/adamtasimages/19443945376/) ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/))*"
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/flintshire"

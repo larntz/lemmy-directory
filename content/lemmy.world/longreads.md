@@ -3,14 +3,14 @@ title: "Long Reads"
 name: "longreads"
 description: "Long-form, in-depth, thought-provoking articles about various topics."
 type: community
-date: "2023-07-03 20:22:26"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/longreads"
 host: lemmy.world
 lastmod: "2023-06-30 02:55:24"
 published: "2023-06-30 02:33:09"
-subscribers: 73
+subscribers: 82
 posts: 6
 comments: 3
 weight: 6

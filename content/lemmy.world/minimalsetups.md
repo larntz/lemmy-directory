@@ -3,14 +3,14 @@ title: "minimalsetups"
 name: "minimalsetups"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:11"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/minimalsetups"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:11"
+lastmod: "2023-07-03 10:09:36"
 published: "2023-07-03 09:16:41"
-subscribers: 7
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

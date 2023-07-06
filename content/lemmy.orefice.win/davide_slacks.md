@@ -3,7 +3,7 @@ title: "Davide's logs of doing absolutely nothing"
 name: "davide_slacks"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:16:19"
+date: "2023-07-06 18:29:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.orefice.win/c/davide_slacks"

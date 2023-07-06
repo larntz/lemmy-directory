@@ -3,7 +3,7 @@ title: "International Development"
 name: "internationaldev"
 description: "Mostly a honeypot for Neoliberals so that I can frame everything, put it in a gallery and laugh at you whilst alternately vomiting in a paper bag."
 type: community
-date: "2023-07-04 14:52:02"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/internationaldev"

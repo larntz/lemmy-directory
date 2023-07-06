@@ -3,7 +3,7 @@ title: "Concert Band"
 name: "concertband"
 description: "A community where we can discuss musical instruments, techniques, band, jazz, ensembles, etc. Even share some memes."
 type: community
-date: "2023-07-03 20:22:48"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/concertband"

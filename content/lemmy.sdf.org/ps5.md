@@ -3,7 +3,7 @@ title: "PlayStation 5"
 name: "ps5"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-04 20:51:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/ps5"

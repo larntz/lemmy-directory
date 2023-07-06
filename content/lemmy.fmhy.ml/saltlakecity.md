@@ -1,20 +1,20 @@
 ---
 title: "Salt Lake City" 
 name: "saltlakecity"
-description: "A community for anything involving Salt Lake City and surrounding areas "
+description: "A community for anything involving Salt Lake City and surrounding areas Icon: https://flic.kr/p/Wu2T7wBanner: https://flic.kr/p/2nkUoCr"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/saltlakecity"
 host: lemmy.fmhy.ml
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-04 18:24:00"
 published: "2023-07-02 18:01:17"
-subscribers: 15
-posts: 3
+subscribers: 20
+posts: 4
 comments: 5
-weight: 3
-dau: 4
+weight: 4
+dau: 1
 wau: 5
 mau: 5
 instances:

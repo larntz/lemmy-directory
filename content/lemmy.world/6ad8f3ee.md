@@ -3,14 +3,14 @@ title: "6ad8f3ee"
 name: "6ad8f3ee"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:40"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/6ad8f3ee"
 host: lemmy.world
 lastmod: "2023-06-15 08:07:13"
 published: "2023-06-15 08:04:54"
-subscribers: 6
+subscribers: 8
 posts: 2
 comments: 1
 weight: 2

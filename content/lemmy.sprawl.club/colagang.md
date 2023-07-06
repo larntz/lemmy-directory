@@ -3,7 +3,7 @@ title: "Cola Gang Industries"
 name: "colagang"
 description: "Home of the Cola Gangsters!"
 type: community
-date: "2023-07-04 14:51:51"
+date: "2023-07-06 18:29:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sprawl.club/c/colagang"

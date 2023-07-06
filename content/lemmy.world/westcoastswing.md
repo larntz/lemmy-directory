@@ -3,7 +3,7 @@ title: "West Coast Swing"
 name: "westcoastswing"
 description: "This community is dedicated to the West Coast Swing improvised couple dance."
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/westcoastswing"

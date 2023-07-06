@@ -3,7 +3,7 @@ title: "Mixing & Mastering"
 name: "mixingmastering"
 description: "A community to discuss audio mixing and mastering."
 type: community
-date: "2023-07-04 14:52:03"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mixingmastering"

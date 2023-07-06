@@ -3,7 +3,7 @@ title: "DWeb Vancouver #DWebYVR"
 name: "dwebyvr"
 description: "Discussion and shared links for DWebYVR.* Calendar https://lu.ma/dwebyvr* Website and notes https://dwebyvr.org* Social posts [#DWebYVR](https://cosocial.ca/tags/DWebYVR)* Github https://github.com/dwebyvr"
 type: community
-date: "2023-07-04 14:51:43"
+date: "2023-07-06 18:29:38"
 draft: false
 nsfw: false
 actor_id: "https://news.cosocial.ca/c/dwebyvr"

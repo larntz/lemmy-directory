@@ -3,7 +3,7 @@ title: "Uruguay"
 name: "uruguay"
 description: "Lemmy de la hermosa República Oriental del Uruguay. Noticias, humor, deportes y política.  "
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/uruguay"

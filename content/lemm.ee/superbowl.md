@@ -3,7 +3,7 @@ title: "superbowl"
 name: "superbowl"
 description: "This community is for the best of birds, the superb owl. Contact the moderator if you are coming from a different social media platform and want to continue here."
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/superbowl"

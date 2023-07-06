@@ -3,7 +3,7 @@ title: "banano"
 name: "banano"
 description: "Don’t let your memes be dreams. BANANO is a feeless, instant, rich in potassium cryptocurrency powered by DAG technology to disrupt the meme economy."
 type: community
-date: "2023-07-04 14:51:55"
+date: "2023-07-04 20:52:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/banano"

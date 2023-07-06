@@ -3,12 +3,12 @@ title: "Dachshunds In Costumes"
 name: "dachshundsincostumes"
 description: "For pictures of Dachshunds In Costumes! "
 type: community
-date: "2023-07-03 20:22:15"
+date: "2023-07-06 18:33:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/dachshundsincostumes"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:15"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 22:15:55"
 subscribers: 5
 posts: 0

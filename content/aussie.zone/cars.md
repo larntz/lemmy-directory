@@ -1,16 +1,16 @@
 ---
 title: "Cars Australia" 
 name: "cars"
-description: "Sidebar coming soon.Usual aussie.zone rules apply. "
+description: "A community for Australian Car Enjoyers, or just looking for information from other aussies.Questions regarding purchasing, modifying, home servicing, show and tell, car porn, camping in their 4x4, etcUsual aussie.zone rules apply. "
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/cars"
 host: aussie.zone
-lastmod: "2023-07-03 23:52:13"
+lastmod: "2023-07-05 08:22:33"
 published: "2023-07-03 12:43:52"
-subscribers: 14
+subscribers: 19
 posts: 1
 comments: 3
 weight: 1

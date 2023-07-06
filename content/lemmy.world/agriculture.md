@@ -3,7 +3,7 @@ title: "Agriculture"
 name: "agriculture"
 description: "Posts related to agriculture, farming, regenerative agriculture, gardening, tractors, equipment, climate change, robotics, food production, vertical farming, etc. Anything remotely related, post it here. We can make more specific communities if needed. Keep it civil. Rude and disrespectful users will be banned. "
 type: community
-date: "2023-07-03 20:22:55"
+date: "2023-07-06 18:33:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/agriculture"

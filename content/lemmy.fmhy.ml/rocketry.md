@@ -3,7 +3,7 @@ title: "Rocketry"
 name: "rocketry"
 description: "~yay~ who doesn't love rockets, right? a community for anything related to rocket design, construction, and flight."
 type: community
-date: "2023-07-04 14:51:33"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/rocketry"

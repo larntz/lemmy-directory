@@ -3,14 +3,14 @@ title: "Androutsopoulos"
 name: "androutsopoulos"
 description: "Dies ist der Subfeddit zur Huldigung der Person, nein des Phänomens Androutsopoulos in jeglicher Form und zum Austausch über die deutsche Jugendsprache, entstanden durch die 2023er Redditmigration."
 type: community
-date: "2023-07-04 14:51:29"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/androutsopoulos"
 host: feddit.de
 lastmod: "2023-06-15 19:41:49"
 published: "2023-06-14 18:57:33"
-subscribers: 6
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1

@@ -3,7 +3,7 @@ title: " Cyberservices Ethics Audit Project"
 name: "ceap"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:16:09"
+date: "2023-07-04 20:51:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/ceap"

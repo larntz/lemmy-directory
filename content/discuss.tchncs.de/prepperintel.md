@@ -3,7 +3,7 @@ title: "Prepper Intel"
 name: "prepperintel"
 description: "Intelligence reports from preppers around the world."
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/prepperintel"

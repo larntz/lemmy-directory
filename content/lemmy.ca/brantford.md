@@ -3,7 +3,7 @@ title: "Brantford"
 name: "brantford"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 16:41:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/brantford"

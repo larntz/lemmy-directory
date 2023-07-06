@@ -3,7 +3,7 @@ title: "Plushies"
 name: "plushies"
 description: "**STRICTLY A SFW COMMUNITY.**Stuffed animals, plush toys, and the like!A place to show off your plushies, their outfits, fun photoshoots, and discuss anything plushie-related.Posting the brand name & specifics of your plush is highly encouraged.Have fun & get along!**STRICTLY A SFW COMMUNITY.**Any NSFW, NSFW-adjacent, and/or dubious content is not allowed here. Keep it clean."
 type: community
-date: "2023-07-03 20:16:30"
+date: "2023-07-04 20:52:22"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/plushies"

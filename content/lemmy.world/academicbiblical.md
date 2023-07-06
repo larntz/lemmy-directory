@@ -3,17 +3,17 @@ title: "AcademicBiblical"
 name: "academicbiblical"
 description: "AcademicBiblical"
 type: community
-date: "2023-07-03 20:22:24"
+date: "2023-07-06 18:33:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/academicbiblical"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 07:56:24"
-subscribers: 8
-posts: 1
-comments: 2
-weight: 1
+subscribers: 15
+posts: 3
+comments: 4
+weight: 3
 dau: 1
 wau: 2
 mau: 2

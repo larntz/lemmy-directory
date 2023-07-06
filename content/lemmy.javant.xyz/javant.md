@@ -3,12 +3,12 @@ title: "javant"
 name: "javant"
 description: "Description not available."
 type: community
-date: "2023-07-01 17:10:14"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.javant.xyz/c/javant"
 host: lemmy.javant.xyz
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-12 17:28:36"
 subscribers: 4
 posts: 0

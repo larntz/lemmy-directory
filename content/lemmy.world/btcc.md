@@ -3,14 +3,14 @@ title: "British Touring Car Championship"
 name: "btcc"
 description: "The place to discuss all BTCC & support races."
 type: community
-date: "2023-07-03 20:22:47"
+date: "2023-07-06 18:33:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/btcc"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 19:31:08"
-subscribers: 4
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

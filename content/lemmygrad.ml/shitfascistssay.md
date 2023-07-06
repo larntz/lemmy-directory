@@ -3,7 +3,7 @@ title: "[ARCHIVED] Shit Fascists Say"
 name: "shitfascistssay"
 description: "## ARCHIVEDPlease use [/c/ShitReactionariesSay](https://lemmygrad.ml/c/shitreactionariessay) instead.---~~Documenting the bullshit that neofascists say and do. Mostly stupid shit.~~"
 type: community
-date: "2023-07-04 14:51:38"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/shitfascistssay"

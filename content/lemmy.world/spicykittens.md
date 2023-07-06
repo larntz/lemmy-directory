@@ -3,14 +3,14 @@ title: "Spicy Kittens"
 name: "spicykittens"
 description: "The Spiciest of Kittens"
 type: community
-date: "2023-07-03 20:23:03"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spicykittens"
 host: lemmy.world
 lastmod: "2023-06-14 06:53:00"
 published: "2023-06-14 06:45:46"
-subscribers: 94
+subscribers: 97
 posts: 5
 comments: 1
 weight: 5

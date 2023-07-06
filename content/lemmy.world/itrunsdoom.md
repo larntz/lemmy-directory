@@ -3,14 +3,14 @@ title: "It Runs DooM"
 name: "itrunsdoom"
 description: "DooM runs on everything."
 type: community
-date: "2023-07-03 20:22:40"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/itrunsdoom"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 06:40:29"
-subscribers: 26
+subscribers: 32
 posts: 1
 comments: 0
 weight: 1

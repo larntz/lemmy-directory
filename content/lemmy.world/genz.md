@@ -3,7 +3,7 @@ title: "Gen Z"
 name: "genz"
 description: "Hey there! What's poppin'?So, spill the tea. What's the latest drama? Are you flexing your drip? Or maybe you're busy curating your aesthetic on the 'gram? Hashtag goals, amirite? And speaking of goals, are you adulting like a boss or still living that student life?I bet you've got some fire memes to share. Memes are the language of our generation, after all. From the classic SpongeBob references to TikTok trends, we've got the meme game on lock. And let's not forget about our obsessions with Netflix binges and gaming sessions. Netflix and chill? More like Netflix and skill!But hey, it's not all about entertainment. We're also passionate about making a difference and fighting for social justice. Whether it's climate change, equality, or mental health awareness, we're all about that activism and raising awareness on social media platforms."
 type: community
-date: "2023-07-03 20:23:00"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/genz"

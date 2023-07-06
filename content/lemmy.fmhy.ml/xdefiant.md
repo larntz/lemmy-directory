@@ -3,7 +3,7 @@ title: "XDefiant"
 name: "xdefiant"
 description: "Community dedicated to Tom Clancy's XDefiant published by Ubisoft. "
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/xdefiant"

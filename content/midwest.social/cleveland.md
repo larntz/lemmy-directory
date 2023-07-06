@@ -3,7 +3,7 @@ title: "Cleveland"
 name: "cleveland"
 description: "Posts about Cleveland, Ohio"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-04 20:51:26"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/cleveland"
@@ -14,9 +14,9 @@ subscribers: 64
 posts: 36
 comments: 27
 weight: 36
-dau: 2
+dau: 1
 wau: 2
-mau: 6
+mau: 5
 instances:
 - "midwest_social"
 tags: 

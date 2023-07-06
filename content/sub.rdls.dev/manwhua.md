@@ -3,7 +3,7 @@ title: "Manwhua"
 name: "manwhua"
 description: "Tópico voltado a discussões sobre manwhua"
 type: community
-date: "2023-07-04 14:51:33"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://sub.rdls.dev/c/manwhua"

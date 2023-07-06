@@ -3,14 +3,14 @@ title: "Scottish National Party"
 name: "snp"
 description: "An unapologetically pro-Scotand and Pro-Independence page!"
 type: community
-date: "2023-07-04 14:51:21"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/snp"
 host: feddit.uk
 lastmod: "2023-06-24 09:22:39"
 published: "2023-06-24 09:18:06"
-subscribers: 5
+subscribers: 7
 posts: 4
 comments: 0
 weight: 4

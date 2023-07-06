@@ -3,14 +3,14 @@ title: "Analogue Community"
 name: "analogueinc"
 description: "Community for [Analogue](https://www.analogue.co/) products and enthusiasts * [Analogue Twitter](https://twitter.com/analogue) * [Analogue Instagram](https://instagram.com/analogue.co)**This community has no affiliation with either the company Analogue or any of its employees.**"
 type: community
-date: "2023-07-03 20:22:21"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/analogueinc"
 host: lemmy.world
 lastmod: "2023-07-01 09:02:14"
 published: "2023-07-01 04:54:57"
-subscribers: 22
+subscribers: 28
 posts: 4
 comments: 6
 weight: 4

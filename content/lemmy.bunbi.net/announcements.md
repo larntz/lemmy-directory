@@ -3,7 +3,7 @@ title: "Announcements"
 name: "announcements"
 description: "A community for announcements and information on bunbi.net | Probably going to be empty lol"
 type: community
-date: "2023-07-01 17:10:14"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bunbi.net/c/announcements"

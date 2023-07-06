@@ -3,14 +3,14 @@ title: "antiwork"
 name: "antiwork"
 description: "Home to stories, posts, etc. showing issues with the seemingly 'regular' world of work."
 type: community
-date: "2023-07-04 14:52:03"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/antiwork"
 host: sh.itjust.works
 lastmod: "2023-06-10 22:03:24"
 published: "2023-06-09 05:07:47"
-subscribers: 165
+subscribers: 168
 posts: 0
 comments: 0
 weight: 0

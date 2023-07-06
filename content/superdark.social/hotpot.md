@@ -3,7 +3,7 @@ title: "Hotpot"
 name: "hotpot"
 description: "Dedicated to  [Hotpot](https://en.wikipedia.org/wiki/Hot_pot) which is a style of cooking where you dip small cuts of vegetables and meats in boiling broth."
 type: community
-date: "2023-07-04 14:51:53"
+date: "2023-07-06 18:29:53"
 draft: false
 nsfw: false
 actor_id: "https://superdark.social/c/hotpot"

@@ -3,7 +3,7 @@ title: "Medytacja"
 name: "medytacja"
 description: "Wszystko co chciałbyś wiedzieć o medytacji"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/medytacja"

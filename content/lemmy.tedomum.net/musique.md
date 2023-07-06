@@ -3,14 +3,14 @@ title: "Musique"
 name: "musique"
 description: "Share your favs, records digging & beats"
 type: community
-date: "2023-07-04 14:51:15"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.tedomum.net/c/musique"
 host: lemmy.tedomum.net
 lastmod: "2020-10-08 16:54:42"
 published: "2020-10-08 16:52:49"
-subscribers: 14
+subscribers: 16
 posts: 3
 comments: 0
 weight: 3

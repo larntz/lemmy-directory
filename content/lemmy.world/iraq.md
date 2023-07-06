@@ -3,14 +3,14 @@ title: "Iraq"
 name: "iraq"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:44"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/iraq"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-26 21:58:48"
-subscribers: 6
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

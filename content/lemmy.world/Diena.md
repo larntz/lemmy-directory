@@ -3,12 +3,12 @@ title: "serverhold"
 name: "Diena"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:14"
+date: "2023-07-06 16:45:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/Diena"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:14"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 06:55:06"
 subscribers: 1
 posts: 0

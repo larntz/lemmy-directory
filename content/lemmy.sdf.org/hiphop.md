@@ -3,7 +3,7 @@ title: "Hip-Hop Culture"
 name: "hiphop"
 description: "All things hip-hop related. Lyricism, rap, culture, MC, DJ, graf writers, b-boys and dancers"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/hiphop"

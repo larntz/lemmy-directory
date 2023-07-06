@@ -3,7 +3,7 @@ title: "Our Game Club"
 name: "ourgameclub"
 description: "Our Game Club is a book club for games. Right now we're in our **Summer Vibes** event, an open theme that covers any game with a summer or tropical aesthetic.Our Game Club is still setting up."
 type: community
-date: "2023-07-03 20:22:56"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ourgameclub"

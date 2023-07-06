@@ -3,12 +3,12 @@ title: "Bethesda"
 name: "bethesda"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:26"
+date: "2023-07-06 18:33:41"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/bethesda"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:26"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 19:38:04"
 subscribers: 2
 posts: 0

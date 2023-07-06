@@ -3,14 +3,14 @@ title: "Test"
 name: "test"
 description: "It worked."
 type: community
-date: "2023-07-04 14:51:43"
+date: "2023-07-06 18:29:40"
 draft: false
 nsfw: false
 actor_id: "https://nrsk.no/c/test"
 host: nrsk.no
 lastmod: "2023-06-23 18:01:19"
 published: "2023-06-19 22:30:55"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 1
 weight: 1

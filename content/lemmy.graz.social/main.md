@@ -1,16 +1,16 @@
 ---
-title: "Lobby graz.social" 
+title: "Lobby lemmy.graz.social" 
 name: "main"
 description: "Für Fragen und Diskussionen rund um graz.social und im speziellen dieser Lemmy-Instanz.Foto: © Bwag/CC-BY-SA-4.0 "
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.graz.social/c/main"
 host: lemmy.graz.social
-lastmod: "2023-06-30 13:46:46"
+lastmod: "2023-07-04 18:45:48"
 published: "2022-09-25 08:35:38"
-subscribers: 40
+subscribers: 43
 posts: 5
 comments: 12
 weight: 5

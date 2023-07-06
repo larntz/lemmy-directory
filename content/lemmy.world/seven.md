@@ -3,14 +3,14 @@ title: "Seven"
 name: "seven"
 description: "Description not available."
 type: community
-date: "2023-07-01 17:14:13"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/seven"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 10:19:59"
-subscribers: 3
+subscribers: 5
 posts: 1
 comments: 2
 weight: 1

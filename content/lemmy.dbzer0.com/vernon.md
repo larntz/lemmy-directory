@@ -3,7 +3,7 @@ title: "Vernon"
 name: "vernon"
 description: "This is a placeholder for the city name of Vernon. Because there are so many cities named Vernon, please create a new community for your city called “Vernon [ISO 3166-2 prov/state abbreviation]” and reach out to me. I will create a post that links to your community for others to follow.So for example, a community for Vernon, British Columbia would have a name of ”Vernon BC”, allowing it to be easily found when anyone searches for a Vernon community, but in case they click through to here, it would also be posted as a comment here."
 type: community
-date: "2023-07-04 14:51:55"
+date: "2023-07-04 20:52:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/vernon"

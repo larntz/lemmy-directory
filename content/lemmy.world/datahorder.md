@@ -3,14 +3,14 @@ title: "datahorder"
 name: "datahorder"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:23:00"
+date: "2023-07-06 18:33:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/datahorder"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 16:27:30"
-subscribers: 15
+subscribers: 17
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "Oma Hilft"
 name: "omahilft"
 description: "Sammelstelle für alle Tipps und Lifehacks für den Haushalt."
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/omahilft"

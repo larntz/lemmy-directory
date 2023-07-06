@@ -3,14 +3,14 @@ title: "Babymetal"
 name: "babymetal"
 description: "Babymetal fan page for Lemmy"
 type: community
-date: "2023-07-03 20:15:48"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/babymetal"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 22:05:55"
-subscribers: 19
+subscribers: 25
 posts: 3
 comments: 0
 weight: 3

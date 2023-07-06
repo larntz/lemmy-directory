@@ -3,7 +3,7 @@ title: "Tulane Green Wave"
 name: "tulanegreenwave"
 description: "A community to discuss Tulane Green Wave athletics.**Looking for Mods!**"
 type: community
-date: "2023-07-04 14:51:58"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/tulanegreenwave"

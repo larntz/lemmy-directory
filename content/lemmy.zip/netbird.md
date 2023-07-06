@@ -3,7 +3,7 @@ title: "netbird"
 name: "netbird"
 description: "This is a sub to discuss netbird, a fast moving zero configuration VPN for fast moving teams. https://netbird.io/"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/netbird"

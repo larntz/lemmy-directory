@@ -3,14 +3,14 @@ title: "TRPG"
 name: "rpg"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://lm.korako.me/c/rpg"
 host: lm.korako.me
 lastmod: "0001-01-01 00:00:00"
 published: "2022-02-01 00:30:16"
-subscribers: 7
+subscribers: 8
 posts: 3
 comments: 0
 weight: 3

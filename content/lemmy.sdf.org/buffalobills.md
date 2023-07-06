@@ -3,7 +3,7 @@ title: "Buffalo Bills"
 name: "buffalobills"
 description: "A community for Bills Mafia!"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/buffalobills"

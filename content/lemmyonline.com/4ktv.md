@@ -3,7 +3,7 @@ title: "4KTV"
 name: "4ktv"
 description: "Discussion of 4K TV's - Purchasing, Tech Support, & Repair"
 type: community
-date: "2023-07-04 14:51:38"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/4ktv"

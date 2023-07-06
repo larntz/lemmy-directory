@@ -3,14 +3,14 @@ title: "Age of Empires 2"
 name: "aoe2"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:51"
+date: "2023-07-06 18:29:50"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.xcoolgroup.com/c/aoe2"
 host: lemmy.xcoolgroup.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-27 23:35:59"
-subscribers: 3
+subscribers: 7
 posts: 1
 comments: 2
 weight: 1

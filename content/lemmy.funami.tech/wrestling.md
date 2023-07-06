@@ -3,7 +3,7 @@ title: "씨름/레슬링/유도/주짓수/삼보"
 name: "wrestling"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:48"
+date: "2023-07-04 20:51:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.funami.tech/c/wrestling"

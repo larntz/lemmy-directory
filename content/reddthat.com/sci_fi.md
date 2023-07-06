@@ -3,14 +3,14 @@ title: "sci-fi"
 name: "sci_fi"
 description: "All about sci-fi."
 type: community
-date: "2023-07-04 14:51:18"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/sci_fi"
 host: reddthat.com
 lastmod: "2023-07-03 14:55:03"
 published: "2023-07-03 14:44:14"
-subscribers: 8
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

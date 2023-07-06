@@ -3,12 +3,12 @@ title: "awakening"
 name: "awakening"
 description: "Waking up to one's true nature. See community:  awakened"
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/awakening"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 15:46:12"
 subscribers: 4
 posts: 0

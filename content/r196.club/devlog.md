@@ -3,7 +3,7 @@ title: "Lemmy Devlog"
 name: "devlog"
 description: "My devlog for hacking on lemmy"
 type: community
-date: "2023-07-04 14:51:32"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://r196.club/c/devlog"

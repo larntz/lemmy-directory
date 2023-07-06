@@ -3,7 +3,7 @@ title: "2Balkans4u"
 name: "2balkans4u"
 description: "shitposts relating to the subcontinent of the Balkans. "
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/2balkans4u"

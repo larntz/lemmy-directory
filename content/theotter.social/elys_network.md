@@ -3,7 +3,7 @@ title: "Elys Network"
 name: "elys_network"
 description: "AMM DEX featuring native USDC and multi-asset-index LPs, seamless onboarding for non-crypto natives, margin & multi-chain bridge. Powered by Cosmos SDK"
 type: community
-date: "2023-07-04 14:51:22"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://theotter.social/c/elys_network"

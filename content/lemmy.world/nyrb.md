@@ -3,16 +3,16 @@ title: "New York Red Bulls"
 name: "nyrb"
 description: "Not the New York Review of Books. Look somewhere else publishing nerds."
 type: community
-date: "2023-07-03 20:23:03"
+date: "2023-07-06 18:33:49"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nyrb"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 19:11:07"
-subscribers: 5
+subscribers: 11
 posts: 2
-comments: 1
+comments: 2
 weight: 2
 dau: 1
 wau: 1

@@ -3,14 +3,14 @@ title: "Self hosted"
 name: "selfhosted"
 description: "A place to share, discuss, discover, assist with, gain assistance for, and critique self-hosted alternatives to our favorite web apps, web services, and online tools."
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/selfhosted"
 host: sh.itjust.works
 lastmod: "2023-06-29 00:43:13"
 published: "2023-06-29 00:06:29"
-subscribers: 7
+subscribers: 8
 posts: 0
 comments: 0
 weight: 0

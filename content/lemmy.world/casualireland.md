@@ -3,14 +3,14 @@ title: "CasualIreland "
 name: "casualireland"
 description: "Casual chats without the politics. "
 type: community
-date: "2023-07-03 20:22:35"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/casualireland"
 host: lemmy.world
 lastmod: "2023-06-20 10:15:32"
 published: "2023-06-20 10:12:05"
-subscribers: 18
+subscribers: 20
 posts: 1
 comments: 4
 weight: 1

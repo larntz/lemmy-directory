@@ -3,14 +3,14 @@ title: "Tio do Pavê"
 name: "tiodopave"
 description: "Para as piadinhas feitas pelo seu tio gordo no churrasco da família.Senta aí e conta mais... Qual é a boa da vez?"
 type: community
-date: "2023-07-04 14:51:40"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/tiodopave"
 host: lemmy.eco.br
 lastmod: "2023-06-22 22:04:31"
 published: "2023-06-22 18:14:26"
-subscribers: 67
+subscribers: 71
 posts: 6
 comments: 33
 weight: 6

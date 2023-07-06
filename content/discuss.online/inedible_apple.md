@@ -3,7 +3,7 @@ title: "Apple"
 name: "inedible_apple"
 description: "# WelcomeA community for everything Apple.## Rules:1. No NSFW Content.2. No Hate Speech or Personal Attacks.3. No Ads / Spamming."
 type: community
-date: "2023-07-04 14:51:47"
+date: "2023-07-04 20:51:52"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/inedible_apple"

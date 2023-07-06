@@ -3,7 +3,7 @@ title: "Yu-Gi-Oh! : Goat Format"
 name: "goatformat"
 description: "Yu-Gi-Oh! Goat Format community, the place to share and discuss about the infamous 2005 meta!"
 type: community
-date: "2023-07-03 20:22:50"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goatformat"

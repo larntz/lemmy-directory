@@ -1,14 +1,14 @@
 ---
 title: "Slim Thick" 
 name: "slimthick"
-description: "Description not available."
+description: "_ Slim Thick _Rules:1) All rules of lemmy.world apply.2) No Advertising3) Stay on topic4) Be Polite5) Avoid reposts"
 type: community
-date: "2023-07-03 20:22:56"
+date: "2023-07-06 18:34:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/slimthick"
 host: lemmy.world
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-03 21:35:17"
 published: "2023-06-22 21:57:32"
 subscribers: 3
 posts: 0

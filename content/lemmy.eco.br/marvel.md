@@ -3,7 +3,7 @@ title: "Marvel"
 name: "marvel"
 description: "Bem-vindos ao subreddit Marvel Brasil, aqui você poderia compartilhar suas teorias e falar sobre os vazamentos que volta e meia aparecem por aí!"
 type: community
-date: "2023-07-04 14:51:40"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eco.br/c/marvel"

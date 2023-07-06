@@ -3,14 +3,14 @@ title: "smarthome"
 name: "smarthome"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:50"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/smarthome"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 10:06:21"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

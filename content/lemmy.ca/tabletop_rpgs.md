@@ -3,14 +3,14 @@ title: "TabletopRPGs"
 name: "tabletop_rpgs"
 description: "The new home of all things TTRPG!Share your stories, recommendations, reviews, questions, resources and more with like minded people."
 type: community
-date: "2023-07-04 14:51:33"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/tabletop_rpgs"
 host: lemmy.ca
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 19:39:09"
-subscribers: 99
+subscribers: 100
 posts: 1
 comments: 5
 weight: 1

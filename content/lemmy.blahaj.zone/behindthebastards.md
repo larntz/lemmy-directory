@@ -3,14 +3,14 @@ title: "Behind the Bastards"
 name: "behindthebastards"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/behindthebastards"
 host: lemmy.blahaj.zone
 lastmod: "2023-07-03 05:57:35"
 published: "2023-07-03 04:41:21"
-subscribers: 3
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

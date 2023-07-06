@@ -3,14 +3,14 @@ title: "Europa Universalis IV"
 name: "eu4"
 description: "Community for Europa Universalis IV enjoyers"
 type: community
-date: "2023-07-03 20:22:22"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eu4"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:22"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 04:48:07"
-subscribers: 1
+subscribers: 7
 posts: 0
 comments: 0
 weight: 0

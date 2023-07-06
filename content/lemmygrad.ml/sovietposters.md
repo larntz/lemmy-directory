@@ -3,14 +3,14 @@ title: "Soviet Propaganda Posters"
 name: "sovietposters"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/sovietposters"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-04-14 12:05:06"
-subscribers: 169
+subscribers: 171
 posts: 66
 comments: 31
 weight: 66

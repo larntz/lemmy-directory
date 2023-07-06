@@ -3,14 +3,14 @@ title: "Louisville_on_Lemmy"
 name: "louisville"
 description: "A place for Louisvillians to hang out on Lemmy!"
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/louisville"
 host: sh.itjust.works
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-30 12:09:32"
-subscribers: 6
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

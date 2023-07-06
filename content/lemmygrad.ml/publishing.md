@@ -3,14 +3,14 @@ title: "Publishing suggestions"
 name: "publishing"
 description: "Discussions and projects about instance-related publishing. Any media welcome. Questions welcome."
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/publishing"
 host: lemmygrad.ml
 lastmod: "2020-06-29 19:28:13"
 published: "2020-06-29 19:27:33"
-subscribers: 23
+subscribers: 24
 posts: 2
 comments: 7
 weight: 2

@@ -3,7 +3,7 @@ title: "Wozlo"
 name: "wozlo"
 description: "High protein info snacks @ Wozlo.com"
 type: community
-date: "2023-07-03 20:23:02"
+date: "2023-07-06 18:33:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wozlo"

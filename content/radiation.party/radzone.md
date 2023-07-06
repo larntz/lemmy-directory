@@ -3,14 +3,14 @@ title: "Radiation Zone"
 name: "radzone"
 description: "Welcome to the rad zone."
 type: community
-date: "2023-07-04 14:51:15"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://radiation.party/c/radzone"
 host: radiation.party
 lastmod: "2023-06-06 18:52:56"
 published: "2023-06-06 18:28:37"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 1
 weight: 1

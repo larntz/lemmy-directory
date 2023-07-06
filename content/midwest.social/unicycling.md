@@ -3,14 +3,14 @@ title: "Unicycling "
 name: "unicycling"
 description: "For unicyclists and others to discuss “acoustic” unicycles, and other sufficiently whimsical contraptions "
 type: community
-date: "2023-07-04 14:51:31"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/unicycling"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-21 11:59:52"
-subscribers: 10
+subscribers: 12
 posts: 2
 comments: 4
 weight: 2

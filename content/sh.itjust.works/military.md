@@ -3,7 +3,7 @@ title: "Military"
 name: "military"
 description: "A place to discuss military topics."
 type: community
-date: "2023-07-04 14:52:01"
+date: "2023-07-04 20:52:23"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/military"

@@ -3,14 +3,14 @@ title: "Allgemeines"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:16"
+date: "2023-07-06 16:41:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.rollenspiel.monster/c/main"
 host: lemmy.rollenspiel.monster
 lastmod: "2023-06-14 05:56:01"
 published: "2022-04-14 18:13:42"
-subscribers: 60
+subscribers: 61
 posts: 3
 comments: 2
 weight: 3

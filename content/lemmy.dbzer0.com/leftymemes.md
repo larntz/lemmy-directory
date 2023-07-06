@@ -3,7 +3,7 @@ title: "Lefty Memes"
 name: "leftymemes"
 description: "Under construction! Please join if you want an alternative to the revisionist political communities spread throughout lemmy. But no posting for now since I'm still setting up the rules, icon, banner and everything."
 type: community
-date: "2023-07-04 14:51:55"
+date: "2023-07-04 20:52:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/leftymemes"

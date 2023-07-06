@@ -3,7 +3,7 @@ title: "backups"
 name: "backups"
 description: "Discussions, questions, and almost anything related to backup solutions, software, and processes."
 type: community
-date: "2023-07-04 14:51:22"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://eviltoast.org/c/backups"

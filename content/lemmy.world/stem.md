@@ -3,7 +3,7 @@ title: "STEM"
 name: "stem"
 description: "Science, Technology, Engineering and Mathematics. For students, professionals and enthusiasts alike. Discuss exciting discoveries and inventions."
 type: community
-date: "2023-07-03 20:23:01"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/stem"

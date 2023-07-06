@@ -3,7 +3,7 @@ title: "BJJ"
 name: "bjj"
 description: "Ex member of r/bjj? Join the new and improved BJJ community!"
 type: community
-date: "2023-07-04 14:52:03"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/bjj"

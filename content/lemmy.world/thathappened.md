@@ -3,14 +3,14 @@ title: "thathappened"
 name: "thathappened"
 description: "test"
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/thathappened"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 01:27:20"
-subscribers: 7
+subscribers: 12
 posts: 1
 comments: 2
 weight: 1

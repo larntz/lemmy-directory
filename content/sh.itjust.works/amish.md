@@ -3,14 +3,14 @@ title: "Amish"
 name: "amish"
 description: "Main community - !amish@lemmy.world"
 type: community
-date: "2023-07-04 14:52:03"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/amish"
 host: sh.itjust.works
 lastmod: "2023-07-03 14:18:52"
 published: "2023-06-14 12:29:35"
-subscribers: 3
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

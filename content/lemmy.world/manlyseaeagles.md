@@ -3,7 +3,7 @@ title: "Manly-Warringah Sea Eagles"
 name: "manlyseaeagles"
 description: "Established 1947, 8 premierships (1972-73, 76, 78, 87, 96, 2008, 11), inaugural Preseason Challenge winners"
 type: community
-date: "2023-07-03 20:22:56"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/manlyseaeagles"

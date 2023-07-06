@@ -3,14 +3,14 @@ title: "Australian Politics "
 name: "australianpolitics"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:24"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/australianpolitics"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 11:49:21"
-subscribers: 7
+subscribers: 14
 posts: 1
 comments: 1
 weight: 1

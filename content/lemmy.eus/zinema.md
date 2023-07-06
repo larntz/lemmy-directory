@@ -3,14 +3,14 @@ title: "Zinema"
 name: "zinema"
 description: "Zinemari buruzko komunitatea"
 type: community
-date: "2023-07-04 14:51:15"
+date: "2023-07-06 18:29:19"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.eus/c/zinema"
 host: lemmy.eus
 lastmod: "1969-12-31 19:00:00"
 published: "2021-01-12 20:54:18"
-subscribers: 12
+subscribers: 15
 posts: 1
 comments: 7
 weight: 1

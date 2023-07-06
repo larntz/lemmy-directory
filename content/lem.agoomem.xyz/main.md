@@ -3,7 +3,7 @@ title: "Agoolemmy"
 name: "main"
 description: "The Default Community"
 type: community
-date: "2023-07-04 14:51:44"
+date: "2023-07-06 18:29:42"
 draft: false
 nsfw: false
 actor_id: "https://lem.agoomem.xyz/c/main"

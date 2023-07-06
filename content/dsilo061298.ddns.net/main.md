@@ -3,17 +3,17 @@ title: "DZLE Main"
 name: "main"
 description: "DZLE Main"
 type: community
-date: "2023-07-04 14:51:47"
+date: "2023-07-06 18:29:44"
 draft: false
 nsfw: false
 actor_id: "https://dsilo061298.ddns.net/c/main"
 host: dsilo061298.ddns.net
 lastmod: "2023-06-28 13:24:17"
 published: "2023-06-28 13:18:50"
-subscribers: 1
-posts: 1
+subscribers: 3
+posts: 2
 comments: 0
-weight: 1
+weight: 2
 dau: 1
 wau: 1
 mau: 1

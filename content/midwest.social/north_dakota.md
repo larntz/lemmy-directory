@@ -3,7 +3,7 @@ title: "North Dakota"
 name: "north_dakota"
 description: "News and information about North Dakota and by North Dakotans."
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/north_dakota"

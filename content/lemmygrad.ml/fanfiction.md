@@ -3,7 +3,7 @@ title: "Fanfiction"
 name: "fanfiction"
 description: "A place for discussing, posting, and sharing fanfiction. For both readers and writers. Do not confuse with the socialist fanfiction sub, that's this one: https://lemmygrad.ml/c/fan_fiction"
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/fanfiction"

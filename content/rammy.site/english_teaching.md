@@ -3,7 +3,7 @@ title: "English Teaching"
 name: "english_teaching"
 description: "A place to share your experiences in teaching the English language. You can also find inspiration for exercises and classroom management in general here. All English varieties welcome!"
 type: community
-date: "2023-07-04 14:51:50"
+date: "2023-07-06 18:29:50"
 draft: false
 nsfw: false
 actor_id: "https://rammy.site/c/english_teaching"

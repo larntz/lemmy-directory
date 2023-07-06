@@ -3,14 +3,14 @@ title: "group.lt related inquiries, notes and feedback"
 name: "this"
 description: "You have questions, feedback, jokes - anything related to group.lt can be discussed here. "
 type: community
-date: "2023-07-04 14:51:15"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/this"
 host: group.lt
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-14 21:07:15"
-subscribers: 5
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

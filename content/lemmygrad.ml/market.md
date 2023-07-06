@@ -3,14 +3,14 @@ title: "Market / Supply Chain Economics"
 name: "market"
 description: "Place to track supply of goods, industry. Share intel on suppliers, products, trends...."
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/market"
 host: lemmygrad.ml
 lastmod: "2022-09-28 21:44:32"
 published: "2022-09-28 21:35:24"
-subscribers: 30
+subscribers: 33
 posts: 4
 comments: 9
 weight: 4

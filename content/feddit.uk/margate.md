@@ -3,7 +3,7 @@ title: "Margate"
 name: "margate"
 description: "All news, stories and entertainment/restaurants etc. in Margate, UK"
 type: community
-date: "2023-07-04 14:51:21"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/margate"

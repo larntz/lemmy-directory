@@ -3,14 +3,14 @@ title: "Desi food"
 name: "desifood"
 description: "If the people consider themselves desi, they're desi."
 type: community
-date: "2023-07-03 20:22:58"
+date: "2023-07-06 18:34:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/desifood"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-26 19:23:41"
-subscribers: 5
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

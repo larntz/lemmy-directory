@@ -3,14 +3,14 @@ title: "Every Wall A Canvass "
 name: "graffiti"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:37"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/graffiti"
 host: lemmygrad.ml
 lastmod: "2020-08-11 15:25:28"
 published: "2019-09-08 20:03:37"
-subscribers: 85
+subscribers: 86
 posts: 11
 comments: 20
 weight: 11

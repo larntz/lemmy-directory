@@ -3,7 +3,7 @@ title: "LaserDisc"
 name: "laserdisc"
 description: "Post your collections, favorite discs, favorite artwork, interesting foreign releases, etc, etc. Long live LaserDisc!Per Wikipedia:> The used Laserdisc market as of 2020 remains supported by a loyal following of thousands## WE ARE THE LOYAL THOUSANDS."
 type: community
-date: "2023-07-04 14:51:18"
+date: "2023-07-04 20:51:20"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/laserdisc"

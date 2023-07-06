@@ -3,20 +3,20 @@ title: "finanzen"
 name: "finanzen"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:29"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/finanzen"
 host: feddit.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-05 22:23:10"
-subscribers: 987
-posts: 55
-comments: 435
-weight: 55
-dau: 7
-wau: 60
-mau: 152
+subscribers: 1054
+posts: 59
+comments: 475
+weight: 59
+dau: 11
+wau: 82
+mau: 180
 instances:
 - "feddit_de"
 tags: 

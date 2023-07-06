@@ -3,14 +3,14 @@ title: "Blocked and Reported"
 name: "blockedandreported"
 description: "For discussions of the Blocked and Reported podcast, hosted by Yale Law School graduate Chad Chadwick III (AKA Jesse Singal) and superlesbian..."
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmit.online/c/blockedandreported"
 host: lemmit.online
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-26 02:21:25"
-subscribers: 7
+subscribers: 9
 posts: 57
 comments: 0
 weight: 57

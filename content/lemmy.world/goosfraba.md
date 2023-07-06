@@ -3,14 +3,14 @@ title: "Anger Management"
 name: "goosfraba"
 description: "Anger Management, the movie"
 type: community
-date: "2023-07-03 20:23:02"
+date: "2023-07-06 18:34:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goosfraba"
 host: lemmy.world
 lastmod: "2023-06-12 01:52:26"
 published: "2023-06-12 01:51:13"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Psoriasis"
 name: "psoriasis"
 description: "**Welcome to /c/Psoriasis!**This is a community for sharing personal experiences about the autoimmune disease psoriasis.**Rules**- Please be nice to each other- Do not advertise miracle cures- Remember this is a discussion platform, for medical advice contact your doctor"
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/psoriasis"

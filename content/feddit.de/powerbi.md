@@ -3,7 +3,7 @@ title: "PowerBI"
 name: "powerbi"
 description: "Community to discuss everything related to Microsoft PowerBI"
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/powerbi"

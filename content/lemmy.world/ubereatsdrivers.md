@@ -3,14 +3,14 @@ title: "Uber"
 name: "ubereatsdrivers"
 description: "This sub is exclusive to talk about UberEats driver’s issues and memes. Not for customers:)"
 type: community
-date: "2023-07-03 20:22:16"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/ubereatsdrivers"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:16"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 02:23:17"
-subscribers: 2
+subscribers: 9
 posts: 2
 comments: 1
 weight: 2

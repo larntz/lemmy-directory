@@ -3,12 +3,12 @@ title: "EVE Online"
 name: "eve_online"
 description: "A community for the spaceship MMO EVE Online."
 type: community
-date: "2023-07-03 20:22:14"
+date: "2023-07-06 18:33:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eve_online"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:14"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 21:09:19"
 subscribers: 8
 posts: 0

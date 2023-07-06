@@ -3,7 +3,7 @@ title: "Slovenia"
 name: "slovenia"
 description: "Dobrodošli vsi, ki se selite iz Reddita in našega podbralnika r/Slovenia.For all the migrating Reddit users from r/Slovenia."
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/slovenia"

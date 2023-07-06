@@ -3,14 +3,14 @@ title: "prsh"
 name: "prsh"
 description: "Subredditul românesc cu pârși pe care-l așteptai."
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.ro/c/prsh"
 host: feddit.ro
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 11:08:02"
-subscribers: 9
+subscribers: 14
 posts: 4
 comments: 3
 weight: 4

@@ -3,14 +3,14 @@ title: "Exploring The Indie Web"
 name: "indie_web"
 description: "small websites and personal websites on the web"
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/indie_web"
 host: lemmy.zip
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 01:45:38"
-subscribers: 13
+subscribers: 20
 posts: 1
 comments: 0
 weight: 1

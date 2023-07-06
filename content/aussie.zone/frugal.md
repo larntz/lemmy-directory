@@ -1,22 +1,22 @@
 ---
 title: "Aussie Frugal Living" 
 name: "frugal"
-description: "Description not available."
+description: "A place for folks who hate paying RRP, cause we're all tightarses in a cost of living crisis. Share deals, recipes tips tricks and hacks. Same rules apply as Aussie.Zone.https://www.ozbargain.com.au/"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://aussie.zone/c/frugal"
 host: aussie.zone
-lastmod: "2023-07-04 14:51:17"
+lastmod: "2023-07-04 23:04:07"
 published: "2023-07-04 03:15:51"
-subscribers: 30
-posts: 1
-comments: 3
-weight: 1
-dau: 3
-wau: 3
-mau: 3
+subscribers: 57
+posts: 4
+comments: 8
+weight: 4
+dau: 4
+wau: 9
+mau: 9
 instances:
 - "aussie_zone"
 tags: 

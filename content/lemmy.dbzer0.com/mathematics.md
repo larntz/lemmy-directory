@@ -3,7 +3,7 @@ title: "mathematics"
 name: "mathematics"
 description: "This board is dedicated to focused questions and discussion concerning mathematics. Please do not submit questions about math homework.Please redirect math memes to here:https://lemmy.dbzer0.com/c/mathmemes@lemmy.blahaj.zone"
 type: community
-date: "2023-07-04 14:51:55"
+date: "2023-07-04 20:52:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.dbzer0.com/c/mathematics"

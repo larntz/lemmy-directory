@@ -3,7 +3,7 @@ title: "Buffalo"
 name: "buffalo"
 description: "General Chat about Buffalo"
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-04 20:51:40"
 draft: false
 nsfw: false
 actor_id: "https://feed.sokolik.info/c/buffalo"

@@ -3,14 +3,14 @@ title: "Live Music"
 name: "livemusic"
 description: "Share your favourite live performances. "
 type: community
-date: "2023-07-04 14:51:51"
+date: "2023-07-06 18:29:52"
 draft: false
 nsfw: false
 actor_id: "https://thelemmy.club/c/livemusic"
 host: thelemmy.club
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-15 07:22:56"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

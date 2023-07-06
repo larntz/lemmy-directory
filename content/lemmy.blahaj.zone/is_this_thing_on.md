@@ -3,14 +3,14 @@ title: "Hello?  Hello?  Is this thing on?"
 name: "is_this_thing_on"
 description: "A throwaway community for me to play with Lemmy's functionality.  I'd make it private if I could but I can't!"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.blahaj.zone/c/is_this_thing_on"
 host: lemmy.blahaj.zone
 lastmod: "2023-06-10 21:41:59"
 published: "2023-06-07 19:37:23"
-subscribers: 14
+subscribers: 17
 posts: 3
 comments: 26
 weight: 3

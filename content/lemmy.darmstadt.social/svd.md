@@ -3,7 +3,7 @@ title: "Unsere 98er"
 name: "svd"
 description: "Alles rund um die Lilien. Spiele, Transfers und Geknoddere"
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.darmstadt.social/c/svd"

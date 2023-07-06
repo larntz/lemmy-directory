@@ -3,7 +3,7 @@ title: "Tierrechte & Tierschutz"
 name: "tierrechte"
 description: "Forum zu den Themen Tierrechte & Tierschutz. Für Veggis und die, die es werden wollen. 🐾Kein Rassismus, kein Sexismus. Niemals."
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/tierrechte"

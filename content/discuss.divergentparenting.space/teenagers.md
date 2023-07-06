@@ -3,14 +3,14 @@ title: "Teenagers"
 name: "teenagers"
 description: "A place to talk about parenting teenagers"
 type: community
-date: "2023-07-04 14:51:40"
+date: "2023-07-06 18:29:35"
 draft: false
 nsfw: false
 actor_id: "https://discuss.divergentparenting.space/c/teenagers"
 host: discuss.divergentparenting.space
 lastmod: "2023-06-29 21:56:11"
 published: "2023-06-25 20:25:20"
-subscribers: 3
+subscribers: 5
 posts: 4
 comments: 0
 weight: 4

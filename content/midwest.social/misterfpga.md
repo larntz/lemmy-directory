@@ -3,7 +3,7 @@ title: "MiSTer FPGA"
 name: "misterfpga"
 description: "A place to talk about all things MiSTer"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/misterfpga"

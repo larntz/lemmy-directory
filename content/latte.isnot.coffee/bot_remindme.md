@@ -3,7 +3,7 @@ title: "Remindme Bot"
 name: "bot_remindme"
 description: "A place to interact with a fledgling remindme bot"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/bot_remindme"

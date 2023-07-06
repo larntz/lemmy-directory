@@ -3,7 +3,7 @@ title: "Red and Anarchist Black Metal"
 name: "rabm"
 description: "A Lemmy community for sharing music by radical left-wing black metal and blackened crust bands, as well as discussion of said bands and related music and politics.Rules:- Post music by and discuss black metal or black metal influenced/adjacent bands which have radical left wing ideologies.- No Gods, No Masters, No Hate Speech, No Bullshit, No Trolls, No Fash.- No Low-Effort Memes."
 type: community
-date: "2023-07-04 14:51:26"
+date: "2023-07-04 20:51:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdfeu.org/c/rabm"

@@ -3,7 +3,7 @@ title: "Infinity: The Game"
 name: "infinitythegame"
 description: "Infinity the Game - Miniature Wargame from Corvus Belli"
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/infinitythegame"

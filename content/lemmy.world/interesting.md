@@ -3,14 +3,14 @@ title: "Interesting"
 name: "interesting"
 description: "For all things interesting"
 type: community
-date: "2023-07-03 20:22:11"
+date: "2023-07-06 18:33:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/interesting"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:11"
+lastmod: "2023-07-03 16:42:23"
 published: "2023-07-03 16:30:45"
-subscribers: 4
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "SDF Europe"
 name: "sdfeu"
 description: "Discussions and Announcements for SDF Europe "
 type: community
-date: "2023-07-04 14:51:26"
+date: "2023-07-04 20:51:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdfeu.org/c/sdfeu"

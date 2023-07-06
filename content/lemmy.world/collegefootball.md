@@ -3,7 +3,7 @@ title: "CFB"
 name: "collegefootball"
 description: "A place for College Football discussion."
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/collegefootball"

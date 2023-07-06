@@ -3,7 +3,7 @@ title: "PIXEL"
 name: "pixel"
 description: "A place to discuss Google Pixel products, new, old and upcoming. Ask questions, talk about leaks whatever as long as it is Pixel related. "
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-04 20:51:39"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/pixel"

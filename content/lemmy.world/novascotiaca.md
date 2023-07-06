@@ -3,14 +3,14 @@ title: "Nova Scotia"
 name: "novascotiaca"
 description: "A place to folks from Nova Scotia, Canada to come chat and share news about our overpriced and highly taxed province."
 type: community
-date: "2023-07-03 20:22:16"
+date: "2023-07-06 18:33:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/novascotiaca"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:16"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 03:59:59"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

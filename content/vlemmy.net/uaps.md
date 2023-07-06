@@ -3,12 +3,12 @@ title: "uaps"
 name: "uaps"
 description: "uaps"
 type: community
-date: "2023-07-04 14:51:18"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/uaps"
 host: vlemmy.net
-lastmod: "2023-07-04 14:51:18"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-04 02:10:16"
 subscribers: 2
 posts: 0

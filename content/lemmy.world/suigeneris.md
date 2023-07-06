@@ -3,7 +3,7 @@ title: "Sui Generis"
 name: "suigeneris"
 description: "Everything related to Sui Generis.This community will be enabled once Exanima has been released, since it’s a prelude to Sui Generis. Please use the [Exanima](https://lemmy.world/c/exanima) community for now.Links:- [Bare Mettle](https://www.baremettle.com/)Rules:- No NSFW content.- No hate speech or personal attacks.- No spamming."
 type: community
-date: "2023-07-03 20:23:00"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/suigeneris"

@@ -3,7 +3,7 @@ title: "mvm"
 name: "mvm"
 description: "A place for discussion and memes about the Team Fortress 2 gamemode Mann vs. Machine."
 type: community
-date: "2023-07-03 20:23:00"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mvm"

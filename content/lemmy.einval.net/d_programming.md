@@ -3,7 +3,7 @@ title: "D Programming"
 name: "d_programming"
 description: "D:- https://dlang.org/D Language Reference:- https://dlang.org/spec/spec.htmlD(sub) package index:- https://code.dlang.org/"
 type: community
-date: "2023-07-04 14:51:47"
+date: "2023-07-06 18:29:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/d_programming"

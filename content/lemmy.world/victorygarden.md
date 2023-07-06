@@ -3,7 +3,7 @@ title: "victory garden"
 name: "victorygarden"
 description: "Grow a victory garden!"
 type: community
-date: "2023-07-03 20:23:03"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/victorygarden"

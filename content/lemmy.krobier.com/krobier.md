@@ -3,14 +3,14 @@ title: "Krobier"
 name: "krobier"
 description: "Krobier community"
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.krobier.com/c/krobier"
 host: lemmy.krobier.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-20 18:37:20"
-subscribers: 3
+subscribers: 4
 posts: 4
 comments: 0
 weight: 4

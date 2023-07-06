@@ -3,14 +3,14 @@ title: "Self Hosted"
 name: "self_hosted"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pastwind.top/c/self_hosted"
 host: lemmy.pastwind.top
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 02:24:24"
-subscribers: 5
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

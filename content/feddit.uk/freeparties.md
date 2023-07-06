@@ -3,14 +3,14 @@ title: "Free Parties"
 name: "freeparties"
 description: "Discussing the culture, vibe, music and how-to's of free parties across the UK.Note: Do not advertise parties here, do not reveal party hotspots, do not advertise drugs."
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/freeparties"
 host: feddit.uk
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-27 11:10:24"
-subscribers: 5
+subscribers: 10
 posts: 1
 comments: 1
 weight: 1

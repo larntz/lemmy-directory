@@ -3,7 +3,7 @@ title: "Jeopardy!"
 name: "jeopardy"
 description: "This community is for all things related to America’s favorite quiz show. Whether you’re a contestant, super fan, total newbie, or anywhere in between, there’s something for you here. You don’t have to post in the form of a question, although it would be really funny if you did."
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/jeopardy"

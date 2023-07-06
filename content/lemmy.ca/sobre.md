@@ -3,7 +3,7 @@ title: "Sobre"
 name: "sobre"
 description: "Que vous soyez sobre depuis des années, que vous envisagiez de commencer votre parcours vers la sobriété, ou que vous souteniez simplement ceux qui font ce choix, vous êtes le bienvenu dans cette communauté."
 type: community
-date: "2023-07-04 14:51:32"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/sobre"

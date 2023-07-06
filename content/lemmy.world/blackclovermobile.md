@@ -3,7 +3,7 @@ title: "Black Clover Mobile"
 name: "blackclovermobile"
 description: "A community to discuss the mobile game: Black Clover Mobile: Rise of the Wizard KingShare pulls, talk strategy, be cool."
 type: community
-date: "2023-07-03 20:22:26"
+date: "2023-07-06 18:33:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/blackclovermobile"

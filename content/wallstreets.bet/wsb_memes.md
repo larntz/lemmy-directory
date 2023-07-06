@@ -3,14 +3,14 @@ title: "The dumpster behind Wendys"
 name: "wsb_memes"
 description: "[Jerking punks $15 dollars a man](https://yewtu.be/watch?v=TyIAGALZNbg)"
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_memes"
 host: wallstreets.bet
 lastmod: "2023-06-13 19:21:30"
 published: "2023-06-13 19:18:54"
-subscribers: 18
+subscribers: 23
 posts: 3
 comments: 5
 weight: 3

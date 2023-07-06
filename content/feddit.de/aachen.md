@@ -3,20 +3,20 @@ title: "Aachen"
 name: "aachen"
 description: "Community für Aachen Stadt"
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/aachen"
 host: feddit.de
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-13 07:49:15"
-subscribers: 58
+subscribers: 67
 posts: 8
-comments: 32
+comments: 33
 weight: 8
-dau: 3
-wau: 3
-mau: 12
+dau: 1
+wau: 4
+mau: 13
 instances:
 - "feddit_de"
 tags: 

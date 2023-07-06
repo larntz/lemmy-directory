@@ -3,7 +3,7 @@ title: "Fire Emblem"
 name: "fireemblem"
 description: "For all things Fire Emblem!RULES- For discussion of FE games and official spinoffs- Memes, fanart, and cosplay welcome- No NSFW content- No racism, sexism, homophobia, transphobia, or ableism. Treat everyone the way Genny would."
 type: community
-date: "2023-07-04 14:51:41"
+date: "2023-07-04 20:51:43"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/fireemblem"

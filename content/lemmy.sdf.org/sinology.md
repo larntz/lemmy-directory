@@ -3,7 +3,7 @@ title: "Sinology"
 name: "sinology"
 description: "About ancient China, history, philosophy, language, culture.Über das alte China, die Geschichte, Philosophie, Sprache, Kultur.關於古代的中國、歷史、哲學、語言、文化。"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-04 20:51:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/sinology"

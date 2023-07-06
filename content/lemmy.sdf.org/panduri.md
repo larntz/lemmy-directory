@@ -3,7 +3,7 @@ title: "panduri"
 name: "panduri"
 description: "ხალხური მუსიკა, ფანდური და სხვა ინსტრუმენტები.Georgian Folk Music, panduri and other musical instruments."
 type: community
-date: "2023-07-04 14:51:18"
+date: "2023-07-04 20:51:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/panduri"

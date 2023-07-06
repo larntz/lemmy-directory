@@ -3,7 +3,7 @@ title: "Hacker Culture"
 name: "hackerculture"
 description: "Doing the original meaning of hacking - making your computer YOURS not some companies computerExamples of what this sub is for:- Unlocking bootloaders on phones that aren't meant to be unlocked- Coreboot/Libreboot/Tow-boot- News about freedom on computers (e.g. the EU requiring Apple to stop being a piece of shit)"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/hackerculture"

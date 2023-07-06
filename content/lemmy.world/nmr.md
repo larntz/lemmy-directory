@@ -3,12 +3,12 @@ title: "Nuclear Magnetic Resonance Spectroscopy"
 name: "nmr"
 description: "The place to discuss everything related to NMR!"
 type: community
-date: "2023-07-03 20:22:14"
+date: "2023-07-06 18:33:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nmr"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:14"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 23:20:09"
 subscribers: 5
 posts: 0

@@ -3,14 +3,14 @@ title: "Magic the Gathering"
 name: "mtg"
 description: "A community to discuss Magic the Gathering cards, decks, and whatever else"
 type: community
-date: "2023-07-04 14:51:41"
+date: "2023-07-04 20:51:43"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/mtg"
 host: lemm.ee
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-10 00:05:45"
-subscribers: 29
+subscribers: 30
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "KingstonOntario"
 name: "kingstonontario"
 description: "old.reddit.com/r/KingstonOntario lives on now on lemmy.ca"
 type: community
-date: "2023-07-04 14:51:32"
+date: "2023-07-06 16:41:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/kingstonontario"

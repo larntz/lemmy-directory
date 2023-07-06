@@ -3,14 +3,14 @@ title: "Philosophy"
 name: "philosophy"
 description: "A community for the sharing and discussion of all things philosophical and theological. From analytic and continental philosophy, to theology, psychoanalysis, literary and critical theory, all are welcome here.**Rules**:- Debate must be conducted in a respectful and dignified manner and without resorting to the impugning of other members' character.- Abuse, intimidation, harassment, and deliberately antagonistic behaviour is absolutely prohibited.- No racism, sexism, homophobia, or any other form of bigotry or hate.- If you link to an article behind a paywall, you must copy and paste the article *in full* in the body of your post.- While not required, you are strongly encouraged to provide direct citations or references for claims where this would be clearly helpful for fellow users to verify and to inform their own learning."
 type: community
-date: "2023-07-04 14:52:02"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/philosophy"
 host: sh.itjust.works
 lastmod: "2023-06-23 15:04:37"
 published: "2023-06-23 12:26:06"
-subscribers: 24
+subscribers: 27
 posts: 10
 comments: 1
 weight: 10

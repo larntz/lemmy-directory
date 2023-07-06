@@ -3,7 +3,7 @@ title: "WaterNinjas"
 name: "waterninjas"
 description: "They never see us drinking water. But what are you pretending to drink while consuming large amounts of obviously not water?Content can be pictures and images of anything refreshing and drinkable as long as it isn't water, which we don't drink. Or you can ask how to drink the ninja way.Rules will update as incorrect content flows in. Stay fresh."
 type: community
-date: "2023-07-01 17:14:09"
+date: "2023-07-06 18:34:08"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/waterninjas"

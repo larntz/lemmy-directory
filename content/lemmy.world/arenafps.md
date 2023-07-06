@@ -1,16 +1,16 @@
 ---
-title: "ArenaFPS" 
+title: "Arena FPS" 
 name: "arenafps"
 description: "A community for anything and everything related to  arena FPS games. "
 type: community
-date: "2023-07-03 20:22:48"
+date: "2023-07-06 18:33:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/arenafps"
 host: lemmy.world
-lastmod: "2023-07-02 11:15:43"
+lastmod: "2023-07-05 20:46:12"
 published: "2023-06-21 19:33:55"
-subscribers: 7
+subscribers: 10
 posts: 3
 comments: 3
 weight: 3

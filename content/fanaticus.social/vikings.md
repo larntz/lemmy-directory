@@ -3,14 +3,14 @@ title: "Minnesota Vikings"
 name: "vikings"
 description: "A community dedicated to the Minnesota Vikings.**Looking for Mods!**"
 type: community
-date: "2023-07-04 14:51:58"
+date: "2023-07-06 18:29:59"
 draft: false
 nsfw: false
 actor_id: "https://fanaticus.social/c/vikings"
 host: fanaticus.social
 lastmod: "2023-06-17 20:57:07"
 published: "2023-06-14 01:10:03"
-subscribers: 8
+subscribers: 11
 posts: 1
 comments: 0
 weight: 1

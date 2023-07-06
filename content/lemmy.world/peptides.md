@@ -3,7 +3,7 @@ title: "Peptides"
 name: "peptides"
 description: "A place to discuss peptides, review compounds, effects, and discuss dosing.Shilling is not allowed here.A Beginner's Guide to PeptidesRelated Subs"
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/peptides"

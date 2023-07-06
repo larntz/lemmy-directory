@@ -3,14 +3,14 @@ title: "Social Skills"
 name: "socialskills"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/socialskills"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "2023-07-04 03:18:56"
 published: "2023-07-02 11:39:51"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

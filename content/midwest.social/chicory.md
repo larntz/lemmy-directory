@@ -3,14 +3,14 @@ title: "Chicory"
 name: "chicory"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/chicory"
 host: midwest.social
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-11 20:04:34"
-subscribers: 8
+subscribers: 9
 posts: 1
 comments: 1
 weight: 1

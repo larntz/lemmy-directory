@@ -3,7 +3,7 @@ title: "Voxel Tycoon"
 name: "voxeltycoon"
 description: "The unofficial successor to r/voxeltycoon on the Fediverse!A sister community on sh.itjust.works can be found [here](https://lemmy.zip/c/voxeltycoon@sh.itjust.works).A sister community on [sh.itjust.works](https://sh.itjust.works/c/voxeltycoon) can be found [here](https://lemmy.zip/c/voxeltycoon@lemmy.zip)."
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.zip/c/voxeltycoon"

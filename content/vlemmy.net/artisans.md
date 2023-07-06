@@ -3,14 +3,14 @@ title: "Artisan Videos"
 name: "artisans"
 description: "Welcome!"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/artisans"
 host: vlemmy.net
 lastmod: "2023-07-01 18:02:10"
 published: "2023-06-30 23:54:12"
-subscribers: 45
+subscribers: 51
 posts: 29
 comments: 6
 weight: 29

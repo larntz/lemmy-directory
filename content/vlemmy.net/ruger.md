@@ -3,7 +3,7 @@ title: "Ruger"
 name: "ruger"
 description: "Everything to do with Ruger firearms"
 type: community
-date: "2023-07-04 14:51:31"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/ruger"

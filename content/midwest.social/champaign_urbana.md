@@ -3,7 +3,7 @@ title: "ChampaignUrbana"
 name: "champaign_urbana"
 description: "This subreddit is for all of the stuff that's going on off campus. UIUC stuff is welcome here too because without UIUC, Champaign-Urbana wouldn't be the vibrant oasis in the middle of a soybean field that it is."
 type: community
-date: "2023-07-04 14:51:18"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/champaign_urbana"

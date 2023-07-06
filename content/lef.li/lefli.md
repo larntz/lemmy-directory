@@ -3,7 +3,7 @@ title: "LEF.LI"
 name: "lefli"
 description: "A community about this server"
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-04 20:51:38"
 draft: false
 nsfw: false
 actor_id: "https://lef.li/c/lefli"

@@ -3,7 +3,7 @@ title: "Awwnime"
 name: "awwnime"
 description: "[Cute anime art]()**Rules:**- Follow site rules.- Must be cute.- Must be image art.- High quality art preferred.- No screenshots or low resolution posts."
 type: community
-date: "2023-07-04 14:51:41"
+date: "2023-07-06 18:29:37"
 draft: false
 nsfw: false
 actor_id: "https://animoe.xyz/c/awwnime"

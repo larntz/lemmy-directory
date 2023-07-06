@@ -3,14 +3,14 @@ title: "serverhold"
 name: "Candis"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:19"
+date: "2023-07-06 18:33:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/Candis"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:19"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 05:05:18"
-subscribers: 1
+subscribers: 2
 posts: 0
 comments: 0
 weight: 0

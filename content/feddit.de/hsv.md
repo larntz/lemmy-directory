@@ -3,14 +3,14 @@ title: "HSV"
 name: "hsv"
 description: "nur der HSV"
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/hsv"
 host: feddit.de
 lastmod: "2023-06-03 19:51:11"
 published: "2023-06-03 19:31:44"
-subscribers: 11
+subscribers: 14
 posts: 2
 comments: 1
 weight: 2

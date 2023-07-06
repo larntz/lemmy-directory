@@ -1,14 +1,14 @@
 ---
-title: "normalnudes" 
+title: "Normal Nudes" 
 name: "normalnudes"
-description: "Description not available."
+description: "Welcome to the Normal Nudes community!Rules:1) All rules of lemmy.world apply.2) No Advertising3) Stay on topic4) Be Polite5) Avoid reposts"
 type: community
-date: "2023-07-03 20:22:56"
+date: "2023-07-06 18:34:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/normalnudes"
 host: lemmy.world
-lastmod: "0001-01-01 00:00:00"
+lastmod: "2023-07-04 13:40:22"
 published: "2023-06-22 20:44:21"
 subscribers: 5
 posts: 0

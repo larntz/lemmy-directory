@@ -3,7 +3,7 @@ title: "horrorliterature"
 name: "horrorliterature"
 description: "Open minded space to discuss the darker side of speculative fiction "
 type: community
-date: "2023-07-04 14:51:31"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/horrorliterature"

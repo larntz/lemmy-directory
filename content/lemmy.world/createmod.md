@@ -3,12 +3,12 @@ title: "Create"
 name: "createmod"
 description: "A lemmy community all about Create, a Minecraft Java Edition mod. It is based on building, decoration and aesthetic automation."
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/createmod"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-03 04:23:00"
 subscribers: 2
 posts: 0

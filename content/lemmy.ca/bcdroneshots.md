@@ -3,7 +3,7 @@ title: "BC Drone Shots"
 name: "bcdroneshots"
 description: "A place to share your Drone captures in supernatural British Columbia!"
 type: community
-date: "2023-07-04 14:51:40"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/bcdroneshots"

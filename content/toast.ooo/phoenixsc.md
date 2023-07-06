@@ -3,7 +3,7 @@ title: "PhoenixSC"
 name: "phoenixsc"
 description: "Successor to r/PhoenixSC on Lemmy"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://toast.ooo/c/phoenixsc"

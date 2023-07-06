@@ -3,7 +3,7 @@ title: "Linux"
 name: "linux"
 description: "Everyone's favourite penguin-powered OS!"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:19"
 draft: false
 nsfw: false
 actor_id: "https://compuverse.uk/c/linux"

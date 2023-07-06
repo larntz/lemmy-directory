@@ -3,7 +3,7 @@ title: "Opole"
 name: "opole"
 description: "Integracja, komunikacja."
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/opole"

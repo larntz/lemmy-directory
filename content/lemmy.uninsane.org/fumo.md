@@ -3,14 +3,14 @@ title: "Fumo Posting"
 name: "fumo"
 description: "post fumos. that’s the only rule."
 type: community
-date: "2023-07-01 17:10:04"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.uninsane.org/c/fumo"
 host: lemmy.uninsane.org
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-09 20:30:08"
-subscribers: 2
+subscribers: 3
 posts: 1
 comments: 0
 weight: 1

@@ -3,14 +3,14 @@ title: "WebAssembly"
 name: "webassembly"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-04 20:51:26"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/webassembly"
 host: programming.dev
 lastmod: "2023-06-21 13:45:06"
 published: "2023-06-21 12:40:38"
-subscribers: 76
+subscribers: 80
 posts: 3
 comments: 2
 weight: 3

@@ -3,7 +3,7 @@ title: "General"
 name: "general"
 description: "Chat about anything, just keep it SFW and in-line with the sitewide rules."
 type: community
-date: "2023-07-04 14:51:47"
+date: "2023-07-06 18:29:43"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.name/c/general"

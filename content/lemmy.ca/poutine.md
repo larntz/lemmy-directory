@@ -3,7 +3,7 @@ title: "Poutine"
 name: "poutine"
 description: "Subreddit to celebrate poutine!"
 type: community
-date: "2023-07-03 20:16:07"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/poutine"

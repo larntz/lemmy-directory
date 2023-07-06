@@ -3,14 +3,14 @@ title: "Self Aware Wolves"
 name: "selfawarewolves"
 description: "Description not available."
 type: community
-date: "2023-07-01 17:13:53"
+date: "2023-07-06 18:33:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/selfawarewolves"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 20:31:15"
-subscribers: 12
+subscribers: 15
 posts: 0
 comments: 0
 weight: 0

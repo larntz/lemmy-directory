@@ -3,12 +3,12 @@ title: "How To"
 name: "howto"
 description: "How to {anything you would need help with}. An ask and tell kind of place. "
 type: community
-date: "2023-07-03 20:15:41"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://baraza.africa/c/howto"
 host: baraza.africa
-lastmod: "2023-07-03 20:15:41"
+lastmod: "2021-11-28 05:36:27"
 published: "2020-10-29 07:49:37"
 subscribers: 6
 posts: 1

@@ -3,7 +3,7 @@ title: "Just billionaire things"
 name: "billionaire"
 description: "Post things your (least) fav billionaire does.This used to be the Elon Musk sub, but in an attempt to boost engagement, we have engaged a new pathway.You can post anything related to billionaires here.Tags: Tesla, paypal, spaceX, neuralink, The Boring Company."
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/billionaire"

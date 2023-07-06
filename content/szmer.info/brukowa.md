@@ -3,7 +3,7 @@ title: "brukowe tytuły"
 name: "brukowa"
 description: "Społeczność do rekreacyjnego przerabiania wiadomości na anarcholewacki brukowiec. Ku pamięci [Superetatu](https://issuu.com/superetat/docs/super_etat_-_pierwszy_numer).Przestrzeń satyryczna, nie chodzi o to, że faktycznie ktoś w to wierzy, chodzi o parodię stylu tabloidów i internetowego clikbaitu, albo poprawienie tytułów, które po prostu mogły być lepsze.[![](https://szmer.info/pictrs/image/9aW4XbVqdc.png?format=webp&thumbnail=3000)](https://szmer.info/pictrs/image/9aW4XbVqdc.png)"
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/brukowa"

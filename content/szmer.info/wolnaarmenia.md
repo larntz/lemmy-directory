@@ -3,12 +3,12 @@ title: "Wolna Armenia"
 name: "wolnaarmenia"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:19"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/wolnaarmenia"
 host: szmer.info
-lastmod: "2023-07-04 14:51:19"
+lastmod: "1969-12-31 19:00:00"
 published: "2022-09-18 12:09:57"
 subscribers: 12
 posts: 5

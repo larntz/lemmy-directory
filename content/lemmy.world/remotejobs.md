@@ -3,7 +3,7 @@ title: "Remote Jobs"
 name: "remotejobs"
 description: "If you have (or know of) actual *real* remote work jobs available, please post them here. "
 type: community
-date: "2023-07-03 20:22:54"
+date: "2023-07-06 18:33:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/remotejobs"

@@ -3,7 +3,7 @@ title: "Star Labs "
 name: "starlabs_computers"
 description: "Community for Star Labs computers users and fans. https://starlabs.systems/This community is unofficial."
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/starlabs_computers"
@@ -15,7 +15,7 @@ posts: 5
 comments: 11
 weight: 5
 dau: 1
-wau: 3
+wau: 2
 mau: 6
 instances:
 - "szmer_info"

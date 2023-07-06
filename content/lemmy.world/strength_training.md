@@ -3,12 +3,12 @@ title: "Strength Training"
 name: "strength_training"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/strength_training"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "2023-07-04 03:18:29"
 published: "2023-07-02 11:43:02"
 subscribers: 1
 posts: 0

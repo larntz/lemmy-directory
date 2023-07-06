@@ -1,16 +1,16 @@
 ---
 title: "Andromeda for Lemmy" 
 name: "andromeda"
-description: "A community for an in-progress Lemmy app."
+description: "A community for an in-progress Lemmy iOS app."
 type: community
-date: "2023-07-03 20:22:11"
+date: "2023-07-06 18:33:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/andromeda"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:11"
+lastmod: "2023-07-04 00:39:38"
 published: "2023-07-03 18:22:48"
-subscribers: 2
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

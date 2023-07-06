@@ -3,12 +3,12 @@ title: "Chocobo"
 name: "chocobo"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:21"
+date: "2023-07-06 18:33:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chocobo"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:21"
+lastmod: "2023-07-02 12:00:18"
 published: "2023-07-02 06:19:30"
 subscribers: 1
 posts: 0

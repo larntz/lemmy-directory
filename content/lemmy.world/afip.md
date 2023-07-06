@@ -3,12 +3,12 @@ title: "AFIP"
 name: "afip"
 description: "Reserved by CyberedCake for AFIP on July 2nd, 2023."
 type: community
-date: "2023-07-03 20:22:14"
+date: "2023-07-06 18:33:40"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/afip"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:14"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 06:47:34"
 subscribers: 1
 posts: 0

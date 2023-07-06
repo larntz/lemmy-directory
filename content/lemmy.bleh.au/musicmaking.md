@@ -3,7 +3,7 @@ title: "Music Creation and Sharing"
 name: "musicmaking"
 description: "A place where you can share the music that you've made!"
 type: community
-date: "2023-07-04 14:51:40"
+date: "2023-07-06 18:29:36"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.bleh.au/c/musicmaking"

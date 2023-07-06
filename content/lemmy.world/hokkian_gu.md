@@ -3,14 +3,14 @@ title: "福建語放送台"
 name: "hokkian_gu"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:43"
+date: "2023-07-06 18:34:16"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hokkian_gu"
 host: lemmy.world
 lastmod: "2023-06-21 08:49:55"
 published: "2023-06-21 08:33:44"
-subscribers: 13
+subscribers: 16
 posts: 7
 comments: 1
 weight: 7

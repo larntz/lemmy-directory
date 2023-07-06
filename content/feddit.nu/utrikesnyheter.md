@@ -3,14 +3,14 @@ title: "Nyheter - utrikes"
 name: "utrikesnyheter"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nu/c/utrikesnyheter"
 host: feddit.nu
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 14:11:36"
-subscribers: 21
+subscribers: 24
 posts: 6
 comments: 0
 weight: 6

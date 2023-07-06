@@ -3,7 +3,7 @@ title: "Initial D"
 name: "initiald"
 description: "A community for fans of the manga and anime series, Initial D. Discussion of related car culture, similar animes, or anything else interesting related to Initial D are encouraged."
 type: community
-date: "2023-07-04 14:51:31"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://reddthat.com/c/initiald"

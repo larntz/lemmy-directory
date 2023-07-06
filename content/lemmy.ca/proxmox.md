@@ -3,7 +3,7 @@ title: "Proxmox"
 name: "proxmox"
 description: "Proxmox Discussion Group"
 type: community
-date: "2023-07-04 14:51:38"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/proxmox"

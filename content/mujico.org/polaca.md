@@ -3,7 +3,7 @@ title: "POLACA"
 name: "polaca"
 description: "Como la version de reddit, pero mas chevere y sin ecayce"
 type: community
-date: "2023-07-04 14:51:50"
+date: "2023-07-06 18:29:49"
 draft: false
 nsfw: false
 actor_id: "https://mujico.org/c/polaca"

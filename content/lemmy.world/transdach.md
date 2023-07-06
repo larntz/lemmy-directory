@@ -3,7 +3,7 @@ title: "TransDACH"
 name: "transdach"
 description: "Community für alle transgeschlechtlichen Menschen aus dem D/A/CH-Raum."
 type: community
-date: "2023-07-03 20:22:35"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/transdach"

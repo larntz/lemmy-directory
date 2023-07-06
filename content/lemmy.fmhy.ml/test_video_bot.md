@@ -3,14 +3,14 @@ title: "A community to test the football media bot."
 name: "test_video_bot"
 description: "A community to test the football media bot."
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/test_video_bot"
 host: lemmy.fmhy.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-03 14:05:08"
-subscribers: 4
+subscribers: 5
 posts: 4
 comments: 0
 weight: 4

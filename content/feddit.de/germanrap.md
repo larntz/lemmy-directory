@@ -3,7 +3,7 @@ title: "GermanRap"
 name: "germanrap"
 description: "Hier befindet sich erst einmal ein Forum im Aufbau, bleibt gespannt."
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/germanrap"

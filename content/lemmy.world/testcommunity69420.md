@@ -3,12 +3,12 @@ title: "TestUser"
 name: "testcommunity69420"
 description: "This is just a test."
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/testcommunity69420"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 22:25:42"
 subscribers: 2
 posts: 0

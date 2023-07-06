@@ -3,14 +3,14 @@ title: "Canada Housing"
 name: "canadahousing"
 description: "Share news and updates about housing in Canada. We are mostly buyers eager to change the rigged system that ensures double-digit increases year-over-year. We want housing prices to rise, but in line with wages and inflation."
 type: community
-date: "2023-07-03 20:22:43"
+date: "2023-07-06 18:34:10"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/canadahousing"
 host: lemmy.world
 lastmod: "2023-06-22 05:22:42"
 published: "2023-06-22 04:44:22"
-subscribers: 28
+subscribers: 35
 posts: 4
 comments: 17
 weight: 4

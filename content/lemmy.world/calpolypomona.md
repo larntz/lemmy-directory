@@ -3,7 +3,7 @@ title: "Cal Poly Pomona"
 name: "calpolypomona"
 description: "For discussion of anything related to Cal Poly Pomona.DISCLAIMER: This community is not affiliated with the California State Polytechnic University, Pomona or the greater California State University system."
 type: community
-date: "2023-07-03 20:22:28"
+date: "2023-07-06 18:34:00"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/calpolypomona"

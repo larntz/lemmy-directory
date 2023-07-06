@@ -3,7 +3,7 @@ title: "Kia carnival"
 name: "kiacarnival"
 description: "Discussion about the Kia Carnival"
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kiacarnival"

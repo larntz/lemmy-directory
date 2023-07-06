@@ -3,7 +3,7 @@ title: "Obesity52's mod tools test community"
 name: "testobesitymodtools"
 description: "This community is just for testing some in-development mod tools. You probably won't find anything interesting here."
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/testobesitymodtools"

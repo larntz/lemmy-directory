@@ -3,7 +3,7 @@ title: "Witchcraft"
 name: "witchcraft"
 description: "Welcome to Witchcraft! This community is dedicated to the discussion, practice, and furthering of the myriad magical practices called witchcraft. Feel free to share your experiences, ask questions, and spark new conversations. "
 type: community
-date: "2023-07-04 14:51:29"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/witchcraft"

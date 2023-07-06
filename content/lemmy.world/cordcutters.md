@@ -3,7 +3,7 @@ title: "Cord Cutters"
 name: "cordcutters"
 description: "A place for those looking to get away from the traditional cable tv model, and move toward cheaper and legal options like over the air antenna, library collections, and streaming services."
 type: community
-date: "2023-07-03 20:22:26"
+date: "2023-07-06 18:33:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cordcutters"

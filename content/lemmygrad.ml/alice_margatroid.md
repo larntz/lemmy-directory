@@ -3,14 +3,14 @@ title: "アリスマガトロイドAlice_Margatroid"
 name: "alice_margatroid"
 description: "私達の大統領、可愛いアリスマガトロイドちゃん万歳！"
 type: community
-date: "2023-07-04 14:51:29"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmygrad.ml/c/alice_margatroid"
 host: lemmygrad.ml
 lastmod: "0001-01-01 00:00:00"
 published: "2022-05-14 11:42:33"
-subscribers: 14
+subscribers: 15
 posts: 1
 comments: 0
 weight: 1

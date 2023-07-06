@@ -3,14 +3,14 @@ title: "Goddesses"
 name: "goddesses"
 description: "A community dedicated to the most gorgeous specimens this world has to offer.    Rules:    1) Absolutely NO underage content allowed    2) No Advertising    3) Stay on topic    4) Be Polite"
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goddesses"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "2023-07-03 16:21:06"
 published: "2023-07-03 05:39:57"
-subscribers: 2
+subscribers: 7
 posts: 3
 comments: 0
 weight: 3

@@ -3,14 +3,14 @@ title: "afx"
 name: "afx"
 description: "*unofficial* community for the discussion of the popular Cornish electronic musician Richard D James/Aphex Twin  **rules***don't* be a douche                  stay on topic               *no* nsfw                    *no* discrimination                     follow instance rules                   "
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/afx"
 host: sh.itjust.works
 lastmod: "2023-07-03 17:41:58"
 published: "2023-07-03 15:49:11"
-subscribers: 4
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

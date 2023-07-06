@@ -3,7 +3,7 @@ title: "Fayetteville, Arkansas "
 name: "fayetteville"
 description: "A community for posts related to Fayetteville in northwest Arkansas"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/fayetteville"

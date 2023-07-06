@@ -3,7 +3,7 @@ title: "Exmuslim"
 name: "exmuslim"
 description: "A recovery and discussion community for those who were once followers of Islam."
 type: community
-date: "2023-07-03 20:22:55"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/exmuslim"

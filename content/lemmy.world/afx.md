@@ -3,14 +3,14 @@ title: "afx"
 name: "afx"
 description: "aphex twin unofficial just for fun. check for official at https://aphextwin.warp.net/"
 type: community
-date: "2023-07-03 20:22:38"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/afx"
 host: lemmy.world
 lastmod: "2023-06-24 00:34:58"
 published: "2023-06-21 21:49:41"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

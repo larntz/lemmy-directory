@@ -3,14 +3,14 @@ title: "Battlebit Remastered"
 name: "battlebits"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/battlebits"
 host: lemmy.ca
 lastmod: "2023-07-02 03:39:02"
 published: "2023-07-02 01:33:37"
-subscribers: 6
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

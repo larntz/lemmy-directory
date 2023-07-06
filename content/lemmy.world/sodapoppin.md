@@ -1,14 +1,14 @@
 ---
 title: "sodapoppin" 
 name: "sodapoppin"
-description: "Description not available."
+description: "All about Sodapopping twitch streamer."
 type: community
-date: "2023-07-01 17:14:10"
+date: "2023-07-06 18:33:59"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sodapoppin"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-07-03 08:43:57"
 published: "2023-06-22 18:49:42"
 subscribers: 4
 posts: 0

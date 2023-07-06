@@ -3,14 +3,14 @@ title: "Georgia Tech OMS Computer Science"
 name: "omscs"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:37"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/omscs"
 host: lemmy.world
 lastmod: "2023-07-01 09:41:29"
 published: "2023-07-01 09:38:28"
-subscribers: 2
+subscribers: 3
 posts: 0
 comments: 0
 weight: 0

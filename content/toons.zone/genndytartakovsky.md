@@ -3,7 +3,7 @@ title: "Genndy Tartakovsky"
 name: "genndytartakovsky"
 description: "My favorites are Primal and Samurai Jack, but anything of Genndy's is fair game for discussion here."
 type: community
-date: "2023-07-04 14:51:16"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://toons.zone/c/genndytartakovsky"

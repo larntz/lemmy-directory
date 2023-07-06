@@ -3,14 +3,14 @@ title: "And Finally..."
 name: "andfinally"
 description: "A place for the odd, quirky or weird news stories."
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/andfinally"
 host: feddit.uk
 lastmod: "2023-07-01 02:44:36"
 published: "2023-07-01 02:39:03"
-subscribers: 9
+subscribers: 13
 posts: 1
 comments: 1
 weight: 1

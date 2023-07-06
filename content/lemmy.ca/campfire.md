@@ -3,7 +3,7 @@ title: "Campfire stories"
 name: "campfire"
 description: "A little bit TIFU a little bit humor, Campfire stories the Canadian way. "
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/campfire"

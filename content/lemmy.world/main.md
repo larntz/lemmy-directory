@@ -3,14 +3,14 @@ title: "serverhold"
 name: "main"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/main"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 02:50:03"
-subscribers: 5
+subscribers: 13
 posts: 1
 comments: 1
 weight: 1

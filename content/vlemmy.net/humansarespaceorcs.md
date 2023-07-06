@@ -3,7 +3,7 @@ title: "HumansAreSpaceOrcs"
 name: "humansarespaceorcs"
 description: "A place for all humans-are-weird related and adjacent mediaA few things Keep it legalKeep it civilNo bigotryGet weirdHave fun"
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://vlemmy.net/c/humansarespaceorcs"

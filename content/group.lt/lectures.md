@@ -3,14 +3,14 @@ title: "Paradigm shifting and mind blowing lectures"
 name: "lectures"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:15"
+date: "2023-07-06 18:29:18"
 draft: false
 nsfw: false
 actor_id: "https://group.lt/c/lectures"
 host: group.lt
 lastmod: "0001-01-01 00:00:00"
 published: "2022-01-22 09:05:36"
-subscribers: 21
+subscribers: 23
 posts: 2
 comments: 1
 weight: 2

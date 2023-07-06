@@ -3,14 +3,14 @@ title: "C# Programming"
 name: "csharp_programming"
 description: "C#:- https://learn.microsoft.com/en-us/dotnet/csharp/C# Language Reference:- https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/C# Packages:- https://nuget.org/"
 type: community
-date: "2023-07-04 14:51:48"
+date: "2023-07-06 18:29:46"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.einval.net/c/csharp_programming"
 host: lemmy.einval.net
 lastmod: "2023-06-09 13:57:10"
 published: "2023-06-09 05:21:45"
-subscribers: 26
+subscribers: 29
 posts: 1
 comments: 0
 weight: 1

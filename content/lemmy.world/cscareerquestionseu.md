@@ -3,12 +3,12 @@ title: "CS Career Questions EU"
 name: "cscareerquestionseu"
 description: "Questions about computer science & software careers within Europe"
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/cscareerquestionseu"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "2023-07-04 03:16:52"
 published: "2023-07-02 11:17:38"
 subscribers: 2
 posts: 0

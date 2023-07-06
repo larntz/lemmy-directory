@@ -3,14 +3,14 @@ title: "Braunschweig"
 name: "braunschweig"
 description: "6/2023"
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-06 18:29:32"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/braunschweig"
 host: feddit.de
 lastmod: "2023-06-30 22:44:57"
 published: "2023-06-12 20:58:10"
-subscribers: 12
+subscribers: 15
 posts: 1
 comments: 0
 weight: 1

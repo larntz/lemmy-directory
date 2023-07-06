@@ -3,7 +3,7 @@ title: "treecipes: delicious omnoms for stoners, by stoners."
 name: "treecipes"
 description: "The treecipes community on Reddit. Reddit gives you the best of the internet in one place."
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-06 18:29:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.beyondcombustion.net/c/treecipes"

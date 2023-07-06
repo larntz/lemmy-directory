@@ -3,7 +3,7 @@ title: "Hurtdesk 2.0"
 name: "hurtdesk"
 description: "The new new Hurtdesk since the old one is old. Now with even more Web 2.0!Warning: this is **satire**."
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:27"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/hurtdesk"

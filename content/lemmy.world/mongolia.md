@@ -1,16 +1,16 @@
 ---
-title: "Community of Mongolia." 
+title: "Mongolia - Land of the Bluesky" 
 name: "mongolia"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mongolia"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "2023-07-06 12:04:38"
 published: "2023-07-03 01:55:54"
-subscribers: 2
+subscribers: 7
 posts: 2
 comments: 0
 weight: 2

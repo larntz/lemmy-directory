@@ -3,14 +3,14 @@ title: "aviation"
 name: "aviation"
 description: "Anything flying or aviation related!"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/aviation"
 host: lemmy.ca
 lastmod: "2023-07-02 19:30:23"
 published: "2023-07-02 19:15:41"
-subscribers: 7
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Widescreen Gaming Forum"
 name: "wsgf"
 description: "We discuss, review and create solutions to ensure that games work in all display configurations.Founded in 2003, the WSGF has been a premier source of information on widescreen, multi-monitor, ultrawide, superwide and 4K gaming."
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wsgf"

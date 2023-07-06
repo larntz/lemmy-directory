@@ -3,14 +3,14 @@ title: "Burnley FC"
 name: "clarets"
 description: "Up The Clarets"
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/clarets"
 host: feddit.uk
 lastmod: "2023-06-22 12:24:25"
 published: "2023-06-13 18:07:46"
-subscribers: 4
+subscribers: 7
 posts: 5
 comments: 1
 weight: 5

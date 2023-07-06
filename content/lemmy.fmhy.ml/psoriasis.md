@@ -3,7 +3,7 @@ title: "Psoriasis"
 name: "psoriasis"
 description: "Welcome to Psoriasis!This community is intended to be a place to discuss the condition & new treatments"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/psoriasis"

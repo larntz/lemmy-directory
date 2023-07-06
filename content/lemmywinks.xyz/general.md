@@ -3,7 +3,7 @@ title: "General chat for Lemmywinks"
 name: "general"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:52"
+date: "2023-07-04 20:51:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmywinks.xyz/c/general"

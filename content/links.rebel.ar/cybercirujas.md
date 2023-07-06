@@ -3,7 +3,7 @@ title: "cybercirujas"
 name: "cybercirujas"
 description: "Comunidad de hacktivistas y militantes del software libre que luchamos contra la obsolescencia programada"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://links.rebel.ar/c/cybercirujas"

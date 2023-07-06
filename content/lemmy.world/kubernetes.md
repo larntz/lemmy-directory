@@ -1,22 +1,22 @@
 ---
-title: "kubernetes" 
+title: "Kubernetes" 
 name: "kubernetes"
 description: "show me your automation"
 type: community
-date: "2023-07-01 17:13:56"
+date: "2023-07-06 18:34:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/kubernetes"
 host: lemmy.world
-lastmod: "1969-12-31 19:00:00"
+lastmod: "2023-07-06 05:12:18"
 published: "2023-06-20 02:31:01"
-subscribers: 13
-posts: 8
-comments: 0
-weight: 8
-dau: 1
-wau: 1
-mau: 1
+subscribers: 23
+posts: 10
+comments: 5
+weight: 10
+dau: 3
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

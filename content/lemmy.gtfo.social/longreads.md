@@ -3,7 +3,7 @@ title: "Longreads"
 name: "longreads"
 description: "### Long-form essays for curious minds**Post guidance:**- Articles should be longer than your average blog post. - Non-fiction preferred, but fiction is okay- Restrict commentary / personal views to the comments when posting.**Comment guidance**1. Don't be a dick:2. See No.1"
 type: community
-date: "2023-07-04 14:51:53"
+date: "2023-07-06 18:29:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.gtfo.social/c/longreads"

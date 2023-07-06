@@ -3,14 +3,14 @@ title: "UK Business News"
 name: "ukbusinessnews"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:27"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/ukbusinessnews"
 host: feddit.uk
 lastmod: "2023-06-17 16:03:01"
 published: "2023-06-13 19:16:04"
-subscribers: 40
+subscribers: 42
 posts: 5
 comments: 3
 weight: 5

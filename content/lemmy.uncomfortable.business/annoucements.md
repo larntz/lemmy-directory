@@ -3,7 +3,7 @@ title: "Server Annoucements"
 name: "annoucements"
 description: "Mod/Admin announcements for lemmy.uncomfortable.business"
 type: community
-date: "2023-07-04 14:51:19"
+date: "2023-07-06 18:29:22"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.uncomfortable.business/c/annoucements"

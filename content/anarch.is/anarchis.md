@@ -3,14 +3,14 @@ title: "Anarch.is"
 name: "anarchis"
 description: "For instance-wide announcements and discussions about the instance."
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://anarch.is/c/anarchis"
 host: anarch.is
 lastmod: "2023-07-01 05:51:20"
 published: "2023-06-11 17:46:23"
-subscribers: 2
+subscribers: 4
 posts: 3
 comments: 5
 weight: 3

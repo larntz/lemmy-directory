@@ -3,7 +3,7 @@ title: "Ford Escape (Kuga)"
 name: "fordescape"
 description: "Community for former, current, and future owners of Ford Escape (aka Ford Kuga). Let's share our love or hate or whatever experience you've got."
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-04 20:51:39"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/fordescape"

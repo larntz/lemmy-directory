@@ -3,12 +3,12 @@ title: "fuck"
 name: "fuck"
 description: "fuck"
 type: community
-date: "2023-07-03 20:22:15"
+date: "2023-07-06 18:33:33"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fuck"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:15"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 02:57:08"
 subscribers: 3
 posts: 0

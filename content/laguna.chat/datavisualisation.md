@@ -3,14 +3,14 @@ title: "Data Visualisation"
 name: "datavisualisation"
 description: "A community to discuss creating complex business reports, dashboards, visualisations and create a plan to destroy pie charts.---Check out Laguna.chat's [code of conduct and privacy policy](https://laguna.chat/legal)."
 type: community
-date: "2023-07-04 14:51:38"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://laguna.chat/c/datavisualisation"
 host: laguna.chat
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-25 09:25:42"
-subscribers: 22
+subscribers: 23
 posts: 0
 comments: 0
 weight: 0

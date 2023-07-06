@@ -3,14 +3,14 @@ title: "Fossils"
 name: "fossils"
 description: "For discussing and IDing fossils. "
 type: community
-date: "2023-07-03 20:22:53"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fossils"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-20 20:11:56"
-subscribers: 5
+subscribers: 6
 posts: 0
 comments: 0
 weight: 0

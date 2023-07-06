@@ -3,14 +3,14 @@ title: "Consciousness"
 name: "consciousness"
 description: "A community for the study and discussion of consciousness. "
 type: community
-date: "2023-07-03 20:22:38"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/consciousness"
 host: lemmy.world
 lastmod: "2023-06-17 15:41:21"
 published: "2023-06-17 15:28:58"
-subscribers: 13
+subscribers: 15
 posts: 3
 comments: 0
 weight: 3

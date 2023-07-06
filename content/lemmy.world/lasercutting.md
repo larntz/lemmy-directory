@@ -3,14 +3,14 @@ title: "Laser Cutting"
 name: "lasercutting"
 description: "A place to share your laser cutter creations, tips, questions and other laser cutter related information.![](https://lemmy.world/pictrs/image/c4cdc98b-8881-4641-a4ed-6c2dfa25f868.png)"
 type: community
-date: "2023-07-03 20:22:33"
+date: "2023-07-06 18:34:17"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lasercutting"
 host: lemmy.world
 lastmod: "2023-06-11 23:21:14"
 published: "2023-06-11 15:22:39"
-subscribers: 32
+subscribers: 42
 posts: 3
 comments: 6
 weight: 3

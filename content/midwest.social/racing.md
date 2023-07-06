@@ -3,14 +3,14 @@ title: "Racing"
 name: "racing"
 description: "Welcome to !racing@midwest.social The home of all things racing. Rules: Be respectful; No hate speech or bigotry;No bullying;Keep things civil"
 type: community
-date: "2023-07-04 14:51:31"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://midwest.social/c/racing"
 host: midwest.social
 lastmod: "2023-06-16 17:17:25"
 published: "2023-06-10 13:43:48"
-subscribers: 12
+subscribers: 14
 posts: 22
 comments: 8
 weight: 22

@@ -3,16 +3,16 @@ title: "GoldRush"
 name: "goldrush"
 description: "Community for the TV show Gold Rush"
 type: community
-date: "2023-07-03 20:22:14"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/goldrush"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:14"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 00:59:55"
-subscribers: 5
+subscribers: 11
 posts: 1
-comments: 0
+comments: 1
 weight: 1
 dau: 2
 wau: 2

@@ -3,14 +3,14 @@ title: "Motorbikes UK"
 name: "motouk"
 description: "Exodus from r/motouk."
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://feddit.uk/c/motouk"
 host: feddit.uk
 lastmod: "2023-06-28 12:17:37"
 published: "2023-06-28 12:12:55"
-subscribers: 9
+subscribers: 12
 posts: 1
 comments: 1
 weight: 1

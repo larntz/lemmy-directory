@@ -3,7 +3,7 @@ title: "Lemmy Travels"
 name: "travel"
 description: "Post your travel pictures, and stories to share with the fediverse!"
 type: community
-date: "2023-07-04 14:51:38"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/travel"

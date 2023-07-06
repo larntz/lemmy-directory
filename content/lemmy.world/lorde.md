@@ -3,7 +3,7 @@ title: "Lorde"
 name: "lorde"
 description: "A place to share, discuss and talk to others about the Kiwi singer Lorde"
 type: community
-date: "2023-07-03 20:22:45"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/lorde"

@@ -3,14 +3,14 @@ title: "Tools"
 name: "tools"
 description: "Discussion of all things Tools - Hand, Power, Outdoor!"
 type: community
-date: "2023-07-04 14:51:38"
+date: "2023-07-06 18:29:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmyonline.com/c/tools"
 host: lemmyonline.com
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-22 02:03:37"
-subscribers: 4
+subscribers: 8
 posts: 1
 comments: 0
 weight: 1

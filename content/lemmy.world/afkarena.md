@@ -1,22 +1,22 @@
 ---
 title: "AFK Arena" 
 name: "afkarena"
-description: "Securing “afkarena” for lemmy.world in case /r/afkarena decides to migrate over.Will hand over moderator role and step down if any of the current /r/afkarena mods shoot me a message.Otherwise, if another established AFK Arena community arises on another instance, I will delete this community.In the meantime, feel free to post any content related to AFK Arena."
+description: "A community dedicated to AFK Arena, a mobile RPG.Will hand over moderator role and step down if any of the current /r/afkarena mods shoot me a message."
 type: community
-date: "2023-06-30 21:02:09"
+date: "2023-07-06 18:34:14"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/afkarena"
 host: lemmy.world
-lastmod: "2023-06-14 20:26:17"
+lastmod: "2023-07-04 03:31:12"
 published: "2023-06-14 20:15:55"
-subscribers: 7
-posts: 4
-comments: 2
-weight: 4
+subscribers: 15
+posts: 6
+comments: 3
+weight: 6
 dau: 2
-wau: 2
-mau: 2
+wau: 3
+mau: 3
 instances:
 - "lemmy_world"
 tags: 

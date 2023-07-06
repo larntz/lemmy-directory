@@ -3,7 +3,7 @@ title: "Hope for the future"
 name: "hope_for_the_future"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:16:05"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/hope_for_the_future"

@@ -3,14 +3,14 @@ title: "Sad Cringe"
 name: "sadcringe"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:52"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sadcringe"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 20:58:20"
-subscribers: 10
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

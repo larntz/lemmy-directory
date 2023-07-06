@@ -3,7 +3,7 @@ title: "Tenacious D"
 name: "tenaciousd"
 description: "The Greatest Band in the World**Other Communities:**[Dio](https://lemmy.world/c/dio@lemmy.world)[Metal](https://lemmy.world/c/metal@lemmy.world)"
 type: community
-date: "2023-07-03 20:22:48"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/tenaciousd"

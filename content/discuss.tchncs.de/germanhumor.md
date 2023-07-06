@@ -3,7 +3,7 @@ title: "germanhumor"
 name: "germanhumor"
 description: "a community for german humor"
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-04 20:51:22"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/germanhumor"

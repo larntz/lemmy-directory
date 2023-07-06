@@ -3,7 +3,7 @@ title: "Request a language!"
 name: "requestlanguage"
 description: "If your language is not included in our configuration let us know by posting a thread!We limit the amount of languages to make sure we have moderators that can speak the language. "
 type: community
-date: "2023-07-04 14:51:38"
+date: "2023-07-06 18:29:33"
 draft: false
 nsfw: false
 actor_id: "https://laguna.chat/c/requestlanguage"

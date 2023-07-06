@@ -3,14 +3,14 @@ title: "CrossFit DACH"
 name: "crossfit_dach"
 description: "Diese Community ist für Diskussionen über CrossFit, funktionelle Fitness, Gewichtheben und den damit verbundenen Lebensstil, Ernährung und Trainingsmethoden gedacht.Sie dient dem Austausch in der DACH Region Deutschland, Österreich und der Schweiz. "
 type: community
-date: "2023-07-04 14:51:29"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/crossfit_dach"
 host: feddit.de
 lastmod: "2023-06-29 18:43:22"
 published: "2023-06-23 21:44:14"
-subscribers: 9
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

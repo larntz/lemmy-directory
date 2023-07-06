@@ -3,7 +3,7 @@ title: "fedup"
 name: "fedup"
 description: "giving away this sublemmy, dm for sublemmyI have an idea for the sublemmy but will reengage it in the future "
 type: community
-date: "2023-07-04 14:51:37"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/fedup"

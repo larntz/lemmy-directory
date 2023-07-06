@@ -3,14 +3,14 @@ title: "TodayIFuckedUp"
 name: "tifu"
 description: "Today (or another day) I made a mistake. This is a place for those stories."
 type: community
-date: "2023-07-04 14:52:03"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/tifu"
 host: sh.itjust.works
 lastmod: "2023-06-10 22:04:05"
 published: "2023-06-09 05:12:56"
-subscribers: 308
+subscribers: 317
 posts: 0
 comments: 0
 weight: 0

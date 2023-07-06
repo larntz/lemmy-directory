@@ -3,7 +3,7 @@ title: "Average Redditor"
 name: "averageredditor"
 description: "Post examples of the average Redditor behavior. "
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/averageredditor"

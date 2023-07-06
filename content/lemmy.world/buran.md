@@ -3,7 +3,7 @@ title: "Buran's Launchpad"
 name: "buran"
 description: "A place for personal posts"
 type: community
-date: "2023-07-03 20:22:48"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/buran"

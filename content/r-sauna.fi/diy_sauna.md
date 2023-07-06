@@ -3,14 +3,14 @@ title: "DIY sauna"
 name: "diy_sauna"
 description: "Questions and discussions around building and maintaining a sauna. Generelly also on topic in the main Sauna group - but especially builds not conforming to the traditional Finnish sauna should see less negative comments here.For commenting: One comment addressing a generic issue (benches too low, bad insulation, ...) phrased politely is allowed per thread(!), not per user. Please check before commenting."
 type: community
-date: "2023-07-04 14:51:44"
+date: "2023-07-06 18:29:40"
 draft: false
 nsfw: false
 actor_id: "https://r-sauna.fi/c/diy_sauna"
 host: r-sauna.fi
 lastmod: "2023-06-14 09:59:33"
 published: "2023-06-14 09:56:20"
-subscribers: 6
+subscribers: 8
 posts: 1
 comments: 1
 weight: 1

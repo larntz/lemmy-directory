@@ -3,14 +3,14 @@ title: "New York City FC"
 name: "nycfc"
 description: "Discussion of New York City FC related news"
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:33:56"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nycfc"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-28 12:46:33"
-subscribers: 4
+subscribers: 8
 posts: 2
 comments: 0
 weight: 2

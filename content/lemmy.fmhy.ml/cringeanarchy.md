@@ -3,7 +3,7 @@ title: "Cringe Anarchy"
 name: "cringeanarchy"
 description: "Post lethal examples of cringe"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/cringeanarchy"

@@ -3,7 +3,7 @@ title: "Meta & Chat"
 name: "meta"
 description: "General topics discussion related to anything and everything over here at Lemmy.Pro. Toss in general chat too why not? :-)Be nice, no spam!"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.pro/c/meta"

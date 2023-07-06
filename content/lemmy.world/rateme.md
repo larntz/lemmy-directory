@@ -3,7 +3,7 @@ title: "Rate Me"
 name: "rateme"
 description: "Upload pics to get rated.Rules:1. Rate on a scale of 1-10.2. Include age and gender.3. Remember beauty is subjective.4. Be kind."
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/rateme"

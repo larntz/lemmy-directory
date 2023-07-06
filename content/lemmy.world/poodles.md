@@ -3,7 +3,7 @@ title: "Poodles"
 name: "poodles"
 description: "Home for poodles of all sizes on Lemmy"
 type: community
-date: "2023-07-03 20:22:56"
+date: "2023-07-06 18:33:55"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/poodles"

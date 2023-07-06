@@ -3,7 +3,7 @@ title: "Mar del Plata"
 name: "mdp"
 description: "Comunidad sobre todo lo relacionado a la ciudad de Mar del Plata: sociedad, actividades culturales, política, recomendaciones turísticas, historia, arquitectura, noticias y más."
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://links.rebel.ar/c/mdp"

@@ -3,7 +3,7 @@ title: "FI/RE India"
 name: "fireindia"
 description: "A community for FI/RE minded folks in India"
 type: community
-date: "2023-07-03 20:22:53"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fireindia"

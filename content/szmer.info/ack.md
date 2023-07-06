@@ -3,7 +3,7 @@ title: "Anarchistyczny Czarny Krzyż"
 name: "ack"
 description: "Anarchistyczny Czarny Krzyż (ACK) to międzynarodowa sieć grup anarchistycznych i indywidualnych osób zaangażowanych w działania solidarnościowe z uwięzionymi, oraz w szerszą walkę przeciwko represjom."
 type: community
-date: "2023-07-03 20:16:06"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/ack"

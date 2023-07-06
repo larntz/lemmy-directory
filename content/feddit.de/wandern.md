@@ -3,7 +3,7 @@ title: "wandern"
 name: "wandern"
 description: "Routenplanung, Equipment, Bilder. Nur keine Selbstwerbung zu Blogs oder Youtube und so."
 type: community
-date: "2023-07-04 14:51:28"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://feddit.de/c/wandern"

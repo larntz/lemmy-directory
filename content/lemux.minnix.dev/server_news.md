@@ -3,7 +3,7 @@ title: "Lemux Server Updates & Issues"
 name: "server_news"
 description: "All server updates, downtime, etc will be posted to this community. Any questions, bugs or problems put them here.The site goes down at 3:30 AM CST for 10 min for nightly backups."
 type: community
-date: "2023-07-04 14:51:26"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemux.minnix.dev/c/server_news"

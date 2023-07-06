@@ -3,7 +3,7 @@ title: "Wikifactory Community"
 name: "wikifactory"
 description: "[Wikifactory](https://wikifactory.com/?utm_source=lemmy+world&utm_medium=bio&utm_campaign=wikifactory) unifies teams in real-time, enabling efficient communication, streamlined workflows, and accelerated time-to-marketThis community is a safe space to discuss, solve doubts, share experiences, and **everything related to Wikifactory.**"
 type: community
-date: "2023-07-03 20:22:54"
+date: "2023-07-06 18:33:54"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/wikifactory"

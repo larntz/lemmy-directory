@@ -3,14 +3,14 @@ title: "Pulumi"
 name: "pulumi"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:15:43"
+date: "2023-07-06 16:41:19"
 draft: false
 nsfw: false
 actor_id: "https://programming.dev/c/pulumi"
 host: programming.dev
-lastmod: "2023-06-22 10:49:53"
+lastmod: "2023-07-04 04:56:21"
 published: "2023-06-21 12:31:00"
-subscribers: 9
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

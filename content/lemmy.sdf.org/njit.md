@@ -3,7 +3,7 @@ title: "New Jersey Institute of Technology"
 name: "njit"
 description: "This is the unofficial community for NJIT students. Go Highlanders!"
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-04 20:51:25"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/njit"

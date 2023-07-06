@@ -3,14 +3,14 @@ title: "Accessories"
 name: "accessories"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:19"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmydeals.com/c/accessories"
 host: lemmydeals.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-12 18:32:22"
-subscribers: 4
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

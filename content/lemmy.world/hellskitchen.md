@@ -3,7 +3,7 @@ title: "Hell's Kitchen"
 name: "hellskitchen"
 description: "A place to discuss the Reality show Hell's Kitchen. "
 type: community
-date: "2023-07-03 20:22:59"
+date: "2023-07-06 18:34:04"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/hellskitchen"

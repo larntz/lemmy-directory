@@ -3,7 +3,7 @@ title: "Foster Failures"
 name: "fosterfailures"
 description: "WE LOVE FOSTER FAILURES. That means you meant to foster, but ended up adopting. Share photos and stories here!"
 type: community
-date: "2023-07-03 20:22:52"
+date: "2023-07-06 18:33:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/fosterfailures"

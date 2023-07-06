@@ -3,7 +3,7 @@ title: "Tatting"
 name: "tatting"
 description: "All about the fiber art of tatting. Share your patterns, pictures of your projects, or ask questions and look for help."
 type: community
-date: "2023-07-04 14:51:20"
+date: "2023-07-06 16:41:19"
 draft: false
 nsfw: false
 actor_id: "https://sopuli.xyz/c/tatting"
@@ -15,7 +15,7 @@ posts: 3
 comments: 9
 weight: 3
 dau: 3
-wau: 5
+wau: 4
 mau: 7
 instances:
 - "sopuli_xyz"

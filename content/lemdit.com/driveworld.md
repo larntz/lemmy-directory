@@ -3,7 +3,7 @@ title: "DriveWorld"
 name: "driveworld"
 description: "The official lemmy community for the upcoming mobile game Drive World."
 type: community
-date: "2023-07-04 14:51:54"
+date: "2023-07-06 18:29:54"
 draft: false
 nsfw: false
 actor_id: "https://lemdit.com/c/driveworld"

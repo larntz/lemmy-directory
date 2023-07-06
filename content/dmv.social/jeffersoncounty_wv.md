@@ -3,7 +3,7 @@ title: "Jefferson County, WV"
 name: "jeffersoncounty_wv"
 description: "A community for Jefferson County, WV including Shepherdstown, Charles Town, and Harpers Ferry.Please review the [dmv.social Community Guidelines](https://dmv.social/post/40136) before participating.Other communities in the region hosted by this instance  can be found on [dmv.social](https://dmv.social/communities)"
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://dmv.social/c/jeffersoncounty_wv"

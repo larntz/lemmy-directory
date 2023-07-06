@@ -3,14 +3,14 @@ title: "jigsawpuzzles"
 name: "jigsawpuzzles"
 description: "Discussion of jigsaw puzzles and puzzling."
 type: community
-date: "2023-07-03 20:22:26"
+date: "2023-07-06 18:33:34"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/jigsawpuzzles"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 02:10:47"
-subscribers: 8
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

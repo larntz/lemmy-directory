@@ -3,14 +3,14 @@ title: "Vivaldi"
 name: "vivaldi"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:54"
+date: "2023-07-06 18:33:58"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vivaldi"
 host: lemmy.world
 lastmod: "2023-06-25 14:11:02"
 published: "2023-06-21 17:59:07"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

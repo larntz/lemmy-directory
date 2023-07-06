@@ -3,7 +3,7 @@ title: "New York Jets"
 name: "nyjets"
 description: "A community for the New York Jets on the lemmy.world instance. In development!"
 type: community
-date: "2023-07-03 20:22:45"
+date: "2023-07-06 18:34:03"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/nyjets"

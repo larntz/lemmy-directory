@@ -3,7 +3,7 @@ title: "Am I The Asshole"
 name: "amitheasshole"
 description: "Post a situation where you think you might have been the asshole.  Commenters will judge ye:YTA = You're the AssholeNTA = Not the A-holeESH = Everyone Sucks hereNAH = No A-holes hereINFO = Not Enough InfoTop upvoted comment is the verdict"
 type: community
-date: "2023-07-04 14:51:33"
+date: "2023-07-04 20:51:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/amitheasshole"

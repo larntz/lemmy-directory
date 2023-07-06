@@ -3,7 +3,7 @@ title: "Pathologic"
 name: "pathologic"
 description: "This is a community for the video game series “Pathologic” by Ice Pick Lodge and other works by the studio. "
 type: community
-date: "2023-07-03 20:22:33"
+date: "2023-07-06 18:34:01"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/pathologic"

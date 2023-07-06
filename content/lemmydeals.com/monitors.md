@@ -3,14 +3,14 @@ title: "Monitors"
 name: "monitors"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:19"
+date: "2023-07-06 18:29:21"
 draft: false
 nsfw: false
 actor_id: "https://lemmydeals.com/c/monitors"
 host: lemmydeals.com
 lastmod: "1969-12-31 19:00:00"
 published: "2023-06-10 19:22:52"
-subscribers: 13
+subscribers: 14
 posts: 2
 comments: 4
 weight: 2

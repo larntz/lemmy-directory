@@ -3,7 +3,7 @@ title: "Nerf Thrifting"
 name: "nerfthrifting"
 description: "This community is dedicated to the discussion and showing off of Nerf and related blaster thrift finds.  Please limit posts to this topic. Others will be removed."
 type: community
-date: "2023-07-04 14:51:47"
+date: "2023-07-06 18:29:44"
 draft: false
 nsfw: false
 actor_id: "https://discuss.online/c/nerfthrifting"

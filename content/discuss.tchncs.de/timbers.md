@@ -3,14 +3,14 @@ title: "MLS Timbers"
 name: "timbers"
 description: "The community for the MLS Portland Timbers team"
 type: community
-date: "2023-07-04 14:51:33"
+date: "2023-07-06 18:29:25"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/timbers"
 host: discuss.tchncs.de
 lastmod: "2023-06-12 18:14:36"
 published: "2023-06-12 17:19:42"
-subscribers: 5
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

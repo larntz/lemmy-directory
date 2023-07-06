@@ -3,7 +3,7 @@ title: "Roadcam"
 name: "roadcam"
 description: "Footage of interesting road situations. **Rules:**- English titles only please.- Don't post walking footage, dummy.**Info:**- Currently just about anything is allowed: any vehicles, images or videos, compilations, etc. Any content is good at this point."
 type: community
-date: "2023-07-04 14:51:32"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/roadcam"

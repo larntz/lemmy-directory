@@ -3,14 +3,14 @@ title: "How To Use Lemmy"
 name: "howto"
 description: "Helpful posts about how to use Lemmy"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://latte.isnot.coffee/c/howto"
 host: latte.isnot.coffee
 lastmod: "2023-06-09 16:47:28"
 published: "2023-06-09 03:06:19"
-subscribers: 87
+subscribers: 89
 posts: 2
 comments: 19
 weight: 2

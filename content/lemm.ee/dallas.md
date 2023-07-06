@@ -3,7 +3,7 @@ title: "Dallas, TX"
 name: "dallas"
 description: "Discussion and news local to Dallas, TX, USA."
 type: community
-date: "2023-07-04 14:51:43"
+date: "2023-07-04 20:51:44"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/dallas"

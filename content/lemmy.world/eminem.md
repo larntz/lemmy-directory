@@ -3,14 +3,14 @@ title: "Eminem"
 name: "eminem"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:47"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/eminem"
 host: lemmy.world
 lastmod: "2023-06-12 17:37:52"
 published: "2023-06-12 06:16:45"
-subscribers: 14
+subscribers: 18
 posts: 2
 comments: 0
 weight: 2

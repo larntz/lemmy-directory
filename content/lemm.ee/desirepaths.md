@@ -3,7 +3,7 @@ title: "Desire Paths"
 name: "desirepaths"
 description: "Dedicated to the paths that humans prefer, rather than the paths that humans create. For all who think desire paths look neat!"
 type: community
-date: "2023-07-04 14:51:36"
+date: "2023-07-04 20:51:39"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/desirepaths"

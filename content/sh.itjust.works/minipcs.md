@@ -3,7 +3,7 @@ title: "MiniPCs"
 name: "minipcs"
 description: "A community for everything related to PC-on-a-stick devices and other small single-board computers (e.g. Android sticks and the Raspberry Pi)."
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/minipcs"

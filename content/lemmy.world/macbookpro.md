@@ -3,14 +3,14 @@ title: "MacBook Pro"
 name: "macbookpro"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:44"
+date: "2023-07-06 18:33:53"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/macbookpro"
 host: lemmy.world
 lastmod: "2023-06-20 21:04:29"
 published: "2023-06-20 20:55:47"
-subscribers: 5
+subscribers: 6
 posts: 1
 comments: 0
 weight: 1

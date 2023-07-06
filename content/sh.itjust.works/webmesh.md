@@ -3,7 +3,7 @@ title: "Webmesh Project"
 name: "webmesh"
 description: "A community for discussion about the webmesh project if it goes anywhere - https://github.com/webmeshproj/node"
 type: community
-date: "2023-07-04 14:52:00"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/webmesh"

@@ -3,14 +3,14 @@ title: "Yogurt Making"
 name: "yogurtmaking"
 description: "A place to share yogurt recipes, tips, and tricks"
 type: community
-date: "2023-07-03 20:22:29"
+date: "2023-07-06 18:34:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/yogurtmaking"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-29 03:37:28"
-subscribers: 5
+subscribers: 9
 posts: 1
 comments: 0
 weight: 1

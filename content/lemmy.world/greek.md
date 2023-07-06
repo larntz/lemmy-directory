@@ -3,14 +3,14 @@ title: "Greek language Ελληνικά"
 name: "greek"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:38"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/greek"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-18 02:08:04"
-subscribers: 8
+subscribers: 12
 posts: 1
 comments: 0
 weight: 1

@@ -3,7 +3,7 @@ title: "Judaism"
 name: "judaism"
 description: "A general discussion of all things Judaism and its teachings."
 type: community
-date: "2023-07-04 14:51:37"
+date: "2023-07-06 18:29:30"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/judaism"

@@ -3,7 +3,7 @@ title: "mahoromatic test"
 name: "mahoromatic_test"
 description: "Test for mahoro bot"
 type: community
-date: "2023-07-04 14:52:01"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/mahoromatic_test"

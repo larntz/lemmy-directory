@@ -3,7 +3,7 @@ title: "Images of Spain "
 name: "imagesofspain"
 description: "Post photographs or other kinds of art, of this wonderful country here"
 type: community
-date: "2023-07-03 20:22:39"
+date: "2023-07-06 18:34:12"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/imagesofspain"

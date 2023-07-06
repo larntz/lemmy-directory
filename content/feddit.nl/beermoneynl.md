@@ -3,7 +3,7 @@ title: "BeermoneyNL"
 name: "beermoneynl"
 description: "Een Nederlandstalige subreddit om met elkaar online acties te delen waarmee je makkelijk een extra zakcentje kunt verdienen. Dit is geen vervanging voor een extra baan maar een manier om extra geld te verdienen voor bijvoorbeeld bier of voor hobby's"
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://feddit.nl/c/beermoneynl"

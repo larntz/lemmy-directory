@@ -3,7 +3,7 @@ title: "World of Tanks"
 name: "worldoftanks"
 description: "World of Tanks discussion and news. Helpful links:tomato.ggskill4ltu.eutanks.gg"
 type: community
-date: "2023-07-04 14:51:24"
+date: "2023-07-04 20:51:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/worldoftanks"

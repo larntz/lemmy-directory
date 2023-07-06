@@ -3,12 +3,12 @@ title: "Desire Path"
 name: "desirepath"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:35"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/desirepath"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "2023-07-04 03:19:15"
 published: "2023-07-02 11:22:38"
 subscribers: 1
 posts: 0

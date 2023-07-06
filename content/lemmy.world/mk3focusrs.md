@@ -3,14 +3,14 @@ title: "Ford Focus RS (MK3)"
 name: "mk3focusrs"
 description: "Community to discuss the 2016-2018 Ford Focus RS"
 type: community
-date: "2023-07-03 20:22:47"
+date: "2023-07-06 18:34:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mk3focusrs"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-23 03:22:42"
-subscribers: 6
+subscribers: 9
 posts: 2
 comments: 0
 weight: 2

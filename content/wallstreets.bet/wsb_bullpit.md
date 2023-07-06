@@ -3,7 +3,7 @@ title: "The Bullpit"
 name: "wsb_bullpit"
 description: "Stocks only go up amirite? Put your bullish thesis that your wifes boyfriend wrote for you here."
 type: community
-date: "2023-07-04 14:51:34"
+date: "2023-07-06 18:29:31"
 draft: false
 nsfw: false
 actor_id: "https://wallstreets.bet/c/wsb_bullpit"

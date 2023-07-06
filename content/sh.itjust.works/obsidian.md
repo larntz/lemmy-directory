@@ -3,7 +3,7 @@ title: "ObsidianMD"
 name: "obsidian"
 description: "Lovers of Obsidian, rejoice! This community is for discussing all matters related to Obsidian. Please join the conversation and seek to help one another out."
 type: community
-date: "2023-07-04 14:52:03"
+date: "2023-07-06 18:29:57"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/obsidian"

@@ -3,14 +3,14 @@ title: "The All-wiki"
 name: "all_wiki"
 description: "All about creating, installing, maintaining, running, contributing to wikis and wiki farms, to collect free and easily accessible information for the community, from the community."
 type: community
-date: "2023-07-03 20:22:26"
+date: "2023-07-06 18:33:32"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/all_wiki"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-07-01 14:49:24"
-subscribers: 3
+subscribers: 7
 posts: 1
 comments: 0
 weight: 1

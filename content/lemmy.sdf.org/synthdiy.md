@@ -3,7 +3,7 @@ title: "synthdiy"
 name: "synthdiy"
 description: "Building, modifying and repairing synthesizers."
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:28"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.sdf.org/c/synthdiy"

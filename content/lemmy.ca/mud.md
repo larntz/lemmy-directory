@@ -3,7 +3,7 @@ title: "MUD"
 name: "mud"
 description: "A community related to everything MU* related."
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 18:29:29"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.ca/c/mud"

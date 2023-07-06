@@ -3,14 +3,14 @@ title: "Alpine Linux"
 name: "alpinelinux"
 description: "# Small. Simple. Secure.**Alpine Linux** is a security-oriented, lightweight Linux distribution based on *musl libc* and *busybox*."
 type: community
-date: "2023-07-03 20:22:13"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/alpinelinux"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:13"
+lastmod: "0001-01-01 00:00:00"
 published: "2023-07-02 02:40:15"
-subscribers: 7
+subscribers: 9
 posts: 0
 comments: 0
 weight: 0

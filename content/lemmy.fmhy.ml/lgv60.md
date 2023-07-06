@@ -3,7 +3,7 @@ title: "LGV60"
 name: "lgv60"
 description: "A place to talk about LG V60 smartphone."
 type: community
-date: "2023-07-04 14:51:30"
+date: "2023-07-06 18:29:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.fmhy.ml/c/lgv60"

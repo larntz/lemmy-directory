@@ -3,7 +3,7 @@ title: "Michigan Guns"
 name: "miguns"
 description: "Discussion on shooting ranges, gun politics and firearms laws in the State of Michigan."
 type: community
-date: "2023-07-04 14:51:23"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/miguns"

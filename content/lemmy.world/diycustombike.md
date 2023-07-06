@@ -3,7 +3,7 @@ title: "DIY Custom Bike"
 name: "diycustombike"
 description: "A space to chat about DIY motorcycle customization. "
 type: community
-date: "2023-07-03 20:22:28"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/diycustombike"

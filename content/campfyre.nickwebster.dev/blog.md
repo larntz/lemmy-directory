@@ -3,7 +3,7 @@ title: "Nick Webster's Blog"
 name: "blog"
 description: "Replacement for https://nick.geek.nz/blog"
 type: community
-date: "2023-07-04 14:51:49"
+date: "2023-07-06 18:29:47"
 draft: false
 nsfw: false
 actor_id: "https://campfyre.nickwebster.dev/c/blog"

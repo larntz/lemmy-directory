@@ -3,14 +3,14 @@ title: "Chess Philippines"
 name: "chessph"
 description: "Anything Chess Related for Filipinos"
 type: community
-date: "2023-07-03 20:22:40"
+date: "2023-07-06 18:34:15"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/chessph"
 host: lemmy.world
 lastmod: "2023-06-10 02:21:44"
 published: "2023-06-10 02:10:25"
-subscribers: 15
+subscribers: 19
 posts: 3
 comments: 1
 weight: 3

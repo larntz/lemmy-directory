@@ -3,7 +3,7 @@ title: "Spez Sucks?"
 name: "spezsucks"
 description: "Does Steve Huffman, AKA Spez, suck? Let's talk about his performance as reddit's CEO and about his management of the platform, its partners, and its community."
 type: community
-date: "2023-07-03 20:22:28"
+date: "2023-07-06 18:34:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spezsucks"

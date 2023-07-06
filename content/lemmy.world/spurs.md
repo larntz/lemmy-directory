@@ -3,7 +3,7 @@ title: "Come on You Spurs"
 name: "spurs"
 description: "Potentially the new home of r/coys???"
 type: community
-date: "2023-07-03 20:22:44"
+date: "2023-07-06 18:33:57"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/spurs"

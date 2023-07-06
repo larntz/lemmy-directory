@@ -3,7 +3,7 @@ title: "Sunshine Coast (BC)"
 name: "sunshinecoastbc"
 description: "The Sunshine Coast is a subregion of the British Columbian coastline northwest of Vancouver stretching roughly between Howe Sound and Desolation Sound.It includes the communities of Langdale, Gibsons, Roberts Creek, Sechelt, Halfmoon Bay, Madeira Park/Pender Harbour, Garden Bay, Egmont, and Powell River to name a few."
 type: community
-date: "2023-07-03 20:22:28"
+date: "2023-07-06 18:34:02"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/sunshinecoastbc"

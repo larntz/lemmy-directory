@@ -3,14 +3,14 @@ title: "New Orleans"
 name: "nola"
 description: "Here for residents of New Orleans. Especially any refugee's from Reddit. "
 type: community
-date: "2023-07-04 14:52:02"
+date: "2023-07-06 18:29:58"
 draft: false
 nsfw: false
 actor_id: "https://sh.itjust.works/c/nola"
 host: sh.itjust.works
 lastmod: "2023-06-15 15:16:32"
 published: "2023-06-15 04:09:19"
-subscribers: 11
+subscribers: 15
 posts: 2
 comments: 0
 weight: 2

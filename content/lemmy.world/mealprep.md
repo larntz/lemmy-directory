@@ -3,14 +3,14 @@ title: "Meal Prep"
 name: "mealprep"
 description: "Description not available."
 type: community
-date: "2023-07-03 20:22:37"
+date: "2023-07-06 18:33:52"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/mealprep"
 host: lemmy.world
 lastmod: "2023-06-19 06:03:31"
 published: "2023-06-18 05:04:57"
-subscribers: 9
+subscribers: 13
 posts: 1
 comments: 0
 weight: 1

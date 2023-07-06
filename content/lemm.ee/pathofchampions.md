@@ -3,12 +3,12 @@ title: "Path of Champions"
 name: "pathofchampions"
 description: "Dedicated to the Path of Champions mode from the CCG Legends of Runeterra"
 type: community
-date: "2023-07-04 14:51:35"
+date: "2023-07-06 18:29:23"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/pathofchampions"
 host: lemm.ee
-lastmod: "2023-07-04 14:51:35"
+lastmod: "2023-07-03 20:59:39"
 published: "2023-07-03 20:44:13"
 subscribers: 2
 posts: 0

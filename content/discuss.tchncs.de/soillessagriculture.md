@@ -3,7 +3,7 @@ title: "Soil less agriculture"
 name: "soillessagriculture"
 description: "Soil less agriculture, hydroponics, aeroponics, aquaponics, wicking growbeds, ebb and flow growbeds, nutrients solutions, duckweed, azolla, plankton, algae, microalgae, macro algae."
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-04 20:51:21"
 draft: false
 nsfw: false
 actor_id: "https://discuss.tchncs.de/c/soillessagriculture"

@@ -3,7 +3,7 @@ title: "ServeAndProtect"
 name: "serveandprotect"
 description: "A place of equality for civil discussions about law enforcment"
 type: community
-date: "2023-07-03 20:22:28"
+date: "2023-07-06 18:34:09"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/serveandprotect"

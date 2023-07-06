@@ -3,7 +3,7 @@ title: "Olivia Rodrigo"
 name: "oliviarodrigo"
 description: "A community devoted to the worship of Olivia Rodrigo.### Rules1. All content in this community must be of 18+ Olivia.2. Full respect of Olivia: no degrading comments, misogyny, hatred, etc. are allowed.3. Lewd content is acceptable but it must follow rules 1 & 2.4. Be kind to your fellow Livies; we're all here for Olivia!"
 type: community
-date: "2023-07-03 20:15:56"
+date: "2023-07-06 18:29:28"
 draft: false
 nsfw: false
 actor_id: "https://goddess.name/c/oliviarodrigo"

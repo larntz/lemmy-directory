@@ -3,14 +3,14 @@ title: "Blockchain Voting"
 name: "blockchainvoting"
 description: "A place to discuss a potential blockchain-based voting system and work through its pitfalls."
 type: community
-date: "2023-07-04 14:51:17"
+date: "2023-07-06 18:29:20"
 draft: false
 nsfw: false
 actor_id: "https://infosec.pub/c/blockchainvoting"
 host: infosec.pub
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-17 03:52:45"
-subscribers: 8
+subscribers: 11
 posts: 0
 comments: 0
 weight: 0

@@ -3,7 +3,7 @@ title: "aromanticism"
 name: "aromanticism"
 description: "hihi! claimed this name so that trolls couldnt yoink it... if u want it just lmk! (dm on discord @oalo)"
 type: community
-date: "2023-07-03 20:22:27"
+date: "2023-07-06 18:33:39"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/aromanticism"

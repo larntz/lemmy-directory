@@ -3,7 +3,7 @@ title: "İfade Özgürlüğü"
 name: "ifade_ozgurlugu"
 description: "Bu subreddit özgür bir tartışma ortamı sunmak için açılmıştır. Kendinizi dilediğinizce ifade edebilir ve istediğiniz konuyu, istediğiniz şekilde tartışabilirsiniz."
 type: community
-date: "2023-07-04 14:51:43"
+date: "2023-07-04 20:51:44"
 draft: false
 nsfw: false
 actor_id: "https://lemm.ee/c/ifade_ozgurlugu"

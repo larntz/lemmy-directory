@@ -3,14 +3,14 @@ title: "Am I Hot or Not"
 name: "amihotornot"
 description: "Well? Are you?"
 type: community
-date: "2023-07-03 20:22:12"
+date: "2023-07-06 18:33:26"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/amihotornot"
 host: lemmy.world
-lastmod: "2023-07-03 20:22:12"
+lastmod: "2023-07-03 15:21:25"
 published: "2023-07-03 06:04:55"
-subscribers: 3
+subscribers: 4
 posts: 0
 comments: 0
 weight: 0

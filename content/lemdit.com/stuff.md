@@ -3,7 +3,7 @@ title: "Stuff"
 name: "stuff"
 description: "This is a place to talk about random stuff, or just say hello."
 type: community
-date: "2023-07-04 14:51:54"
+date: "2023-07-06 18:29:54"
 draft: false
 nsfw: false
 actor_id: "https://lemdit.com/c/stuff"

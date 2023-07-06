@@ -3,14 +3,14 @@ title: "Vinegar Syndrome Films"
 name: "vinegarsyndromefilms"
 description: "A group to talk about VS releases, hopes for future releases, and of course to ask endlessly when our orders will ship."
 type: community
-date: "2023-07-03 20:23:04"
+date: "2023-07-06 18:33:51"
 draft: false
 nsfw: false
 actor_id: "https://lemmy.world/c/vinegarsyndromefilms"
 host: lemmy.world
 lastmod: "0001-01-01 00:00:00"
 published: "2023-06-16 14:04:42"
-subscribers: 8
+subscribers: 10
 posts: 1
 comments: 0
 weight: 1

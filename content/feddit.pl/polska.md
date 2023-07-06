@@ -3,7 +3,7 @@ title: "/r/polska"
 name: "polska"
 description: "Description not available."
 type: community
-date: "2023-07-04 14:51:33"
+date: "2023-07-06 16:41:25"
 draft: false
 nsfw: false
 actor_id: "https://feddit.pl/c/polska"

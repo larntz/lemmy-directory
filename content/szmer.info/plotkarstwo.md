@@ -3,14 +3,14 @@ title: "plotkarstwo"
 name: "plotkarstwo"
 description: "przydałaby się lepsza nazwa"
 type: community
-date: "2023-07-04 14:51:25"
+date: "2023-07-06 18:29:24"
 draft: false
 nsfw: false
 actor_id: "https://szmer.info/c/plotkarstwo"
 host: szmer.info
 lastmod: "1969-12-31 19:00:00"
 published: "2020-08-27 08:41:25"
-subscribers: 36
+subscribers: 37
 posts: 26
 comments: 31
 weight: 26
